@@ -5,45 +5,50 @@
 ## 목표
 - **단기**: 주 10만원(월 40만원) 수익 달성
 - **방법**: 특정 사용자에게 특정 서비스를 만들어 제공
-- **이 프로젝트**: 조사 → 평가 → 개발 → 마케팅 전 과정을 한곳에서
+- **이 프로젝트**: 조사 → 평가 → 72시간 검증 → 개발 → 마케팅
 
-## 현재 아이디어 평가
+## 현재 아이디어 평가 (v2 스코어링)
 
 | 아이디어 | 점수 | 상태 |
 |---------|------|------|
-| 카페 예약 관리 시스템 | 4.15 | 즉시 실행 |
-| 크몽 자동화 봇 서비스 | 3.65 | 보류 |
-| AI 콘텐츠 재활용 도구 | 3.50 | 보류 |
+| 크몽 자동화 봇 서비스 | 3.50 | 보류 |
+| 카페 예약 관리 시스템 | 3.35 | 보류 |
+| AI 콘텐츠 재활용 도구 | 2.95 | 폐기 |
 
 ## 대시보드
 
-정적 대시보드 페이지에서 리서치/아이디어를 한눈에 확인:
+Vercel에 자동 배포. 비밀번호 잠금 적용.
 
 ```bash
-# 빌드 (마크다운 → data.json)
-node scripts/build.js
-
 # 로컬에서 보기
-npx serve site
-# 또는 site/index.html을 브라우저에서 열기
+node scripts/build.js && npx serve site
 ```
 
-## 재조사 (GitHub Actions)
+## 자동 리서치 수집
 
-- **수동 트리거**: GitHub > Actions > "재조사 & 빌드" > Run workflow
-- **자동 실행**: 매주 월요일 오전 9시 (KST)
-- GitHub Pages로 자동 배포
+- **하루 3회** GitHub Actions cron (09:00, 15:00, 21:00 KST)
+- **소스**: HackerNews, Reddit, ProductHunt, IndieHackers
+- **저장**: `research/collected/{날짜}/` 마크다운 파일
+- **수동 트리거**: 대시보드 "재조사" 버튼 또는 GitHub Actions > Run workflow
 
 ## 구조
 ```
-site/             → 정적 대시보드 페이지
-scripts/          → 빌드 & 자동화 스크립트
-research/         → 시장조사, 트렌드, 채널 분석
-ideas/            → 아이디어 평가 (스코어링)
-marketing/        → 전략, 런칭 계획
-dashboard/        → 수익 트래킹
-logs/             → 주간 로그
-resources/        → 참고 링크, 도구
-projects/         → 실제 개발 프로젝트들
-.github/workflows → GitHub Actions
+site/              → 정적 대시보드 (비밀번호 잠금)
+api/               → Vercel Serverless (재조사 트리거)
+scripts/           → 빌드 & 자동 수집 스크립트
+research/          → 시장조사, 트렌드, 채널 분석
+research/collected → 자동 수집 데이터 (날짜별)
+research/interviews → 고객 인터뷰
+ideas/             → 아이디어 평가 (7가지 기준 스코어링 + 72시간 검증)
+marketing/         → 전략, 런칭 계획
+dashboard/         → 수익 트래킹
+logs/              → 주간 로그
+resources/         → 참고 링크, 도구
+projects/          → 실제 개발 프로젝트들
+.github/workflows  → GitHub Actions (자동 수집 cron)
 ```
+
+## 배포 & 보안
+- **Vercel**: git push → 자동 배포 (서버 없음)
+- **비밀번호 잠금**: 클라이언트 사이드 잠금 화면
+- **API 보안**: Vercel Serverless + 환경변수 (토큰 코드 노출 없음)
