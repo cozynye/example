@@ -8,3 +8,4 @@ playwriter-screenshots/
 # projects 내 각 프로젝트의 node_modules
 projects/*/node_modules/
 projects/*/.next/
+.vercel

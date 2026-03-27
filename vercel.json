@@ -1,0 +1,5 @@
+{
+  "buildCommand": "node scripts/build.js",
+  "outputDirectory": "site",
+  "installCommand": "echo 'no deps needed'"
+}
