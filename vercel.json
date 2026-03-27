@@ -1,5 +1,8 @@
 {
   "buildCommand": "node scripts/build.js",
   "outputDirectory": "site",
-  "installCommand": "echo 'no deps needed'"
+  "installCommand": "echo 'no deps needed'",
+  "rewrites": [
+    { "source": "/api/trigger", "destination": "/api/trigger" }
+  ]
 }
