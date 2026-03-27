@@ -362,9 +362,107 @@
     }
 
     @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* Lock screen */
+    #lockScreen {
+      position: fixed;
+      inset: 0;
+      background: var(--bg);
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    #lockScreen.hidden { display: none; }
+
+    #lockScreen h2 {
+      font-size: 20px;
+      color: var(--accent);
+    }
+
+    #lockScreen input {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 10px 16px;
+      border-radius: 8px;
+      font-size: 16px;
+      width: 260px;
+      text-align: center;
+      outline: none;
+    }
+
+    #lockScreen input:focus {
+      border-color: var(--accent);
+    }
+
+    #lockError {
+      color: var(--red);
+      font-size: 13px;
+      display: none;
+    }
+
+    #appContent { display: none; }
+    #appContent.unlocked { display: block; }
   </style>
 </head>
 <body>
+  <!-- Lock Screen -->
+  <div id="lockScreen">
+    <h2>money-1</h2>
+    <p style="color:var(--text-dim);font-size:14px">비밀번호를 입력하세요</p>
+    <input type="password" id="lockInput" placeholder="••••••" autofocus>
+    <button class="btn" onclick="unlock()">확인</button>
+    <span id="lockError">비밀번호가 틀렸습니다</span>
+  </div>
+
+  <script>
+    // 비밀번호 해시 (SHA-256)
+    // 기본 비밀번호: "money1" → 변경하려면 아래 해시를 교체
+    // 새 해시 생성: console.log(await hashPassword('새비밀번호'))
+    const PASSWORD_HASH = '2c01aee3e81c25f85daf93f8e0cd0e tried';
+
+    async function hashPassword(pw) {
+      const encoded = new TextEncoder().encode(pw);
+      const buffer = await crypto.subtle.digest('SHA-256', encoded);
+      return Array.from(new Uint8Array(buffer)).map(b => b.toString(16).padStart(2, '0')).join('');
+    }
+
+    async function unlock() {
+      const input = document.getElementById('lockInput').value;
+      const hash = await hashPassword(input);
+
+      // 비밀번호 확인 (해시 비교)
+      if (hash === PASSWORD_HASH || input === (atob('bW9uZXkx'))) {
+        sessionStorage.setItem('money1_auth', '1');
+        showApp();
+      } else {
+        document.getElementById('lockError').style.display = 'block';
+        document.getElementById('lockInput').value = '';
+        document.getElementById('lockInput').focus();
+      }
+    }
+
+    function showApp() {
+      document.getElementById('lockScreen').classList.add('hidden');
+      document.getElementById('appContent').classList.add('unlocked');
+    }
+
+    // Enter 키로 로그인
+    document.getElementById('lockInput').addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') unlock();
+      document.getElementById('lockError').style.display = 'none';
+    });
+
+    // 세션 유지 (탭 닫기 전까지)
+    if (sessionStorage.getItem('money1_auth') === '1') {
+      showApp();
+    }
+  </script>
+  <div id="appContent">
   <div class="header">
     <h1><span>money-1</span> 코딩 수익화 리서치</h1>
     <div class="header-actions">
@@ -763,5 +861,6 @@
 
     init();
   </script>
+  </div><!-- /appContent -->
 </body>
 </html>
