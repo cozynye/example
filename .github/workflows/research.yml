@@ -1,0 +1,77 @@
+name: 리서치 자동수집
+
+on:
+  # 수동 트리거
+  workflow_dispatch:
+    inputs:
+      keywords:
+        description: '추가 키워드 (쉼표 구분, 선택)'
+        required: false
+
+  # 하루 3회 자동 실행
+  schedule:
+    - cron: '0 0 * * *'   # UTC 00:00 = KST 09:00 (아침)
+    - cron: '0 6 * * *'   # UTC 06:00 = KST 15:00 (오후)
+    - cron: '0 12 * * *'  # UTC 12:00 = KST 21:00 (저녁)
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 리서치 수집
+        env:
+          RESEARCH_KEYWORDS: ${{ github.event.inputs.keywords || '' }}
+        run: node scripts/research.js
+
+      - name: 대시보드 빌드
+        run: node scripts/build.js
+
+      - name: 변경사항 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "변경사항 없음 — 커밋 스킵"
+          else
+            git commit -m "research: 자동수집 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
+
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 빌드
+        run: node scripts/build.js
+
+      - uses: actions/configure-pages@v4
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

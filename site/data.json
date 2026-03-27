@@ -1,0 +1,398 @@
+{
+  "buildTime": "2026-03-27T05:33:36.035Z",
+  "ideas": [
+    {
+      "file": "ideas/kmong-automation-bot.md",
+      "title": "크몽 자동화 봇 서비스",
+      "summary": "크몽에서 비개발자들에게 업무 자동화 봇(스크래퍼, 엑셀 매크로, API 연동)을 제작/판매",
+      "problem": "- **누가**: 반복 업무에 시달리는 마케터, 사업자, 리서처\n- **무슨 문제**: 수작업으로 데이터 수집, 엑셀 정리, 반복 입력\n- **빈도와 강도**: 매일/매주 × 불편 (시간 낭비)\n- **현재 해결 방법**: 수작업 or 크몽에서 외주 (30-200만원)",
+      "solution": "- **무엇을 만드는가**: 크몽에 등록하는 자동화 봇 제작 서비스\n- **핵심 기능 3가지**:\n  1. 웹 스크래핑 봇 (경쟁사 가격, SNS 데이터 등)\n  2. 엑셀/구글시트 자동화 (데이터 정리, 보고서 생성)\n  3. API 연동 자동화 (슬랙/디스코드 봇, 알림 시스템)",
+      "scores": {
+        "criteria": {
+          "시장 검증": {
+            "weight": 25,
+            "score": 4
+          },
+          "수익 잠재력": {
+            "weight": 20,
+            "score": 4
+          },
+          "경쟁 강도": {
+            "weight": 15,
+            "score": 2
+          },
+          "MVP 개발시간": {
+            "weight": 15,
+            "score": 5
+          },
+          "기술 적합성": {
+            "weight": 10,
+            "score": 2
+          },
+          "반복 수익": {
+            "weight": 10,
+            "score": 2
+          },
+          "실패 비용": {
+            "weight": 5,
+            "score": 5
+          }
+        },
+        "total": 3.45
+      },
+      "revenue": "- **가격**: 건당 30-100만원\n- **목표**: 월 2건 수주\n- **주 10만원 달성 조건**: 월 1건 50만원 이상",
+      "decision": "보류",
+      "techStack": "",
+      "mvp": "",
+      "risks": "",
+      "nextSteps": ""
+    },
+    {
+      "file": "ideas/cafe-reservation-system.md",
+      "title": "카페 예약 관리 시스템",
+      "summary": "소규모 카페 사장이 인스타DM/전화/카톡으로 흩어진 예약을 한 곳에서 관리하는 심플한 웹앱",
+      "problem": "- **누가**: 소규모 카페 사장 (1인 카페, 디저트 카페, 예약제 카페)\n- **무슨 문제**: 인스타 DM, 전화, 카톡으로 들어오는 예약을 수기로 관리 → 더블부킹, 노쇼, 확인 누락\n- **얼마나 자주**: 매일 (영업일마다 반복)\n- **현재 해결 방법**:\n  - 수기 노트/엑셀\n  - 네이버 예약 (무료지만 네이버 생태계 종속)\n  - 인스타 DM 하나하나 확인",
+      "solution": "- **무엇을 만드는가**: 모바일 친화적 웹앱 (PWA) - 예약 캘린더 + 고객 알림 + 노쇼 관리\n- **핵심 기능 3가지**:\n  1. 예약 캘린더 (날짜/시간/인원/메모) - 한눈에 예약 현황 파악\n  2. 고객용 예약 페이지 (인스타 프로필 링크에 걸어두기)\n  3. 카카오 알림톡 자동 발송 (예약 확인/리마인더)",
+      "scores": {
+        "criteria": {
+          "시장 검증": {
+            "weight": 25,
+            "score": 2
+          },
+          "수익 잠재력": {
+            "weight": 20,
+            "score": 4
+          },
+          "경쟁 강도": {
+            "weight": 15,
+            "score": 2
+          },
+          "MVP 개발시간": {
+            "weight": 15,
+            "score": 4
+          },
+          "기술 적합성": {
+            "weight": 10,
+            "score": 5
+          },
+          "반복 수익": {
+            "weight": 10,
+            "score": 5
+          },
+          "실패 비용": {
+            "weight": 5,
+            "score": 3
+          }
+        },
+        "total": 3.15
+      },
+      "revenue": "- **가격**: 월 14,900원 (무료 체험 14일)\n- **목표 고객 수**: 7명 (첫 달)\n- **월 예상 수익**: 104,300원\n- **주 10만원 달성 조건**: 유료 고객 7명",
+      "decision": "보류",
+      "techStack": "- Next.js 14+ (App Router)\n- Supabase (DB + Auth + Realtime)\n- Vercel (호스팅 - 무료 티어)\n- 카카오 알림톡 API (예약 알림)\n- Tailwind CSS + shadcn/ui",
+      "mvp": "1. **Week 1**: 예약 캘린더 + 관리자 대시보드 + 고객용 예약 페이지\n2. **Week 2**: 카카오 알림톡 연동 + 인스타 프로필 링크 연동 + 결제 시스템\n\n### MVP에서 제외 (v2)\n- 인스타 DM 직접 연동 (API 제한)\n- 매출/통계 대시보드\n- 다중 매장 관리\n- POS 연동",
+      "risks": "- 네이버 예약이 무료라서 \"왜 돈을 내야 하지?\" 반론\n  → 차별점: 인스타 연동, 카페 특화, 카카오 알림\n- 고객 획득 비용이 높을 수 있음\n  → 무료 체험 14일 + 직접 DM 마케팅으로 시작",
+      "nextSteps": "1. 인스타에서 예약제 카페 10곳 리스트업 + 사장님 DM 인터뷰\n2. 랜딩 페이지 제작 (Vercel) → 사전등록 받기\n3. MVP 개발 시작 (별도 프로젝트)"
+    },
+    {
+      "file": "ideas/ai-content-repurposer.md",
+      "title": "AI 콘텐츠 재활용 도구",
+      "summary": "블로그 글 하나를 입력하면 SNS 포스트(인스타, 트위터, 링크드인) 10개로 자동 변환하는 AI 도구",
+      "problem": "- **누가**: 콘텐츠 마케터, 1인 크리에이터, 소규모 마케팅팀\n- **무슨 문제**: 블로그 글을 SNS에 맞게 재가공하는데 시간 많이 소모\n- **빈도와 강도**: 주 2-3회 × 불편 (시간 낭비지만 ChatGPT로 어느정도 해결)\n- **현재 해결 방법**: ChatGPT 수동 프롬프트, 직접 작성, 마케팅 대행",
+      "solution": "- **무엇을 만드는가**: 웹앱 - 블로그 URL 입력 → SNS별 최적화 콘텐츠 자동 생성\n- **핵심 기능 3가지**:\n  1. 블로그 → 인스타 캡션 5개 + 해시태그\n  2. 블로그 → 트위터 스레드 10개\n  3. 블로그 → 뉴스레터 요약 1개",
+      "scores": {
+        "criteria": {
+          "시장 검증": {
+            "weight": 25,
+            "score": 2
+          },
+          "수익 잠재력": {
+            "weight": 20,
+            "score": 3
+          },
+          "경쟁 강도": {
+            "weight": 15,
+            "score": 1
+          },
+          "MVP 개발시간": {
+            "weight": 15,
+            "score": 4
+          },
+          "기술 적합성": {
+            "weight": 10,
+            "score": 4
+          },
+          "반복 수익": {
+            "weight": 10,
+            "score": 5
+          },
+          "실패 비용": {
+            "weight": 5,
+            "score": 4
+          }
+        },
+        "total": 2.8
+      },
+      "revenue": "- **가격**: 월 19,900원\n- **목표 고객 수**: 5명 (첫 달)\n- **주 10만원 달성 조건**: 유료 고객 5명",
+      "decision": "폐기",
+      "techStack": "",
+      "mvp": "",
+      "risks": "",
+      "nextSteps": ""
+    }
+  ],
+  "research": {
+    "global": {
+      "file": "research/global-trends-2026.md",
+      "title": "글로벌 마이크로SaaS 트렌드 2026",
+      "content": "# 글로벌 마이크로SaaS 트렌드 2026\n\n## 시장 규모\n- SaaS 시장 전체: $300B (2026)\n- 솔로 파운더 수익 범위: $10K-$60K/월 (투자 없이)\n- 입문 단계: $1K-$5K MRR (소규모 충성 고객층)\n- 안정 단계: $10K-$30K MRR (라이프스타일 비즈니스)\n\n## 핵심 트렌드\n\n### 1. AI-First 제품이 대세\n- 콘텐츠 재활용 도구 (블로그 → SNS 변환) $19-$99/월\n- 미팅 노트 자동화\n- 경쟁사 분석기\n- 업종별 이메일 작성기\n\n### 2. 버티컬 특화 도구가 범용을 이김\n- 피트니스 코치, 사진작가, 부동산, 프리랜서 전용 CRM\n- 특정 업종의 워크플로를 이해하면 범용 대비 높은 전환율\n- 예: 카페 예약, 네일샵 예약, 개인 트레이너 고객 관리\n\n### 3. 개발 비용이 극적으로 낮아짐\n- AI 코딩 도구로 팀 5명이 하던 일을 1인이 가능\n- 대부분 $0-500 인프라 비용으로 시작\n- No-code (Lovable, Bubble)로 비개발자도 풀스택 앱 개발\n\n### 4. 이익률 70%+\n- VC 없이 부트스트랩 → 하이퍼그로스 압박 없음\n- 최소 오버헤드로 높은 수익률\n\n## 잘 되는 카테고리\n- 자동화 도구\n- 컴플라이언스/규정 준수\n- 애널리틱스/분석\n- 콘텐츠 도구\n- 결제 복구 (dunning)\n- 이커머스 반품 관리\n- 프리랜서 클라이언트 포탈\n\n## 검증 방법 (30일)\n1. 랜딩 페이지 → 20+ 가입 확보\n2. 10-20명 문제 인터뷰\n3. 할인 베타 접근 제공\n4. MVP: 4-8주 파트타임\n\n## 출처\n- [NxCode - 50 Micro SaaS Ideas 2026](https://www.nxcode.io/resources/news/micro-saas-ideas-2026)\n- [Lovable - Micro SaaS Ideas for Solopreneurs](https://lovable.dev/guides/micro-saas-ideas-for-solopreneurs-2026)\n- [BigIdeasDB - 50 Validated Ideas](https://bigideasdb.com/micro-saas-ideas-2026)\n- [Calmops - 50+ Profitable Opportunities](https://calmops.com/indie-hackers/micro-saas-ideas-2026/)\n- [Medium - From Side Project to $5K/Month](https://medium.com/@princekumar161999/from-side-project-to-5k-month-my-step-by-step-guide-to-building-profitable-micro-saas-as-a-solo-676771a10c25)\n"
+    },
+    "korean": {
+      "file": "research/korean-market-2026.md",
+      "title": "한국 시장 분석 2026",
+      "content": "# 한국 시장 분석 2026\n\n## 소상공인 디지털 전환\n\n### 정부 지원\n- 소상공인 정책자금: 총 3조 3,620억원 (2026)\n- **AI 도우미 지원사업** (2026 신규): AI 상담 서비스\n- 스마트상점 기술 보급: 키오스크, 테이블오더, 서빙로봇\n- 경영안전 바우처: 사업자당 25만원\n\n### 소상공인 현실\n- 2024년 개인사업자 폐업: 92.5만 명\n- 지원 정책은 많지만 단기 대응에 머무름\n- 디지털 전환 필요성은 높지만 실행 역량 부족\n\n## 프리랜서 플랫폼\n\n### 크몽\n- 누적 서비스: 60만개, 거래 완료: 640만건 (2025.05)\n- 봇/챗봇 서비스: 807개 등록\n- 업무 자동화 개발: 30만~200만원대\n- **현실**: 요청마다 커스텀 코딩 필요, 유지보수 지속 요청\n\n### 초기 진출 전략\n- 경쟁 가격 대비 20-30% 낮게 진입\n- 1-2개월간 리뷰 확보 집중\n- 동일 카테고리 상위 판매자 벤치마킹\n\n## 예약/관리 시장\n\n### 기존 솔루션\n| 서비스 | 타겟 | 가격 | 특징 |\n|--------|------|------|------|\n| 네이버 예약 | 전업종 | 무료 (현장결제) / 3.74% (네이버페이) | 네이버 생태계 종속 |\n| 캐치테이블 | 대형 레스토랑 | 유료 | 350만 사용자, 대형 위주 |\n| 테이블링 | 웨이팅 | 유료 | 웨이팅 중심, 예약은 부가적 |\n\n### 소규모 카페의 빈틈\n- 네이버 예약: 무료지만 소규모 카페 맞춤 기능 없음\n- 캐치테이블: 소규모 카페에는 과한 기능/비용\n- 인스타DM/전화/카톡으로 수기 관리하는 카페가 다수\n- 카페 사장들의 DM 관리 고충: \"가격요?\", \"예약 가능?\", \"영업중?\" 등 반복 문의\n\n### 인스타그램 DM 자동화 트렌드\n- 소셜비즈 등 DM 자동화 솔루션 등장 (2026)\n- 인스타그램 DM 예약 전송 기능 도입 (텍스트만)\n- 가게 운영 + 인스타 관리 병행의 어려움이 실제 페인포인트\n\n## 인디해커 성공 패턴 (한국/글로벌)\n\n### 한국 사례\n- 사이드프로젝트 → 월 300만원 (4번째 시도에서 성공)\n- Lunch Money: 개인 예산 관리 앱, 월 $34K (한국인 창업자)\n- Keepthescore: 온라인 스코어보드, 월 1,400만원\n\n### 성공 패턴\n- 스토리 기반 접근 > 직접 판매\n- 포트폴리오 전략 (작은 제품 여러 개)\n- 자기 문제에서 출발\n- Reddit/커뮤니티 무료 마케팅이 효과적\n- 30-앱 포트폴리오로 $22K/월 달성한 사례도 있음\n\n## 출처\n- [KB의 생각 - 2026 소상공인 지원정책](https://kbthink.com/business/tips/business-support-policy.html)\n- [크몽 - 봇/챗봇 카테고리](https://kmong.com/category/617)\n- [딩코딩코 - 사이드프로젝트 월 300만원](https://www.dingcodingco.store/5)\n- [캐치테이블 - 나무위키](https://namu.wiki/w/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94)\n- [네이버 예약 - 나무위키](https://namu.wiki/w/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%98%88%EC%95%BD)\n- [Indie Hackers - First 60 Customers from Reddit](https://www.indiehackers.com/post/how-i-got-my-first-60-customers-from-reddit-without-spending-a-dime-on-ads-3d19b2c47c)\n"
+    },
+    "channels": [
+      {
+        "file": "research/channels/ai-tools.md",
+        "title": "AI 래퍼 도구 시장",
+        "content": "# AI 래퍼 도구 시장\n\n## 시장 현황\n- AI 콘텐츠 도구가 2026년 가장 핫한 마이크로SaaS 니치\n- 가격대: $19-$99/월\n- 핵심: OpenAI/Claude API를 감싸서 특정 용도에 최적화\n\n## 잘 되는 유형\n1. **콘텐츠 재활용**: 블로그 → 10 트윗 + 5 LinkedIn + 1 뉴스레터 + 1 영상 스크립트\n2. **미팅 노트**: 음성 → 요약 → 액션 아이템\n3. **업종별 이메일 작성기**: 부동산, 리크루팅 등\n4. **경쟁사 모니터링**: 자동 크롤링 + AI 분석\n\n## 장점\n- 개발이 빠름 (API 호출 래핑)\n- 고객이 AI의 가치를 이미 이해\n- 구독 모델 자연스러움\n\n## 단점/리스크\n- 경쟁 과다 (진입 장벽 낮아서)\n- API 비용 관리 필요\n- OpenAI/Anthropic 정책 변경 리스크\n- \"ChatGPT에서 직접 하면 되지 않나?\" 반론\n\n## 차별화 전략\n- **한국어 특화**: 한국 SNS (네이버 블로그, 카카오스토리) 맞춤\n- **업종 특화**: \"카페 사장님을 위한 AI 마케팅\" 등\n- **워크플로 통합**: 단순 생성이 아닌 게시까지 자동화\n\n## 추가 조사 필요\n- [ ] 한국어 AI 콘텐츠 도구 경쟁 현황\n- [ ] OpenAI API 비용 시뮬레이션 (사용자 100명 기준)\n- [ ] 한국 SNS API 연동 가능성 (네이버, 카카오)\n\n## 출처\n- [NxCode - Micro SaaS Ideas](https://www.nxcode.io/resources/news/micro-saas-ideas-2026)\n- [Medium - The Money Guide - Boring Micro SaaS Ideas](https://medium.com/the-money-guide/10-boring-micro-saas-ideas-that-earn-2-000-month-without-the-ai-hype-af1b6ef53109)\n"
+      },
+      {
+        "file": "research/channels/chrome-extensions.md",
+        "title": "크롬 확장 프로그램 시장",
+        "content": "# 크롬 확장 프로그램 시장\n\n## 시장 현황\n- 성공 사례: Weather Extension - 20만 사용자, $2.5K/월\n- 성공 사례: Go Full Page Screen Capture - 400만 사용자, $10K/월\n- Helper-AI (GPT-4 접근): 2개월에 $3,500 (소스코드 판매)\n\n## 수익 모델\n1. **프리미엄 (Freemium)**: 무료 기본 + 유료 프로 기능\n2. **소스코드 판매**: Gumroad/크몽에서 판매\n3. **구독형**: 월 $5-$20\n4. **광고**: 사용자 수 많으면 (비추천)\n\n## 장점\n- 진입 장벽 낮음 (HTML/CSS/JS)\n- Chrome Web Store 배포 쉬움\n- 바이럴 가능성 있음\n\n## 단점\n- 사용자 획득이 어려움 (검색 노출 경쟁)\n- 수익까지 시간이 오래 걸릴 수 있음\n- Chrome 정책 변경 리스크\n\n## 추가 조사 필요\n- [ ] 한국 사용자 타겟 크롬 확장 현황\n- [ ] ExtensionPay 등 결제 시스템 조사\n- [ ] 성공한 한국어 크롬 확장 사례\n\n## 출처\n- [ExtensionPay - Browser Extensions Make Money](https://extensionpay.com/articles/browser-extensions-make-money)\n- [IndieHustle - AI Chrome Extension $3,500](https://www.indiehustle.co/p/this-a-i-chrome-extension-making-3-500-in-just-2-months)\n"
+      },
+      {
+        "file": "research/channels/freelance-platforms.md",
+        "title": "프리랜서 플랫폼 (크몽/숨고/위시켓)",
+        "content": "# 프리랜서 플랫폼 (크몽/숨고/위시켓)\n\n## 플랫폼 비교\n\n| 항목 | 크몽 | 숨고 | 위시켓 |\n|------|------|------|--------|\n| 특성 | 디지털 서비스 | 생활 서비스 | IT 외주 |\n| 강점 | 봇/자동화/디자인 | 요가/과외/레슨 | 개발 프로젝트 |\n| 서비스 수 | 60만+ | - | - |\n| 거래 건수 | 640만+ | - | - |\n\n## 크몽 자동화 봇 시장\n- 등록된 봇/챗봇 서비스: 807개\n- 업무 자동화 개발 비용: 30만~200만원\n- 카테고리: 웹 스크래핑, 엑셀 매크로, API 연동, 챗봇\n\n## 현실적 어려움\n- 요청마다 커스텀 코딩 필요 (재사용 어려움)\n- 웹사이트 구조 변경으로 유지보수 지속\n- 수정 요청이 끝없이 발생\n\n## 진입 전략\n1. 상위 판매자 서비스 구성/가격 벤치마킹\n2. 초기 1-2개월: 경쟁 가격 20-30% 할인\n3. 리뷰 5개 이상 확보 후 정상 가격\n4. 반복 판매 가능한 \"패키지형\" 서비스 설계\n\n## 수익 시뮬레이션\n- 자동화 봇 1건: 50만원 (보수적)\n- 월 2건 수주 = 100만원 = 주 25만원 (목표 초과 달성)\n- 하지만 수주 불안정성이 리스크\n\n## 추가 조사 필요\n- [ ] 크몽 상위 자동화 서비스 10개 벤치마킹\n- [ ] 숨고에서 개발자 서비스 현황 조사\n- [ ] 위시켓 소규모 프로젝트 현황\n\n## 출처\n- [크몽 - 나무위키](https://namu.wiki/w/%ED%81%AC%EB%AA%BD)\n- [프리랜서 부업 플랫폼 비교](https://keywordmill.kr/blog/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EB%B6%80%EC%97%85-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%B9%84%EA%B5%90-%ED%81%AC%EB%AA%BD%ED%83%88%EC%9E%89%EC%88%A8%EA%B3%A0-%EB%B6%84%EC%84%9D)\n"
+      },
+      {
+        "file": "research/channels/micro-saas.md",
+        "title": "마이크로 SaaS 시장",
+        "content": "# 마이크로 SaaS 시장\n\n## 시장 특성\n- 타겟: 특정 니치의 반복 문제 해결\n- 가격대: $19-$99/월 (한국: 1-5만원/월)\n- 이익률: 70%+\n- 성장: 월 5-10% 성장이 건강한 수준\n\n## 잘 되는 패턴\n1. **버티컬 CRM**: 특정 업종 고객 관리\n2. **자동화 도구**: 반복 작업 자동화\n3. **콘텐츠 도구**: 제작/관리/배포\n4. **예약/스케줄링**: 업종별 예약 관리\n5. **결제 복구**: 실패한 결제 재시도\n\n## 한국에서 유망한 아이디어\n| 아이디어 | 타겟 | 예상 가격 | 시장 크기 |\n|---------|------|---------|---------|\n| 카페 예약 관리 | 소규모 카페 | 1-2만원/월 | 한국 카페 10만+ |\n| 인스타 DM 자동응답 | 소상공인 | 2-3만원/월 | 인스타 비즈 계정 |\n| 학원 출석 관리 | 소규모 학원 | 2-3만원/월 | 학원 10만+ |\n| 1인 사업자 견적서 | 프리랜서 | 1만원/월 | 프리랜서 100만+ |\n\n## MVP 구축 전략\n- 기술 스택: Next.js + Supabase (무료 티어)\n- 호스팅: Vercel (무료 티어)\n- 결제: 토스페이먼츠 or Paddle\n- 개발 기간: 4-8주 파트타임\n\n## 추가 조사 필요\n- [ ] 한국 마이크로SaaS 성공 사례 추가 조사\n- [ ] Supabase 무료 티어 한계 확인\n- [ ] 토스페이먼츠 개인 사업자 등록 조건\n\n## 출처\n- [Superframeworks - Best Micro SaaS Ideas](https://superframeworks.com/articles/best-micro-saas-ideas-solopreneurs)\n- [Hostinger - Micro SaaS Ideas 2026](https://www.hostinger.com/tutorials/micro-saas-ideas)\n"
+      }
+    ]
+  },
+  "tracker": {
+    "weeks": [
+      {
+        "week": "W13",
+        "date": "2026-03-23~29",
+        "revenue": "0",
+        "channel": "리서치 단계",
+        "rate": "0%",
+        "cumulative": "0"
+      },
+      {
+        "week": "W14",
+        "date": "2026-03-30~04-05",
+        "revenue": "",
+        "channel": "",
+        "rate": "",
+        "cumulative": ""
+      },
+      {
+        "week": "W15",
+        "date": "2026-04-06~12",
+        "revenue": "",
+        "channel": "",
+        "rate": "",
+        "cumulative": ""
+      },
+      {
+        "week": "W16",
+        "date": "2026-04-13~19",
+        "revenue": "",
+        "channel": "",
+        "rate": "",
+        "cumulative": ""
+      }
+    ],
+    "content": "# 주간 수익 트래커\n\n## 목표: 주당 100,000원\n\n| 주차 | 날짜 | 수익(원) | 채널 | 달성률 | 누적 |\n|------|------|---------|------|--------|------|\n| W13 | 2026-03-23~29 | 0 | 리서치 단계 | 0% | 0 |\n| W14 | 2026-03-30~04-05 | | | | |\n| W15 | 2026-04-06~12 | | | | |\n| W16 | 2026-04-13~19 | | | | |\n\n## 월별 요약\n| 월 | 총수익 | 주평균 | 목표대비 |\n|----|--------|--------|---------|\n| 2026-03 | 0 | 0 | 0% |\n| 2026-04 | | | |\n\n## 마일스톤\n- [ ] 첫 유료 고객 확보\n- [ ] 주 10만원 달성\n- [ ] 월 40만원 달성\n- [ ] 월 100만원 달성\n"
+  },
+  "marketing": [
+    {
+      "file": "marketing/strategies/community-marketing.md",
+      "title": "커뮤니티 마케팅 전략",
+      "content": "# 커뮤니티 마케팅 전략\n\n## 타겟 커뮤니티\n\n### 한국\n| 커뮤니티 | 타겟 | 접근법 |\n|---------|------|--------|\n| 아프니까사장이다 (다음 카페) | 자영업자/소상공인 | 후기형 글, 질문 답변 |\n| 인스타그램 #예약제카페 | 카페 사장 | DM, 댓글 |\n| 네이버 카페 (카페창업) | 예비/현 카페 사장 | 정보성 글 |\n| 블라인드 | 직장인 (부업 관심) | 사이드프로젝트 공유 |\n\n### 글로벌 (영어 버전 확장 시)\n| 커뮤니티 | 접근법 |\n|---------|--------|\n| r/SaaS | 빌딩 과정 공유 |\n| r/indiehackers | 수익 리포트 |\n| Indie Hackers | 상세 빌딩 스토리 |\n| Product Hunt | 런칭 이벤트 |\n\n## 커뮤니티 마케팅 규칙\n\n### Do\n- 가치 있는 정보를 먼저 제공\n- 진짜 경험을 공유 (실패 포함)\n- 질문에 성실히 답변\n- 꾸준히 활동 (최소 2주 활동 후 프로모션)\n\n### Don't\n- 가입 첫 날 홍보 글 올리지 않기\n- 같은 글 여러 커뮤니티에 복붙하지 않기\n- 댓글에 무차별 링크 넣지 않기\n- 과장된 수치/결과 제시하지 않기\n\n## 콘텐츠 유형\n\n### 1. 빌딩 인 퍼블릭 (Building in Public)\n- \"카페 예약 시스템 만드는 중입니다 - Day 1\"\n- 개발 과정 + 고민 + 결정 공유\n- 피드백 요청 → 초기 사용자 확보\n\n### 2. 후기/케이스 스터디\n- \"OO카페 예약 관리 이렇게 바꿨더니...\"\n- 비포/애프터 + 구체적 숫자\n\n### 3. 정보성 콘텐츠\n- \"카페 노쇼 줄이는 방법 5가지\"\n- \"소규모 카페 예약 관리 비교 (네이버 vs 캐치테이블 vs ?)\"\n"
+    },
+    {
+      "file": "marketing/strategies/pricing-strategy.md",
+      "title": "가격 전략 (범용 프레임워크)",
+      "content": "# 가격 전략 (범용 프레임워크)\n\n## 목표 역산\n- **주 10만원** = 월 약 43만원\n\n## 수익 모델별 달성 조건\n\n| 모델 | 가격 예시 | 필요 고객/건수 | 특징 |\n|------|---------|-------------|------|\n| 월 구독 (저가) | 9,900원/월 | 44명 | 안정적, 고객 확보 어려움 |\n| 월 구독 (중가) | 14,900원/월 | 29명 | 현실적 중간점 |\n| 월 구독 (고가) | 29,900원/월 | 15명 | 높은 가치 필요 |\n| 프리랜싱 (건당) | 50만원/건 | 월 1건 | 불안정, 즉시 시작 가능 |\n| 1회 판매 (템플릿) | 29,000원 | 월 15건 | 스케일 가능하지만 반복 어려움 |\n| 혼합 (구독+프리랜싱) | - | - | 안정+즉시 수입 |\n\n## 한국 소상공인 가격 감수성\n- 월 SW 비용: 대부분 5만원 이하\n- \"커피 2-3잔 가격\"으로 포지셔닝하면 수용 가능\n- 무료 체험이 거의 필수 (한국 시장 특성)\n- 연간 결제 할인이 전환율 높임\n\n## 가격 설정 원칙\n1. **경쟁자 대비 포지셔닝** — 무료 대체재 존재시 차별점이 가격을 정당화해야 함\n2. **목표 역산** — 필요 고객수가 현실적인가?\n3. **초기 할인** — 런칭 특가로 초기 고객 확보 후 점진적 인상\n4. **가치 기반** — 고객이 절약하는 시간/돈 대비 합리적 가격\n\n## 초기 전략 (아이디어 무관)\n1. **무료 체험**: 7-14일 (신용카드 불필요)\n2. **런칭 특가**: 첫 50명 → 정상가 대비 30-50% 할인\n3. **크몽 세팅 서비스**: 초기 세팅 + 1개월 무료 = 별도 수익원\n"
+    },
+    {
+      "file": "marketing/strategies/story-driven-selling.md",
+      "title": "스토리 기반 판매 전략",
+      "content": "# 스토리 기반 판매 전략\n\n## 핵심 원칙\n> \"팔지 마라, 해결하라.\" - 인디해커 성공 패턴\n\n직접 판매보다 **자신의 고민 → 해결 과정 → 결과물 공유**가 전환율이 높다.\n\n## 프레임워크\n\n### 1. 문제 공감 (Hook)\n```\n\"카페 사장님, 인스타 DM으로 예약 받으시면서\n'아 이거 또 놓쳤다' 하신 적 있으시죠?\"\n```\n\n### 2. 시도와 실패 (Story)\n```\n\"저도 친구 카페에서 예약 관리 도와주다가...\n네이버 예약은 카페에 맞지 않고,\n캐치테이블은 너무 비싸고...\"\n```\n\n### 3. 해결책 제시 (Solution)\n```\n\"그래서 직접 만들었습니다.\n인스타 프로필 링크에 걸면 끝.\"\n```\n\n### 4. 결과 증명 (Proof)\n```\n\"지금 [N]개 카페에서 사용 중이고,\n노쇼가 [X]% 줄었습니다.\"\n```\n\n## 채널별 적용\n\n### 인스타그램 DM (카페 사장 직접)\n- 예약제 카페 검색 (#예약제카페, #예약카페)\n- 사장님 계정 팔로우 → 피드에 공감 댓글\n- 자연스럽게 DM: \"사장님, 예약 관리 어떻게 하시나요?\"\n- 절대 첫 DM에 판매하지 않기\n\n### 커뮤니티 (아프니까사장이다 등)\n- \"카페 예약 관리 이렇게 해결했습니다\" 후기형 글\n- 사용 방법 + 스크린샷 포함\n- 질문에 성실히 답변 → 신뢰 구축\n\n### 크몽\n- \"카페 예약 시스템 구축해드립니다\" 서비스\n- 초기 세팅 + 교육 패키지 (20-30만원)\n- 이후 월 구독으로 전환\n\n## 하지 말아야 할 것\n- 첫 접점에서 바로 판매하지 않기\n- 기능 나열하지 않기 (문제 해결에 집중)\n- 과장/마케팅 용어 사용하지 않기\n- 스팸성 대량 DM 보내지 않기\n\n## 참고\n- [Indie Hackers - First 60 Customers from Reddit](https://www.indiehackers.com/post/how-i-got-my-first-60-customers-from-reddit-without-spending-a-dime-on-ads-3d19b2c47c)\n"
+    }
+  ],
+  "latestLog": {
+    "file": "logs/2026-W13.md",
+    "title": "2026-W13 주간 로그 (03/23 ~ 03/29)",
+    "content": "# 2026-W13 주간 로그 (03/23 ~ 03/29)\n\n## 이번 주 목표\n- 프로젝트 셋업 및 리서치 프레임워크 구축\n- 시장조사 및 아이디어 평가\n\n## 완료한 일\n- 프로젝트 구조 생성 (research, ideas, marketing, logs 등)\n- 글로벌 마이크로SaaS 트렌드 리서치\n- 한국 시장 분석 (소상공인, 프리랜서 플랫폼, 예약 시장)\n- 아이디어 평가 스코어링 시스템 구축\n- 3개 아이디어 평가 완료:\n  - 카페 예약 관리 시스템: **4.15점** (즉시 실행)\n  - 크몽 자동화 봇: 3.65점 (보류)\n  - AI 콘텐츠 재활용: 3.50점 (보류)\n- 마케팅 전략 3종 작성 (스토리, 커뮤니티, 가격)\n\n## 리서치 발견\n- 버티컬 SaaS가 범용보다 성공률 높음\n- 한국 소규모 카페의 인스타DM 예약 관리 페인포인트 실제 확인\n- 네이버 예약(무료)과 캐치테이블(고가) 사이에 빈틈 존재\n- 인디해커 성공 패턴: 스토리 기반, 자기 문제 출발, 포트폴리오 전략\n\n## 배운 점\n- 주 10만원 목표는 월 14,900원 구독 × 7명이면 달성 가능\n- 고객 인터뷰 없이 아이디어를 진행하면 안 됨\n- 크몽 외주는 수입이 불안정하고 기술 미스매치\n\n## 다음 주 계획\n- [ ] 인스타에서 예약제 카페 10곳 리스트업\n- [ ] 카페 사장님 3명 인터뷰 (DM)\n- [ ] 랜딩 페이지 설계\n- [ ] MVP 기술 스택 확정 및 개발 프로젝트 생성\n\n## 수익 현황\n- 이번 주: 0원 (리서치 단계)\n- 누적: 0원\n- 목표 대비: 0%\n\n## 자동 수집 (2026-03-27 오후 2:33:02)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n"
+  },
+  "collected": [
+    {
+      "date": "2026-03-27",
+      "source": "hackernews",
+      "title": "HandyMKV for MakeMKV and HandBrake Automation",
+      "url": "https://github.com/dmars8047/handymkv",
+      "score": 15,
+      "comments": 1,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "PIO",
+      "url": "https://www.producthunt.com/products/pio",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "vit",
+      "url": "https://www.producthunt.com/products/vit",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "Playcode",
+      "url": "https://www.producthunt.com/products/playcode-javascript-sandbox-playground",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "Douzo",
+      "url": "https://www.producthunt.com/products/douzo",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "Venn.ai",
+      "url": "https://www.producthunt.com/products/venn-ai-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "Trivia by Typito AI",
+      "url": "https://www.producthunt.com/products/trivia-by-typito-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "Eron",
+      "url": "https://www.producthunt.com/products/eron",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "MacNotch",
+      "url": "https://www.producthunt.com/products/macnotch-the-notch-reimagined",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "Nebils",
+      "url": "https://www.producthunt.com/products/nebils",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "Anvil",
+      "url": "https://www.producthunt.com/products/anvil-5",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "Luzo",
+      "url": "https://www.producthunt.com/products/luzo",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "Breadcrumb",
+      "url": "https://www.producthunt.com/products/breadcrumb-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "Autonoma.pro",
+      "url": "https://www.producthunt.com/products/autonoma-sourcing",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "slicer.dev",
+      "url": "https://www.producthunt.com/products/slicer-dev-any-component-as-ai-prompt",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-03-27",
+      "source": "producthunt",
+      "title": "Dunky AI",
+      "url": "https://www.producthunt.com/products/dunky-ai-pitch-analyzer",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    }
+  ]
+}
