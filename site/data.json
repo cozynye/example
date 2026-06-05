@@ -1,6 +1,48 @@
 {
-  "buildTime": "2026-04-20T10:50:03.809Z",
+  "buildTime": "2026-06-05T14:53:08.498Z",
   "ideas": [
+    {
+      "file": "ideas/industry-website-service.md",
+      "title": "업종별 맞춤 홈페이지 제작 서비스 (1-2인 소상공인 특화)",
+      "summary": "1-2인 소상공인(미용실, 동물병원)을 위한 업종별 포트폴리오 기반 **단일 페이지** 웹사이트 제작 서비스 (Productized Service)",
+      "problem": "- **누가**: 1-2인 소규모 소상공인 (미용실, 삼겹살집, 카페 등)\n- **무슨 문제**: 웹사이트가 없거나 오래됨. 온라인 존재감 부족으로 경쟁에서 밀림\n- **빈도와 강도**: 매일 × 심각 (네이버/카카오 검색 필수 시대, 웹사이트 = 신뢰의 기본)\n- **현재 해결 방법**:\n  - 무료 툴(Wix, IM Creator) - 너무 복잡, 시간 없음\n  - 웹에이전시 - 너무 비쌈 (100만원+)\n  - 프리랜서(크몽/숨고) - 품질 불확실\n  - 대부분은 그냥 **포기** (네이버/카카오맵만 사용)",
+      "solution": "- **무엇을 만드는가**: 업종별 예시 사이트를 먼저 제작 → 포트폴리오로 활용 → 이메일/DM으로 제안\n- **핵심 기능 3가지**:\n  1. **업종별 단일 페이지 템플릿**:\n     - **미용실**: 갤러리, 스타일리스트 소개, 가격표, 예약 링크\n     - **동물병원**: 원장 소개, 진료 과목, 시설 사진, 진료시간, 예약/문의\n  2. **디자인 옵션 2가지**:\n     - **트렌디**: 모던한 레이아웃, 대담한 컬러, 애니메이션, 비주얼 중심\n     - **정석**: 깔끔한 레이아웃, 정보 전달 중심, 신뢰감 강조\n  3. **필수 기능 패키지**: 네이버/카카오맵 연동, 예약 링크, 인스타그램 피드 임베드, 모바일 최적화",
+      "scores": {
+        "criteria": {
+          "시장 검증": {
+            "weight": 25,
+            "score": 4
+          },
+          "첫 수익까지 시간": {
+            "weight": 10,
+            "score": 5
+          },
+          "실패 비용": {
+            "weight": 10,
+            "score": 5
+          },
+          "MVP 개발시간": {
+            "weight": 10,
+            "score": 5
+          },
+          "반복 수익": {
+            "weight": 10,
+            "score": 4
+          },
+          "기술 적합성": {
+            "weight": 5,
+            "score": 5
+          }
+        },
+        "total": 4.2
+      },
+      "revenue": "### 가격 전략 ✅ (확정)\n- **기본**: 50만원 (단일 페이지 기준)\n- **추가 옵션**: 요구사항에 따라 추가 (예: 2페이지 구성 +20만원, 폼 기능 +10만원 등)\n- **유지보수**: 월 5만원 (호스팅, 업데이트, 소소한 수정)\n\n### 주 10만원 달성 조건\n- **단기**: 제작비 50만원 × 월 1건 = 주 12.5만원 ✅\n- **중기**: 제작비 50만원 × 월 2건 = 주 25만원 ✅✅\n- **장기**: 유지보수 월 5만원 × 10곳 = 월 50만원 (주 12.5만원) + 신규 제작 = 주 25-37만원+\n\n### 가격 정당화\n| 항목 | 크몽/숨고 평균 | 우리 가격 | 차별점 |\n|------|---------------|----------|--------|\n| 단일 페이지 | 20-30만원 | **50만원** | ✅ 포트폴리오 기반 신뢰 + 업종 특화 + 디자인 2가지 옵션 |\n| 품질 | 불확실 | **보장됨** | ✅ 포트폴리오로 사전 확인 가능 |\n| 제작 기간 | 1-2주 | **3일** | ✅ 빠른 턴어라운드 |",
+      "decision": "미정",
+      "techStack": "- Next.js 14+ (App Router, 정적 사이트 생성)\n- Tailwind CSS (빠른 스타일링)\n- Vercel (호스팅, 무료 도메인)\n- (선택) Supabase (유지보수 고객 관리)",
+      "mvp": "",
+      "risks": "",
+      "nextSteps": ""
+    },
     {
       "file": "ideas/smb-review-reply-assistant.md",
       "title": "소상공인 리뷰 응답 도우미",
@@ -1047,9 +1089,170 @@
     }
   ],
   "latestLog": {
-    "file": "logs/2026-W14.md",
-    "title": "2026-W14 주간 로그 (03/30 ~ 04/05)",
-    "content": "# 2026-W14 주간 로그 (03/30 ~ 04/05)\n\n## 이번 주 목표\n- 프로젝트 전체 분석 및 아이디어 심층 모색\n- 신규 아이디어 8개 발굴 & 스코어링\n- Top 2 아이디어 72시간 검증 시작\n\n## 완료한 일\n- 프로젝트 전체 상태 분석 (4주간 리서치만 진행, 매출 0원, 인터뷰 0건 확인)\n- 기존 3개 아이디어 재평가 → 돌파구 없음 판단\n- **신규 8개 아이디어 발굴 & 7요소 가중 평가 완료**:\n  1. 🏆 소상공인 리뷰 응답 도우미: **4.10점** (즉시 검증)\n  2. 🥈 펫 비즈니스 예약/CRM: **3.95점** (72시간 검증)\n  3. 🥉 학원 출결/알림 시스템: **3.80점** (검증 대기)\n  4. 공방/클래스 예약: 3.80점 (검증 대기)\n  5. 부동산 매물 빌더: 3.55점 (보류)\n  6. 인스타 바이오 링크: 3.55점 (보류)\n  7. 프리랜서 대시보드: 3.50점 (보류)\n  8. 이커머스 분석기: 3.45점 (보류)\n- 웹 리서치로 시장 검증:\n  - 리뷰닥터: 5개월 만에 4,000+ 가맹점 (리뷰 관리 수요 확인)\n  - 네이버 플레이스 2026.4.6 별점 도입 (리뷰 관리 중요성↑)\n  - 한국 펫 시장 8.5조→21조(2032) 성장\n\n## 리서치 발견\n- **리뷰닥터**가 이미 4,000+ 가맹점 → 수요는 확실하지만 경쟁 존재\n- 네이버 4월 별점 도입 = 리뷰 관리 도구 수요 급증 타이밍\n- 펫 라이프케어 시장 0.8조원, 전용 관리 도구 부재 = 블루오션\n- 글로벌 마이크로SaaS: 70%가 $1K/월 미만, 1-2%만 $50K/월 초과\n- 성공 키: 12-18개월 꾸준한 실행\n\n## 배운 점\n- 4주간 리서치만 하면 실행이 멈춤 → 이번 주 반드시 검증 시작\n- 경쟁사 존재 = 수요 증명 (나쁜 것 아님), 차별화가 핵심\n- 병렬 검증 (2트랙 동시)이 효율적\n\n## 전략 전환 (3차 — 무료운영+데모가능 기준 추가)\n- **1차 전환**: Productized Service(크몽 리뷰 대행) → 사용자 관심 없음\n- **2차 전환**: 소상공인 전체 폐기 → 개발자/크리에이터 도구로 전환\n- **3차 전환**: AI API 비용 필요한 것 탈락 + \"개발 먼저 → 데모\" 기준 추가 + 비개발 도메인도 OK\n- **v3 기준 Top 5**:\n  1. 고객 후기 위젯 (4.00) — Testimonial.to 한국판, 무료 운영 ✅\n  2. 모바일 청첩장 빌더 (3.85) — 1회 29,900원, 무료 운영 ✅ 🆕\n  3. Next.js 보일러플레이트 (3.80) — 1회 99,000원, 무료 운영 ✅\n  4. 1페이지 사이트 빌더 (3.75) — Carrd 한국판, 무료 운영 ✅\n  5. 단축 URL + 분석 (3.70) — 1주 MVP, 무료 운영 ✅ 🆕\n\n## 다음 액션 (전략 전환 후)\n\n### 즉시 실행 (오늘~3일) — 서비스형 먼저\n- [ ] 크몽 '리뷰 답글 작성 대행' 서비스 등록 (등록문 작성 완료: `marketing/copy/kmong-review-reply-service.md`)\n- [ ] 숨고 동일 서비스 등록 (등록문: `marketing/copy/soomgo-review-reply-service.md`)\n- [ ] 아프니까사장이다 커뮤니티 글 게시 (초안: `marketing/copy/community-post-review-service.md`)\n- [ ] 포트폴리오용 답글 샘플 5개 준비 (크몽 등록문에 3개 포함, 2개 추가 필요)\n- [ ] 크몽 썸네일 이미지 제작 (Canva)\n\n### Track A: 인스타 DM 아웃리치 (Day 3~7)\n- [ ] 네이버 플레이스에서 미답변 리뷰 많은 가게 30개 리스트\n- [ ] DM 스크립트로 순차 발송 (스크립트: `marketing/copy/dm-scripts-review-service.md`)\n- [ ] 무료 체험 10건 제공 → 유료 전환 유도\n- [ ] 결과 집계 (30명 DM → 10명 답변 → 3명 무료체험 → 1명+ 유료 = 성공)\n\n### Track B: 펫 CRM (서비스형 먼저, Track A 결과 후)\n- 보류 — Track A 결과에 따라 2주차에 판단\n\n## 수익 현황\n- 이번 주: 0원 (아이디어 발굴 + 전략 전환 + 실행 준비)\n- 누적: 0원\n- 목표 대비: 0%\n- **다음 주 목표: 크몽 첫 문의 발생**\n"
+    "file": "logs/2026-W23.md",
+    "title": "2026-W23 주간 로그",
+    "content": "# 2026-W23 주간 로그\n\n\n## 자동 수집 (2026-06-05 PM 11:52:58)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n"
   },
-  "collected": []
+  "collected": [
+    {
+      "date": "2026-06-05",
+      "source": "hackernews",
+      "title": "Meta's ships facial recognition on smart glasses",
+      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+      "score": 285,
+      "comments": 256,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "Veltrix AI",
+      "url": "https://www.producthunt.com/products/veltrix-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "Moodloom",
+      "url": "https://www.producthunt.com/products/moodloom",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "Agent Mode on Arena",
+      "url": "https://www.producthunt.com/products/arena-5",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "SellerClaw",
+      "url": "https://www.producthunt.com/products/sellerclaw",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "Leni",
+      "url": "https://www.producthunt.com/products/leni",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "Agent Browser Shield",
+      "url": "https://www.producthunt.com/products/agent-browser-shield",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "Microsoft MAI-Voice-2",
+      "url": "https://www.producthunt.com/products/mai-image-2-3",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "Lumo Studios",
+      "url": "https://www.producthunt.com/products/lumo-studios",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "Nemotron 3 Ultra by NVIDIA",
+      "url": "https://www.producthunt.com/products/nvidia",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "Clarafy",
+      "url": "https://www.producthunt.com/products/clarafy",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "Minimi",
+      "url": "https://www.producthunt.com/products/shram",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "FloatPic",
+      "url": "https://www.producthunt.com/products/floatpic",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "LocalClicky",
+      "url": "https://www.producthunt.com/products/localclicky",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "VisionSync",
+      "url": "https://www.producthunt.com/products/visionsync",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-05",
+      "source": "producthunt",
+      "title": "Ideogram 4.0",
+      "url": "https://www.producthunt.com/products/ideogram-4-0",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    }
+  ]
 }
