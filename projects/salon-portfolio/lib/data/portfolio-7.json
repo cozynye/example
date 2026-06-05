@@ -1,0 +1,250 @@
+{
+  "id": 7,
+  "salonName": "르 뤽스 살롱",
+  "tagline": "Luxury Redefined",
+  "theme": "luxury",
+  "layout": {
+    "variant": "fullscreen",
+    "sectionOrder": [
+      "hero",
+      "about",
+      "stylist",
+      "gallery",
+      "services",
+      "contact",
+      "hours"
+    ]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1600948836587-02c1842c9140?auto=format&fit=crop&w=1920&q=80",
+    "title": "르 뤽스 살롱",
+    "subtitle": "Luxury Redefined",
+    "ctaButtons": {
+      "primary": {
+        "text": "오늘 남은 1자리 예약 →",
+        "action": "#contact"
+      },
+      "secondary": {
+        "text": "프리미엄 서비스",
+        "action": "#services"
+      }
+    }
+  },
+  "about": {
+    "title": "최상의 프리미엄",
+    "description": [
+      "르 뤽스 살롱은 럭셔리를 재정의합니다.",
+      "완전 프라이빗 공간에서 오직 당신만을 위한 시간을 제공합니다.",
+      "세계적인 명품 헤어 제품과 최고급 기술로, 진정한 프리미엄을 경험하십시오."
+    ],
+    "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      {
+        "label": "VIP Clients",
+        "value": "120+"
+      },
+      {
+        "label": "Celebrity",
+        "value": "25+"
+      },
+      {
+        "label": "Satisfaction",
+        "value": "99.5%"
+      }
+    ]
+  },
+  "stylist": {
+    "title": "Master Stylist",
+    "stylists": [
+      {
+        "name": "정민아",
+        "role": "Celebrity Stylist & VIP Director",
+        "experience": "18년 (프리미엄 & 셀럽 전문)",
+        "specialties": [
+          "럭셔리 스타일링",
+          "셀럽 헤어",
+          "VIP 1:1 서비스"
+        ],
+        "image": "https://images.unsplash.com/photo-1605980625600-88b46abafa8d?auto=format&fit=crop&w=800&h=800&q=80",
+        "education": [
+          "Toni&Guy Celebrity Academy (London)",
+          "L'Oréal Professionnel Luxury Master Class",
+          "Oribe Signature Styling Program (NYC)"
+        ],
+        "awards": [
+          "2024 Asia Luxury Hair Excellence",
+          "2023 Celebrity Stylist of the Year (25+ Celebrities)",
+          "2022 Premium VIP Service Award"
+        ],
+        "social": {
+          "instagram": "https://instagram.com/leluxe_salon"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": "프리미엄 포트폴리오",
+    "categories": [
+      "전체",
+      "럭셔리 컷",
+      "프리미엄 컬러",
+      "VIP 스타일링",
+      "웨딩"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1605980625982-b128a7e7fde2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "엘레강스 롱",
+        "category": "럭셔리 컷"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1605980766335-d3a41c7332a1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "골드 하이라이트",
+        "category": "프리미엄 컬러"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1606093310846-4aeb4a11378f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "셀럽 스타일",
+        "category": "VIP 스타일링"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1608483053506-9fd9dd739fa0?auto=format&fit=crop&w=1000&q=80",
+        "alt": "프리미엄 단발",
+        "category": "럭셔리 컷"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1611920629515-3f76f8c36b37?auto=format&fit=crop&w=1000&q=80",
+        "alt": "플래티넘 블론드",
+        "category": "프리미엄 컬러"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1612564003424-face22ce904e?auto=format&fit=crop&w=1000&q=80",
+        "alt": "웨딩 업스타일",
+        "category": "웨딩"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1613477757159-7fbb73011611?auto=format&fit=crop&w=1000&q=80",
+        "alt": "고급스러운 웨이브",
+        "category": "VIP 스타일링"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1613849577924-6db8fe349e70?auto=format&fit=crop&w=1000&q=80",
+        "alt": "샴페인 컬러",
+        "category": "프리미엄 컬러"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1614020863825-28a0bb7e3c3c?auto=format&fit=crop&w=1000&q=80",
+        "alt": "우아한 업스타일",
+        "category": "웨딩"
+      }
+    ]
+  },
+  "services": {
+    "title": "프리미엄 서비스",
+    "services": [
+      {
+        "category": "럭셔리 컷",
+        "items": [
+          {
+            "name": "마스터 컷",
+            "description": "18년 경력 디렉터 전담 시술",
+            "price": "150,000원"
+          },
+          {
+            "name": "프리미엄 컷 & 케어",
+            "description": "컷 + 명품 트리트먼트",
+            "price": "200,000원"
+          }
+        ]
+      },
+      {
+        "category": "프리미엄 컬러",
+        "items": [
+          {
+            "name": "럭셔리 전체 염색",
+            "description": "Oribe 프리미엄 컬러",
+            "price": "300,000원~"
+          },
+          {
+            "name": "프리미엄 발레아주",
+            "description": "맞춤형 하이라이트",
+            "price": "400,000원~"
+          }
+        ]
+      },
+      {
+        "category": "VIP 스타일링",
+        "items": [
+          {
+            "name": "셀럽 스타일링",
+            "description": "행사/촬영 전문 스타일링",
+            "price": "250,000원~"
+          },
+          {
+            "name": "웨딩 패키지",
+            "description": "본식 + 리허설 스타일링",
+            "price": "500,000원~"
+          }
+        ]
+      },
+      {
+        "category": "프리미엄 케어",
+        "items": [
+          {
+            "name": "골드 트리트먼트",
+            "description": "24K 금 에센스 케어",
+            "price": "150,000원"
+          }
+        ]
+      }
+    ]
+  },
+  "hours": {
+    "title": "운영 안내",
+    "hours": [
+      {
+        "day": "월-금",
+        "time": "11:00 - 20:00"
+      },
+      {
+        "day": "토",
+        "time": "10:00 - 18:00"
+      }
+    ],
+    "closedDays": [
+      "일요일",
+      "공휴일"
+    ],
+    "notes": [
+      "완전 예약제 - 1:1 프라이빗 서비스 보장",
+      "VIP Concierge 서비스 제공",
+      "오픈 전 예약 가능 (VIP 전용)",
+      "영업시간 외 예약 가능",
+      "발레파킹 서비스 포함",
+      "프라이빗 상담실 완비"
+    ],
+    "bookingMethods": {
+      "phone": "02-7890-1234"
+    },
+    "parking": "발레파킹 서비스 제공"
+  },
+  "contact": {
+    "title": "Location",
+    "address": "서울 강남구 청담동 567 (청담역 8번 출구 도보 7분)",
+    "phone": "02-7890-1234",
+    "email": "vip@leluxe-salon.kr",
+    "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=%EB%A5%B4%EB%A4%BD%EC%8A%A4%EC%82%B4%EB%A1%B1",
+    "social": {
+      "instagram": "https://instagram.com/leluxe_salon"
+    }
+  }
+}

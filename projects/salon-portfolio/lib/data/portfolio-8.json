@@ -1,0 +1,254 @@
+{
+  "id": 8,
+  "salonName": "소프트 터치",
+  "tagline": "부드러움이 만드는 특별함",
+  "theme": "soft",
+  "layout": {
+    "variant": "layered",
+    "sectionOrder": [
+      "hero",
+      "gallery",
+      "services",
+      "about",
+      "stylist",
+      "hours",
+      "contact"
+    ]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1616104130421-6eccff73df1d?auto=format&fit=crop&w=1920&q=80",
+    "title": "소프트 터치",
+    "subtitle": "부드러움이 만드는 특별함",
+    "ctaButtons": {
+      "primary": {
+        "text": "힐링 케어 무료 체험 →",
+        "action": "#contact"
+      },
+      "secondary": {
+        "text": "소프트 스타일",
+        "action": "#gallery"
+      }
+    }
+  },
+  "about": {
+    "title": "부드러운 감성",
+    "description": [
+      "소프트 터치는 편안하고 아늑한 공간에서 당신만의 휴식을 제공합니다.",
+      "강하지 않은, 자연스럽고 부드러운 스타일링으로 일상을 더 특별하게 만듭니다.",
+      "따뜻한 차 한 잔과 함께, 당신의 이야기를 들려주세요."
+    ],
+    "image": "https://images.unsplash.com/photo-1616105996583-f9e3c00bb31f?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      {
+        "label": "Gentle",
+        "value": "98%"
+      },
+      {
+        "label": "Comfort",
+        "value": "97점"
+      },
+      {
+        "label": "Revisit",
+        "value": "92%"
+      }
+    ]
+  },
+  "stylist": {
+    "title": "헤어 디자이너",
+    "stylists": [
+      {
+        "name": "이수진",
+        "role": "Gentle Styling Specialist",
+        "experience": "12년 (소프트 & 페미닌 스타일 전문)",
+        "specialties": [
+          "부드러운 웨이브",
+          "파스텔 톤",
+          "여성스러운 컷"
+        ],
+        "image": "https://images.unsplash.com/photo-1617340094158-4662f07836a8?auto=format&fit=crop&w=800&h=800&q=80",
+        "education": [
+          "Tokyo Gentle Wave & Perm Institute",
+          "Pastel Color Harmony Academy (Seoul)",
+          "Customer Experience & Hospitality Training"
+        ],
+        "awards": [
+          "2024 Customer Satisfaction Excellence (98%)",
+          "2023 Gentle Styling Recognition",
+          "2022 Soft Feminine Style Award"
+        ],
+        "social": {
+          "instagram": "https://instagram.com/softtouch_salon"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": "부드러운 스타일",
+    "categories": [
+      "전체",
+      "소프트 웨이브",
+      "파스텔 컬러",
+      "여성스러운 컷",
+      "자연스러운 펌"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1617391654484-2894196c2cc9?auto=format&fit=crop&w=1000&q=80",
+        "alt": "부드러운 롱 웨이브",
+        "category": "소프트 웨이브"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&w=1000&q=80",
+        "alt": "라벤더 파스텔",
+        "category": "파스텔 컬러"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1621645582931-d1d3e6564943?auto=format&fit=crop&w=1000&q=80",
+        "alt": "여성스러운 단발",
+        "category": "여성스러운 컷"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1626379501846-0df4067b8bb9?auto=format&fit=crop&w=1000&q=80",
+        "alt": "자연스러운 C컬",
+        "category": "자연스러운 펌"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1626383120723-2a941488860d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "핑크 베이지",
+        "category": "파스텔 컬러"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1626383137804-ff908d2753a2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "소프트 미디엄",
+        "category": "여성스러운 컷"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1628439697786-3351707d42ca?auto=format&fit=crop&w=1000&q=80",
+        "alt": "물결 웨이브",
+        "category": "소프트 웨이브"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1629189784191-9afdcbcb0398?auto=format&fit=crop&w=1000&q=80",
+        "alt": "피치 파스텔",
+        "category": "파스텔 컬러"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1629397685944-7073f5589754?auto=format&fit=crop&w=1000&q=80",
+        "alt": "부드러운 레이어",
+        "category": "여성스러운 컷"
+      }
+    ]
+  },
+  "services": {
+    "title": "시술 안내",
+    "services": [
+      {
+        "category": "컷",
+        "items": [
+          {
+            "name": "여성 컷",
+            "description": "부드러운 라인의 여성 컷",
+            "price": "42,000원"
+          },
+          {
+            "name": "레이어드 컷",
+            "description": "자연스러운 레이어링",
+            "price": "45,000원"
+          }
+        ]
+      },
+      {
+        "category": "파스텔 컬러",
+        "items": [
+          {
+            "name": "파스텔 염색",
+            "description": "부드러운 파스텔 톤",
+            "price": "130,000원~"
+          },
+          {
+            "name": "그라데이션",
+            "description": "자연스러운 투톤",
+            "price": "150,000원~"
+          }
+        ]
+      },
+      {
+        "category": "펌",
+        "items": [
+          {
+            "name": "소프트 웨이브",
+            "description": "부드러운 물결 웨이브",
+            "price": "110,000원~"
+          },
+          {
+            "name": "C컬 펌",
+            "description": "자연스러운 C컬",
+            "price": "100,000원~"
+          }
+        ]
+      },
+      {
+        "category": "케어",
+        "items": [
+          {
+            "name": "실크 트리트먼트",
+            "description": "실크처럼 부드러운 케어",
+            "price": "45,000원~"
+          }
+        ]
+      }
+    ]
+  },
+  "hours": {
+    "title": "영업시간",
+    "hours": [
+      {
+        "day": "월-금",
+        "time": "10:00 - 19:00"
+      },
+      {
+        "day": "토",
+        "time": "10:00 - 18:00"
+      },
+      {
+        "day": "일",
+        "time": "11:00 - 17:00"
+      }
+    ],
+    "closedDays": [
+      "설날, 추석 연휴"
+    ],
+    "notes": [
+      "편안한 분위기에서 여유로운 시술 제공",
+      "예약 우선제로 운영 - 여유있게 예약하세요",
+      "웰컴 티 & 디저트 서비스",
+      "부드러운 음악과 아로마 향으로 힐링 타임",
+      "재방문 고객 특별 케어 프로그램"
+    ],
+    "bookingMethods": {
+      "phone": "02-8901-2345",
+      "kakao": "https://pf.kakao.com/_softtouch"
+    },
+    "parking": "건물 지하 주차장 2시간 무료"
+  },
+  "contact": {
+    "title": "오시는 길",
+    "address": "서울 송파구 올림픽로 678 (잠실역 3번 출구 도보 5분)",
+    "phone": "02-8901-2345",
+    "email": "hello@softtouch.kr",
+    "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=%EC%86%8C%ED%94%84%ED%8A%B8%ED%84%B0%EC%B9%98",
+    "social": {
+      "instagram": "https://instagram.com/softtouch_salon",
+      "facebook": "https://facebook.com/softtouchsalon"
+    }
+  }
+}

@@ -44,7 +44,7 @@ function timestamp() {
   return new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
 }
 
-function fetch(url) {
+function httpGet(url, redirects = 0) {
   return new Promise((resolve, reject) => {
     const handler = url.startsWith('https') ? https : http;
     const req = handler.get(url, {
@@ -54,9 +54,10 @@ function fetch(url) {
       },
       timeout: 10000
     }, (res) => {
-      // Follow redirects
+      // Follow redirects (최대 5회)
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        return fetch(res.headers.location).then(resolve).catch(reject);
+        if (redirects >= 5) return reject(new Error('Too many redirects'));
+        return httpGet(res.headers.location, redirects + 1).then(resolve).catch(reject);
       }
       let data = '';
       res.on('data', chunk => data += chunk);
@@ -81,7 +82,15 @@ function loadIndex() {
   }
 }
 
+function pruneIndex(index) {
+  const cutoff = new Date(Date.now() - 90 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
+  for (const [url, meta] of Object.entries(index.urls)) {
+    if (meta.date < cutoff) delete index.urls[url];
+  }
+}
+
 function saveIndex(index) {
+  pruneIndex(index);
   index.lastRun = new Date().toISOString();
   fs.writeFileSync(INDEX_FILE, JSON.stringify(index, null, 2), 'utf-8');
 }
@@ -99,7 +108,7 @@ async function fetchHackerNews() {
   const items = [];
 
   try {
-    const res = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json');
+    const res = await httpGet('https://hacker-news.firebaseio.com/v0/topstories.json');
     if (res.status !== 200) return items;
 
     const ids = JSON.parse(res.data).slice(0, 50);
@@ -108,7 +117,7 @@ async function fetchHackerNews() {
     for (let i = 0; i < ids.length; i += 10) {
       const batch = ids.slice(i, i + 10);
       const results = await Promise.allSettled(
-        batch.map(id => fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`))
+        batch.map(id => httpGet(`https://hacker-news.firebaseio.com/v0/item/${id}.json`))
       );
 
       for (const result of results) {
@@ -144,7 +153,7 @@ async function fetchReddit() {
 
   for (const sub of subreddits) {
     try {
-      const res = await fetch(`https://www.reddit.com/r/${sub}/hot.json?limit=25`);
+      const res = await httpGet(`https://www.reddit.com/r/${sub}/hot.json?limit=25`);
       if (res.status !== 200) continue;
 
       const data = JSON.parse(res.data);
@@ -185,7 +194,7 @@ async function fetchIndieHackers() {
   const items = [];
 
   try {
-    const res = await fetch('https://www.indiehackers.com/feed.xml');
+    const res = await httpGet('https://www.indiehackers.com/feed.xml');
     if (res.status !== 200) return items;
 
     // Simple XML parsing (no deps)
@@ -220,7 +229,7 @@ async function fetchProductHunt() {
   const items = [];
 
   try {
-    const res = await fetch('https://www.producthunt.com/feed');
+    const res = await httpGet('https://www.producthunt.com/feed');
     if (res.status !== 200) return items;
 
     const entries = res.data.match(/<entry>([\s\S]*?)<\/entry>/g) ||
@@ -326,10 +335,11 @@ function writeSummaryLog(stats) {
 }
 
 function getWeekNumber(date) {
-  const d = new Date(date);
-  const start = new Date(d.getFullYear(), 0, 1);
-  const diff = d - start;
-  return Math.ceil((diff / 604800000) + start.getDay() / 7);
+  const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+  const dayNum = d.getUTCDay() || 7;
+  d.setUTCDate(d.getUTCDate() + 4 - dayNum);
+  const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+  return Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
 }
 
 // ─── Main ───

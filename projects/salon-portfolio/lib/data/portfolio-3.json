@@ -1,0 +1,247 @@
+{
+  "id": 3,
+  "salonName": "클래식 에비뉴",
+  "tagline": "시간이 증명한 품격",
+  "theme": "classic",
+  "layout": {
+    "variant": "classic",
+    "sectionOrder": [
+      "hero",
+      "about",
+      "stylist",
+      "gallery",
+      "services",
+      "hours",
+      "contact"
+    ]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=1920&q=80",
+    "title": "클래식 에비뉴",
+    "subtitle": "시간이 증명한 품격",
+    "ctaButtons": {
+      "primary": {
+        "text": "3대째 단골 할인 예약 →",
+        "action": "#contact"
+      },
+      "secondary": {
+        "text": "시술 안내",
+        "action": "#services"
+      }
+    }
+  },
+  "about": {
+    "title": "전통의 가치",
+    "description": [
+      "클래식 에비뉴는 1985년 설립 이래 40년간 한 자리를 지켜온 전통 미용실입니다.",
+      "변하지 않는 장인정신으로, 세대를 넘어 사랑받는 곳입니다.",
+      "할머니, 어머니, 딸이 함께 찾는 3대가 신뢰하는 미용실입니다."
+    ],
+    "image": "https://images.unsplash.com/photo-1529945952580-4226d32b472a?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      {
+        "label": "Heritage",
+        "value": "1985~"
+      },
+      {
+        "label": "Generations",
+        "value": "3대째"
+      },
+      {
+        "label": "Excellence",
+        "value": "95%"
+      }
+    ]
+  },
+  "stylist": {
+    "title": "장인의 손길",
+    "stylists": [
+      {
+        "name": "이정희",
+        "role": "Master Barber (3대째 계승)",
+        "experience": "35년 (전통 기법 계승)",
+        "specialties": [
+          "전통 컷",
+          "클래식 면도",
+          "정통 스타일"
+        ],
+        "image": "https://images.unsplash.com/photo-1533661338746-e4e47d30dfd8?auto=format&fit=crop&w=800&h=800&q=80",
+        "education": [
+          "동경 전통 이발 아카데미 (1988)",
+          "파리 Jacques Dessange Classic Training",
+          "대한민국 명장 지정 (2015)"
+        ],
+        "awards": [
+          "2024 Heritage Preservation Award",
+          "2023 Classic Excellence Recognition",
+          "2022 Master Barber of the Year"
+        ],
+        "social": {
+          "instagram": "https://instagram.com/classic_avenue"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": "시술 갤러리",
+    "categories": [
+      "전체",
+      "클래식 커트",
+      "정통 펌",
+      "염색",
+      "스타일링"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1533956798844-a121841d3128?auto=format&fit=crop&w=1000&q=80",
+        "alt": "품격있는 단발",
+        "category": "클래식 커트"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1534620808146-d33bb39128b2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "우아한 웨이브 펌",
+        "category": "정통 펌"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1535579710123-3c0f261c474e?auto=format&fit=crop&w=1000&q=80",
+        "alt": "고급스러운 염색",
+        "category": "염색"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1536520002442-39764a41e987?auto=format&fit=crop&w=1000&q=80",
+        "alt": "전통 커트",
+        "category": "클래식 커트"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1544717304-a2db4a7b16ee?auto=format&fit=crop&w=1000&q=80",
+        "alt": "볼륨 펌",
+        "category": "정통 펌"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1545917154-7e7126f35a46?auto=format&fit=crop&w=1000&q=80",
+        "alt": "품위있는 스타일",
+        "category": "스타일링"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1546636080-53b0bb180249?auto=format&fit=crop&w=1000&q=80",
+        "alt": "우아한 업스타일",
+        "category": "스타일링"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1549236177-77e8271c34b6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "자연스러운 염색",
+        "category": "염색"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1552699611-e2c208d5d9cf?auto=format&fit=crop&w=1000&q=80",
+        "alt": "단정한 커트",
+        "category": "클래식 커트"
+      }
+    ]
+  },
+  "services": {
+    "title": "시술 안내",
+    "services": [
+      {
+        "category": "커트",
+        "items": [
+          {
+            "name": "여성 커트",
+            "description": "정통 가위 커트",
+            "price": "45,000원"
+          },
+          {
+            "name": "남성 커트",
+            "description": "클래식 스타일",
+            "price": "30,000원"
+          }
+        ]
+      },
+      {
+        "category": "펌",
+        "items": [
+          {
+            "name": "정통 펌",
+            "description": "오래 지속되는 웨이브",
+            "price": "110,000원~"
+          },
+          {
+            "name": "볼륨 펌",
+            "description": "풍성한 볼륨",
+            "price": "90,000원~"
+          }
+        ]
+      },
+      {
+        "category": "염색",
+        "items": [
+          {
+            "name": "전체 염색",
+            "description": "자연스러운 색감",
+            "price": "90,000원~"
+          },
+          {
+            "name": "새치 염색",
+            "description": "뿌리 터치업",
+            "price": "60,000원~"
+          }
+        ]
+      },
+      {
+        "category": "스타일링",
+        "items": [
+          {
+            "name": "특별한 날 스타일",
+            "description": "예식, 파티 스타일링",
+            "price": "50,000원~"
+          }
+        ]
+      }
+    ]
+  },
+  "hours": {
+    "title": "영업 안내",
+    "hours": [
+      {
+        "day": "월요일 - 토요일",
+        "time": "09:00 - 19:00"
+      },
+      {
+        "day": "일요일",
+        "time": "10:00 - 17:00"
+      }
+    ],
+    "closedDays": [
+      "설날",
+      "추석 연휴"
+    ],
+    "notes": [
+      "예약 우선제로 운영됩니다",
+      "3대째 고객 우대 프로그램",
+      "전통 기법은 시간이 소요됩니다 - 여유있게 예약하세요",
+      "40년 단골 고객 할인 혜택"
+    ],
+    "bookingMethods": {
+      "phone": "02-3456-7890"
+    },
+    "parking": "건물 지하 주차장 3시간 무료"
+  },
+  "contact": {
+    "title": "찾아오시는 길",
+    "address": "서울 종로구 삼청로 123 (안국역 3번 출구 도보 7분)",
+    "phone": "02-3456-7890",
+    "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=%ED%81%B4%EB%9E%98%EC%8B%9D%EC%97%90%EB%B9%84%EB%89%B4",
+    "social": {
+      "instagram": "https://instagram.com/classic_avenue"
+    }
+  }
+}

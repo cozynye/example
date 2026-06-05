@@ -1,0 +1,252 @@
+{
+  "id": 2,
+  "salonName": "모던 살롱",
+  "tagline": "Simple. Clean. Professional.",
+  "theme": "apple",
+  "layout": {
+    "variant": "minimal",
+    "sectionOrder": [
+      "hero",
+      "about",
+      "services",
+      "gallery",
+      "stylist",
+      "contact",
+      "hours"
+    ]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1920&q=80",
+    "title": "모던 살롱",
+    "subtitle": "Simple. Clean. Professional.",
+    "ctaButtons": {
+      "primary": {
+        "text": "전문가 상담 30분 무료 →",
+        "action": "#contact"
+      },
+      "secondary": {
+        "text": "View Work",
+        "action": "#gallery"
+      }
+    }
+  },
+  "about": {
+    "title": "Our Philosophy",
+    "description": [
+      "모던 살롱은 '덜어내는 아름다움'을 추구합니다.",
+      "불필요한 장식 대신, 고객님의 본연의 매력을 끌어내는 것이 우리의 철학입니다.",
+      "Apple의 디자인 철학처럼, 기능과 아름다움의 완벽한 조화를 만들어냅니다."
+    ],
+    "image": "https://images.unsplash.com/photo-1510074229140-bdfc2ff28550?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      {
+        "label": "Precision",
+        "value": "99.8%"
+      },
+      {
+        "label": "Retention",
+        "value": "3.5년"
+      },
+      {
+        "label": "Clean Cut",
+        "value": "100%"
+      }
+    ]
+  },
+  "stylist": {
+    "title": "Our Expert",
+    "stylists": [
+      {
+        "name": "박서연",
+        "role": "Minimalist Design Director",
+        "experience": "8년 (미니멀리즘 철학 전공)",
+        "specialties": [
+          "미니멀 컷",
+          "화이트 컬러",
+          "클린 스타일링"
+        ],
+        "image": "https://images.unsplash.com/photo-1512690459411-b9245aed614b?auto=format&fit=crop&w=800&h=800&q=80",
+        "education": [
+          "Apple Store Creative Philosophy (Cupertino)",
+          "Scandinavian Simplicity Mastery",
+          "Less is More Design Institute"
+        ],
+        "awards": [
+          "2024 Minimalist Design Award",
+          "2023 Clean Beauty Recognition",
+          "2022 White Space Excellence"
+        ],
+        "social": {
+          "instagram": "https://instagram.com/modern_salon"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Portfolio",
+    "categories": [
+      "전체",
+      "미니멀 컷",
+      "클린 컬러",
+      "세련된 스타일"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1515848797093-effe16ccfabb?auto=format&fit=crop&w=1000&q=80",
+        "alt": "미니멀 숏컷",
+        "category": "미니멀 컷"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?auto=format&fit=crop&w=1000&q=80",
+        "alt": "클린 애쉬 컬러",
+        "category": "클린 컬러"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1517832606299-7ae9b720a186?auto=format&fit=crop&w=1000&q=80",
+        "alt": "정돈된 레이어드",
+        "category": "세련된 스타일"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?auto=format&fit=crop&w=1000&q=80",
+        "alt": "심플 단발",
+        "category": "미니멀 컷"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "베이지 컬러",
+        "category": "클린 컬러"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1522337094846-8a818192de1f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "스트레이트 롱",
+        "category": "세련된 스타일"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1000&q=80",
+        "alt": "미니멀 펌",
+        "category": "세련된 스타일"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=format&fit=crop&w=1000&q=80",
+        "alt": "클린 밤색",
+        "category": "클린 컬러"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "단정한 미디엄",
+        "category": "미니멀 컷"
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "services": [
+      {
+        "category": "Cut",
+        "items": [
+          {
+            "name": "Minimal Cut",
+            "description": "정제된 라인의 커트",
+            "price": "50,000원"
+          },
+          {
+            "name": "Men's Cut",
+            "description": "깔끔한 남성 커트",
+            "price": "35,000원"
+          }
+        ]
+      },
+      {
+        "category": "Color",
+        "items": [
+          {
+            "name": "Clean Tone",
+            "description": "맑고 깨끗한 컬러",
+            "price": "120,000원~"
+          },
+          {
+            "name": "Natural Balayage",
+            "description": "자연스러운 그라데이션",
+            "price": "150,000원~"
+          }
+        ]
+      },
+      {
+        "category": "Style",
+        "items": [
+          {
+            "name": "Sleek Straight",
+            "description": "매끄러운 스트레이트",
+            "price": "100,000원~"
+          },
+          {
+            "name": "Natural Wave",
+            "description": "자연스러운 웨이브",
+            "price": "130,000원~"
+          }
+        ]
+      },
+      {
+        "category": "Care",
+        "items": [
+          {
+            "name": "Premium Treatment",
+            "description": "고급 트리트먼트",
+            "price": "40,000원~"
+          }
+        ]
+      }
+    ]
+  },
+  "hours": {
+    "title": "Hours",
+    "hours": [
+      {
+        "day": "Mon - Fri",
+        "time": "11:00 - 20:00"
+      },
+      {
+        "day": "Sat",
+        "time": "11:00 - 19:00"
+      },
+      {
+        "day": "Sun",
+        "time": "Closed"
+      }
+    ],
+    "closedDays": [
+      "Every Sunday"
+    ],
+    "notes": [
+      "Appointment-only for focused service",
+      "Minimalist consultation (15 min max)",
+      "White space philosophy - unhurried experience",
+      "Precision cuts require quiet environment"
+    ],
+    "bookingMethods": {
+      "phone": "02-2345-6789",
+      "kakao": "https://pf.kakao.com/_modernsalon"
+    },
+    "parking": "2 hours free parking"
+  },
+  "contact": {
+    "title": "Location",
+    "address": "서울 서초구 서초대로 234 (강남역 5번 출구 도보 3분)",
+    "phone": "02-2345-6789",
+    "email": "hello@modernsalon.kr",
+    "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=%EB%AA%A8%EB%8D%98%EC%82%B4%EB%A1%B1",
+    "social": {
+      "instagram": "https://instagram.com/modern_salon",
+      "facebook": "https://facebook.com/modernsalon"
+    }
+  }
+}

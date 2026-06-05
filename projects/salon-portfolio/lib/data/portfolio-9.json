@@ -1,0 +1,251 @@
+{
+  "id": 9,
+  "salonName": "볼드 스튜디오",
+  "tagline": "Be Bold. Be You.",
+  "theme": "bold",
+  "layout": {
+    "variant": "fullscreen",
+    "sectionOrder": [
+      "hero",
+      "services",
+      "stylist",
+      "gallery",
+      "about",
+      "contact",
+      "hours"
+    ]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1630168258841-ea0ae143ee1f?auto=format&fit=crop&w=1920&q=80",
+    "title": "볼드 스튜디오",
+    "subtitle": "Be Bold. Be You.",
+    "ctaButtons": {
+      "primary": {
+        "text": "변신 상담 무료 (45분) →",
+        "action": "#contact"
+      },
+      "secondary": {
+        "text": "EXPLORE",
+        "action": "#gallery"
+      }
+    }
+  },
+  "about": {
+    "title": "대담하게, 당신답게",
+    "description": [
+      "볼드 스튜디오는 틀을 깨는 스타일을 만듭니다.",
+      "평범함을 거부하는 당신을 위한 공간. 강렬하고 개성 있는 스타일로 당신의 존재감을 드러내세요.",
+      "두려워 말고, 대담하게. 당신의 진짜 모습을 찾아드립니다."
+    ],
+    "image": "https://images.unsplash.com/photo-1630595271375-5073a6c0638b?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      {
+        "label": "Portfolio",
+        "value": "350+"
+      },
+      {
+        "label": "Fashion Week",
+        "value": "7회"
+      },
+      {
+        "label": "Innovation",
+        "value": "100%"
+      }
+    ]
+  },
+  "stylist": {
+    "title": "Bold Artists",
+    "stylists": [
+      {
+        "name": "강태준",
+        "role": "Creative Director & Fashion Artist",
+        "experience": "13년 (크리에이티브 & 패션 전문)",
+        "specialties": [
+          "대담한 컷",
+          "비비드 컬러",
+          "아티스틱 변신"
+        ],
+        "image": "https://images.unsplash.com/photo-1630595632518-8217c0bceb8f?auto=format&fit=crop&w=800&h=800&q=80",
+        "education": [
+          "London Fashion Week Hair Artist (2018-2024)",
+          "Vidal Sassoon Avant-Garde Program",
+          "Seoul Fashion Week Creative Director"
+        ],
+        "awards": [
+          "2024 Creative Hair Award Gold",
+          "2023 Fashion Week Best Hair Artist",
+          "2022 Bold Transformation Competition 1st"
+        ],
+        "social": {
+          "instagram": "https://instagram.com/boldstudio"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": "BOLD PORTFOLIO",
+    "categories": [
+      "ALL",
+      "BOLD CUT",
+      "VIVID COLOR",
+      "ARTISTIC",
+      "EDGE"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1630827020718-3433092696e7?auto=format&fit=crop&w=1000&q=80",
+        "alt": "언더컷 숏",
+        "category": "BOLD CUT"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1633381521050-26bb467d9d5a?auto=format&fit=crop&w=1000&q=80",
+        "alt": "레드 & 블루",
+        "category": "VIVID COLOR"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "아트 헤어",
+        "category": "ARTISTIC"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1634449571010-02389ed0f9b0?auto=format&fit=crop&w=1000&q=80",
+        "alt": "에지 컷",
+        "category": "EDGE"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1635273051937-a0ddef9573b6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "네온 핑크",
+        "category": "VIVID COLOR"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1636908681421-bff3b85f7303?auto=format&fit=crop&w=1000&q=80",
+        "alt": "크리에이티브 숏",
+        "category": "BOLD CUT"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1637777277337-f114350fb088?auto=format&fit=crop&w=1000&q=80",
+        "alt": "퍼플 & 실버",
+        "category": "VIVID COLOR"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1646101641717-238decb0f1fe?auto=format&fit=crop&w=1000&q=80",
+        "alt": "패션쇼 헤어",
+        "category": "ARTISTIC"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1647140655214-e4a2d914971f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "모던 볼드",
+        "category": "EDGE"
+      }
+    ]
+  },
+  "services": {
+    "title": "SERVICES",
+    "services": [
+      {
+        "category": "BOLD CUT",
+        "items": [
+          {
+            "name": "Creative Cut",
+            "description": "대담한 크리에이티브 커트",
+            "price": "70,000원"
+          },
+          {
+            "name": "Edge Cut",
+            "description": "강렬한 엣지 스타일",
+            "price": "65,000원"
+          }
+        ]
+      },
+      {
+        "category": "VIVID COLOR",
+        "items": [
+          {
+            "name": "Bold Color",
+            "description": "강렬한 원색 계열",
+            "price": "160,000원~"
+          },
+          {
+            "name": "Dual Tone",
+            "description": "대비되는 투톤 컬러",
+            "price": "200,000원~"
+          }
+        ]
+      },
+      {
+        "category": "ARTISTIC",
+        "items": [
+          {
+            "name": "Fashion Hair",
+            "description": "패션쇼/화보 스타일",
+            "price": "250,000원~"
+          },
+          {
+            "name": "Art Collaboration",
+            "description": "아티스트 협업 스타일",
+            "price": "상담 후 결정"
+          }
+        ]
+      },
+      {
+        "category": "SPECIAL",
+        "items": [
+          {
+            "name": "Bold Transformation",
+            "description": "완전한 이미지 변신",
+            "price": "300,000원~"
+          }
+        ]
+      }
+    ]
+  },
+  "hours": {
+    "title": "HOURS",
+    "hours": [
+      {
+        "day": "TUE - SAT",
+        "time": "12:00 - 21:00"
+      },
+      {
+        "day": "SUN",
+        "time": "12:00 - 19:00"
+      }
+    ],
+    "closedDays": [
+      "MONDAY"
+    ],
+    "notes": [
+      "Appointment only for creative freedom",
+      "Bold transformation consultation required (45 min)",
+      "Portfolio photoshoot sessions available",
+      "Fashion week preparation bookings",
+      "Collaboration inquiries welcome",
+      "Artist collective workspace available"
+    ],
+    "bookingMethods": {
+      "phone": "02-9012-3456",
+      "kakao": "https://pf.kakao.com/_boldstudio"
+    },
+    "parking": "Street parking available"
+  },
+  "contact": {
+    "title": "LOCATION",
+    "address": "서울 용산구 이태원로 789 (이태원역 4번 출구 도보 7분)",
+    "phone": "02-9012-3456",
+    "email": "studio@boldstudio.kr",
+    "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=%EB%B3%BC%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4",
+    "social": {
+      "instagram": "https://instagram.com/boldstudio",
+      "facebook": "https://facebook.com/boldstudio"
+    }
+  }
+}

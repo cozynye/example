@@ -1,0 +1,249 @@
+{
+  "id": 10,
+  "salonName": "어스 라운지",
+  "tagline": "자연으로 돌아가다",
+  "theme": "earth",
+  "layout": {
+    "variant": "layered",
+    "sectionOrder": [
+      "hero",
+      "about",
+      "gallery",
+      "services",
+      "stylist",
+      "contact",
+      "hours"
+    ]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1657105052497-f996284ffff8?auto=format&fit=crop&w=1920&q=80",
+    "title": "어스 라운지",
+    "subtitle": "자연으로 돌아가다",
+    "ctaButtons": {
+      "primary": {
+        "text": "자연주의 두피 진단 무료 →",
+        "action": "#contact"
+      },
+      "secondary": {
+        "text": "어스 톤",
+        "action": "#gallery"
+      }
+    }
+  },
+  "about": {
+    "title": "대지의 색",
+    "description": [
+      "어스 라운지는 자연의 색을 담습니다.",
+      "브라운, 베이지, 그린 등 대지의 따뜻한 색감으로 차분하고 세련된 스타일을 만듭니다.",
+      "자연에서 온 컬러, 자연스러운 아름다움. 당신의 본질을 빛나게 합니다."
+    ],
+    "image": "https://images.unsplash.com/photo-1657546978958-76f538211af8?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      {
+        "label": "Warm Tone",
+        "value": "95%"
+      },
+      {
+        "label": "PC Match",
+        "value": "98%"
+      },
+      {
+        "label": "Natural",
+        "value": "100%"
+      }
+    ]
+  },
+  "stylist": {
+    "title": "어스 톤 스페셜리스트",
+    "stylists": [
+      {
+        "name": "박서현",
+        "role": "Earth Tone Color Specialist",
+        "experience": "11년 (자연 컬러 & 웜톤 전문)",
+        "specialties": [
+          "브라운 톤",
+          "베이지 계열",
+          "퍼스널 컬러 매칭"
+        ],
+        "image": "https://images.unsplash.com/photo-1658322558683-2524c9b62d04?auto=format&fit=crop&w=800&h=800&q=80",
+        "education": [
+          "Natural Color Theory Institute (Amsterdam)",
+          "Earth Tone Specialist Certification",
+          "Personal Color Analysis & Warm Tone Expert"
+        ],
+        "awards": [
+          "2024 Natural Beauty Excellence Award",
+          "2023 Earth Tone Color Recognition",
+          "2022 Warm Color Harmony Award"
+        ],
+        "social": {
+          "instagram": "https://instagram.com/earth_lounge"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": "어스 컬렉션",
+    "categories": [
+      "전체",
+      "브라운 톤",
+      "베이지 톤",
+      "올리브 그린",
+      "테라코타"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1658932447624-152eaf36cf4e?auto=format&fit=crop&w=1000&q=80",
+        "alt": "초콜릿 브라운",
+        "category": "브라운 톤"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1658932447761-8a59cd02d201?auto=format&fit=crop&w=1000&q=80",
+        "alt": "샌드 베이지",
+        "category": "베이지 톤"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1658932447775-dd78d1e7c369?auto=format&fit=crop&w=1000&q=80",
+        "alt": "올리브 그린",
+        "category": "올리브 그린"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1661818302487-467621dd1c19?auto=format&fit=crop&w=1000&q=80",
+        "alt": "카라멜 브라운",
+        "category": "브라운 톤"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1663794250205-4b7b0c97e7ee?auto=format&fit=crop&w=1000&q=80",
+        "alt": "테라코타 오렌지",
+        "category": "테라코타"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1664549761426-6a1cb1032854?auto=format&fit=crop&w=1000&q=80",
+        "alt": "밀크티 베이지",
+        "category": "베이지 톤"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1675045120221-366171934e02?auto=format&fit=crop&w=1000&q=80",
+        "alt": "헤이즐넛 브라운",
+        "category": "브라운 톤"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1677331402102-60c7e54d58c2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "카키 그린",
+        "category": "올리브 그린"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1678567535515-e23d231697a1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "어스 브라운",
+        "category": "테라코타"
+      }
+    ]
+  },
+  "services": {
+    "title": "시술 메뉴",
+    "services": [
+      {
+        "category": "컷",
+        "items": [
+          {
+            "name": "내추럴 컷",
+            "description": "자연스러운 라인",
+            "price": "43,000원"
+          },
+          {
+            "name": "레이어드 컷",
+            "description": "차분한 레이어링",
+            "price": "48,000원"
+          }
+        ]
+      },
+      {
+        "category": "어스 톤 컬러",
+        "items": [
+          {
+            "name": "브라운 톤 염색",
+            "description": "초콜릿/카라멜/헤이즐넛",
+            "price": "120,000원~"
+          },
+          {
+            "name": "베이지 톤 염색",
+            "description": "샌드/밀크티/누드",
+            "price": "125,000원~"
+          },
+          {
+            "name": "올리브/테라코타",
+            "description": "그린/오렌지 대지 컬러",
+            "price": "135,000원~"
+          }
+        ]
+      },
+      {
+        "category": "펌",
+        "items": [
+          {
+            "name": "내추럴 웨이브",
+            "description": "자연스러운 웨이브",
+            "price": "105,000원~"
+          }
+        ]
+      },
+      {
+        "category": "케어",
+        "items": [
+          {
+            "name": "어스 트리트먼트",
+            "description": "자연 성분 케어",
+            "price": "40,000원~"
+          }
+        ]
+      }
+    ]
+  },
+  "hours": {
+    "title": "운영시간",
+    "hours": [
+      {
+        "day": "월-토",
+        "time": "10:30 - 20:00"
+      },
+      {
+        "day": "일요일",
+        "time": "11:00 - 18:00"
+      }
+    ],
+    "closedDays": [
+      "공휴일"
+    ],
+    "notes": [
+      "어스 톤 컬러 상담 예약 권장 (30분 소요)",
+      "퍼스널 컬러 진단 서비스 제공 (무료)",
+      "재방문 고객 10% 할인",
+      "웜톤/쿨톤 분석 후 맞춤 컬러 추천",
+      "자연스러운 컬러를 위한 충분한 상담 시간 필요"
+    ],
+    "bookingMethods": {
+      "phone": "02-0123-4567",
+      "kakao": "https://pf.kakao.com/_earthlounge"
+    },
+    "parking": "건물 전용 주차장 3시간 무료"
+  },
+  "contact": {
+    "title": "찾아오시는 길",
+    "address": "서울 서대문구 연희로 890 (연신내역 2번 출구 도보 8분)",
+    "phone": "02-0123-4567",
+    "email": "lounge@earthlounge.kr",
+    "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=%EC%96%B4%EC%8A%A4%EB%9D%BC%EC%9A%B4%EC%A7%80",
+    "social": {
+      "instagram": "https://instagram.com/earth_lounge"
+    }
+  }
+}

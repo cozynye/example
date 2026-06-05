@@ -4,6 +4,7 @@
 .env
 node_modules/
 playwriter-screenshots/
+.playwright-mcp/
 
 # projects 내 각 프로젝트의 node_modules
 projects/*/node_modules/

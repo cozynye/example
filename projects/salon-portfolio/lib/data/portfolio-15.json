@@ -1,0 +1,249 @@
+{
+  "id": 15,
+  "salonName": "MOMENTUM",
+  "tagline": "움직임이 곧 스타일",
+  "theme": "ink",
+  "layout": {
+    "variant": "kinetic",
+    "sectionOrder": [
+      "hero",
+      "services",
+      "gallery",
+      "stylist",
+      "about",
+      "contact",
+      "hours"
+    ]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1531923690882-840d0dad3f24?auto=format&fit=crop&w=1920&q=80",
+    "title": "MOMENTUM",
+    "subtitle": "움직임이 곧 스타일",
+    "ctaButtons": {
+      "primary": {
+        "text": "START",
+        "action": "#contact"
+      },
+      "secondary": {
+        "text": "EXPLORE",
+        "action": "#gallery"
+      }
+    }
+  },
+  "about": {
+    "title": "Style in Motion",
+    "description": [
+      "MOMENTUM은 움직이는 스타일을 만듭니다.",
+      "걸을 때, 돌아설 때 가장 자연스럽게 살아나는 컷과 결을 설계합니다.",
+      "멈춰 있는 사진이 아니라, 움직이는 당신을 위한 디자인."
+    ],
+    "image": "https://images.unsplash.com/photo-1675785782005-875e1523de4c?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      {
+        "label": "Energy",
+        "value": "100%"
+      },
+      {
+        "label": "Dynamic Cut",
+        "value": "8K+"
+      },
+      {
+        "label": "Since",
+        "value": "2019"
+      }
+    ]
+  },
+  "stylist": {
+    "title": "Designer",
+    "stylists": [
+      {
+        "name": "김도현",
+        "role": "Motion Hair Designer",
+        "experience": "11년 (다이내믹 컷 전문)",
+        "specialties": [
+          "모션 컷",
+          "텍스처 펌",
+          "다이내믹 컬러"
+        ],
+        "image": "https://images.unsplash.com/photo-1499557354967-2b2d8910bcca?auto=format&fit=crop&w=800&h=800&q=80",
+        "education": [
+          "Vidal Sassoon Creative",
+          "Movement & Texture Lab",
+          "Dynamic Cutting Tokyo"
+        ],
+        "awards": [
+          "2024 Dynamic Cut Champion",
+          "2023 Texture Design Award",
+          "2022 Young Designer Prize"
+        ],
+        "social": {
+          "instagram": "https://instagram.com/momentum_studio"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Motion",
+    "categories": [
+      "ALL",
+      "CUT",
+      "TEXTURE",
+      "COLOR",
+      "BOLD"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1621795092981-8db25a07d4a9?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Flow Cut",
+        "category": "CUT"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1610240989389-3a546985961a?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Texture Wave",
+        "category": "TEXTURE"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1533557188897-ef2bc7257ba3?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Dynamic Red",
+        "category": "COLOR"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1587045525473-4861b1f9b5b2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Bold Crop",
+        "category": "BOLD"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1599695556750-6bce0fa9b3f5?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Movement Layer",
+        "category": "CUT"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1608902862967-ba2416c135b7?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Air Texture",
+        "category": "TEXTURE"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1599695557512-ddf7fb487815?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Electric Tone",
+        "category": "COLOR"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1495914510314-ba3164b1321f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sharp Edge",
+        "category": "BOLD"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1506863530036-1efeddceb993?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Wind Flow",
+        "category": "TEXTURE"
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "services": [
+      {
+        "category": "Cut",
+        "items": [
+          {
+            "name": "모션 컷",
+            "description": "움직임 설계 컷",
+            "price": "58,000원"
+          },
+          {
+            "name": "텍스처 컷",
+            "description": "입체 질감",
+            "price": "65,000원"
+          }
+        ]
+      },
+      {
+        "category": "Texture",
+        "items": [
+          {
+            "name": "텍스처 펌",
+            "description": "자연스러운 흐름",
+            "price": "110,000원~"
+          },
+          {
+            "name": "다이내믹 펌",
+            "description": "볼륨/움직임",
+            "price": "140,000원~"
+          }
+        ]
+      },
+      {
+        "category": "Color",
+        "items": [
+          {
+            "name": "다이내믹 컬러",
+            "description": "입체 컬러",
+            "price": "140,000원~"
+          },
+          {
+            "name": "볼드 포인트",
+            "description": "강한 포인트",
+            "price": "90,000원~"
+          }
+        ]
+      },
+      {
+        "category": "Care",
+        "items": [
+          {
+            "name": "텍스처 클리닉",
+            "description": "결 살리기 케어",
+            "price": "50,000원~"
+          }
+        ]
+      }
+    ]
+  },
+  "hours": {
+    "title": "Hours",
+    "hours": [
+      {
+        "day": "TUE - FRI",
+        "time": "12:00 - 21:00"
+      },
+      {
+        "day": "SAT - SUN",
+        "time": "11:00 - 20:00"
+      }
+    ],
+    "closedDays": [
+      "MONDAY"
+    ],
+    "notes": [
+      "워크인 일부 가능 (전화 확인)",
+      "스타일 영상 촬영 서비스 제공",
+      "학생 할인 10%"
+    ],
+    "bookingMethods": {
+      "phone": "02-1500-1519",
+      "naver": "https://booking.naver.com/booking/13/bizes/momentum",
+      "kakao": "https://pf.kakao.com/_momentum"
+    },
+    "parking": "건물 주차 1시간 무료"
+  },
+  "contact": {
+    "title": "Location",
+    "address": "서울 용산구 한강대로 23길 55 (용산역 1번 출구 도보 7분)",
+    "phone": "02-1500-1519",
+    "email": "hi@momentum-studio.kr",
+    "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=MOMENTUM",
+    "social": {
+      "instagram": "https://instagram.com/momentum_studio",
+      "youtube": "https://youtube.com/@momentum"
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "id": 11,
+  "salonName": "OBJET",
+  "tagline": "본질만 남기다",
+  "theme": "apple",
+  "layout": {
+    "variant": "showcase",
+    "sectionOrder": [
+      "hero",
+      "about",
+      "gallery",
+      "stylist",
+      "services",
+      "hours",
+      "contact"
+    ]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1695527081874-b674c46f40fb?auto=format&fit=crop&w=1920&q=80",
+    "title": "OBJET",
+    "subtitle": "본질만 남기다",
+    "ctaButtons": {
+      "primary": {
+        "text": "상담 예약",
+        "action": "#contact"
+      },
+      "secondary": {
+        "text": "작업 보기",
+        "action": "#gallery"
+      }
+    }
+  },
+  "about": {
+    "title": "Less, but better",
+    "description": [
+      "OBJET는 덜어내는 디자인을 추구합니다.",
+      "화려한 기교 대신, 모발 본연의 결과 얼굴선을 살리는 정제된 스타일을 제안합니다.",
+      "한 사람을 위한 단 하나의 형태. 그것이 우리가 생각하는 아름다움입니다."
+    ],
+    "image": "https://images.unsplash.com/photo-1695527081848-1e46c06e6458?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      {
+        "label": "Since",
+        "value": "2016"
+      },
+      {
+        "label": "Repeat Rate",
+        "value": "92%"
+      },
+      {
+        "label": "Avg. Care",
+        "value": "90min"
+      }
+    ]
+  },
+  "stylist": {
+    "title": "Director",
+    "stylists": [
+      {
+        "name": "한지우",
+        "role": "Creative Director",
+        "experience": "14년 (미니멀 디자인 전문)",
+        "specialties": [
+          "프리미엄 컷",
+          "내추럴 컬러",
+          "디자인 펌"
+        ],
+        "image": "https://images.unsplash.com/photo-1637777269308-6a072f24e8a4?auto=format&fit=crop&w=800&h=800&q=80",
+        "education": [
+          "Sassoon Academy London 수료",
+          "Apple Design Principle 워크숍",
+          "Minimal Form Study"
+        ],
+        "awards": [
+          "2024 Korea Hair Design Award",
+          "2023 Best Minimal Salon",
+          "2021 Aveda Color Excellence"
+        ],
+        "social": {
+          "instagram": "https://instagram.com/objet_hair"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Work",
+    "categories": [
+      "전체",
+      "컷",
+      "컬러",
+      "펌"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1633681926019-03bd9325ec20?auto=format&fit=crop&w=1000&q=80",
+        "alt": "내추럴 보브",
+        "category": "컷"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1580618662966-832a2dcea59f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "소프트 애쉬 컬러",
+        "category": "컬러"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1634449862841-8c6e970117e5?auto=format&fit=crop&w=1000&q=80",
+        "alt": "디자인 펌",
+        "category": "펌"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1614438865362-9137f7e3036e?auto=format&fit=crop&w=1000&q=80",
+        "alt": "미니멀 단발",
+        "category": "컷"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1633681926035-ec1ac984418a?auto=format&fit=crop&w=1000&q=80",
+        "alt": "뉴트럴 베이지",
+        "category": "컬러"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1695527081851-289a6214969d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "볼륨 펌",
+        "category": "펌"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1680786671088-8eeb95f16a21?auto=format&fit=crop&w=1000&q=80",
+        "alt": "클린 레이어드",
+        "category": "컷"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1695527082039-5f96003b97e4?auto=format&fit=crop&w=1000&q=80",
+        "alt": "브라운 글로스",
+        "category": "컬러"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1626379461362-ad730c620569?auto=format&fit=crop&w=1000&q=80",
+        "alt": "내추럴 웨이브",
+        "category": "펌"
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "services": [
+      {
+        "category": "Cut",
+        "items": [
+          {
+            "name": "디자인 컷",
+            "description": "얼굴형 분석 포함",
+            "price": "55,000원"
+          },
+          {
+            "name": "남성 컷",
+            "description": "스타일링 포함",
+            "price": "38,000원"
+          }
+        ]
+      },
+      {
+        "category": "Color",
+        "items": [
+          {
+            "name": "내추럴 컬러",
+            "description": "저자극 염모제",
+            "price": "90,000원~"
+          },
+          {
+            "name": "디자인 컬러",
+            "description": "발레아쥬/하이라이트",
+            "price": "150,000원~"
+          }
+        ]
+      },
+      {
+        "category": "Perm",
+        "items": [
+          {
+            "name": "디자인 펌",
+            "description": "모발 맞춤 설계",
+            "price": "120,000원~"
+          },
+          {
+            "name": "클리닉 펌",
+            "description": "손상 최소화",
+            "price": "160,000원~"
+          }
+        ]
+      },
+      {
+        "category": "Care",
+        "items": [
+          {
+            "name": "프리미엄 클리닉",
+            "description": "맞춤 영양",
+            "price": "60,000원~"
+          }
+        ]
+      }
+    ]
+  },
+  "hours": {
+    "title": "Hours",
+    "hours": [
+      {
+        "day": "화 - 금",
+        "time": "11:00 - 21:00"
+      },
+      {
+        "day": "토 - 일",
+        "time": "10:00 - 19:00"
+      }
+    ],
+    "closedDays": [
+      "매주 월요일"
+    ],
+    "notes": [
+      "전 예약제로 운영됩니다.",
+      "디자인 상담은 15분 정도 소요됩니다."
+    ],
+    "bookingMethods": {
+      "phone": "02-1100-1116",
+      "naver": "https://booking.naver.com/booking/13/bizes/objet",
+      "kakao": "https://pf.kakao.com/_objet"
+    },
+    "parking": "건물 지하 주차 2시간 무료"
+  },
+  "contact": {
+    "title": "Location",
+    "address": "서울 강남구 도산대로 217 (압구정로데오역 도보 5분)",
+    "phone": "02-1100-1116",
+    "email": "hello@objet-hair.kr",
+    "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=OBJET",
+    "social": {
+      "instagram": "https://instagram.com/objet_hair"
+    }
+  }
+}

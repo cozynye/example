@@ -101,7 +101,7 @@ function parseIdea(filePath) {
     revenue: extractSection(content, '수익 모델'),
     decision: extractDecision(content),
     techStack: extractSection(content, '기술 스택'),
-    mvp: extractSection(content, 'MVP 범위.*'),
+    mvp: extractSection(content, 'MVP 범위'),
     risks: extractSection(content, '리스크'),
     nextSteps: extractSection(content, '다음 단계')
   };

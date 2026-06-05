@@ -1,0 +1,247 @@
+{
+  "id": 12,
+  "salonName": "LUMINA",
+  "tagline": "빛으로 그리는 스타일",
+  "theme": "midnight",
+  "layout": {
+    "variant": "aurora",
+    "sectionOrder": [
+      "hero",
+      "gallery",
+      "about",
+      "services",
+      "stylist",
+      "contact",
+      "hours"
+    ]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1584359018585-82fb9b6b710d?auto=format&fit=crop&w=1920&q=80",
+    "title": "LUMINA",
+    "subtitle": "빛으로 그리는 스타일",
+    "ctaButtons": {
+      "primary": {
+        "text": "예약하기",
+        "action": "#contact"
+      },
+      "secondary": {
+        "text": "갤러리",
+        "action": "#gallery"
+      }
+    }
+  },
+  "about": {
+    "title": "Glow in the Dark",
+    "description": [
+      "LUMINA는 빛을 다루는 살롱입니다.",
+      "조명 아래에서 가장 아름답게 빛나는 컬러와 디자인을 연구합니다.",
+      "밤이 어울리는 사람, 무대가 어울리는 사람을 위한 공간입니다."
+    ],
+    "image": "https://images.unsplash.com/photo-1636584947125-b4fbf456ed59?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      {
+        "label": "Color Tones",
+        "value": "120+"
+      },
+      {
+        "label": "Night Booking",
+        "value": "~24:00"
+      },
+      {
+        "label": "Glow Index",
+        "value": "99%"
+      }
+    ]
+  },
+  "stylist": {
+    "title": "Artist",
+    "stylists": [
+      {
+        "name": "서윤호",
+        "role": "Color & Light Artist",
+        "experience": "12년 (크리에이티브 컬러 전문)",
+        "specialties": [
+          "글로우 컬러",
+          "네온 포인트",
+          "홀로그램 염색"
+        ],
+        "image": "https://images.unsplash.com/photo-1655373325205-bbae7ede0e21?auto=format&fit=crop&w=800&h=800&q=80",
+        "education": [
+          "Schwarzkopf Global Academy",
+          "Light & Color Theory Berlin",
+          "Neon Hair Masterclass"
+        ],
+        "awards": [
+          "2024 Creative Color Grand Prize",
+          "2023 Night Style Award",
+          "2022 Glow Hair Festival 우승"
+        ],
+        "social": {
+          "instagram": "https://instagram.com/lumina_salon"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallery",
+    "categories": [
+      "전체",
+      "글로우",
+      "네온",
+      "홀로그램",
+      "다크"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1689982529449-f24c098b4e5a?auto=format&fit=crop&w=1000&q=80",
+        "alt": "문라이트 실버",
+        "category": "글로우"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1708616748538-bdd66d6a9e25?auto=format&fit=crop&w=1000&q=80",
+        "alt": "네온 바이올렛",
+        "category": "네온"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1760800185627-12eb152aaca4?auto=format&fit=crop&w=1000&q=80",
+        "alt": "홀로그램 펄",
+        "category": "홀로그램"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1613698808499-f772ccb4f527?auto=format&fit=crop&w=1000&q=80",
+        "alt": "딥 미드나잇",
+        "category": "다크"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1602427952560-6283daa30d3a?auto=format&fit=crop&w=1000&q=80",
+        "alt": "오로라 그라데이션",
+        "category": "글로우"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1774689046306-f08a00221b6b?auto=format&fit=crop&w=1000&q=80",
+        "alt": "일렉트릭 블루",
+        "category": "네온"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1759613033714-4dff6fa3ad99?auto=format&fit=crop&w=1000&q=80",
+        "alt": "프리즘 컬러",
+        "category": "홀로그램"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1768479619271-e0ff666a14f1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "스모키 차콜",
+        "category": "다크"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1771620955160-b7ab0740136d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "루미너스 핑크",
+        "category": "네온"
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "services": [
+      {
+        "category": "Glow Color",
+        "items": [
+          {
+            "name": "글로우 컬러",
+            "description": "조명 반응 컬러",
+            "price": "180,000원~"
+          },
+          {
+            "name": "오로라 염색",
+            "description": "다채로운 그라데이션",
+            "price": "220,000원~"
+          }
+        ]
+      },
+      {
+        "category": "Neon",
+        "items": [
+          {
+            "name": "네온 포인트",
+            "description": "부분 비비드",
+            "price": "90,000원~"
+          },
+          {
+            "name": "홀로그램",
+            "description": "펄 코팅",
+            "price": "250,000원~"
+          }
+        ]
+      },
+      {
+        "category": "Cut",
+        "items": [
+          {
+            "name": "스타일 컷",
+            "description": "무대 맞춤",
+            "price": "60,000원"
+          }
+        ]
+      },
+      {
+        "category": "Care",
+        "items": [
+          {
+            "name": "컬러 클리닉",
+            "description": "컬러 유지 케어",
+            "price": "70,000원~"
+          }
+        ]
+      }
+    ]
+  },
+  "hours": {
+    "title": "Hours",
+    "hours": [
+      {
+        "day": "화 - 금",
+        "time": "14:00 - 24:00"
+      },
+      {
+        "day": "토",
+        "time": "12:00 - 22:00"
+      },
+      {
+        "day": "일",
+        "time": "12:00 - 20:00"
+      }
+    ],
+    "closedDays": [
+      "매주 월요일"
+    ],
+    "notes": [
+      "야간 예약 환영합니다.",
+      "무대/촬영 출장도 가능합니다.",
+      "컬러 상담은 사전 예약 필수입니다."
+    ],
+    "bookingMethods": {
+      "phone": "02-2200-2412",
+      "kakao": "https://pf.kakao.com/_lumina"
+    },
+    "parking": "발렛 파킹 가능 (유료)"
+  },
+  "contact": {
+    "title": "Location",
+    "address": "서울 마포구 와우산로 94 (홍대입구역 9번 출구 도보 6분)",
+    "phone": "02-2200-2412",
+    "email": "glow@lumina-salon.kr",
+    "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=LUMINA",
+    "social": {
+      "instagram": "https://instagram.com/lumina_salon",
+      "youtube": "https://youtube.com/@lumina"
+    }
+  }
+}

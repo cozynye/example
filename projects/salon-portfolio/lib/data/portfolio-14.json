@@ -1,0 +1,242 @@
+{
+  "id": 14,
+  "salonName": "NOIR",
+  "tagline": "흑과 백, 그 사이의 미학",
+  "theme": "ink",
+  "layout": {
+    "variant": "noir",
+    "sectionOrder": [
+      "hero",
+      "about",
+      "stylist",
+      "gallery",
+      "services",
+      "contact",
+      "hours"
+    ]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1661292932068-8161765c3940?auto=format&fit=crop&w=1920&q=80",
+    "title": "NOIR",
+    "subtitle": "흑과 백, 그 사이의 미학",
+    "ctaButtons": {
+      "primary": {
+        "text": "RESERVE",
+        "action": "#contact"
+      },
+      "secondary": {
+        "text": "VIEW",
+        "action": "#gallery"
+      }
+    }
+  },
+  "about": {
+    "title": "The Art of Monochrome",
+    "description": [
+      "NOIR는 흑백의 미학을 추구하는 아틀리에입니다.",
+      "절제된 톤 안에서 가장 깊은 우아함을 찾습니다.",
+      "시간이 지나도 변하지 않는 클래식, 그것이 NOIR의 철학입니다."
+    ],
+    "image": "https://images.unsplash.com/photo-1641901960200-1e878f0cbf63?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      {
+        "label": "Est.",
+        "value": "2014"
+      },
+      {
+        "label": "VIP Members",
+        "value": "500+"
+      },
+      {
+        "label": "Satisfaction",
+        "value": "99%"
+      }
+    ]
+  },
+  "stylist": {
+    "title": "Maître",
+    "stylists": [
+      {
+        "name": "윤재혁",
+        "role": "Master Stylist",
+        "experience": "18년 (프리미엄 살롱 운영)",
+        "specialties": [
+          "시그니처 컷",
+          "클래식 스타일링",
+          "VIP 케어"
+        ],
+        "image": "https://images.unsplash.com/photo-1591727884968-cc11135a19b3?auto=format&fit=crop&w=800&h=800&q=80",
+        "education": [
+          "Toni&Guy London Master",
+          "Classic Hair Atelier Paris",
+          "Luxury Service Institute"
+        ],
+        "awards": [
+          "2024 Master Stylist Award",
+          "2023 Luxury Salon of the Year",
+          "2020 Lifetime Craft Award"
+        ],
+        "social": {
+          "instagram": "https://instagram.com/noir_atelier"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Atelier",
+    "categories": [
+      "ALL",
+      "CUT",
+      "CLASSIC",
+      "UPSTYLE",
+      "GENTLEMAN"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1660251406411-589fa0b05604?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Monochrome Bob",
+        "category": "CUT"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1642290687545-8ab7e6002472?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Classic Wave",
+        "category": "CLASSIC"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1653491951405-76ed00d448f7?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Evening Updo",
+        "category": "UPSTYLE"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1541519481457-763224276691?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Gentleman's Cut",
+        "category": "GENTLEMAN"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1553094540-086097db42c5?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sleek Black",
+        "category": "CUT"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1622529949038-933fd1b4ca3c?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Timeless Curl",
+        "category": "CLASSIC"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1629818385919-e6bfcd7f72cf?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Bridal Upstyle",
+        "category": "UPSTYLE"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1551712640-7340258d5c87?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Pomade Style",
+        "category": "GENTLEMAN"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1555584564-d39afb381168?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Silver Elegance",
+        "category": "CLASSIC"
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "services": [
+      {
+        "category": "Signature",
+        "items": [
+          {
+            "name": "시그니처 컷",
+            "description": "마스터 디자인",
+            "price": "120,000원"
+          },
+          {
+            "name": "클래식 스타일링",
+            "description": "행사/이벤트",
+            "price": "150,000원~"
+          }
+        ]
+      },
+      {
+        "category": "Color",
+        "items": [
+          {
+            "name": "내추럴 블랙",
+            "description": "딥 톤 염색",
+            "price": "130,000원~"
+          },
+          {
+            "name": "실버 그레이",
+            "description": "프리미엄 탈색",
+            "price": "280,000원~"
+          }
+        ]
+      },
+      {
+        "category": "Upstyle",
+        "items": [
+          {
+            "name": "이브닝 업스타일",
+            "description": "연회/웨딩",
+            "price": "180,000원~"
+          }
+        ]
+      },
+      {
+        "category": "VIP",
+        "items": [
+          {
+            "name": "VIP 토탈 케어",
+            "description": "프라이빗 룸",
+            "price": "350,000원~"
+          }
+        ]
+      }
+    ]
+  },
+  "hours": {
+    "title": "Hours",
+    "hours": [
+      {
+        "day": "TUE - SAT",
+        "time": "11:00 - 20:00"
+      },
+      {
+        "day": "SUN",
+        "time": "12:00 - 18:00"
+      }
+    ],
+    "closedDays": [
+      "MONDAY"
+    ],
+    "notes": [
+      "완전 예약제 (프라이빗 운영)",
+      "VIP 멤버십 별도 안내",
+      "프라이빗 룸 사전 예약"
+    ],
+    "bookingMethods": {
+      "phone": "02-1400-1418",
+      "kakao": "https://pf.kakao.com/_noir"
+    },
+    "parking": "발렛 파킹 무료"
+  },
+  "contact": {
+    "title": "Location",
+    "address": "서울 강남구 압구정로 432 (압구정역 3번 출구 도보 3분)",
+    "phone": "02-1400-1418",
+    "email": "atelier@noir-seoul.kr",
+    "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=NOIR",
+    "social": {
+      "instagram": "https://instagram.com/noir_atelier"
+    }
+  }
+}

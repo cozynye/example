@@ -1,0 +1,249 @@
+{
+  "id": 6,
+  "salonName": "그린 가든",
+  "tagline": "자연이 주는 아름다움",
+  "theme": "nature",
+  "layout": {
+    "variant": "organic",
+    "sectionOrder": [
+      "hero",
+      "about",
+      "gallery",
+      "services",
+      "stylist",
+      "hours",
+      "contact"
+    ]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1592647420148-bfcc177e2117?auto=format&fit=crop&w=1920&q=80",
+    "title": "그린 가든",
+    "subtitle": "자연이 주는 아름다움",
+    "ctaButtons": {
+      "primary": {
+        "text": "두피 진단 30분 무료 →",
+        "action": "#contact"
+      },
+      "secondary": {
+        "text": "자연주의 헤어",
+        "action": "#gallery"
+      }
+    }
+  },
+  "about": {
+    "title": "자연과 함께",
+    "description": [
+      "그린 가든은 유기농 제품과 친환경 시술로 건강한 아름다움을 추구합니다.",
+      "화학 성분을 최소화한 천연 제품만을 사용하며, 두피와 모발 건강을 최우선으로 생각합니다.",
+      "자연스러운 스타일링과 지속 가능한 뷰티를 실천하는 공간입니다."
+    ],
+    "image": "https://images.unsplash.com/photo-1593702275687-f8b402bf1fb5?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      {
+        "label": "Organic",
+        "value": "100%"
+      },
+      {
+        "label": "Eco Cert",
+        "value": "Grade A"
+      },
+      {
+        "label": "Scalp Health",
+        "value": "98점"
+      }
+    ]
+  },
+  "stylist": {
+    "title": "자연주의 헤어 디자이너",
+    "stylists": [
+      {
+        "name": "한지우",
+        "role": "Organic Beauty Specialist & Trichologist",
+        "experience": "10년 (유기농 & 두피 건강 전문)",
+        "specialties": [
+          "유기농 염색",
+          "두피 진단",
+          "허브 케어"
+        ],
+        "image": "https://images.unsplash.com/photo-1593702295094-aea22597af65?auto=format&fit=crop&w=800&h=800&q=80",
+        "education": [
+          "Aveda Institute Eco-Beauty Program",
+          "International Trichology Institute",
+          "Organic Cosmetics Formulation (UK)"
+        ],
+        "awards": [
+          "2024 Green Beauty Excellence Award",
+          "2023 Sustainable Salon Certification",
+          "2022 Eco-Conscious Business Leader"
+        ],
+        "social": {
+          "instagram": "https://instagram.com/greengarden_salon"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": "자연스러운 스타일",
+    "categories": [
+      "전체",
+      "내추럴 컷",
+      "유기농 염색",
+      "두피 케어",
+      "허브 트리트먼트"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1594185230805-68f37369b450?auto=format&fit=crop&w=1000&q=80",
+        "alt": "자연스러운 레이어드",
+        "category": "내추럴 컷"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1595475884562-073c30d45670?auto=format&fit=crop&w=1000&q=80",
+        "alt": "유기농 허브 염색",
+        "category": "유기농 염색"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "두피 아로마 케어",
+        "category": "두피 케어"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1596728325488-58c87691e9af?auto=format&fit=crop&w=1000&q=80",
+        "alt": "웨이브 펌 (저자극)",
+        "category": "내추럴 컷"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1598524374912-6b0b0bab43dd?auto=format&fit=crop&w=1000&q=80",
+        "alt": "천연 헤나 염색",
+        "category": "유기농 염색"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&w=1000&q=80",
+        "alt": "허브 에센스 트리트먼트",
+        "category": "허브 트리트먼트"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1599351431613-18ef1fdd27e1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "자연스러운 숏컷",
+        "category": "내추럴 컷"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1600948835780-9c4a8b55cf50?auto=format&fit=crop&w=1000&q=80",
+        "alt": "유기농 베이지 컬러",
+        "category": "유기농 염색"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1600948836101-f9ffda59d250?auto=format&fit=crop&w=1000&q=80",
+        "alt": "두피 진정 케어",
+        "category": "두피 케어"
+      }
+    ]
+  },
+  "services": {
+    "title": "친환경 시술",
+    "services": [
+      {
+        "category": "컷",
+        "items": [
+          {
+            "name": "내추럴 컷",
+            "description": "자연스러운 라인의 가위 커트",
+            "price": "40,000원"
+          },
+          {
+            "name": "드라이 컷",
+            "description": "건조한 상태에서 정밀 커트",
+            "price": "45,000원"
+          }
+        ]
+      },
+      {
+        "category": "유기농 염색",
+        "items": [
+          {
+            "name": "유기농 전체 염색",
+            "description": "100% 천연 염료 사용",
+            "price": "130,000원~"
+          },
+          {
+            "name": "헤나 염색",
+            "description": "두피 건강을 위한 천연 헤나",
+            "price": "100,000원~"
+          }
+        ]
+      },
+      {
+        "category": "두피 케어",
+        "items": [
+          {
+            "name": "두피 진단 & 케어",
+            "description": "맞춤형 두피 관리",
+            "price": "60,000원"
+          },
+          {
+            "name": "아로마 스파",
+            "description": "천연 오일 두피 마사지",
+            "price": "80,000원"
+          }
+        ]
+      },
+      {
+        "category": "트리트먼트",
+        "items": [
+          {
+            "name": "허브 트리트먼트",
+            "description": "유기농 허브 에센스",
+            "price": "50,000원~"
+          }
+        ]
+      }
+    ]
+  },
+  "hours": {
+    "title": "영업시간",
+    "hours": [
+      {
+        "day": "화-토",
+        "time": "10:00 - 19:00"
+      },
+      {
+        "day": "일요일",
+        "time": "11:00 - 17:00"
+      }
+    ],
+    "closedDays": [
+      "매주 월요일"
+    ],
+    "notes": [
+      "친환경 제품 사용으로 시술 시간 +30분 소요",
+      "두피 진단 사전 예약 필수 (1주일 전 권장)",
+      "재사용 가능한 개인 타월 지참 시 10% 할인",
+      "유기농 제품 택배 배송 가능",
+      "두피 분석에 추가 시간 필요 - 30분 여유있게 오세요"
+    ],
+    "bookingMethods": {
+      "phone": "02-6789-0123",
+      "kakao": "https://pf.kakao.com/_greengarden"
+    },
+    "parking": "매장 앞 공영주차장 2시간 무료"
+  },
+  "contact": {
+    "title": "찾아오시는 길",
+    "address": "서울 용산구 이태원로 456 (이태원역 1번 출구 도보 5분)",
+    "phone": "02-6789-0123",
+    "email": "info@greengarden.kr",
+    "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=%EA%B7%B8%EB%A6%B0%EA%B0%80%EB%93%A0",
+    "social": {
+      "instagram": "https://instagram.com/greengarden_salon"
+    }
+  }
+}

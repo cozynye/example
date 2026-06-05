@@ -1,0 +1,248 @@
+{
+  "id": 13,
+  "salonName": "EDIT",
+  "tagline": "당신을 편집하다",
+  "theme": "minimal",
+  "layout": {
+    "variant": "editorial",
+    "sectionOrder": [
+      "hero",
+      "gallery",
+      "stylist",
+      "about",
+      "services",
+      "contact",
+      "hours"
+    ]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1601597565151-70c4020dc0e1?auto=format&fit=crop&w=1920&q=80",
+    "title": "EDIT",
+    "subtitle": "당신을 편집하다",
+    "ctaButtons": {
+      "primary": {
+        "text": "BOOK NOW",
+        "action": "#contact"
+      },
+      "secondary": {
+        "text": "PORTFOLIO",
+        "action": "#gallery"
+      }
+    }
+  },
+  "about": {
+    "title": "Your Editorial",
+    "description": [
+      "EDIT는 한 사람의 이미지를 편집하는 살롱입니다.",
+      "잡지 화보를 만들 듯, 당신의 분위기와 서사를 읽고 스타일로 번역합니다.",
+      "평범한 헤어가 아닌, 한 페이지의 작품을 만듭니다."
+    ],
+    "image": "https://images.unsplash.com/photo-1587115924362-622c3fa065bd?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      {
+        "label": "Editorials",
+        "value": "300+"
+      },
+      {
+        "label": "Magazine Work",
+        "value": "40+"
+      },
+      {
+        "label": "Since",
+        "value": "2017"
+      }
+    ]
+  },
+  "stylist": {
+    "title": "Editor",
+    "stylists": [
+      {
+        "name": "정세라",
+        "role": "Hair Editor",
+        "experience": "13년 (에디토리얼/화보 전문)",
+        "specialties": [
+          "에디토리얼 스타일",
+          "화보 헤어",
+          "런웨이"
+        ],
+        "image": "https://images.unsplash.com/photo-1619218533116-f050e7d91d91?auto=format&fit=crop&w=800&h=800&q=80",
+        "education": [
+          "London College of Fashion",
+          "Vogue Hair Editorial Program",
+          "Paris Fashion Week Backstage"
+        ],
+        "awards": [
+          "2024 Editorial Hair of the Year",
+          "2023 Fashion Week Best Hair",
+          "2022 Magazine Cover Award"
+        ],
+        "social": {
+          "instagram": "https://instagram.com/edit_seoul"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Portfolio",
+    "categories": [
+      "ALL",
+      "EDITORIAL",
+      "RUNWAY",
+      "BEAUTY",
+      "AVANT"
+    ],
+    "images": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1669845472172-756164ac644d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Cover Story",
+        "category": "EDITORIAL"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1725114077889-d38ea6c4487d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Runway Look",
+        "category": "RUNWAY"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1655257431336-e0e931888261?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Beauty Shot",
+        "category": "BEAUTY"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1725114073768-b437fb81e26c?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Avant Garde",
+        "category": "AVANT"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1569444742899-c102bf169974?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Mono Editorial",
+        "category": "EDITORIAL"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1725114077712-a0ab079b1a8d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Catwalk",
+        "category": "RUNWAY"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1677358047272-fe64e0567c81?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Clean Beauty",
+        "category": "BEAUTY"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1779912217745-c4b2e7cd5aa4?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sculpture Hair",
+        "category": "AVANT"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1760518221657-4cc66c12f68b?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Studio Story",
+        "category": "EDITORIAL"
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "services": [
+      {
+        "category": "Editorial",
+        "items": [
+          {
+            "name": "에디토리얼 스타일링",
+            "description": "화보/촬영용",
+            "price": "200,000원~"
+          },
+          {
+            "name": "런웨이 헤어",
+            "description": "쇼/행사용",
+            "price": "250,000원~"
+          }
+        ]
+      },
+      {
+        "category": "Cut",
+        "items": [
+          {
+            "name": "에디터 컷",
+            "description": "이미지 컨설팅 포함",
+            "price": "75,000원"
+          },
+          {
+            "name": "시그니처 컷",
+            "description": "디렉터 디자인",
+            "price": "95,000원"
+          }
+        ]
+      },
+      {
+        "category": "Color",
+        "items": [
+          {
+            "name": "에디토리얼 컬러",
+            "description": "컨셉 맞춤",
+            "price": "160,000원~"
+          }
+        ]
+      },
+      {
+        "category": "Consulting",
+        "items": [
+          {
+            "name": "이미지 컨설팅",
+            "description": "1:1 분석 60분",
+            "price": "80,000원"
+          }
+        ]
+      }
+    ]
+  },
+  "hours": {
+    "title": "Hours",
+    "hours": [
+      {
+        "day": "TUE - FRI",
+        "time": "11:00 - 21:00"
+      },
+      {
+        "day": "SAT",
+        "time": "10:00 - 19:00"
+      },
+      {
+        "day": "SUN",
+        "time": "11:00 - 18:00"
+      }
+    ],
+    "closedDays": [
+      "MONDAY"
+    ],
+    "notes": [
+      "화보/촬영 출장 문의 환영",
+      "이미지 컨설팅은 별도 예약",
+      "브랜드 협업 가능"
+    ],
+    "bookingMethods": {
+      "phone": "02-1300-1317",
+      "naver": "https://booking.naver.com/booking/13/bizes/edit",
+      "kakao": "https://pf.kakao.com/_edit"
+    },
+    "parking": "인근 공영주차장 이용"
+  },
+  "contact": {
+    "title": "Location",
+    "address": "서울 성동구 연무장길 33 (성수역 2번 출구 도보 4분)",
+    "phone": "02-1300-1317",
+    "email": "studio@edit-seoul.kr",
+    "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=EDIT",
+    "social": {
+      "instagram": "https://instagram.com/edit_seoul",
+      "facebook": "https://facebook.com/editseoul"
+    }
+  }
+}
