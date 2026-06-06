@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-06T02:48:51.441Z",
+  "buildTime": "2026-06-06T08:42:46.750Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W23.md",
     "title": "2026-W23 주간 로그",
-    "content": "# 2026-W23 주간 로그\n\n\n## 자동 수집 (2026-06-05 PM 11:52:58)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-06-06 AM 11:48:41)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **4** |\n\n"
+    "content": "# 2026-W23 주간 로그\n\n\n## 자동 수집 (2026-06-05 PM 11:52:58)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-06-06 AM 11:48:41)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-06-06 PM 5:42:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 7 |\n| **합계** | **7** |\n\n"
   },
   "collected": [
     {
@@ -1139,6 +1139,76 @@
       "source": "producthunt",
       "title": "Recursi",
       "url": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "producthunt",
+      "title": "Gaming services by IFTTT",
+      "url": "https://www.producthunt.com/products/ifttt",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "producthunt",
+      "title": "Google Search Profiles",
+      "url": "https://www.producthunt.com/products/google",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "producthunt",
+      "title": "Navi+ Menu Builder",
+      "url": "https://www.producthunt.com/products/navi-menu-builder",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "producthunt",
+      "title": "MAI-Image-2.5",
+      "url": "https://www.producthunt.com/products/mai-image-2-5",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "producthunt",
+      "title": "Manus Shopify Connector",
+      "url": "https://www.producthunt.com/products/manus-shopify-connector",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "producthunt",
+      "title": "Fox Issue Tracker 4",
+      "url": "https://www.producthunt.com/products/fox-issue-tracker-4",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "producthunt",
+      "title": "QWERTYS",
+      "url": "https://www.producthunt.com/products/qwertys",
       "score": 0,
       "comments": 0,
       "subreddit": null,
