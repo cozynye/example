@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-06T08:42:46.750Z",
+  "buildTime": "2026-06-06T13:45:07.254Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W23.md",
     "title": "2026-W23 주간 로그",
-    "content": "# 2026-W23 주간 로그\n\n\n## 자동 수집 (2026-06-05 PM 11:52:58)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-06-06 AM 11:48:41)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-06-06 PM 5:42:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 7 |\n| **합계** | **7** |\n\n"
+    "content": "# 2026-W23 주간 로그\n\n\n## 자동 수집 (2026-06-05 PM 11:52:58)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-06-06 AM 11:48:41)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-06-06 PM 5:42:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 7 |\n| **합계** | **7** |\n\n\n## 자동 수집 (2026-06-06 PM 10:44:57)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n"
   },
   "collected": [
     {
@@ -1131,6 +1131,16 @@
       "url": "https://news.ycombinator.com/item?id=48414869",
       "score": 46,
       "comments": 14,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "hackernews",
+      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+      "score": 1,
+      "comments": 0,
       "subreddit": null,
       "description": ""
     },
@@ -1209,6 +1219,16 @@
       "source": "producthunt",
       "title": "QWERTYS",
       "url": "https://www.producthunt.com/products/qwertys",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "producthunt",
+      "title": "Treadmill Pro",
+      "url": "https://www.producthunt.com/products/treadmill-pro",
       "score": 0,
       "comments": 0,
       "subreddit": null,

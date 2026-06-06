@@ -171,7 +171,15 @@
     "https://www.producthunt.com/products/qwertys": {
       "date": "2026-06-06",
       "source": "producthunt"
+    },
+    "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer": {
+      "date": "2026-06-06",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/treadmill-pro": {
+      "date": "2026-06-06",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-06T08:42:36.818Z"
+  "lastRun": "2026-06-06T13:44:57.281Z"
 }

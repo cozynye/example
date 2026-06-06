@@ -19,3 +19,8 @@
 - **Score**: 118 | **Comments**: 43
 - **Source**: hackernews
 
+## Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)
+- **URL**: https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer
+- **Score**: 1
+- **Source**: hackernews
+
