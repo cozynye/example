@@ -127,7 +127,23 @@
     "https://www.producthunt.com/products/ideogram-4-0": {
       "date": "2026-06-05",
       "source": "producthunt"
+    },
+    "https://news.ycombinator.com/item?id=48414869": {
+      "date": "2026-06-06",
+      "source": "hackernews"
+    },
+    "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341": {
+      "date": "2026-06-06",
+      "source": "hackernews"
+    },
+    "https://www.githubstatus.com/incidents/2nmfnbknhlnv": {
+      "date": "2026-06-06",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env": {
+      "date": "2026-06-06",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-05T14:52:58.611Z"
+  "lastRun": "2026-06-06T02:48:41.536Z"
 }

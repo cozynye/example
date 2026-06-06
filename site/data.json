@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-05T14:53:08.498Z",
+  "buildTime": "2026-06-06T02:48:51.441Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W23.md",
     "title": "2026-W23 주간 로그",
-    "content": "# 2026-W23 주간 로그\n\n\n## 자동 수집 (2026-06-05 PM 11:52:58)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n"
+    "content": "# 2026-W23 주간 로그\n\n\n## 자동 수집 (2026-06-05 PM 11:52:58)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-06-06 AM 11:48:41)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **4** |\n\n"
   },
   "collected": [
     {
@@ -1101,6 +1101,46 @@
       "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
       "score": 285,
       "comments": 256,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "hackernews",
+      "title": "South Korean forums will need to scan every images with AI censorship tools",
+      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "score": 225,
+      "comments": 135,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "hackernews",
+      "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
+      "url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
+      "score": 118,
+      "comments": 43,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "hackernews",
+      "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+      "url": "https://news.ycombinator.com/item?id=48414869",
+      "score": 46,
+      "comments": 14,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-06",
+      "source": "producthunt",
+      "title": "Recursi",
+      "url": "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env",
+      "score": 0,
+      "comments": 0,
       "subreddit": null,
       "description": ""
     },
