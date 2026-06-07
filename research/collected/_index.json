@@ -179,7 +179,27 @@
     "https://www.producthunt.com/products/treadmill-pro": {
       "date": "2026-06-06",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/wave-16": {
+      "date": "2026-06-07",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/google-labs": {
+      "date": "2026-06-07",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/cabinlink": {
+      "date": "2026-06-07",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/smmall-cloud": {
+      "date": "2026-06-07",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/free-job-postings-api": {
+      "date": "2026-06-07",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-07T03:32:22.023Z"
+  "lastRun": "2026-06-07T09:26:59.307Z"
 }
