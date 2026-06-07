@@ -199,7 +199,11 @@
     "https://www.producthunt.com/products/free-job-postings-api": {
       "date": "2026-06-07",
       "source": "producthunt"
+    },
+    "https://github.com/anthropics/claude-code/issues/65697": {
+      "date": "2026-06-07",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-06-07T09:26:59.307Z"
+  "lastRun": "2026-06-07T13:54:14.423Z"
 }
