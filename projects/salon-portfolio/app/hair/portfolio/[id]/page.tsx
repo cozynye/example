@@ -86,7 +86,7 @@ export default async function PortfolioDetailPage({
 
     switch (sectionType) {
       case 'hero':
-        return <HeroSection key="hero" data={portfolio.hero} layoutVariant={layoutVariant} />;
+        return <HeroSection key="hero" data={portfolio.hero} layoutVariant={layoutVariant} theme={portfolio.theme} />;
       case 'about':
         return <AboutSection key="about" data={portfolio.about} layoutVariant={layoutVariant} />;
       case 'stylist':

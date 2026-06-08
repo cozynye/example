@@ -28,7 +28,7 @@ export default function ServicesSection({ data, layoutVariant = 'classic' }: Ser
   const dark = isDarkLayout(variant);
 
   const itemBorder = dark ? 'border-white/15' : 'border-[var(--color-light-gray)]';
-  const priceColor = dark ? 'text-[var(--color-accent)]' : 'text-[var(--color-primary)]';
+  const priceColor = dark ? 'text-[var(--color-accent)]' : 'text-[var(--color-primary-dark)]';
 
   // 가격 항목 리스트 공통
   const renderItems = (items: ServiceCategory['items']) => (
@@ -169,7 +169,7 @@ export default function ServicesSection({ data, layoutVariant = 'classic' }: Ser
                 key={i}
                 className={`bg-white rounded-[var(--radius-xl)] p-8 shadow-[var(--shadow-lg)] border-t-4 ${accents[i % accents.length]}`}
               >
-                <h3 className="text-2xl font-bold mb-6 text-[var(--color-primary)]">{category.category}</h3>
+                <h3 className="text-2xl font-bold mb-6 text-[var(--color-primary-dark)]">{category.category}</h3>
                 {renderItems(category.items)}
               </div>
             ))}
@@ -191,11 +191,11 @@ export default function ServicesSection({ data, layoutVariant = 'classic' }: Ser
           {data.services.map((category, i) => (
             <div key={i} className={`${getCardClass(variant)} p-8`}>
               {variant === 'magazine' && (
-                <span className="block text-4xl font-black text-[var(--color-primary)] opacity-20 leading-none mb-3">
+                <span className="block text-4xl font-black text-[var(--color-primary-dark)] opacity-20 leading-none mb-3">
                   {String(i + 1).padStart(2, '0')}
                 </span>
               )}
-              <h3 className="text-2xl font-bold mb-6 text-[var(--color-primary)]">{category.category}</h3>
+              <h3 className="text-2xl font-bold mb-6 text-[var(--color-primary-dark)]">{category.category}</h3>
               {renderItems(category.items)}
             </div>
           ))}

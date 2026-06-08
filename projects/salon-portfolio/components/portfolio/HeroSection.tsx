@@ -7,9 +7,10 @@ import { Reveal, Parallax, GlowField, Marquee, Stagger, StaggerItem } from '../u
 interface HeroSectionProps {
   data: HeroData;
   layoutVariant?: LayoutVariant;
+  theme?: string; // 같은 variant를 쓰는 포트폴리오를 테마로 구조 분리 (fullscreen: luxury↔bold, layered: soft↔earth)
 }
 
-export default function HeroSection({ data, layoutVariant = 'classic' }: HeroSectionProps) {
+export default function HeroSection({ data, layoutVariant = 'classic', theme }: HeroSectionProps) {
   // Magazine Layout (Trendy - Portfolio 1)
   if (layoutVariant === 'magazine') {
     return (
@@ -19,7 +20,7 @@ export default function HeroSection({ data, layoutVariant = 'classic' }: HeroSec
         </div>
         <div className="flex items-center justify-center p-8 md:p-12 order-1 md:order-2 bg-[var(--color-background)]">
           <div className="max-w-md">
-            <h1 className="text-5xl md:text-6xl font-bold mb-4 text-[var(--color-text)]">{data.title}</h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-4 text-[var(--color-text-primary)]">{data.title}</h1>
             <p className="text-xl md:text-2xl mb-8 text-[var(--color-text-secondary)]">{data.subtitle}</p>
             <div className="flex flex-col gap-4">
               <Button href={data.ctaButtons.primary.action} size="large">{data.ctaButtons.primary.text}</Button>
@@ -39,7 +40,7 @@ export default function HeroSection({ data, layoutVariant = 'classic' }: HeroSec
           <Image src={data.backgroundImage} alt={data.title} fill sizes="100vw" className="object-cover" priority quality={90} />
         </div>
         <div className="relative z-10 text-center px-6 max-w-5xl mx-auto">
-          <h1 className="text-6xl md:text-7xl lg:text-8xl font-light mb-6 text-[var(--color-text)]">{data.title}</h1>
+          <h1 className="text-6xl md:text-7xl lg:text-8xl font-light mb-6 text-[var(--color-text-primary)]">{data.title}</h1>
           <p className="text-2xl md:text-3xl text-[var(--color-text-secondary)]">{data.subtitle}</p>
         </div>
       </section>
@@ -58,17 +59,29 @@ export default function HeroSection({ data, layoutVariant = 'classic' }: HeroSec
     );
   }
 
-  // Fullscreen Layout (Luxury - Portfolio 7)
+  // Fullscreen Layout — 같은 fullscreen variant를 P7(luxury)·P9(bold)가 공유했던 '쌍둥이' 문제를
+  // theme으로 구조 분리: luxury=세리프 우아함 / bold=헤비 산세리프 강렬함.
   if (layoutVariant === 'fullscreen') {
+    const isBold = theme === 'bold';
     return (
       <section className="relative h-screen min-h-[600px]">
         <div className="absolute inset-0">
-          <Image src={data.backgroundImage} alt={data.title} fill sizes="100vw" className="object-cover" priority quality={90} />
-          <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/60" />
+          <Image src={data.backgroundImage} alt={data.title} fill sizes="100vw" className={`object-cover ${isBold ? 'contrast-110' : ''}`} priority quality={90} />
+          <div className={`absolute inset-0 ${isBold ? 'bg-gradient-to-t from-black/85 via-black/35 to-black/55' : 'bg-gradient-to-b from-black/60 via-black/40 to-black/60'}`} />
         </div>
-        <div className="relative z-10 h-full flex flex-col items-center justify-center text-center text-white px-6 max-w-4xl mx-auto">
-          <h1 className="text-6xl md:text-7xl lg:text-8xl font-serif font-light mb-8">{data.title}</h1>
-          <p className="text-2xl md:text-3xl mb-12 font-light tracking-wide">{data.subtitle}</p>
+        <div className="relative z-10 h-full flex flex-col items-center justify-center text-center text-white px-6 max-w-5xl mx-auto">
+          {isBold ? (
+            <>
+              <span className="block text-sm md:text-base font-black tracking-[0.4em] uppercase text-[var(--color-primary)] mb-6">Bold Studio</span>
+              <h1 className="text-7xl md:text-9xl font-black uppercase tracking-tighter leading-[0.82] mb-8">{data.title}</h1>
+              <p className="text-2xl md:text-3xl mb-12 font-bold uppercase tracking-wide">{data.subtitle}</p>
+            </>
+          ) : (
+            <>
+              <h1 className="text-6xl md:text-7xl lg:text-8xl font-serif font-light mb-8">{data.title}</h1>
+              <p className="text-2xl md:text-3xl mb-12 font-light tracking-wide">{data.subtitle}</p>
+            </>
+          )}
           <div className="flex flex-col sm:flex-row gap-6">
             <Button href={data.ctaButtons.primary.action} size="large" className="min-w-[200px]">{data.ctaButtons.primary.text}</Button>
             <Button href={data.ctaButtons.secondary.action} variant="secondary" size="large" className="!text-white !border-white hover:!bg-white/20 min-w-[200px]">{data.ctaButtons.secondary.text}</Button>
@@ -187,7 +200,97 @@ export default function HeroSection({ data, layoutVariant = 'classic' }: HeroSec
     );
   }
 
-  // Default: Classic Layout
+  // Classic Layout (P3) — 좌우 2단, 세리프 + 골드 룰, 격조있는 전통
+  if (layoutVariant === 'classic') {
+    return (
+      <section className="grid md:grid-cols-2 h-screen min-h-[600px]">
+        <div className="relative hidden md:block">
+          <Image src={data.backgroundImage} alt={data.title} fill sizes="50vw" className="object-cover" priority quality={90} />
+          <div className="absolute inset-0 bg-black/10" />
+        </div>
+        <div className="flex flex-col items-center justify-center text-center p-10 md:p-16 bg-[var(--color-background)]">
+          <div className="w-12 h-px bg-[var(--color-accent)] mb-8" />
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold mb-6 tracking-tight text-[var(--color-text-primary)]">{data.title}</h1>
+          <p className="text-lg md:text-xl mb-10 max-w-md text-[var(--color-text-secondary)]">{data.subtitle}</p>
+          <div className="w-12 h-px bg-[var(--color-accent)] mb-10" />
+          <div className="flex flex-col sm:flex-row gap-4">
+            <Button href={data.ctaButtons.primary.action} size="large">{data.ctaButtons.primary.text}</Button>
+            <Button href={data.ctaButtons.secondary.action} variant="secondary" size="large">{data.ctaButtons.secondary.text}</Button>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  // Organic Layout (P6) — 곡선 오프셋 이미지 + 자연주의
+  if (layoutVariant === 'organic') {
+    return (
+      <section className="relative min-h-screen flex flex-col items-center justify-center overflow-hidden bg-[var(--color-light-gray)] py-20 px-6">
+        <Reveal className="text-center max-w-3xl mx-auto mb-12">
+          <span className="block text-sm font-semibold tracking-[0.25em] uppercase text-[var(--color-primary)] mb-5">Natural Beauty</span>
+          <h1 className="text-5xl md:text-7xl font-medium tracking-tight mb-6 text-[var(--color-text-primary)]">{data.title}</h1>
+          <p className="text-xl md:text-2xl mb-8 text-[var(--color-text-secondary)]">{data.subtitle}</p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <Button href={data.ctaButtons.primary.action} size="large">{data.ctaButtons.primary.text}</Button>
+            <Button href={data.ctaButtons.secondary.action} variant="secondary" size="large">{data.ctaButtons.secondary.text}</Button>
+          </div>
+        </Reveal>
+        <Reveal delay={0.15} className="w-full max-w-4xl">
+          <div className="relative aspect-[16/10] overflow-hidden rounded-tl-[120px] rounded-br-[120px] rounded-tr-[24px] rounded-bl-[24px] shadow-[var(--shadow-xl)]">
+            <Image src={data.backgroundImage} alt={data.title} fill sizes="100vw" className="object-cover" priority quality={90} />
+          </div>
+        </Reveal>
+      </section>
+    );
+  }
+
+  // Layered Layout (P8 soft / P10 earth) — 겹치는 카드. theme으로 좌우 미러링 분리.
+  if (layoutVariant === 'layered') {
+    const isEarth = theme === 'earth';
+    return (
+      <section className={`relative min-h-screen flex items-center overflow-hidden py-20 ${isEarth ? 'bg-[var(--color-light-gray)]' : 'bg-[var(--color-background)]'}`}>
+        <div className="grid md:grid-cols-12 items-center w-full max-w-6xl mx-auto px-6">
+          <div className={`relative md:col-span-7 aspect-[4/5] md:aspect-[3/4] overflow-hidden shadow-[var(--shadow-xl)] rounded-[var(--radius-xl)] ${isEarth ? 'md:order-2' : ''}`}>
+            <Image src={data.backgroundImage} alt={data.title} fill sizes="60vw" className="object-cover" priority quality={90} />
+          </div>
+          <div className={`relative md:col-span-5 z-10 bg-[var(--color-background)] p-8 md:p-12 shadow-[var(--shadow-lg)] rounded-[var(--radius-xl)] ${isEarth ? 'md:-mr-20 md:order-1' : 'md:-ml-20'}`}>
+            <span className="block text-sm font-semibold tracking-[0.2em] uppercase text-[var(--color-primary)] mb-4">{isEarth ? 'Grounded' : 'Soft Touch'}</span>
+            <h1 className="text-4xl md:text-6xl font-bold mb-5 leading-tight text-[var(--color-text-primary)]">{data.title}</h1>
+            <p className="text-lg md:text-xl mb-8 text-[var(--color-text-secondary)]">{data.subtitle}</p>
+            <div className="flex flex-col sm:flex-row gap-4">
+              <Button href={data.ctaButtons.primary.action} size="large">{data.ctaButtons.primary.text}</Button>
+              <Button href={data.ctaButtons.secondary.action} variant="secondary" size="large">{data.ctaButtons.secondary.text}</Button>
+            </div>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  // Card Layout (P5) — bento 컬러블록 타일
+  if (layoutVariant === 'card') {
+    return (
+      <section className="min-h-screen flex items-center bg-[var(--color-light-gray)] py-20 px-6">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 w-full max-w-6xl mx-auto auto-rows-[minmax(140px,1fr)]">
+          <div className="col-span-2 row-span-2 bg-[var(--color-primary)] text-white rounded-[var(--radius-xl)] p-8 md:p-10 flex flex-col justify-between">
+            <span className="text-sm font-semibold tracking-[0.2em] uppercase opacity-80">Color Studio</span>
+            <div>
+              <h1 className="text-4xl md:text-6xl font-bold mb-4 leading-tight">{data.title}</h1>
+              <p className="text-lg md:text-xl opacity-90">{data.subtitle}</p>
+            </div>
+          </div>
+          <div className="col-span-2 row-span-2 relative rounded-[var(--radius-xl)] overflow-hidden">
+            <Image src={data.backgroundImage} alt={data.title} fill sizes="50vw" className="object-cover" priority quality={90} />
+          </div>
+          <a href={data.ctaButtons.primary.action} className="col-span-1 bg-[var(--color-accent)] rounded-[var(--radius-xl)] p-6 flex items-end font-bold text-[var(--color-text-primary)] transition-transform hover:scale-[0.98]">{data.ctaButtons.primary.text}</a>
+          <a href={data.ctaButtons.secondary.action} className="col-span-1 bg-[var(--color-secondary)] text-white rounded-[var(--radius-xl)] p-6 flex items-end font-bold transition-transform hover:scale-[0.98]">{data.ctaButtons.secondary.text}</a>
+          <div className="col-span-2 bg-white rounded-[var(--radius-xl)] p-6 flex items-center justify-center text-sm tracking-[0.2em] uppercase text-[var(--color-text-secondary)]">Vivid · Bold · You</div>
+        </div>
+      </section>
+    );
+  }
+
+  // Default: Classic-style fallback (정의되지 않은 variant 대비)
   return (
     <section className="relative h-screen min-h-[600px] flex items-center justify-center overflow-hidden">
       {/* Background Image */}

@@ -42,15 +42,23 @@ export default function ContactSection({ data, layoutVariant = 'classic' }: Cont
   const heading = getHeadingClass(variant);
   const dark = isDarkLayout(variant);
 
-  const accentColor = dark ? 'text-[var(--color-accent)]' : 'text-[var(--color-primary)]';
+  const accentColor = dark ? 'text-[var(--color-accent)]' : 'text-[var(--color-primary-dark)]';
   const socialBtnClass = dark
     ? 'bg-white/10 text-white hover:bg-white hover:text-black'
     : 'bg-[var(--color-primary)] text-white hover:opacity-80';
 
+  // map.kakao.com 일반 URL은 X-Frame-Options로 iframe 임베드가 차단되어 빈 박스로 렌더된다.
+  // 주소 기반 Google Maps 임베드(API 키 불필요)로 지도를 실제 표시한다.
+  // data.mapUrl(카카오맵 링크)은 아래 "지도에서 보기 →" 버튼에서 새 탭으로 계속 활용.
+  const mapEmbedSrc = `https://maps.google.com/maps?q=${encodeURIComponent(
+    data.address || '서울 강남구 압구정로'
+  )}&z=16&hl=ko&output=embed`;
+
   const mapBlock = (
     <div className="h-[400px] md:h-[500px] rounded-[var(--radius-xl)] overflow-hidden shadow-[var(--shadow-md)]">
       <iframe
-        src={data.mapUrl}
+        title={`위치 지도${data.address ? ` - ${data.address}` : ''}`}
+        src={mapEmbedSrc}
         width="100%"
         height="100%"
         style={{ border: 0 }}

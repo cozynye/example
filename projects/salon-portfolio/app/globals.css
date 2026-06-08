@@ -11,7 +11,9 @@
 
   /* Text Colors (공통 사용) */
   --color-text-primary: #1D1D1F;
-  --color-text-secondary: #86868B;
+  /* 본문/보조 텍스트 — WCAG AA 준수: #6B6B70 (흰 배경 ≈5.2:1, 회색 #F5F5F7 ≈4.7:1).
+     기존 #86868B는 ~3.6:1로 AA(4.5:1) 미달이라 전 라이트 테마 본문이 위반이었음. */
+  --color-text-secondary: #6B6B70;
   --color-text-tertiary: #D2D2D7;
 
   /* Semantic Colors (공통 사용) */
@@ -22,6 +24,9 @@
   /* Theme Colors (기본값 - Apple Style) */
   --color-primary: #0071E3;
   --color-primary-hover: #0077ED;
+  /* 라이트 배경 위 강조/가격 텍스트용 — WCAG AA(4.5:1) 보장값. 기본은 primary와 동일,
+     파스텔/저대비 테마만 아래에서 어둡게 오버라이드한다. */
+  --color-primary-dark: var(--color-primary);
   --color-secondary: #86868B;
   --color-accent: #FFD60A;
 
@@ -107,6 +112,7 @@ html {
 [data-theme="apple"] {
   --color-primary: #0071E3;
   --color-primary-hover: #0077ED;
+  --color-primary-dark: #0062C4;
   --color-secondary: #86868B;
   --color-accent: #FFD60A;
 }
@@ -115,6 +121,7 @@ html {
 [data-theme="trendy"] {
   --color-primary: #FF6B9D;
   --color-primary-hover: #FF5A8F;
+  --color-primary-dark: #C2185B;
   --color-secondary: #C44569;
   --color-accent: #FFC371;
 }
@@ -139,6 +146,7 @@ html {
 [data-theme="vibrant"] {
   --color-primary: #FF6347;
   --color-primary-hover: #FF7F66;
+  --color-primary-dark: #CC3A1F;
   --color-secondary: #8A2BE2;
   --color-accent: #FFD700;
 }
@@ -147,6 +155,7 @@ html {
 [data-theme="nature"] {
   --color-primary: #2E7D32;
   --color-primary-hover: #388E3C;
+  --color-primary-dark: #1B5E20;
   --color-secondary: #8D6E63;
   --color-accent: #FDD835;
 }
@@ -165,6 +174,7 @@ html {
 [data-theme="soft"] {
   --color-primary: #B39DDB;
   --color-primary-hover: #C5B4E3;
+  --color-primary-dark: #6D4BB0;
   --color-secondary: #F8BBD0;
   --color-accent: #FFE082;
 }
@@ -173,6 +183,7 @@ html {
 [data-theme="bold"] {
   --color-primary: #E91E63;
   --color-primary-hover: #F06292;
+  --color-primary-dark: #C2185B;
   --color-secondary: #2196F3;
   --color-accent: #FFC107;
 }
@@ -199,6 +210,7 @@ html {
 [data-theme="ink"] {
   --color-primary: #C9A24B;
   --color-primary-hover: #D8B45E;
+  --color-primary-dark: #8A6D1A;
   --color-secondary: #1A1A1A;
   --color-accent: #C9A24B;
 }

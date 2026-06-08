@@ -15,12 +15,15 @@ interface GallerySectionProps {
 
 export default function GallerySection({ data, layoutVariant = 'classic' }: GallerySectionProps) {
   const variant = layoutVariant;
-  const [activeCategory, setActiveCategory] = useState('전체');
+  // categories[0]을 "전체 보기" sentinel로 사용 — 라벨이 '전체'든 'ALL'이든 동작.
+  // (직접 '전체' 리터럴에 의존하면 영문 카테고리 포트폴리오에서 ALL 클릭 시 0장 매칭 버그 발생)
+  const allLabel = data.categories[0] ?? '전체';
+  const [activeCategory, setActiveCategory] = useState(allLabel);
   const dark = isDarkLayout(variant);
   const text = getTextColors(variant);
 
   const filteredImages =
-    activeCategory === '전체'
+    activeCategory === allLabel
       ? data.images
       : data.images.filter((img) => img.category === activeCategory);
 
@@ -58,7 +61,7 @@ export default function GallerySection({ data, layoutVariant = 'classic' }: Gall
 
   // 개별 타일 클래스 (aspect/radius/오프셋)
   const getTileClass = (idx: number) => {
-    const base = 'group relative overflow-hidden cursor-pointer rounded-[var(--radius-lg)]';
+    const base = 'group relative overflow-hidden rounded-[var(--radius-lg)]';
     switch (variant) {
       case 'magazine':
         return `${base} break-inside-avoid aspect-[3/4]`;

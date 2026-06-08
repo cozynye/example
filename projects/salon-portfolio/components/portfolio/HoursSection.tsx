@@ -41,7 +41,7 @@ export default function HoursSection({ data, layoutVariant = 'classic' }: HoursS
   const heading = getHeadingClass(variant);
   const dark = isDarkLayout(variant);
 
-  const accentColor = dark ? 'text-[var(--color-accent)]' : 'text-[var(--color-primary)]';
+  const accentColor = dark ? 'text-[var(--color-accent)]' : 'text-[var(--color-primary-dark)]';
   const boxClass = dark
     ? 'bg-white/5 rounded-[var(--radius-lg)] p-8'
     : variant === 'card'

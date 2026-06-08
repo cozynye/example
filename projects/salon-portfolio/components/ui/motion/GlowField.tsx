@@ -1,7 +1,7 @@
 'use client';
 
 import { useRef, useState } from 'react';
-import { motion, useMotionValue, useSpring } from 'motion/react';
+import { motion, useMotionValue, useSpring, useReducedMotion } from 'motion/react';
 
 // aurora: 마우스를 따라다니는 네온 글로우.
 // 초기값 0,0 (SSR=CSR 동일 → hydration mismatch 없음).
@@ -13,6 +13,10 @@ export default function GlowField({ className }: { className?: string }) {
   const sy = useSpring(y, { stiffness: 60, damping: 20 });
   const ref = useRef<HTMLDivElement>(null);
   const [active, setActive] = useState(false);
+  const prefersReduced = useReducedMotion();
+
+  // 장식용 마우스 추적 글로우 — 모션 최소화 선호 시 비활성(움직이는 요소 제거).
+  if (prefersReduced) return null;
 
   const handleMove = (e: React.MouseEvent<HTMLDivElement>) => {
     const rect = ref.current?.getBoundingClientRect();

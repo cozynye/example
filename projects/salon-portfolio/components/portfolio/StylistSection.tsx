@@ -37,7 +37,7 @@ export default function StylistSection({ data, layoutVariant = 'classic' }: Styl
   const chipClass = dark
     ? 'bg-white/10 text-white'
     : 'bg-[var(--color-light-gray)] text-[var(--color-text-primary)]';
-  const roleClass = dark ? 'text-[var(--color-accent)]' : 'text-[var(--color-primary)]';
+  const roleClass = dark ? 'text-[var(--color-accent)]' : 'text-[var(--color-primary-dark)]';
 
   const renderSpecialties = (stylist: Stylist, center = false) => (
     <div className="mb-6">
