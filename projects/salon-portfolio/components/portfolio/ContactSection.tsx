@@ -120,7 +120,20 @@ export default function ContactSection({ data, layoutVariant = 'classic' }: Cont
         </div>
       )}
       <div className={center ? 'flex justify-center' : ''}>{renderSocial(center)}</div>
-      <div className={`pt-8 ${center ? 'flex justify-center' : ''}`}>
+      <div className={`flex flex-col gap-3 pt-8 sm:flex-row ${center ? 'justify-center' : ''}`}>
+        {data.naverBooking && (
+          <a
+            href={data.naverBooking}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center justify-center gap-2 rounded-[var(--radius-full)] bg-[#03C75A] px-8 py-4 text-base font-bold text-white transition-transform hover:scale-[0.97]"
+          >
+            <span className="flex h-5 w-5 items-center justify-center rounded bg-white text-xs font-black text-[#03C75A]">
+              N
+            </span>
+            네이버 예약
+          </a>
+        )}
         <Button href={`tel:${data.phone.replace(/-/g, '')}`} size="large">
           전화로 예약하기
         </Button>

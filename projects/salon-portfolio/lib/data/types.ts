@@ -147,6 +147,7 @@ export interface ContactSection {
   phone: string;
   email?: string;
   mapUrl: string;
+  naverBooking?: string;
   social?: {
     instagram?: string;
     facebook?: string;

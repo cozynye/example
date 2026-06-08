@@ -243,6 +243,7 @@
     "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=%EB%A5%B4%EB%A4%BD%EC%8A%A4%EC%82%B4%EB%A1%B1",
     "social": {
       "instagram": "https://instagram.com/leluxe_salon"
-    }
+    },
+    "naverBooking": "https://booking.naver.com"
   }
 }

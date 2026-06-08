@@ -239,6 +239,7 @@
     "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=OBJET",
     "social": {
       "instagram": "https://instagram.com/objet_hair"
-    }
+    },
+    "naverBooking": "https://booking.naver.com"
   }
 }

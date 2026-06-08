@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { SITE } from '@/lib/site-config';
+import ShareButton from '@/components/site/ShareButton';
 import HeroSection from '@/components/portfolio/HeroSection';
 import AboutSection from '@/components/portfolio/AboutSection';
 import StylistSection from '@/components/portfolio/StylistSection';
@@ -143,6 +144,29 @@ export default async function PortfolioDetailPage({
             </Link>
           </div>
           <p className="mt-6 text-sm text-white/40">카톡 1일 내 답변 · 계약 전 시안 확인 · 1차 무료 수정</p>
+
+          {/* 데모 간 이동 + 공유 */}
+          <div className="mt-10 flex flex-wrap items-center justify-center gap-x-6 gap-y-3 border-t border-white/10 pt-8 text-sm">
+            <Link
+              href={`/hair/portfolio/${Number(id) <= 1 ? 15 : Number(id) - 1}`}
+              className="text-white/60 transition-colors hover:text-white"
+            >
+              ← 이전 디자인
+            </Link>
+            <Link
+              href="/hair/portfolio"
+              className="font-semibold text-white/80 transition-colors hover:text-white"
+            >
+              전체 디자인 보기
+            </Link>
+            <Link
+              href={`/hair/portfolio/${Number(id) >= 15 ? 1 : Number(id) + 1}`}
+              className="text-white/60 transition-colors hover:text-white"
+            >
+              다음 디자인 →
+            </Link>
+            <ShareButton title={`${portfolio.salonName} · 미용실 홈페이지 디자인`} />
+          </div>
         </div>
       </section>
     </>

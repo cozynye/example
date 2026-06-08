@@ -235,6 +235,7 @@
     "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=NOIR",
     "social": {
       "instagram": "https://instagram.com/noir_atelier"
-    }
+    },
+    "naverBooking": "https://booking.naver.com"
   }
 }

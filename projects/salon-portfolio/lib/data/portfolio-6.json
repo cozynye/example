@@ -242,6 +242,7 @@
     "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=%EA%B7%B8%EB%A6%B0%EA%B0%80%EB%93%A0",
     "social": {
       "instagram": "https://instagram.com/greengarden_salon"
-    }
+    },
+    "naverBooking": "https://booking.naver.com"
   }
 }

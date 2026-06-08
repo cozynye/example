@@ -215,6 +215,7 @@
     "mapUrl": "https://map.kakao.com/?urlX=498852&urlY=1131528&name=%EB%B8%94%EB%9E%99%EC%95%A4%ED%99%94%EC%9D%B4%ED%8A%B8",
     "social": {
       "instagram": "https://instagram.com/blackandwhite_salon"
-    }
+    },
+    "naverBooking": "https://booking.naver.com"
   }
 }
