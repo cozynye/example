@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import type { Metadata } from 'next';
 import { Reveal, Stagger, StaggerItem, Marquee } from '@/components/ui/motion';
+import { SITE } from '@/lib/site-config';
 
 export const metadata: Metadata = {
   title: 'Make',
@@ -93,9 +94,14 @@ export default function Home() {
                 <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent" />
               </div>
               <div className="absolute inset-x-0 bottom-0 p-8 md:p-12">
-                <span className="mb-4 inline-block rounded-full bg-pink-500 px-3 py-1 text-xs font-bold text-white">
-                  {s.badge}
-                </span>
+                <div className="mb-4 flex flex-wrap items-center gap-2">
+                  <span className="inline-block rounded-full bg-pink-500 px-3 py-1 text-xs font-bold text-white">
+                    {s.badge}
+                  </span>
+                  <span className="inline-block rounded-full bg-white/15 px-3 py-1 text-xs font-bold text-white backdrop-blur">
+                    {SITE.price.base} · 3일 제작
+                  </span>
+                </div>
                 <h3 className="mb-3 text-5xl font-black tracking-tight md:text-7xl">{s.name}</h3>
                 <p className="mb-6 max-w-md text-lg text-white/70">{s.desc}</p>
                 <span className="inline-flex items-center gap-2 text-lg font-bold text-pink-300 transition-all group-hover:gap-4">
@@ -128,6 +134,85 @@ export default function Home() {
             </StaggerItem>
           ))}
         </Stagger>
+      </section>
+
+      {/* 오퍼: 가격 · 포함 · 과정 */}
+      <section id="offer" className="relative border-t border-white/10 px-6 py-20 md:py-28">
+        <div className="mx-auto max-w-5xl">
+          <Reveal className="mb-14 text-center">
+            <h2 className="text-3xl font-bold tracking-tight md:text-5xl">미용실 홈페이지, 이 가격에</h2>
+            <p className="mt-4 text-white/50">복잡한 견적 없이 — 처음부터 가격을 공개합니다.</p>
+          </Reveal>
+
+          <div className="mb-16 grid items-start gap-6 md:grid-cols-[1.1fr_0.9fr]">
+            <Reveal>
+              <div className="rounded-3xl border border-white/10 bg-white/[0.03] p-8 md:p-10">
+                <div className="flex items-end gap-3">
+                  <span className="whitespace-nowrap bg-gradient-to-r from-pink-400 to-indigo-400 bg-clip-text text-5xl font-black text-transparent md:text-6xl">
+                    {SITE.price.base}
+                  </span>
+                  <span className="mb-2 text-white/50">{SITE.price.baseNote}</span>
+                </div>
+                <div className="mt-3 inline-block rounded-full bg-pink-500/15 px-3 py-1 text-sm font-bold text-pink-300">
+                  🎉 {SITE.price.promo}
+                </div>
+                <ul className="mt-6 space-y-2 text-white/70">
+                  {SITE.price.options.map((o) => (
+                    <li key={o.name} className="flex justify-between border-b border-white/5 pb-2">
+                      <span>{o.name}</span>
+                      <span className="font-semibold text-white">{o.price}</span>
+                    </li>
+                  ))}
+                  <li className="flex justify-between">
+                    <span>유지보수</span>
+                    <span className="font-semibold text-white">{SITE.price.maintenance}</span>
+                  </li>
+                </ul>
+              </div>
+            </Reveal>
+            <Reveal delay={0.1}>
+              <div className="rounded-3xl border border-white/10 bg-white/[0.03] p-8 md:p-10">
+                <h3 className="mb-5 text-lg font-bold">기본 포함</h3>
+                <ul className="space-y-3">
+                  {SITE.features.map((f) => (
+                    <li key={f} className="flex items-center gap-3 text-white/80">
+                      <span className="text-pink-400">✓</span>
+                      {f}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </Reveal>
+          </div>
+
+          <Reveal className="mb-10 text-center">
+            <h3 className="text-2xl font-bold md:text-3xl">3일이면 끝납니다</h3>
+            <p className="mt-3 text-white/50">매장 사진 몇 장과 가격표만 주세요. 없으면 함께 준비해 드립니다.</p>
+          </Reveal>
+          <Stagger className="mb-14 grid gap-5 md:grid-cols-3">
+            {SITE.process.map((p) => (
+              <StaggerItem key={p.step}>
+                <div className="h-full rounded-2xl border border-white/10 bg-white/[0.02] p-6">
+                  <div className="text-4xl font-black text-white/15">0{p.step}</div>
+                  <div className="mt-2 text-lg font-bold">{p.title}</div>
+                  <p className="mt-2 text-sm text-white/55">{p.desc}</p>
+                </div>
+              </StaggerItem>
+            ))}
+          </Stagger>
+
+          <Reveal className="text-center">
+            <a
+              href={SITE.contact.kakaoUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 rounded-full bg-[#FEE500] px-8 py-4 text-base font-bold text-[#3C1E1E] transition-transform hover:scale-[0.97]"
+            >
+              카톡으로 1분 문의
+            </a>
+            <p className="mt-4 text-sm text-white/40">카톡 1일 내 답변 · 계약 전 시안 확인 · 1차 무료 수정</p>
+          </Reveal>
+        </div>
       </section>
 
       {/* Footer */}

@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import Link from 'next/link';
+import { SITE } from '@/lib/site-config';
 import HeroSection from '@/components/portfolio/HeroSection';
 import AboutSection from '@/components/portfolio/AboutSection';
 import StylistSection from '@/components/portfolio/StylistSection';
@@ -105,8 +107,50 @@ export default async function PortfolioDetailPage({
   };
 
   return (
-    <div data-theme={portfolio.theme} data-layout={portfolio.layout.variant}>
-      {portfolio.layout.sectionOrder.map(renderSection)}
-    </div>
+    <>
+      {/* 데모 안내 배너 — '내 사진 없는데?' 불안 즉시 해소 */}
+      <div className="bg-zinc-900 px-4 py-2.5 text-center text-xs text-white/85 sm:text-sm">
+        ✏️ 이 페이지는 <strong className="text-white">디자인 예시</strong>입니다 — 사진·이름·가격·지도·예약은 모두 원장님 미용실 정보로 교체됩니다.
+      </div>
+
+      {/* 데모 */}
+      <div data-theme={portfolio.theme} data-layout={portfolio.layout.variant}>
+        {portfolio.layout.sectionOrder.map(renderSection)}
+      </div>
+
+      {/* 판매자 전환 섹션 — 데모와 명확히 분리된 'Make' 주문 CTA */}
+      <section className="bg-[#0a0a0f] px-6 py-20 text-center text-white md:py-28">
+        <div className="mx-auto max-w-2xl">
+          <span className="mb-5 inline-block rounded-full bg-pink-500/20 px-4 py-1.5 text-sm font-bold text-pink-300">
+            “{portfolio.salonName}” 디자인
+          </span>
+          <h2 className="mb-4 text-3xl font-black tracking-tight md:text-5xl">
+            이 디자인이 마음에 드세요?
+          </h2>
+          <p className="mb-8 text-lg text-white/65">
+            이 스타일 그대로 <strong className="text-white">원장님 미용실 사이트</strong>로 만들어 드립니다.
+            <br />
+            <strong className="text-white">{SITE.price.base}</strong> · 3일 제작 · 네이버·카카오맵·예약·인스타 연동 기본 포함.
+          </p>
+          <div className="flex flex-col items-center justify-center gap-3 sm:flex-row">
+            <a
+              href={SITE.contact.kakaoUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 rounded-full bg-[#FEE500] px-8 py-4 text-base font-bold text-[#3C1E1E] transition-transform hover:scale-[0.97]"
+            >
+              이 디자인으로 내 사이트 만들기
+            </a>
+            <Link
+              href="/hair/portfolio"
+              className="inline-flex items-center gap-2 rounded-full border border-white/20 px-8 py-4 text-base font-semibold text-white transition-colors hover:bg-white/10"
+            >
+              다른 디자인 보기
+            </Link>
+          </div>
+          <p className="mt-6 text-sm text-white/40">카톡 1일 내 답변 · 계약 전 시안 확인 · 1차 무료 수정</p>
+        </div>
+      </section>
+    </>
   );
 }
