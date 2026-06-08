@@ -42,18 +42,12 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${portfolio.salonName} | 미용실 포트폴리오`,
-    description: portfolio.tagline,
-    keywords: [
-      portfolio.salonName,
-      '미용실',
-      '헤어살롱',
-      '포트폴리오',
-      portfolio.theme,
-    ],
+    title: `${portfolio.salonName} · 미용실 홈페이지 디자인`,
+    description: `${portfolio.tagline} — 이 디자인으로 내 미용실 홈페이지를 50만원·3일에 만들어 드립니다.`,
+    keywords: [portfolio.salonName, '미용실 홈페이지', '헤어살롱 웹사이트', '미용실 사이트 제작', portfolio.theme],
     openGraph: {
-      title: `${portfolio.salonName} | 미용실 포트폴리오`,
-      description: portfolio.tagline,
+      title: `${portfolio.salonName} · 미용실 홈페이지 디자인 | Make`,
+      description: `${portfolio.tagline} — 50만원·3일 제작.`,
       images: [portfolio.hero.backgroundImage],
       type: 'website',
     },

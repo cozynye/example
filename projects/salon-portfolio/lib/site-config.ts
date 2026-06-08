@@ -7,6 +7,8 @@
 export const SITE = {
   serviceName: 'Make',
   tagline: '미용실 전용 홈페이지를 단 3일에',
+  // ⚠️ 실제 배포 도메인으로 교체 — OG 이미지/sitemap 절대경로 resolve에 사용
+  url: 'https://make-salon.vercel.app',
 
   // 가격 (기획서 기준 — 필요시 여기서만 수정)
   price: {

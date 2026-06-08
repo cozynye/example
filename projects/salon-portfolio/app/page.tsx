@@ -5,8 +5,8 @@ import { Reveal, Stagger, StaggerItem, Marquee } from '@/components/ui/motion';
 import { SITE } from '@/lib/site-config';
 
 export const metadata: Metadata = {
-  title: 'Make',
-  description: '업종에 딱 맞는 웹사이트를 단 3일에 — 미용실부터 시작합니다.',
+  title: { absolute: 'Make · 미용실 홈페이지 제작 50만원 · 3일' },
+  description: '업종에 딱 맞는 웹사이트를 단 3일에 — 미용실부터 시작합니다. 15가지 디자인 중에서 고르세요.',
 };
 
 // 업종 디렉토리 — active=true는 featured 카드로, false는 "준비 중" 그리드로 렌더.
