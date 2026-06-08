@@ -16,11 +16,12 @@ import { Reveal, Stagger, StaggerItem } from '../ui/motion';
 interface ServicesSectionProps {
   data: ServicesData;
   layoutVariant?: LayoutVariant;
+  theme?: string; // overlay 쌍둥이(P7 luxury↔P9 bold) 메뉴판 분리용
 }
 
 type ServiceCategory = ServicesData['services'][number];
 
-export default function ServicesSection({ data, layoutVariant = 'classic' }: ServicesSectionProps) {
+export default function ServicesSection({ data, layoutVariant = 'classic', theme }: ServicesSectionProps) {
   const variant = layoutVariant;
   const family = getLayoutFamily(variant);
   const text = getTextColors(variant);
@@ -102,18 +103,26 @@ export default function ServicesSection({ data, layoutVariant = 'classic' }: Ser
     );
   }
 
-  // ===== overlay (fullscreen): 어두운 럭셔리 메뉴판 =====
+  // ===== overlay (fullscreen): 어두운 메뉴판 — P7(luxury) 세리프 vs P9(bold) 강렬 분리 =====
   if (family === 'overlay') {
+    const isBold = theme === 'bold';
     return (
       <section id="services" className="bg-[var(--color-almost-black)] py-20 md:py-[80px]">
         <Container>
           <h2 className={`${heading} mb-16 text-center text-white`}>{data.title}</h2>
-          <div className="grid md:grid-cols-2 gap-x-16 gap-y-12 max-w-5xl mx-auto">
+          <div className={`grid md:grid-cols-2 gap-x-16 gap-y-12 max-w-5xl mx-auto ${isBold ? 'md:gap-x-10' : ''}`}>
             {data.services.map((category, i) => (
               <div key={i}>
-                <h3 className="text-2xl font-serif mb-6 pb-3 border-b border-[var(--color-accent)]/40 text-[var(--color-accent)]">
-                  {category.category}
-                </h3>
+                {isBold ? (
+                  <h3 className="flex items-center gap-3 text-2xl md:text-3xl font-black uppercase tracking-tight mb-6 text-white">
+                    <span className="inline-block w-8 h-1.5 bg-[var(--color-primary)]" />
+                    {category.category}
+                  </h3>
+                ) : (
+                  <h3 className="text-2xl font-serif mb-6 pb-3 border-b border-[var(--color-accent)]/40 text-[var(--color-accent)]">
+                    {category.category}
+                  </h3>
+                )}
                 {renderItems(category.items)}
               </div>
             ))}

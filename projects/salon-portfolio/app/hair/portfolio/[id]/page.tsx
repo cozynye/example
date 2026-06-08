@@ -88,13 +88,13 @@ export default async function PortfolioDetailPage({
       case 'hero':
         return <HeroSection key="hero" data={portfolio.hero} layoutVariant={layoutVariant} theme={portfolio.theme} />;
       case 'about':
-        return <AboutSection key="about" data={portfolio.about} layoutVariant={layoutVariant} />;
+        return <AboutSection key="about" data={portfolio.about} layoutVariant={layoutVariant} theme={portfolio.theme} />;
       case 'stylist':
         return <StylistSection key="stylist" data={portfolio.stylist} layoutVariant={layoutVariant} />;
       case 'gallery':
-        return <GallerySection key="gallery" data={portfolio.gallery} layoutVariant={layoutVariant} />;
+        return <GallerySection key="gallery" data={portfolio.gallery} layoutVariant={layoutVariant} theme={portfolio.theme} />;
       case 'services':
-        return <ServicesSection key="services" data={portfolio.services} layoutVariant={layoutVariant} />;
+        return <ServicesSection key="services" data={portfolio.services} layoutVariant={layoutVariant} theme={portfolio.theme} />;
       case 'hours':
         return <HoursSection key="hours" data={portfolio.hours} layoutVariant={layoutVariant} />;
       case 'contact':

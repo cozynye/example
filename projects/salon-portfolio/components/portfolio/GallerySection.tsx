@@ -11,9 +11,10 @@ import { KineticScroll } from '../ui/motion';
 interface GallerySectionProps {
   data: GalleryData;
   layoutVariant?: LayoutVariant;
+  theme?: string; // 같은 variant 쌍둥이 분리용 (fullscreen: luxury↔bold, layered: soft↔earth)
 }
 
-export default function GallerySection({ data, layoutVariant = 'classic' }: GallerySectionProps) {
+export default function GallerySection({ data, layoutVariant = 'classic', theme }: GallerySectionProps) {
   const variant = layoutVariant;
   // categories[0]을 "전체 보기" sentinel로 사용 — 라벨이 '전체'든 'ALL'이든 동작.
   // (직접 '전체' 리터럴에 의존하면 영문 카테고리 포트폴리오에서 ALL 클릭 시 0장 매칭 버그 발생)
@@ -39,9 +40,15 @@ export default function GallerySection({ data, layoutVariant = 'classic' }: Gall
       case 'organic':
         return 'columns-2 lg:columns-3 gap-5 space-y-5'; // 비대칭 masonry
       case 'fullscreen':
-        return 'grid grid-cols-1 md:grid-cols-2 gap-2'; // 대형 풀블리드
+        // P9(bold)는 빽빽한 모자이크, P7(luxury)는 대형 풀블리드 2열
+        return theme === 'bold'
+          ? 'grid grid-cols-2 md:grid-cols-4 gap-1.5'
+          : 'grid grid-cols-1 md:grid-cols-2 gap-2';
       case 'layered':
-        return 'grid grid-cols-2 md:grid-cols-3 gap-6'; // 오프셋 그리드
+        // P10(earth)은 자연스러운 masonry, P8(soft)은 오프셋 그리드
+        return theme === 'earth'
+          ? 'columns-2 lg:columns-3 gap-3 space-y-3'
+          : 'grid grid-cols-2 md:grid-cols-3 gap-6';
       case 'typography':
         return 'grid grid-cols-2 md:grid-cols-4 gap-3'; // 작은 타일, 텍스트 우선
       case 'showcase':
@@ -72,9 +79,13 @@ export default function GallerySection({ data, layoutVariant = 'classic' }: Gall
       case 'card':
         return `${base} aspect-square ${idx % 7 === 0 ? 'md:col-span-2 md:row-span-2' : ''}`;
       case 'fullscreen':
-        return `${base} aspect-[16/10]`;
+        // bold=정사각 모자이크 / luxury=시네마틱 와이드
+        return theme === 'bold' ? `${base} aspect-square` : `${base} aspect-[16/10]`;
       case 'layered':
-        return `${base} aspect-[3/4] ${idx % 2 === 1 ? 'md:translate-y-8' : ''}`;
+        // earth=masonry 가변 높이 / soft=오프셋 그리드
+        return theme === 'earth'
+          ? `${base} break-inside-avoid ${idx % 3 === 0 ? 'aspect-[3/4]' : 'aspect-square'}`
+          : `${base} aspect-[3/4] ${idx % 2 === 1 ? 'md:translate-y-8' : ''}`;
       case 'typography':
         return `${base} aspect-square`;
       case 'minimal':

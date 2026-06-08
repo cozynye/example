@@ -20,9 +20,10 @@ import { Reveal } from '../ui/motion';
 interface AboutSectionProps {
   data: AboutData;
   layoutVariant?: LayoutVariant;
+  theme?: string; // overlay 쌍둥이(P7 luxury↔P9 bold) 분리용
 }
 
-export default function AboutSection({ data, layoutVariant = 'classic' }: AboutSectionProps) {
+export default function AboutSection({ data, layoutVariant = 'classic', theme }: AboutSectionProps) {
   const variant = layoutVariant;
   const family = getLayoutFamily(variant);
   const text = getTextColors(variant);
@@ -149,20 +150,22 @@ export default function AboutSection({ data, layoutVariant = 'classic' }: AboutS
     );
   }
 
-  // ===== overlay (fullscreen): 풀블리드 이미지 배경 + 오버레이 =====
+  // ===== overlay (fullscreen): 풀블리드 이미지 — P7(luxury) 중앙 우아 vs P9(bold) 좌측 강렬 =====
   if (family === 'overlay') {
+    const isBold = theme === 'bold';
     return (
       <section id="about" className="relative min-h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
-          <Image src={data.image} alt={data.title} fill className="object-cover" sizes="100vw" />
-          <div className="absolute inset-0 bg-black/60" />
+          <Image src={data.image} alt={data.title} fill className={`object-cover ${isBold ? 'contrast-110' : ''}`} sizes="100vw" />
+          <div className={`absolute inset-0 ${isBold ? 'bg-gradient-to-r from-black/85 via-black/55 to-black/30' : 'bg-black/60'}`} />
         </div>
-        <Container maxWidth="narrow" className="relative z-10 text-center py-24">
+        <Container maxWidth="narrow" className={`relative z-10 py-24 ${isBold ? 'text-left' : 'text-center'}`}>
+          {isBold && <span className="block w-12 h-1.5 bg-[var(--color-primary)] mb-6" />}
           <h2 className={`${heading} mb-8 text-white`}>{data.title}</h2>
-          <div className="space-y-4 text-lg text-white/80 leading-relaxed max-w-2xl mx-auto">
-            {renderDescription(true)}
+          <div className={`space-y-4 text-lg text-white/80 leading-relaxed max-w-2xl ${isBold ? '' : 'mx-auto'}`}>
+            {renderDescription(!isBold)}
           </div>
-          {renderStats(true)}
+          {renderStats(!isBold)}
         </Container>
       </section>
     );
