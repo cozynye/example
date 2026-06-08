@@ -40,16 +40,16 @@
     "image": "https://images.unsplash.com/photo-1641901960200-1e878f0cbf63?auto=format&fit=crop&w=1200&q=80",
     "stats": [
       {
-        "label": "Est.",
-        "value": "2014"
+        "value": "2014년",
+        "label": "오픈"
       },
       {
-        "label": "VIP Members",
-        "value": "500+"
+        "value": "프리미엄",
+        "label": "멤버십"
       },
       {
-        "label": "Satisfaction",
-        "value": "99%"
+        "value": "4.9",
+        "label": "네이버 평점"
       }
     ]
   },
@@ -67,14 +67,12 @@
         ],
         "image": "https://images.unsplash.com/photo-1591727884968-cc11135a19b3?auto=format&fit=crop&w=800&h=800&q=80",
         "education": [
-          "Toni&Guy London Master",
-          "Classic Hair Atelier Paris",
-          "Luxury Service Institute"
+          "헤어 디자이너 경력 12년",
+          "미용사 국가기술자격 보유",
+          "내추럴 컬러 전문 교육"
         ],
         "awards": [
-          "2024 Master Stylist Award",
-          "2023 Luxury Salon of the Year",
-          "2020 Lifetime Craft Award"
+          "단골 재방문율 85%"
         ],
         "social": {
           "instagram": "https://instagram.com/noir_atelier"

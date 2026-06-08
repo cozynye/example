@@ -40,16 +40,16 @@
     "image": "https://images.unsplash.com/photo-1630595271375-5073a6c0638b?auto=format&fit=crop&w=1200&q=80",
     "stats": [
       {
-        "label": "Portfolio",
-        "value": "350+"
+        "value": "13년",
+        "label": "경력"
       },
       {
-        "label": "Fashion Week",
-        "value": "7회"
+        "value": "4,000+",
+        "label": "스타일링"
       },
       {
-        "label": "Innovation",
-        "value": "100%"
+        "value": "개성 컷",
+        "label": "전문"
       }
     ]
   },
@@ -67,14 +67,12 @@
         ],
         "image": "https://images.unsplash.com/photo-1630595632518-8217c0bceb8f?auto=format&fit=crop&w=800&h=800&q=80",
         "education": [
-          "London Fashion Week Hair Artist (2018-2024)",
-          "Vidal Sassoon Avant-Garde Program",
-          "Seoul Fashion Week Creative Director"
+          "헤어 디자이너 경력 13년",
+          "미용사 국가기술자격 보유",
+          "웰라 스타일링 교육 이수"
         ],
         "awards": [
-          "2024 Creative Hair Award Gold",
-          "2023 Fashion Week Best Hair Artist",
-          "2022 Bold Transformation Competition 1st"
+          "네이버 예약 평점 4.9"
         ],
         "social": {
           "instagram": "https://instagram.com/boldstudio"

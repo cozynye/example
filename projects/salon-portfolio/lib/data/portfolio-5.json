@@ -40,16 +40,16 @@
     "image": "https://images.unsplash.com/photo-1568530134868-5d89f49d5a72?auto=format&fit=crop&w=1200&q=80",
     "stats": [
       {
-        "label": "Colors",
-        "value": "500+"
+        "value": "컬러",
+        "label": "전문 시술"
       },
       {
-        "label": "Instagram",
-        "value": "12K"
+        "value": "8,000+",
+        "label": "컬러 시술"
       },
       {
-        "label": "Trends",
-        "value": "Weekly"
+        "value": "12K",
+        "label": "인스타 팔로워"
       }
     ]
   },
@@ -67,14 +67,12 @@
         ],
         "image": "https://images.unsplash.com/photo-1569430548104-6ca1cda3ec41?auto=format&fit=crop&w=800&h=800&q=80",
         "education": [
-          "Goldwell Master Colorist Training",
-          "Wella Color Trends Academy (Berlin)",
-          "K-Beauty Social Media Marketing"
+          "헤어 디자이너 경력 10년",
+          "미용사 국가기술자격 보유",
+          "두피·모발 케어 전문 교육"
         ],
         "awards": [
-          "2024 Seoul Vibrant Color Award Gold",
-          "2023 Creative Color Excellence",
-          "2022 Instagram Beauty Influencer (12K)"
+          "네이버 예약 평점 4.9"
         ],
         "social": {
           "instagram": "https://instagram.com/vividsalon"

@@ -215,6 +215,54 @@ export default function Home() {
         </div>
       </section>
 
+      {/* 신뢰 보증 + FAQ */}
+      <section className="relative border-t border-white/10 px-6 py-20 md:py-28">
+        <div className="mx-auto max-w-3xl">
+          <Reveal className="mb-16 flex flex-wrap justify-center gap-3">
+            {SITE.guarantees.map((g) => (
+              <span
+                key={g}
+                className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.03] px-4 py-2 text-sm text-white/80"
+              >
+                <span className="text-pink-400">✓</span>
+                {g}
+              </span>
+            ))}
+          </Reveal>
+
+          <Reveal className="mb-8 text-center">
+            <h2 className="text-3xl font-bold tracking-tight md:text-5xl">자주 묻는 질문</h2>
+            <p className="mt-4 text-white/50">미용실 원장님들이 가장 많이 물어보시는 것들</p>
+          </Reveal>
+
+          <div className="space-y-3">
+            {SITE.faqs.map((f) => (
+              <details
+                key={f.q}
+                className="group rounded-2xl border border-white/10 bg-white/[0.03] px-6 py-5 [&_summary::-webkit-details-marker]:hidden"
+              >
+                <summary className="flex cursor-pointer items-center justify-between gap-4 text-base font-bold md:text-lg">
+                  {f.q}
+                  <span className="shrink-0 text-xl text-pink-400 transition-transform group-open:rotate-45">+</span>
+                </summary>
+                <p className="mt-4 leading-relaxed text-white/65">{f.a}</p>
+              </details>
+            ))}
+          </div>
+
+          <Reveal className="mt-12 text-center">
+            <a
+              href={SITE.contact.kakaoUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 rounded-full bg-[#FEE500] px-8 py-4 text-base font-bold text-[#3C1E1E] transition-transform hover:scale-[0.97]"
+            >
+              더 궁금한 점은 카톡으로 물어보세요
+            </a>
+          </Reveal>
+        </div>
+      </section>
+
       {/* Footer */}
       <footer className="relative px-6 pb-16 text-center text-sm text-white/40">
         Make · 업종별 웹사이트 제작 · 3일 제작 · 모바일 최적화

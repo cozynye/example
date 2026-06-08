@@ -40,16 +40,16 @@
     "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?auto=format&fit=crop&w=1200&q=80",
     "stats": [
       {
-        "label": "VIP Clients",
-        "value": "120+"
+        "value": "18년",
+        "label": "경력"
       },
       {
-        "label": "Celebrity",
-        "value": "25+"
+        "value": "프리미엄",
+        "label": "1:1 예약"
       },
       {
-        "label": "Satisfaction",
-        "value": "99.5%"
+        "value": "4.9",
+        "label": "네이버 평점"
       }
     ]
   },
@@ -67,14 +67,12 @@
         ],
         "image": "https://images.unsplash.com/photo-1605980625600-88b46abafa8d?auto=format&fit=crop&w=800&h=800&q=80",
         "education": [
-          "Toni&Guy Celebrity Academy (London)",
-          "L'Oréal Professionnel Luxury Master Class",
-          "Oribe Signature Styling Program (NYC)"
+          "헤어 디자이너 경력 18년",
+          "미용사 국가기술자격 보유",
+          "내추럴 컬러 전문 교육"
         ],
         "awards": [
-          "2024 Asia Luxury Hair Excellence",
-          "2023 Celebrity Stylist of the Year (25+ Celebrities)",
-          "2022 Premium VIP Service Award"
+          "월 평균 예약 200건+"
         ],
         "social": {
           "instagram": "https://instagram.com/leluxe_salon"

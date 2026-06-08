@@ -40,16 +40,16 @@
     "image": "https://images.unsplash.com/photo-1657546978958-76f538211af8?auto=format&fit=crop&w=1200&q=80",
     "stats": [
       {
-        "label": "Warm Tone",
-        "value": "95%"
+        "value": "어스톤",
+        "label": "전문"
       },
       {
-        "label": "PC Match",
-        "value": "98%"
+        "value": "88%",
+        "label": "재방문율"
       },
       {
-        "label": "Natural",
-        "value": "100%"
+        "value": "4.9",
+        "label": "네이버 평점"
       }
     ]
   },
@@ -67,14 +67,12 @@
         ],
         "image": "https://images.unsplash.com/photo-1658322558683-2524c9b62d04?auto=format&fit=crop&w=800&h=800&q=80",
         "education": [
-          "Natural Color Theory Institute (Amsterdam)",
-          "Earth Tone Specialist Certification",
-          "Personal Color Analysis & Warm Tone Expert"
+          "헤어 디자이너 경력 14년",
+          "미용사 국가기술자격 보유",
+          "준오헤어 아카데미 수료"
         ],
         "awards": [
-          "2024 Natural Beauty Excellence Award",
-          "2023 Earth Tone Color Recognition",
-          "2022 Warm Color Harmony Award"
+          "단골 재방문율 85%"
         ],
         "social": {
           "instagram": "https://instagram.com/earth_lounge"

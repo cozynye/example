@@ -40,16 +40,16 @@
     "image": "https://images.unsplash.com/photo-1529945952580-4226d32b472a?auto=format&fit=crop&w=1200&q=80",
     "stats": [
       {
-        "label": "Heritage",
-        "value": "1985~"
+        "value": "1998년",
+        "label": "오픈"
       },
       {
-        "label": "Generations",
-        "value": "3대째"
+        "value": "3대째",
+        "label": "가업"
       },
       {
-        "label": "Excellence",
-        "value": "95%"
+        "value": "5,000+",
+        "label": "누적 고객"
       }
     ]
   },
@@ -67,14 +67,12 @@
         ],
         "image": "https://images.unsplash.com/photo-1533661338746-e4e47d30dfd8?auto=format&fit=crop&w=800&h=800&q=80",
         "education": [
-          "동경 전통 이발 아카데미 (1988)",
-          "파리 Jacques Dessange Classic Training",
-          "대한민국 명장 지정 (2015)"
+          "헤어 디자이너 경력 25년",
+          "미용사 국가기술자격 보유",
+          "준오헤어 아카데미 수료"
         ],
         "awards": [
-          "2024 Heritage Preservation Award",
-          "2023 Classic Excellence Recognition",
-          "2022 Master Barber of the Year"
+          "월 평균 예약 200건+"
         ],
         "social": {
           "instagram": "https://instagram.com/classic_avenue"

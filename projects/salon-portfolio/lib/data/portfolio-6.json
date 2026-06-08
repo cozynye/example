@@ -40,16 +40,16 @@
     "image": "https://images.unsplash.com/photo-1593702275687-f8b402bf1fb5?auto=format&fit=crop&w=1200&q=80",
     "stats": [
       {
-        "label": "Organic",
-        "value": "100%"
+        "value": "두피케어",
+        "label": "전문"
       },
       {
-        "label": "Eco Cert",
-        "value": "Grade A"
+        "value": "내추럴",
+        "label": "지향"
       },
       {
-        "label": "Scalp Health",
-        "value": "98점"
+        "value": "4.9",
+        "label": "네이버 평점"
       }
     ]
   },
@@ -67,14 +67,12 @@
         ],
         "image": "https://images.unsplash.com/photo-1593702295094-aea22597af65?auto=format&fit=crop&w=800&h=800&q=80",
         "education": [
-          "Aveda Institute Eco-Beauty Program",
-          "International Trichology Institute",
-          "Organic Cosmetics Formulation (UK)"
+          "헤어 디자이너 경력 8년",
+          "미용사 국가기술자격 보유",
+          "디지털펌 스페셜 교육"
         ],
         "awards": [
-          "2024 Green Beauty Excellence Award",
-          "2023 Sustainable Salon Certification",
-          "2022 Eco-Conscious Business Leader"
+          "단골 재방문율 85%"
         ],
         "social": {
           "instagram": "https://instagram.com/greengarden_salon"

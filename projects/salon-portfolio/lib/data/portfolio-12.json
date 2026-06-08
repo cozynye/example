@@ -40,16 +40,16 @@
     "image": "https://images.unsplash.com/photo-1636584947125-b4fbf456ed59?auto=format&fit=crop&w=1200&q=80",
     "stats": [
       {
-        "label": "Color Tones",
-        "value": "120+"
+        "value": "~24시",
+        "label": "야간 예약"
       },
       {
-        "label": "Night Booking",
-        "value": "~24:00"
+        "value": "컬러",
+        "label": "전문 시술"
       },
       {
-        "label": "Glow Index",
-        "value": "99%"
+        "value": "4.9",
+        "label": "네이버 평점"
       }
     ]
   },
@@ -67,14 +67,12 @@
         ],
         "image": "https://images.unsplash.com/photo-1655373325205-bbae7ede0e21?auto=format&fit=crop&w=800&h=800&q=80",
         "education": [
-          "Schwarzkopf Global Academy",
-          "Light & Color Theory Berlin",
-          "Neon Hair Masterclass"
+          "헤어 디자이너 경력 11년",
+          "미용사 국가기술자격 보유",
+          "두피·모발 케어 전문 교육"
         ],
         "awards": [
-          "2024 Creative Color Grand Prize",
-          "2023 Night Style Award",
-          "2022 Glow Hair Festival 우승"
+          "네이버 리뷰 300+ 보유"
         ],
         "social": {
           "instagram": "https://instagram.com/lumina_salon"

@@ -40,16 +40,16 @@
     "image": "https://images.unsplash.com/photo-1675785782005-875e1523de4c?auto=format&fit=crop&w=1200&q=80",
     "stats": [
       {
-        "label": "Energy",
-        "value": "100%"
+        "value": "다이내믹 컷",
+        "label": "전문"
       },
       {
-        "label": "Dynamic Cut",
-        "value": "8K+"
+        "value": "2019년",
+        "label": "오픈"
       },
       {
-        "label": "Since",
-        "value": "2019"
+        "value": "4.8",
+        "label": "네이버 평점"
       }
     ]
   },
@@ -67,14 +67,12 @@
         ],
         "image": "https://images.unsplash.com/photo-1499557354967-2b2d8910bcca?auto=format&fit=crop&w=800&h=800&q=80",
         "education": [
-          "Vidal Sassoon Creative",
-          "Movement & Texture Lab",
-          "Dynamic Cutting Tokyo"
+          "헤어 디자이너 경력 7년",
+          "미용사 국가기술자격 보유",
+          "로레알 프로페셔널 컬러 교육 이수"
         ],
         "awards": [
-          "2024 Dynamic Cut Champion",
-          "2023 Texture Design Award",
-          "2022 Young Designer Prize"
+          "월 평균 예약 200건+"
         ],
         "social": {
           "instagram": "https://instagram.com/momentum_studio"

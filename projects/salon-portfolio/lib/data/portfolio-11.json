@@ -40,16 +40,16 @@
     "image": "https://images.unsplash.com/photo-1695527081848-1e46c06e6458?auto=format&fit=crop&w=1200&q=80",
     "stats": [
       {
-        "label": "Since",
-        "value": "2016"
+        "value": "2016년",
+        "label": "오픈"
       },
       {
-        "label": "Repeat Rate",
-        "value": "92%"
+        "value": "90분",
+        "label": "평균 케어"
       },
       {
-        "label": "Avg. Care",
-        "value": "90min"
+        "value": "89%",
+        "label": "재방문율"
       }
     ]
   },
@@ -67,14 +67,12 @@
         ],
         "image": "https://images.unsplash.com/photo-1637777269308-6a072f24e8a4?auto=format&fit=crop&w=800&h=800&q=80",
         "education": [
-          "Sassoon Academy London 수료",
-          "Apple Design Principle 워크숍",
-          "Minimal Form Study"
+          "헤어 디자이너 경력 9년",
+          "미용사 국가기술자격 보유",
+          "발레아쥬 전문 과정 이수"
         ],
         "awards": [
-          "2024 Korea Hair Design Award",
-          "2023 Best Minimal Salon",
-          "2021 Aveda Color Excellence"
+          "월 평균 예약 200건+"
         ],
         "social": {
           "instagram": "https://instagram.com/objet_hair"
