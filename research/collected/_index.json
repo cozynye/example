@@ -243,7 +243,11 @@
     "https://www.producthunt.com/products/sigma-file-manager": {
       "date": "2026-06-08",
       "source": "producthunt"
+    },
+    "https://intunedhq.com": {
+      "date": "2026-06-08",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-06-08T11:10:48.589Z"
+  "lastRun": "2026-06-08T15:54:36.869Z"
 }

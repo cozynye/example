@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-08T11:10:58.472Z",
+  "buildTime": "2026-06-08T15:54:46.883Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W24.md",
     "title": "2026-W24 주간 로그",
-    "content": "# 2026-W24 주간 로그\n\n\n## 자동 수집 (2026-06-08 PM 8:10:48)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n"
+    "content": "# 2026-W24 주간 로그\n\n\n## 자동 수집 (2026-06-08 PM 8:10:48)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-06-08 AM 12:54:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n"
   },
   "collected": [
     {
@@ -1121,6 +1121,16 @@
       "url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
       "score": 118,
       "comments": 43,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-08",
+      "source": "hackernews",
+      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
+      "url": "https://intunedhq.com",
+      "score": 62,
+      "comments": 14,
       "subreddit": null,
       "description": ""
     },
