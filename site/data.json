@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-08T03:38:24.882Z",
+  "buildTime": "2026-06-08T11:10:58.472Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1089,9 +1089,9 @@
     }
   ],
   "latestLog": {
-    "file": "logs/2026-W23.md",
-    "title": "2026-W23 주간 로그",
-    "content": "# 2026-W23 주간 로그\n\n\n## 자동 수집 (2026-06-05 PM 11:52:58)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-06-06 AM 11:48:41)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-06-06 PM 5:42:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 7 |\n| **합계** | **7** |\n\n\n## 자동 수집 (2026-06-06 PM 10:44:57)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-06-07 PM 6:26:59)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **5** |\n\n\n## 자동 수집 (2026-06-07 PM 10:54:14)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n"
+    "file": "logs/2026-W24.md",
+    "title": "2026-W24 주간 로그",
+    "content": "# 2026-W24 주간 로그\n\n\n## 자동 수집 (2026-06-08 PM 8:10:48)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n"
   },
   "collected": [
     {
@@ -1150,6 +1150,106 @@
       "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
       "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
       "score": 1,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-08",
+      "source": "producthunt",
+      "title": "The Virtual OS Museum",
+      "url": "https://www.producthunt.com/products/the-virtual-os-museum",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-08",
+      "source": "producthunt",
+      "title": "Tamadoggo",
+      "url": "https://www.producthunt.com/products/tamadoggo",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-08",
+      "source": "producthunt",
+      "title": "Vaani",
+      "url": "https://www.producthunt.com/products/vaani-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-08",
+      "source": "producthunt",
+      "title": "Browse.sh",
+      "url": "https://www.producthunt.com/products/browserbase",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-08",
+      "source": "producthunt",
+      "title": "Claude Artifact Player",
+      "url": "https://www.producthunt.com/products/claude-artifact-player",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-08",
+      "source": "producthunt",
+      "title": "Honen",
+      "url": "https://www.producthunt.com/products/honen",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-08",
+      "source": "producthunt",
+      "title": "Olo",
+      "url": "https://www.producthunt.com/products/olo-1st-ai-style-companion-for-guys",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-08",
+      "source": "producthunt",
+      "title": "Supaste",
+      "url": "https://www.producthunt.com/products/supaste",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-08",
+      "source": "producthunt",
+      "title": "NTSC-RS",
+      "url": "https://www.producthunt.com/products/ntsc-rs",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-08",
+      "source": "producthunt",
+      "title": "Sigma File Manager",
+      "url": "https://www.producthunt.com/products/sigma-file-manager",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
