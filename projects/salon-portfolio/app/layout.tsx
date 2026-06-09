@@ -6,6 +6,7 @@ import StickyContactBar from "@/components/site/StickyContactBar";
 import { SITE } from "@/lib/site-config";
 
 const GTM_ID = "GTM-WRWX5PGX";
+const GA4_ID = "G-973JTZJ41R";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
@@ -52,6 +53,11 @@ export default function RootLayout({
         {/* Google Tag Manager */}
         <Script id="gtm" strategy="afterInteractive">
           {`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','${GTM_ID}');`}
+        </Script>
+        {/* Google tag (gtag.js) — GA4 직접. ⚠️ GTM 컨테이너에는 GA4를 넣지 말 것(중복 집계 방지) */}
+        <Script src={`https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`} strategy="afterInteractive" />
+        <Script id="ga4" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', '${GA4_ID}');`}
         </Script>
         <MotionProvider>{children}</MotionProvider>
         <StickyContactBar />
