@@ -74,13 +74,13 @@ export default async function VetClinicPage({ params }: { params: Promise<{ id: 
       case 'emergency':
         return clinic.emergency ? <EmergencySection key="emergency" data={clinic.emergency} /> : null;
       case 'trust':
-        return <TrustSection key="trust" data={clinic.trust} layoutVariant={v} />;
+        return clinic.trust ? <TrustSection key="trust" data={clinic.trust} layoutVariant={v} /> : null;
       case 'services':
-        return <VetServicesSection key="services" data={clinic.services} layoutVariant={v} />;
+        return clinic.services ? <VetServicesSection key="services" data={clinic.services} layoutVariant={v} /> : null;
       case 'doctors':
-        return <StylistSection key="doctors" data={clinic.doctors} layoutVariant={v} />;
+        return clinic.doctors ? <StylistSection key="doctors" data={clinic.doctors} layoutVariant={v} /> : null;
       case 'facility':
-        return <FacilitySection key="facility" data={clinic.facility} layoutVariant={v} />;
+        return clinic.facility ? <FacilitySection key="facility" data={clinic.facility} layoutVariant={v} /> : null;
       case 'cost':
         return <CostSection key="cost" data={clinic.cost} layoutVariant={v} />;
       case 'reviews':

@@ -7,7 +7,7 @@ export default function StickyContactBar() {
       <div className="mx-auto flex max-w-5xl items-center justify-between gap-3 px-4 py-2.5">
         <div className="min-w-0 text-white">
           <span className="text-sm font-bold sm:text-base">
-            미용실 홈페이지 {SITE.price.base}
+            맞춤 홈페이지 {SITE.price.base}
           </span>
           <span className="ml-2 hidden text-xs text-white/55 sm:inline">
             3일 제작 · 디자인 2옵션 · 모바일 기본 포함

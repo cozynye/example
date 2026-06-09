@@ -22,7 +22,16 @@ const services = [
     image:
       'https://images.unsplash.com/photo-1440508319978-8b67875e39d7?auto=format&fit=crop&w=1280&q=80',
   },
-  { name: '동물병원', en: 'Animal Clinic', active: false, accent: 'from-emerald-400 to-teal-500', emoji: '🐾' },
+  {
+    name: '동물병원',
+    en: 'Animal Clinic',
+    href: '/vet/portfolio',
+    active: true,
+    badge: 'LIVE · 12가지 디자인',
+    desc: '진료과목 · 의료진 · 응급/24시 · 진료비 · 네이버 예약 연동까지. 12가지 디자인 중에서 고르세요.',
+    image:
+      'https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&w=1280&q=80',
+  },
   { name: '교회', en: 'Church', active: false, accent: 'from-indigo-400 to-violet-500', emoji: '⛪' },
   { name: '카페·음식점', en: 'Cafe & Food', active: false, accent: 'from-amber-400 to-orange-500', emoji: '☕' },
 ];
