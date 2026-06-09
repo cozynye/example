@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-09T02:47:50.779Z",
+  "buildTime": "2026-06-09T09:57:33.544Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W24.md",
     "title": "2026-W24 주간 로그",
-    "content": "# 2026-W24 주간 로그\n\n\n## 자동 수집 (2026-06-08 PM 8:10:48)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-06-08 AM 12:54:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-09 AM 11:47:40)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n"
+    "content": "# 2026-W24 주간 로그\n\n\n## 자동 수집 (2026-06-08 PM 8:10:48)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-06-08 AM 12:54:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-09 AM 11:47:40)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-09 PM 6:57:23)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n"
   },
   "collected": [
     {
@@ -1165,11 +1165,171 @@
       "description": ""
     },
     {
+      "date": "2026-06-09",
+      "source": "hackernews",
+      "title": "Building a Smarter Crypto Market Maker with Avellaneda–Stoikov",
+      "url": "https://medium.com/@DolphinDB_Inc/taming-inventory-risk-building-a-smarter-crypto-market-maker-with-avellaneda-stoikov-7dcc334b0172",
+      "score": 5,
+      "comments": 2,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-06-06",
       "source": "hackernews",
       "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
       "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
       "score": 1,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "hora Calendar",
+      "url": "https://www.producthunt.com/products/hora-calendar",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "Uiverse Design",
+      "url": "https://www.producthunt.com/products/uiverse-io",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "Mic Drop 3.0",
+      "url": "https://www.producthunt.com/products/mic-drop",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "Log Cam",
+      "url": "https://www.producthunt.com/products/log-cam-open-gate-by-raw-cam",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "TravelMind",
+      "url": "https://www.producthunt.com/products/travelmind-city-discovery-reimagined",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "VC Boom",
+      "url": "https://www.producthunt.com/products/vcboom",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "Overly",
+      "url": "https://www.producthunt.com/products/overly-smart-study-layer",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "agmsg",
+      "url": "https://www.producthunt.com/products/agmsg",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "ChocolateBar",
+      "url": "https://www.producthunt.com/products/chocolatebar",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "Whistle",
+      "url": "https://www.producthunt.com/products/whistle-ai-workout-planner",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "prostir zvuku",
+      "url": "https://www.producthunt.com/products/prostir-zvuku",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "Solarch",
+      "url": "https://www.producthunt.com/products/solarch",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "OrchestraML",
+      "url": "https://www.producthunt.com/products/orchestraml",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "AgentOS",
+      "url": "https://www.producthunt.com/products/agentos-run-agents-like-a-company",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "Limelight",
+      "url": "https://www.producthunt.com/products/limelight-4",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
