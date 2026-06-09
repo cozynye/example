@@ -247,7 +247,11 @@
     "https://intunedhq.com": {
       "date": "2026-06-08",
       "source": "hackernews"
+    },
+    "https://lowtechguys.com/musicdecoy/": {
+      "date": "2026-06-09",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-06-08T15:54:36.869Z"
+  "lastRun": "2026-06-09T02:47:40.845Z"
 }
