@@ -1,0 +1,171 @@
+{
+  "id": 1,
+  "clinicName": "튼튼동물의료센터",
+  "tagline": "응급의학부터 정밀진단까지, 24시간 곁을 지킵니다",
+  "tier": "24h",
+  "emergencyPhone": "1577-2875",
+  "theme": "classic",
+  "layout": {
+    "variant": "classic",
+    "sectionOrder": ["hero", "emergency", "trust", "services", "doctors", "facility", "cost", "reviews", "hours", "about", "contact"]
+  },
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&w=1920&q=80",
+    "title": "튼튼동물의료센터",
+    "subtitle": "365일 24시간, 우리 아이 곁을 지키는 2차 동물병원",
+    "badges": ["24시 응급진료", "야간진료", "주차 가능", "네이버 예약"],
+    "ctaButtons": {
+      "primary": { "text": "진료 예약하기", "action": "#contact" },
+      "secondary": { "text": "응급 전화 1577-2875", "action": "tel:15772875" }
+    }
+  },
+  "emergency": {
+    "title": "응급 진료 안내",
+    "headline": "365일 24시간 응급·중환자 진료",
+    "phone": "1577-2875",
+    "schedule": [
+      { "label": "주간 진료", "time": "09:30 ~ 19:00" },
+      { "label": "야간 진료", "time": "19:00 ~ 22:00" },
+      { "label": "응급 진료", "time": "22:00 ~ 익일 08:00" }
+    ],
+    "symptoms": [
+      "호흡이 가쁘거나 잇몸이 창백할 때",
+      "구토·설사가 반복되고 기력이 없을 때",
+      "경련·발작 증상이 있을 때",
+      "소변을 못 보거나 통증을 호소할 때",
+      "교통사고·낙상 등 외상을 입었을 때",
+      "이물질을 삼켰거나 중독이 의심될 때"
+    ],
+    "surchargeNote": "야간(19시 이후)·응급·공휴일 진료 시 야간진료비·응급진료비가 추가됩니다."
+  },
+  "trust": {
+    "title": "믿고 맡기는 이유",
+    "stats": [
+      { "value": "12만+", "label": "누적 진료 마릿수" },
+      { "value": "4.5만+", "label": "누적 수술 건수" },
+      { "value": "18명", "label": "전문 수의사" },
+      { "value": "15년", "label": "지역 진료 경력" }
+    ],
+    "badges": ["2차 동물병원", "24시 응급중환자실 운영", "Fear Free 진료"],
+    "rating": [
+      { "platform": "네이버", "score": "4.9", "count": "1,280+" },
+      { "platform": "구글", "score": "4.8", "count": "640+" }
+    ]
+  },
+  "services": {
+    "title": "진료과목",
+    "departments": [
+      { "name": "내과", "icon": "🩺", "description": "소화기·내분비·신장·순환기 등 만성질환의 정밀 진단과 관리", "items": ["소화기", "내분비", "신장·비뇨기", "순환기", "호흡기"] },
+      { "name": "외과", "icon": "🔪", "description": "정형·연부조직·복강경 등 풍부한 수술 경험", "items": ["정형외과", "복강경", "연부조직", "종양 수술"] },
+      { "name": "영상의학과", "icon": "🩻", "description": "CT·초음파·디지털 X-ray로 정확한 진단", "items": ["CT", "심장초음파", "복부초음파", "디지털 X-ray"] },
+      { "name": "치과·구강", "icon": "🦷", "description": "스케일링부터 발치·구강외과까지", "items": ["스케일링", "발치", "구강외과"] },
+      { "name": "안과", "icon": "👁️", "description": "백내장·녹내장·안검 질환 정밀 검사", "items": ["백내장", "녹내장", "안검질환"] },
+      { "name": "응급중환자의학", "icon": "🚑", "description": "24시간 ICU와 응급처치 시스템", "items": ["ICU", "응급처치", "수혈", "산소치료"] }
+    ]
+  },
+  "doctors": {
+    "title": "의료진 소개",
+    "stylists": [
+      {
+        "name": "김도현",
+        "role": "대표원장 / 외과",
+        "experience": "경력 18년",
+        "specialties": ["정형외과", "복강경", "종양외과"],
+        "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=800&q=80",
+        "education": ["서울대학교 수의학과 졸업 (DVM)", "수의외과학 석사", "동물 정형외과 전문 과정 수료"],
+        "awards": ["대한수의사회 학술상", "복강경 수술 200례 이상"]
+      },
+      {
+        "name": "이서연",
+        "role": "내과 과장",
+        "experience": "경력 12년",
+        "specialties": ["내분비", "신장내과", "순환기"],
+        "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=800&q=80",
+        "education": ["건국대학교 수의학과 졸업 (DVM)", "수의내과학 석사"],
+        "awards": ["만성신장질환 진료 케이스 다수"]
+      },
+      {
+        "name": "박준영",
+        "role": "영상의학과장",
+        "experience": "경력 14년",
+        "specialties": ["CT", "심장초음파", "영상진단"],
+        "image": "https://images.unsplash.com/photo-1622902046580-2b47f47f5471?auto=format&fit=crop&w=800&q=80",
+        "education": ["경북대학교 수의학과 졸업 (DVM)", "수의영상의학 전공"],
+        "awards": ["심장초음파 정밀진단 전문"]
+      }
+    ]
+  },
+  "facility": {
+    "title": "첨단 장비·시설",
+    "subtitle": "정확한 진단과 안전한 수술을 위한 의료 인프라",
+    "equipment": [
+      { "name": "CT 촬영실", "spec": "16채널", "description": "복부·흉부·뇌 정밀 단층촬영으로 빠르고 정확한 진단", "image": "https://images.unsplash.com/photo-1666214280557-f1b5022eb634?auto=format&fit=crop&w=900&q=80" },
+      { "name": "수술실", "spec": "음압 시스템", "description": "감염 관리가 가능한 무균 수술 환경과 마취 모니터링", "image": "https://images.unsplash.com/photo-1551601651-2a8555f1a136?auto=format&fit=crop&w=900&q=80" },
+      { "name": "정밀 검사실", "spec": "혈액·초음파", "description": "원내 혈액검사와 고해상도 초음파로 즉시 진단", "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&q=80" }
+    ]
+  },
+  "cost": {
+    "title": "진료비 안내",
+    "note": "수의사법에 따라 주요 진료비를 게시합니다. (동물 종·체중·상태에 따라 달라질 수 있습니다)",
+    "items": [
+      { "name": "초진 진찰료", "price": "10,000원" },
+      { "name": "재진 진찰료", "price": "8,000원" },
+      { "name": "상담료", "price": "5,000원~" },
+      { "name": "입원비 (1일)", "price": "40,000원~" },
+      { "name": "종합백신 접종", "price": "30,000원" },
+      { "name": "광견병 백신", "price": "15,000원" },
+      { "name": "켄넬코프 백신", "price": "25,000원" },
+      { "name": "전혈구검사(CBC) + 판독", "price": "35,000원" },
+      { "name": "X선 촬영 + 판독 (1매)", "price": "30,000원" },
+      { "name": "복부 초음파", "price": "60,000원~" }
+    ]
+  },
+  "reviews": {
+    "title": "보호자 치료후기",
+    "reviews": [
+      { "author": "보호자 김OO (말티즈)", "rating": 5, "text": "새벽에 갑자기 경련이 와서 응급실로 갔는데 바로 처치해주셨어요. 24시간 운영이 정말 든든합니다.", "date": "2026.05" },
+      { "author": "보호자 이OO (코숏)", "rating": 5, "text": "신장 수치가 안 좋았는데 내과 선생님이 꼼꼼히 관리해주셔서 많이 좋아졌어요. 설명도 자세히 해주십니다.", "date": "2026.04" },
+      { "author": "보호자 박OO (포메라니안)", "rating": 5, "text": "슬개골 수술 받았는데 CT까지 찍고 정확하게 진단해주셔서 믿음이 갔어요. 회복도 빨랐습니다.", "date": "2026.04" }
+    ]
+  },
+  "hours": {
+    "title": "진료 시간",
+    "hours": [
+      { "day": "평일", "time": "09:30 - 19:00" },
+      { "day": "야간", "time": "19:00 - 22:00" },
+      { "day": "응급", "time": "22:00 - 익일 08:00 (24시)" },
+      { "day": "주말·공휴일", "time": "응급 진료" }
+    ],
+    "closedDays": ["연중무휴"],
+    "notes": ["야간·응급·공휴일 진료 시 추가 진료비가 발생합니다.", "정확한 진료를 위해 예약 후 방문을 권장합니다."],
+    "bookingMethods": {
+      "phone": "1577-2875",
+      "naver": "https://booking.naver.com",
+      "kakao": "https://pf.kakao.com"
+    },
+    "parking": "병원 전용 주차장 (2시간 무료)"
+  },
+  "about": {
+    "title": "병원 소개",
+    "description": [
+      "튼튼동물의료센터는 응급의학부터 정밀진단·수술까지 가능한 2차 동물병원입니다.",
+      "18명의 전문 수의사가 과별 협진으로 우리 아이의 건강을 지킵니다.",
+      "보호자가 안심할 수 있도록 정확한 설명과 투명한 진료를 약속합니다."
+    ],
+    "image": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?auto=format&fit=crop&w=1200&q=80",
+    "stats": [
+      { "value": "2009", "label": "개원" },
+      { "value": "365일", "label": "연중무휴" },
+      { "value": "18명", "label": "전문 수의사" }
+    ]
+  },
+  "contact": {
+    "title": "오시는 길",
+    "address": "서울 송파구 올림픽로 300 (잠실, 지하철 2호선 잠실역 3번 출구 도보 5분)",
+    "phone": "1577-2875",
+    "email": "care@ttnvet.kr",
+    "mapUrl": "https://booking.naver.com",
+    "naverBooking": "https://booking.naver.com",
+    "social": { "instagram": "https://instagram.com" }
+  }
+}
