@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-09T09:57:33.544Z",
+  "buildTime": "2026-06-09T14:53:57.242Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W24.md",
     "title": "2026-W24 주간 로그",
-    "content": "# 2026-W24 주간 로그\n\n\n## 자동 수집 (2026-06-08 PM 8:10:48)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-06-08 AM 12:54:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-09 AM 11:47:40)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-09 PM 6:57:23)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n"
+    "content": "# 2026-W24 주간 로그\n\n\n## 자동 수집 (2026-06-08 PM 8:10:48)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-06-08 AM 12:54:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-09 AM 11:47:40)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-09 PM 6:57:23)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-06-09 PM 11:53:47)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n"
   },
   "collected": [
     {
@@ -1329,6 +1329,66 @@
       "source": "producthunt",
       "title": "Limelight",
       "url": "https://www.producthunt.com/products/limelight-4",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "Fluido",
+      "url": "https://www.producthunt.com/products/fluido",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "Krisp Voice Translation API",
+      "url": "https://www.producthunt.com/products/krisp",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "TrakMac",
+      "url": "https://www.producthunt.com/products/trakmac",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "agentcad",
+      "url": "https://www.producthunt.com/products/agentcad",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "ZeroGPU",
+      "url": "https://www.producthunt.com/products/zerogpu",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-09",
+      "source": "producthunt",
+      "title": "Pixel Snapper",
+      "url": "https://www.producthunt.com/products/pixel-snapper",
       "score": 0,
       "comments": 0,
       "subreddit": null,

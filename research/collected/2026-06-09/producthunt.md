@@ -64,3 +64,27 @@
 - **URL**: https://www.producthunt.com/products/limelight-4
 - **Source**: producthunt
 
+## Fluido
+- **URL**: https://www.producthunt.com/products/fluido
+- **Source**: producthunt
+
+## Krisp Voice Translation API
+- **URL**: https://www.producthunt.com/products/krisp
+- **Source**: producthunt
+
+## TrakMac
+- **URL**: https://www.producthunt.com/products/trakmac
+- **Source**: producthunt
+
+## agentcad
+- **URL**: https://www.producthunt.com/products/agentcad
+- **Source**: producthunt
+
+## ZeroGPU
+- **URL**: https://www.producthunt.com/products/zerogpu
+- **Source**: producthunt
+
+## Pixel Snapper
+- **URL**: https://www.producthunt.com/products/pixel-snapper
+- **Source**: producthunt
+
