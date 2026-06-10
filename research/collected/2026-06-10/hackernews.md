@@ -14,3 +14,8 @@
 - **Score**: 37 | **Comments**: 15
 - **Source**: hackernews
 
+## AMA: I'm Eric Ries (The Lean Startup) & Author of New Bestseller Incorruptible
+- **URL**: https://news.ycombinator.com/item?id=48477135
+- **Score**: 60 | **Comments**: 38
+- **Source**: hackernews
+

@@ -80,3 +80,19 @@
 - **URL**: https://www.producthunt.com/products/gemini-3-5-live-translate
 - **Source**: producthunt
 
+## Timmy-TUI
+- **URL**: https://www.producthunt.com/products/timmy-tui
+- **Source**: producthunt
+
+## Zingle
+- **URL**: https://www.producthunt.com/products/zingle-2
+- **Source**: producthunt
+
+## Axol
+- **URL**: https://www.producthunt.com/products/axol
+- **Source**: producthunt
+
+## Napkin Math
+- **URL**: https://www.producthunt.com/products/napkin-math
+- **Source**: producthunt
+

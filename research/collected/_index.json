@@ -423,7 +423,27 @@
     "https://www.producthunt.com/products/gemini-3-5-live-translate": {
       "date": "2026-06-10",
       "source": "producthunt"
+    },
+    "https://news.ycombinator.com/item?id=48477135": {
+      "date": "2026-06-10",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/timmy-tui": {
+      "date": "2026-06-10",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/zingle-2": {
+      "date": "2026-06-10",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/axol": {
+      "date": "2026-06-10",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/napkin-math": {
+      "date": "2026-06-10",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-10T10:15:19.662Z"
+  "lastRun": "2026-06-10T15:36:57.238Z"
 }
