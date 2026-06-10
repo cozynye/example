@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-09T14:53:57.242Z",
+  "buildTime": "2026-06-10T03:24:05.736Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W24.md",
     "title": "2026-W24 주간 로그",
-    "content": "# 2026-W24 주간 로그\n\n\n## 자동 수집 (2026-06-08 PM 8:10:48)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-06-08 AM 12:54:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-09 AM 11:47:40)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-09 PM 6:57:23)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-06-09 PM 11:53:47)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n"
+    "content": "# 2026-W24 주간 로그\n\n\n## 자동 수집 (2026-06-08 PM 8:10:48)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-06-08 AM 12:54:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-09 AM 11:47:40)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-09 PM 6:57:23)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-06-09 PM 11:53:47)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-06-10 PM 12:23:55)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **6** |\n\n"
   },
   "collected": [
     {
@@ -1121,6 +1121,16 @@
       "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
       "score": 225,
       "comments": 135,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-10",
+      "source": "hackernews",
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "score": 169,
+      "comments": 24,
       "subreddit": null,
       "description": ""
     },
@@ -1165,6 +1175,16 @@
       "description": ""
     },
     {
+      "date": "2026-06-10",
+      "source": "hackernews",
+      "title": "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
+      "url": "https://news.ycombinator.com/item?id=48463273",
+      "score": 37,
+      "comments": 15,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-06-09",
       "source": "hackernews",
       "title": "Building a Smarter Crypto Market Maker with Avellaneda–Stoikov",
@@ -1180,6 +1200,46 @@
       "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
       "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
       "score": 1,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-10",
+      "source": "producthunt",
+      "title": "Reve 2.0",
+      "url": "https://www.producthunt.com/products/reve-2-0",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-10",
+      "source": "producthunt",
+      "title": "Kimi Work",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-10",
+      "source": "producthunt",
+      "title": "Signal Recorder SR-7",
+      "url": "https://www.producthunt.com/products/signal-recorder-sr-7",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-10",
+      "source": "producthunt",
+      "title": "BooBar",
+      "url": "https://www.producthunt.com/products/boobar",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""

@@ -339,7 +339,31 @@
     "https://www.producthunt.com/products/pixel-snapper": {
       "date": "2026-06-09",
       "source": "producthunt"
+    },
+    "https://aarushgupta.io/posts/kan-fpga/": {
+      "date": "2026-06-10",
+      "source": "hackernews"
+    },
+    "https://news.ycombinator.com/item?id=48463273": {
+      "date": "2026-06-10",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/reve-2-0": {
+      "date": "2026-06-10",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/kimi-ai-assistant": {
+      "date": "2026-06-10",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/signal-recorder-sr-7": {
+      "date": "2026-06-10",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/boobar": {
+      "date": "2026-06-10",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-09T14:53:47.342Z"
+  "lastRun": "2026-06-10T03:23:55.818Z"
 }
