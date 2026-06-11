@@ -9,3 +9,8 @@
 - **Score**: 357 | **Comments**: 250
 - **Source**: hackernews
 
+## The $15,000 AI Bill. Your $20 Subscription is a DELUSION [video]
+- **URL**: https://www.youtube.com/watch?v=UfApUobqN8Y
+- **Score**: 5 | **Comments**: 1
+- **Source**: hackernews
+
