@@ -443,7 +443,15 @@
     "https://www.producthunt.com/products/napkin-math": {
       "date": "2026-06-10",
       "source": "producthunt"
+    },
+    "https://github.com/anthropics/claude-code/issues/29045": {
+      "date": "2026-06-11",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/blenderhunt": {
+      "date": "2026-06-11",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-10T15:36:57.238Z"
+  "lastRun": "2026-06-11T03:36:00.414Z"
 }
