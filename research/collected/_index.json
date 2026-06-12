@@ -539,7 +539,19 @@
     "https://www.producthunt.com/products/airbrush-studio": {
       "date": "2026-06-11",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/proxee": {
+      "date": "2026-06-12",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/cloudskill": {
+      "date": "2026-06-12",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/nodey-n8n-in-your-pocket": {
+      "date": "2026-06-12",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-11T16:03:27.800Z"
+  "lastRun": "2026-06-12T03:35:45.547Z"
 }
