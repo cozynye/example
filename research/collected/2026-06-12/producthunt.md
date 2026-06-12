@@ -76,3 +76,15 @@
 - **URL**: https://www.producthunt.com/products/insta-360
 - **Source**: producthunt
 
+## Pond
+- **URL**: https://www.producthunt.com/products/pond-5
+- **Source**: producthunt
+
+## Keep
+- **URL**: https://www.producthunt.com/products/keep-8
+- **Source**: producthunt
+
+## NODUS PH Radar for Product Hunt
+- **URL**: https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt
+- **Source**: producthunt
+
