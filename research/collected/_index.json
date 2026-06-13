@@ -631,7 +631,31 @@
     "https://stackscope.dev/": {
       "date": "2026-06-13",
       "source": "hackernews"
+    },
+    "https://github.com/vrtnis/tycoon-learning-environment": {
+      "date": "2026-06-13",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/avatars-in-elevencreative": {
+      "date": "2026-06-13",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/extract-by-firecrawl": {
+      "date": "2026-06-13",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/nomnak": {
+      "date": "2026-06-13",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/vercel": {
+      "date": "2026-06-13",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/cakewordai-snap-learn": {
+      "date": "2026-06-13",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-13T03:23:26.564Z"
+  "lastRun": "2026-06-13T09:27:07.611Z"
 }

@@ -14,3 +14,8 @@
 - **Score**: 48 | **Comments**: 14
 - **Source**: hackernews
 
+## TycoonLE: A Jax reinforcement learning environment for long-horizon planning
+- **URL**: https://github.com/vrtnis/tycoon-learning-environment
+- **Score**: 12 | **Comments**: 1
+- **Source**: hackernews
+
