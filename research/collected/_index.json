@@ -623,7 +623,15 @@
     "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt": {
       "date": "2026-06-12",
       "source": "producthunt"
+    },
+    "https://bitboard.work/": {
+      "date": "2026-06-13",
+      "source": "hackernews"
+    },
+    "https://stackscope.dev/": {
+      "date": "2026-06-13",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-06-12T15:16:34.122Z"
+  "lastRun": "2026-06-13T03:23:26.564Z"
 }
