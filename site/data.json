@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-13T14:01:32.249Z",
+  "buildTime": "2026-06-14T03:39:30.455Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1155,16 +1155,6 @@
       "description": ""
     },
     {
-      "date": "2026-06-07",
-      "source": "hackernews",
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
-      "score": 48,
-      "comments": 23,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-06-10",
       "source": "hackernews",
       "title": "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
@@ -2229,56 +2219,6 @@
       "source": "producthunt",
       "title": "Sigma File Manager",
       "url": "https://www.producthunt.com/products/sigma-file-manager",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-07",
-      "source": "producthunt",
-      "title": "Wave",
-      "url": "https://www.producthunt.com/products/wave-16",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-07",
-      "source": "producthunt",
-      "title": "Dreambeans by Google Labs",
-      "url": "https://www.producthunt.com/products/google-labs",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-07",
-      "source": "producthunt",
-      "title": "CabinLink",
-      "url": "https://www.producthunt.com/products/cabinlink",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-07",
-      "source": "producthunt",
-      "title": "Smmall Cloud for iOS",
-      "url": "https://www.producthunt.com/products/smmall-cloud",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-07",
-      "source": "producthunt",
-      "title": "Job Postings API",
-      "url": "https://www.producthunt.com/products/free-job-postings-api",
       "score": 0,
       "comments": 0,
       "subreddit": null,
