@@ -16,3 +16,63 @@
 - **URL**: https://www.producthunt.com/products/tinfoil-pigeons
 - **Source**: producthunt
 
+## Kickbacks.ai
+- **URL**: https://www.producthunt.com/products/kickbacks-ai
+- **Source**: producthunt
+
+## MiMo Code
+- **URL**: https://www.producthunt.com/products/mimo-3
+- **Source**: producthunt
+
+## Reignat
+- **URL**: https://www.producthunt.com/products/reignat
+- **Source**: producthunt
+
+## Wobo 2.0
+- **URL**: https://www.producthunt.com/products/wobo-ai
+- **Source**: producthunt
+
+## EmailFlow.AI
+- **URL**: https://www.producthunt.com/products/emailflow-ai-b2b-lead-generation
+- **Source**: producthunt
+
+## Notchcode
+- **URL**: https://www.producthunt.com/products/notchcode
+- **Source**: producthunt
+
+## Relay
+- **URL**: https://www.producthunt.com/products/relay-20
+- **Source**: producthunt
+
+## Synopsule
+- **URL**: https://www.producthunt.com/products/synopsule
+- **Source**: producthunt
+
+## Novu Connect
+- **URL**: https://www.producthunt.com/products/novu
+- **Source**: producthunt
+
+## ColibotAI
+- **URL**: https://www.producthunt.com/products/colibotai
+- **Source**: producthunt
+
+## AEVS
+- **URL**: https://www.producthunt.com/products/aevs-by-fetch-ai
+- **Source**: producthunt
+
+## Verol
+- **URL**: https://www.producthunt.com/products/verol
+- **Source**: producthunt
+
+## Sulsaly
+- **URL**: https://www.producthunt.com/products/sulsaly
+- **Source**: producthunt
+
+## AutoEdit
+- **URL**: https://www.producthunt.com/products/autoedit
+- **Source**: producthunt
+
+## Capecho
+- **URL**: https://www.producthunt.com/products/capecho
+- **Source**: producthunt
+
