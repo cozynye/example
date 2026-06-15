@@ -767,7 +767,39 @@
     "https://www.producthunt.com/products/capecho": {
       "date": "2026-06-15",
       "source": "producthunt"
+    },
+    "https://news.ycombinator.com/item?id=48543908": {
+      "date": "2026-06-15",
+      "source": "hackernews"
+    },
+    "https://humaverify.com/blog/anatomy-of-a-55k-bot-attack": {
+      "date": "2026-06-15",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/agentbrush": {
+      "date": "2026-06-15",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/idledev": {
+      "date": "2026-06-15",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/ultramemory-remembers-everything": {
+      "date": "2026-06-15",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/pandaprobe-cloud": {
+      "date": "2026-06-15",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/notra-3": {
+      "date": "2026-06-15",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/vexi": {
+      "date": "2026-06-15",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-15T12:33:13.746Z"
+  "lastRun": "2026-06-15T17:16:05.097Z"
 }
