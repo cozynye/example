@@ -72,3 +72,47 @@
 - **URL**: https://www.producthunt.com/products/agirails
 - **Source**: producthunt
 
+## Getusefeed
+- **URL**: https://www.producthunt.com/products/getusefeed-voting-public-roadmap
+- **Source**: producthunt
+
+## Revyl
+- **URL**: https://www.producthunt.com/products/revyl
+- **Source**: producthunt
+
+## Eidentic
+- **URL**: https://www.producthunt.com/products/eidentic
+- **Source**: producthunt
+
+## GateOS
+- **URL**: https://www.producthunt.com/products/gateos
+- **Source**: producthunt
+
+## Notum
+- **URL**: https://www.producthunt.com/products/notum
+- **Source**: producthunt
+
+## Boxwood Chess
+- **URL**: https://www.producthunt.com/products/boxwood-chess
+- **Source**: producthunt
+
+## Annota
+- **URL**: https://www.producthunt.com/products/annota
+- **Source**: producthunt
+
+## SocialKit
+- **URL**: https://www.producthunt.com/products/socialkit-2
+- **Source**: producthunt
+
+## Bitli.st
+- **URL**: https://www.producthunt.com/products/bitli-st
+- **Source**: producthunt
+
+## Writulos
+- **URL**: https://www.producthunt.com/products/writulos
+- **Source**: producthunt
+
+## LLM Gateway Chat
+- **URL**: https://www.producthunt.com/products/llm-gateway
+- **Source**: producthunt
+
