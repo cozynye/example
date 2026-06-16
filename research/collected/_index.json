@@ -799,7 +799,15 @@
     "https://www.producthunt.com/products/vexi": {
       "date": "2026-06-15",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/fonda": {
+      "date": "2026-06-16",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/mockpilot": {
+      "date": "2026-06-16",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-15T17:16:05.097Z"
+  "lastRun": "2026-06-16T03:42:37.561Z"
 }
