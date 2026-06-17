@@ -96,3 +96,23 @@
 - **URL**: https://www.producthunt.com/products/memoire
 - **Source**: producthunt
 
+## Dualora
+- **URL**: https://www.producthunt.com/products/dualora-dual-size-recorder
+- **Source**: producthunt
+
+## Polygram Coding Agent
+- **URL**: https://www.producthunt.com/products/polygram-4
+- **Source**: producthunt
+
+## Wolfram Language 15
+- **URL**: https://www.producthunt.com/products/wolfram-mathematica
+- **Source**: producthunt
+
+## Tyto by ai-coustics
+- **URL**: https://www.producthunt.com/products/tyto
+- **Source**: producthunt
+
+## Restaurant Menu Visualizer
+- **URL**: https://www.producthunt.com/products/a-bit-differently
+- **Source**: producthunt
+
