@@ -9,3 +9,8 @@
 - **Score**: 166 | **Comments**: 84
 - **Source**: hackernews
 
+## Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps
+- **URL**: https://tester.army
+- **Score**: 15 | **Comments**: 4
+- **Source**: hackernews
+

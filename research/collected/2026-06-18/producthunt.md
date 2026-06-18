@@ -88,3 +88,31 @@
 - **URL**: https://www.producthunt.com/products/vela-7
 - **Source**: producthunt
 
+## Tine
+- **URL**: https://www.producthunt.com/products/tine-2
+- **Source**: producthunt
+
+## Agentic videos by D-ID
+- **URL**: https://www.producthunt.com/products/d-id
+- **Source**: producthunt
+
+## Labs AI
+- **URL**: https://www.producthunt.com/products/labs-ai-text-to-speech
+- **Source**: producthunt
+
+## Otty
+- **URL**: https://www.producthunt.com/products/otty
+- **Source**: producthunt
+
+## Ploy.ai
+- **URL**: https://www.producthunt.com/products/ploy-ai
+- **Source**: producthunt
+
+## DeskArcade
+- **URL**: https://www.producthunt.com/products/deskarcade
+- **Source**: producthunt
+
+## CashOut
+- **URL**: https://www.producthunt.com/products/cashout-quit-sportsbooks
+- **Source**: producthunt
+

@@ -1115,7 +1115,39 @@
     "https://www.producthunt.com/products/vela-7": {
       "date": "2026-06-18",
       "source": "producthunt"
+    },
+    "https://tester.army": {
+      "date": "2026-06-18",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/tine-2": {
+      "date": "2026-06-18",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/d-id": {
+      "date": "2026-06-18",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/labs-ai-text-to-speech": {
+      "date": "2026-06-18",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/otty": {
+      "date": "2026-06-18",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/ploy-ai": {
+      "date": "2026-06-18",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/deskarcade": {
+      "date": "2026-06-18",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/cashout-quit-sportsbooks": {
+      "date": "2026-06-18",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-18T10:40:59.146Z"
+  "lastRun": "2026-06-18T15:26:45.760Z"
 }
