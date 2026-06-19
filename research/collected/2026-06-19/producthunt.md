@@ -76,3 +76,27 @@
 - **URL**: https://www.producthunt.com/products/midjourney
 - **Source**: producthunt
 
+## frontpage.sh
+- **URL**: https://www.producthunt.com/products/frontpage-sh-8-squares-forever-for-sale
+- **Source**: producthunt
+
+## MeshPilot
+- **URL**: https://www.producthunt.com/products/meshpilot
+- **Source**: producthunt
+
+## Screen Ruler
+- **URL**: https://www.producthunt.com/products/screen-ruler
+- **Source**: producthunt
+
+## Blazly Backlinker
+- **URL**: https://www.producthunt.com/products/blazly-backlinker
+- **Source**: producthunt
+
+## just f***ing send it
+- **URL**: https://www.producthunt.com/products/just-f-ing-send-it
+- **Source**: producthunt
+
+## Snap Deck HQ
+- **URL**: https://www.producthunt.com/products/snap-deck-hq
+- **Source**: producthunt
+
