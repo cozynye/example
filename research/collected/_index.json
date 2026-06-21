@@ -1299,7 +1299,15 @@
     "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones": {
       "date": "2026-06-20",
       "source": "hackernews"
+    },
+    "https://startupwiki.tech/": {
+      "date": "2026-06-21",
+      "source": "hackernews"
+    },
+    "https://vawaa.com/": {
+      "date": "2026-06-21",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-06-20T14:05:34.772Z"
+  "lastRun": "2026-06-21T03:46:34.781Z"
 }
