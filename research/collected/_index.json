@@ -1307,7 +1307,39 @@
     "https://vawaa.com/": {
       "date": "2026-06-21",
       "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/poolside": {
+      "date": "2026-06-21",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/oioi": {
+      "date": "2026-06-21",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/atomic-mail-agentic": {
+      "date": "2026-06-21",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/backgrind": {
+      "date": "2026-06-21",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/plansera-ai": {
+      "date": "2026-06-21",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/agent-37-38": {
+      "date": "2026-06-21",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/notchkin": {
+      "date": "2026-06-21",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/grok-by-spacexai-for-word": {
+      "date": "2026-06-21",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-21T03:46:34.781Z"
+  "lastRun": "2026-06-21T09:59:46.786Z"
 }
