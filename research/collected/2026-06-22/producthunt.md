@@ -64,3 +64,7 @@
 - **URL**: https://www.producthunt.com/products/agentic-document-extraction
 - **Source**: producthunt
 
+## AlgoFly AI
+- **URL**: https://www.producthunt.com/products/algofly-ai
+- **Source**: producthunt
+
