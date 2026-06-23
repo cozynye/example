@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-23T09:57:04.366Z",
+  "buildTime": "2026-06-23T14:50:23.043Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W26.md",
     "title": "2026-W26 주간 로그",
-    "content": "# 2026-W26 주간 로그\n\n\n## 자동 수집 (2026-06-22 PM 9:18:25)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-22 AM 1:59:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-06-23 AM 11:52:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-23 PM 6:56:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n"
+    "content": "# 2026-W26 주간 로그\n\n\n## 자동 수집 (2026-06-22 PM 9:18:25)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-22 AM 1:59:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-06-23 AM 11:52:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-23 PM 6:56:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-23 PM 11:50:13)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **5** |\n\n"
   },
   "collected": [
     {
@@ -1339,6 +1339,56 @@
       "source": "producthunt",
       "title": "wildbirds",
       "url": "https://www.producthunt.com/products/wildbirds",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "OpenArt Director",
+      "url": "https://www.producthunt.com/products/openart",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "LogStitch",
+      "url": "https://www.producthunt.com/products/logstitch",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Blazly SEO",
+      "url": "https://www.producthunt.com/products/tregno",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Deckwise",
+      "url": "https://www.producthunt.com/products/deckwise",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Steam Machine",
+      "url": "https://www.producthunt.com/products/steam-machine",
       "score": 0,
       "comments": 0,
       "subreddit": null,
