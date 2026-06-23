@@ -1407,7 +1407,11 @@
     "https://www.producthunt.com/products/algofly-ai": {
       "date": "2026-06-22",
       "source": "producthunt"
+    },
+    "https://store.steampowered.com/news/group/45479024/view/685257114654870245": {
+      "date": "2026-06-23",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-06-22T16:59:04.294Z"
+  "lastRun": "2026-06-23T02:52:30.911Z"
 }

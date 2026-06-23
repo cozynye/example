@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-22T16:59:14.216Z",
+  "buildTime": "2026-06-23T02:52:40.794Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,9 +1091,19 @@
   "latestLog": {
     "file": "logs/2026-W26.md",
     "title": "2026-W26 주간 로그",
-    "content": "# 2026-W26 주간 로그\n\n\n## 자동 수집 (2026-06-22 PM 9:18:25)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-22 AM 1:59:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n"
+    "content": "# 2026-W26 주간 로그\n\n\n## 자동 수집 (2026-06-22 PM 9:18:25)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-22 AM 1:59:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-06-23 AM 11:52:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n"
   },
   "collected": [
+    {
+      "date": "2026-06-23",
+      "source": "hackernews",
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "score": 1271,
+      "comments": 1141,
+      "subreddit": null,
+      "description": ""
+    },
     {
       "date": "2026-06-21",
       "source": "hackernews",
@@ -2329,286 +2339,6 @@
       "source": "producthunt",
       "title": "Restaurant Menu Visualizer",
       "url": "https://www.producthunt.com/products/a-bit-differently",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Fonda",
-      "url": "https://www.producthunt.com/products/fonda",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "MockPilot",
-      "url": "https://www.producthunt.com/products/mockpilot",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "GitHits beta 0.9",
-      "url": "https://www.producthunt.com/products/githits",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Glint",
-      "url": "https://www.producthunt.com/products/glint-9",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Goldfish",
-      "url": "https://www.producthunt.com/products/goldfish-early-access",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Kraina",
-      "url": "https://www.producthunt.com/products/kraina",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Athena Desktop",
-      "url": "https://www.producthunt.com/products/athena-desktop",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Tadka",
-      "url": "https://www.producthunt.com/products/tadka",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "TimedSubs",
-      "url": "https://www.producthunt.com/products/timedsubs",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Stride",
-      "url": "https://www.producthunt.com/products/stride-10",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Bodhiorchard",
-      "url": "https://www.producthunt.com/products/bodhiorchard",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "PrompTessor",
-      "url": "https://www.producthunt.com/products/promptessor",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Obotiq",
-      "url": "https://www.producthunt.com/products/obotiq",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "SIFT",
-      "url": "https://www.producthunt.com/products/sift-17",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Pawly Extension",
-      "url": "https://www.producthunt.com/products/pawly-extension",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Ledgerly",
-      "url": "https://www.producthunt.com/products/github-224",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "AGIRAILS",
-      "url": "https://www.producthunt.com/products/agirails",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Getusefeed",
-      "url": "https://www.producthunt.com/products/getusefeed-voting-public-roadmap",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Revyl",
-      "url": "https://www.producthunt.com/products/revyl",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Eidentic",
-      "url": "https://www.producthunt.com/products/eidentic",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "GateOS",
-      "url": "https://www.producthunt.com/products/gateos",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Notum",
-      "url": "https://www.producthunt.com/products/notum",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Boxwood Chess",
-      "url": "https://www.producthunt.com/products/boxwood-chess",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Annota",
-      "url": "https://www.producthunt.com/products/annota",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "SocialKit",
-      "url": "https://www.producthunt.com/products/socialkit-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Bitli.st",
-      "url": "https://www.producthunt.com/products/bitli-st",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "Writulos",
-      "url": "https://www.producthunt.com/products/writulos",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-16",
-      "source": "producthunt",
-      "title": "LLM Gateway Chat",
-      "url": "https://www.producthunt.com/products/llm-gateway",
       "score": 0,
       "comments": 0,
       "subreddit": null,
