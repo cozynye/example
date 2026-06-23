@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-23T02:52:40.794Z",
+  "buildTime": "2026-06-23T09:57:04.366Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W26.md",
     "title": "2026-W26 주간 로그",
-    "content": "# 2026-W26 주간 로그\n\n\n## 자동 수집 (2026-06-22 PM 9:18:25)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-22 AM 1:59:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-06-23 AM 11:52:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n"
+    "content": "# 2026-W26 주간 로그\n\n\n## 자동 수집 (2026-06-22 PM 9:18:25)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-22 AM 1:59:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-06-23 AM 11:52:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-23 PM 6:56:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n"
   },
   "collected": [
     {
@@ -1190,6 +1190,156 @@
       "title": "Norway greenlights first full-scale ship tunnel",
       "url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
       "score": 5,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Hush",
+      "url": "https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Latitude",
+      "url": "https://www.producthunt.com/products/latitude-4",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Sipcode",
+      "url": "https://www.producthunt.com/products/sipcode",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Cotypist",
+      "url": "https://www.producthunt.com/products/cotypist",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "NeuralAgent 3.0",
+      "url": "https://www.producthunt.com/products/neuralagent",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Bluerails Discovery",
+      "url": "https://www.producthunt.com/products/bluerails-discovery",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Buddy AI Note",
+      "url": "https://www.producthunt.com/products/buddy-ai-note",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Jotform AI App Builder",
+      "url": "https://www.producthunt.com/products/jotform",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "prepros",
+      "url": "https://www.producthunt.com/products/prepros-7",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "jebi",
+      "url": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Amnesia",
+      "url": "https://www.producthunt.com/products/amnesia-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Rosply",
+      "url": "https://www.producthunt.com/products/rosply",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "BestDefense.io",
+      "url": "https://www.producthunt.com/products/bestdefense-io",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "Thumbmagic",
+      "url": "https://www.producthunt.com/products/thumbmagic-3",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-23",
+      "source": "producthunt",
+      "title": "wildbirds",
+      "url": "https://www.producthunt.com/products/wildbirds",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
