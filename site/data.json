@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-24T02:53:20.264Z",
+  "buildTime": "2026-06-24T09:43:22.484Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W26.md",
     "title": "2026-W26 주간 로그",
-    "content": "# 2026-W26 주간 로그\n\n\n## 자동 수집 (2026-06-22 PM 9:18:25)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-22 AM 1:59:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-06-23 AM 11:52:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-23 PM 6:56:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-23 PM 11:50:13)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **5** |\n\n\n## 자동 수집 (2026-06-24 AM 11:53:10)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **2** |\n\n"
+    "content": "# 2026-W26 주간 로그\n\n\n## 자동 수집 (2026-06-22 PM 9:18:25)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-22 AM 1:59:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-06-23 AM 11:52:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-23 PM 6:56:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-23 PM 11:50:13)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **5** |\n\n\n## 자동 수집 (2026-06-24 AM 11:53:10)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-06-24 PM 6:43:12)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **14** |\n\n"
   },
   "collected": [
     {
@@ -1165,6 +1165,16 @@
       "description": ""
     },
     {
+      "date": "2026-06-24",
+      "source": "hackernews",
+      "title": "Why eval startups fail (2025)",
+      "url": "https://thomasliao.com/eval-startups",
+      "score": 19,
+      "comments": 14,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-06-18",
       "source": "hackernews",
       "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
@@ -1199,6 +1209,136 @@
       "source": "producthunt",
       "title": "HotkeyClash",
       "url": "https://www.producthunt.com/products/hotkeyclash",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "Tencent EdgeOne Makers",
+      "url": "https://www.producthunt.com/products/tencent-edgeone-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "Mindstone Rebel",
+      "url": "https://www.producthunt.com/products/mindstone-rebel",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "StaleMate PR",
+      "url": "https://www.producthunt.com/products/stalemate-pr",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "Ruby",
+      "url": "https://www.producthunt.com/products/ruby-7",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "Crewdle AI",
+      "url": "https://www.producthunt.com/products/crewdle",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "Swimio",
+      "url": "https://www.producthunt.com/products/swimio",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "React UI Kit V7",
+      "url": "https://www.producthunt.com/products/production-ready-ui-kits-by-cometchat",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "Stripe.Directory",
+      "url": "https://www.producthunt.com/products/stripe",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "Propane",
+      "url": "https://www.producthunt.com/products/propane",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "Customer Relationship Agents by Clarify",
+      "url": "https://www.producthunt.com/products/clarify-6",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "Nimt",
+      "url": "https://www.producthunt.com/products/nimt-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "Buy by Agentcard",
+      "url": "https://www.producthunt.com/products/agent-card",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "FUTO Swipe",
+      "url": "https://www.producthunt.com/products/futo-swipe",
       "score": 0,
       "comments": 0,
       "subreddit": null,
