@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-23T14:50:23.043Z",
+  "buildTime": "2026-06-24T02:53:20.264Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W26.md",
     "title": "2026-W26 주간 로그",
-    "content": "# 2026-W26 주간 로그\n\n\n## 자동 수집 (2026-06-22 PM 9:18:25)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-22 AM 1:59:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-06-23 AM 11:52:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-23 PM 6:56:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-23 PM 11:50:13)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **5** |\n\n"
+    "content": "# 2026-W26 주간 로그\n\n\n## 자동 수집 (2026-06-22 PM 9:18:25)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-22 AM 1:59:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-06-23 AM 11:52:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-06-23 PM 6:56:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-23 PM 11:50:13)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **5** |\n\n\n## 자동 수집 (2026-06-24 AM 11:53:10)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **2** |\n\n"
   },
   "collected": [
     {
@@ -1121,16 +1121,6 @@
       "url": "https://github.com/Adam-CAD/CADAM",
       "score": 166,
       "comments": 84,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "hackernews",
-      "title": "The founder's playbook: Building an AI-native startup",
-      "url": "https://claude.com/blog/the-founders-playbook",
-      "score": 101,
-      "comments": 92,
       "subreddit": null,
       "description": ""
     },
@@ -1190,6 +1180,26 @@
       "title": "Norway greenlights first full-scale ship tunnel",
       "url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
       "score": 5,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "Conduit",
+      "url": "https://www.producthunt.com/products/conduit-12",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-24",
+      "source": "producthunt",
+      "title": "HotkeyClash",
+      "url": "https://www.producthunt.com/products/hotkeyclash",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
@@ -2259,286 +2269,6 @@
       "source": "producthunt",
       "title": "CashOut",
       "url": "https://www.producthunt.com/products/cashout-quit-sportsbooks",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "looquee",
-      "url": "https://www.producthunt.com/products/looquee",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Fluxmail",
-      "url": "https://www.producthunt.com/products/fluxmail",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Fonty Menu Bar",
-      "url": "https://www.producthunt.com/products/fonty-menu-bar",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Publia",
-      "url": "https://www.producthunt.com/products/publia",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "1000Yen Eats",
-      "url": "https://www.producthunt.com/products/1000yen-eats",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Human in the Love",
-      "url": "https://www.producthunt.com/products/human-in-the-love",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Subotiz",
-      "url": "https://www.producthunt.com/products/subotiz",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "MindReader v1",
-      "url": "https://www.producthunt.com/products/mindreader-v1",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Parano.ai",
-      "url": "https://www.producthunt.com/products/parano-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "StickerWords",
-      "url": "https://www.producthunt.com/products/stickerwords",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "SolonGate",
-      "url": "https://www.producthunt.com/products/solongate",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Henji",
-      "url": "https://www.producthunt.com/products/henji",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Framer 3.0",
-      "url": "https://www.producthunt.com/products/framer",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "TapSign",
-      "url": "https://www.producthunt.com/products/tapsign",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Locus Founder",
-      "url": "https://www.producthunt.com/products/locus-founder",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "NotchSpace",
-      "url": "https://www.producthunt.com/products/notchspace-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Vitrine",
-      "url": "https://www.producthunt.com/products/vitrine",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Daemons by Charlie Labs",
-      "url": "https://www.producthunt.com/products/daemons-by-charlie-labs",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Mirlo",
-      "url": "https://www.producthunt.com/products/mirlo",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Quartz",
-      "url": "https://www.producthunt.com/products/quartz-3",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Deep Work Plan",
-      "url": "https://www.producthunt.com/products/deep-work-plan",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Infinite",
-      "url": "https://www.producthunt.com/products/infinite-the-growth-engineering-agent",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "memi",
-      "url": "https://www.producthunt.com/products/memoire",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Dualora",
-      "url": "https://www.producthunt.com/products/dualora-dual-size-recorder",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Polygram Coding Agent",
-      "url": "https://www.producthunt.com/products/polygram-4",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Wolfram Language 15",
-      "url": "https://www.producthunt.com/products/wolfram-mathematica",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Tyto by ai-coustics",
-      "url": "https://www.producthunt.com/products/tyto",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-17",
-      "source": "producthunt",
-      "title": "Restaurant Menu Visualizer",
-      "url": "https://www.producthunt.com/products/a-bit-differently",
       "score": 0,
       "comments": 0,
       "subreddit": null,

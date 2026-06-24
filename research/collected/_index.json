@@ -1491,7 +1491,15 @@
     "https://www.producthunt.com/products/steam-machine": {
       "date": "2026-06-23",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/conduit-12": {
+      "date": "2026-06-24",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/hotkeyclash": {
+      "date": "2026-06-24",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-23T14:50:13.031Z"
+  "lastRun": "2026-06-24T02:53:10.332Z"
 }
