@@ -9,3 +9,8 @@
 - **Score**: 19 | **Comments**: 14
 - **Source**: hackernews
 
+## Mark Zuckerberg wants Meta to launch its own prediction market
+- **URL**: https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/
+- **Score**: 18 | **Comments**: 15
+- **Source**: hackernews
+

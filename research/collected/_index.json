@@ -1555,7 +1555,11 @@
     "https://www.producthunt.com/products/futo-swipe": {
       "date": "2026-06-24",
       "source": "producthunt"
+    },
+    "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/": {
+      "date": "2026-06-24",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-06-24T09:43:12.572Z"
+  "lastRun": "2026-06-24T14:32:12.912Z"
 }
