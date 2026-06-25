@@ -1559,7 +1559,15 @@
     "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/": {
       "date": "2026-06-24",
       "source": "hackernews"
+    },
+    "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf": {
+      "date": "2026-06-25",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/synter-media-ai": {
+      "date": "2026-06-25",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-24T14:32:12.912Z"
+  "lastRun": "2026-06-25T02:52:49.757Z"
 }
