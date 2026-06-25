@@ -68,3 +68,31 @@
 - **URL**: https://www.producthunt.com/products/polygraph
 - **Source**: producthunt
 
+## Nashra
+- **URL**: https://www.producthunt.com/products/nashra-turn-followers-into-clients
+- **Source**: producthunt
+
+## Oxlo.ai
+- **URL**: https://www.producthunt.com/products/oxlo-ai
+- **Source**: producthunt
+
+## Genspark Design
+- **URL**: https://www.producthunt.com/products/genspark-design
+- **Source**: producthunt
+
+## VTT for Mac
+- **URL**: https://www.producthunt.com/products/vtt-for-mac
+- **Source**: producthunt
+
+## Blop
+- **URL**: https://www.producthunt.com/products/blop-ai
+- **Source**: producthunt
+
+## Signspell
+- **URL**: https://www.producthunt.com/products/signspell
+- **Source**: producthunt
+
+## Papermark Agents
+- **URL**: https://www.producthunt.com/products/papermark-2
+- **Source**: producthunt
+

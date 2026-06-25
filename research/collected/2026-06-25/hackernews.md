@@ -19,3 +19,8 @@
 - **Score**: 47 | **Comments**: 24
 - **Source**: hackernews
 
+## Show HN: StartupsBR – A map of Brazilian startups
+- **URL**: https://www.startupsbr.com/sao-paulo
+- **Score**: 42 | **Comments**: 20
+- **Source**: hackernews
+
