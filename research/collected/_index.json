@@ -1,69 +1,5 @@
 {
   "urls": {
-    "https://github.com/dmars8047/handymkv": {
-      "date": "2026-03-27",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/pio": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/vit": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/playcode-javascript-sandbox-playground": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/douzo": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/venn-ai-2": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/trivia-by-typito-ai": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/eron": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/macnotch-the-notch-reimagined": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/nebils": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/anvil-5": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/luzo": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/breadcrumb-2": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/autonoma-sourcing": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/slicer-dev-any-component-as-ai-prompt": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/dunky-ai-pitch-analyzer": {
-      "date": "2026-03-27",
-      "source": "producthunt"
-    },
     "https://www.buchodi.com/meta-glasses-facial-recognition/": {
       "date": "2026-06-05",
       "source": "hackernews"
@@ -1667,7 +1603,15 @@
     "https://www.producthunt.com/products/papermark-2": {
       "date": "2026-06-25",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/paybond": {
+      "date": "2026-06-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/grass-claude-code-from-your-phone": {
+      "date": "2026-06-26",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-25T14:34:42.849Z"
+  "lastRun": "2026-06-26T02:58:14.507Z"
 }
