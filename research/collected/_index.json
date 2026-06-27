@@ -1691,7 +1691,11 @@
     "https://www.producthunt.com/products/qapilot": {
       "date": "2026-06-27",
       "source": "producthunt"
+    },
+    "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/": {
+      "date": "2026-06-27",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-06-27T08:45:37.367Z"
+  "lastRun": "2026-06-27T13:44:17.087Z"
 }
