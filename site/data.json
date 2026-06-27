@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-26T14:26:05.244Z",
+  "buildTime": "2026-06-27T02:47:52.757Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1175,16 +1175,6 @@
       "description": ""
     },
     {
-      "date": "2026-06-20",
-      "source": "hackernews",
-      "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
-      "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
-      "score": 34,
-      "comments": 16,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-06-24",
       "source": "hackernews",
       "title": "Why eval startups fail (2025)",
@@ -2179,116 +2169,6 @@
       "source": "producthunt",
       "title": "Grok by SpaceXAI for Word",
       "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-20",
-      "source": "producthunt",
-      "title": "Foglamp",
-      "url": "https://www.producthunt.com/products/foglamp",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-20",
-      "source": "producthunt",
-      "title": "Foyer",
-      "url": "https://www.producthunt.com/products/foyer-4",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-20",
-      "source": "producthunt",
-      "title": "Mellum by JetBrains",
-      "url": "https://www.producthunt.com/products/jetbrains",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-20",
-      "source": "producthunt",
-      "title": "Slackbot’s MCP Client",
-      "url": "https://www.producthunt.com/products/slack",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-20",
-      "source": "producthunt",
-      "title": "Pixlie",
-      "url": "https://www.producthunt.com/products/pixlie",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-20",
-      "source": "producthunt",
-      "title": "WorkClaw",
-      "url": "https://www.producthunt.com/products/workclaw",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-20",
-      "source": "producthunt",
-      "title": "ReleaseDock",
-      "url": "https://www.producthunt.com/products/releasedock",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-20",
-      "source": "producthunt",
-      "title": "Reframe",
-      "url": "https://www.producthunt.com/products/reframe-7",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-20",
-      "source": "producthunt",
-      "title": "pumaDB",
-      "url": "https://www.producthunt.com/products/pumadb",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-20",
-      "source": "producthunt",
-      "title": "Are you in the Weights?",
-      "url": "https://www.producthunt.com/products/are-you-in-the-weights",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-20",
-      "source": "producthunt",
-      "title": "GitSync for macOS",
-      "url": "https://www.producthunt.com/products/gitsync-for-macos",
       "score": 0,
       "comments": 0,
       "subreddit": null,
