@@ -1699,7 +1699,27 @@
     "https://dervis.de/physical/": {
       "date": "2026-06-28",
       "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/persona-12": {
+      "date": "2026-06-28",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/discode-ai": {
+      "date": "2026-06-28",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/getcompress": {
+      "date": "2026-06-28",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/lyto": {
+      "date": "2026-06-28",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/dotient": {
+      "date": "2026-06-28",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-28T03:28:22.264Z"
+  "lastRun": "2026-06-28T09:22:20.908Z"
 }
