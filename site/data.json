@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-28T13:47:41.580Z",
+  "buildTime": "2026-06-29T03:33:31.180Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1135,16 +1135,6 @@
       "description": ""
     },
     {
-      "date": "2026-06-22",
-      "source": "hackernews",
-      "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships",
-      "url": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
-      "score": 63,
-      "comments": 24,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-06-25",
       "source": "hackernews",
       "title": "Show HN: Write SaaS apps where users control where their data is stored",
@@ -2039,166 +2029,6 @@
       "source": "producthunt",
       "title": "Steam Machine",
       "url": "https://www.producthunt.com/products/steam-machine",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "AirJelly",
-      "url": "https://www.producthunt.com/products/airjelly",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "uwait",
-      "url": "https://www.producthunt.com/products/uwait",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "Skybridge",
-      "url": "https://www.producthunt.com/products/skybridge",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "Selector Forge",
-      "url": "https://www.producthunt.com/products/selector-forge",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "readywhen",
-      "url": "https://www.producthunt.com/products/readywhen",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "OnBrand by SlideSpeak",
-      "url": "https://www.producthunt.com/products/onbrand-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "HAQQ Legal AI on Mobile",
-      "url": "https://www.producthunt.com/products/haqq-mobile-app",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "Cloudflare Temporary Accounts",
-      "url": "https://www.producthunt.com/products/cloudflare",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "AgentX",
-      "url": "https://www.producthunt.com/products/agentx",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "Clawd",
-      "url": "https://www.producthunt.com/products/clawd-the-context-aware-browser-pet",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "MediaSeg",
-      "url": "https://www.producthunt.com/products/mediaseg",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "MD+HTML Reader",
-      "url": "https://www.producthunt.com/products/md-html-reader",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "Photoroom API",
-      "url": "https://www.producthunt.com/products/bg-app",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "Alai 2.0",
-      "url": "https://www.producthunt.com/products/alai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "Agentic Document Extraction",
-      "url": "https://www.producthunt.com/products/agentic-document-extraction",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-22",
-      "source": "producthunt",
-      "title": "AlgoFly AI",
-      "url": "https://www.producthunt.com/products/algofly-ai",
       "score": 0,
       "comments": 0,
       "subreddit": null,
