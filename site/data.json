@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-30T09:54:13.777Z",
+  "buildTime": "2026-06-30T14:20:29.013Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W27.md",
     "title": "2026-W27 주간 로그",
-    "content": "# 2026-W27 주간 로그\n\n\n## 자동 수집 (2026-06-29 PM 8:15:37)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 11 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-06-30 PM 6:54:03)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n"
+    "content": "# 2026-W27 주간 로그\n\n\n## 자동 수집 (2026-06-29 PM 8:15:37)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 11 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-06-30 PM 6:54:03)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-30 PM 11:20:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n"
   },
   "collected": [
     {
@@ -1329,6 +1329,46 @@
       "source": "producthunt",
       "title": "Bilt.me - Figma",
       "url": "https://www.producthunt.com/products/bilt-me",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-30",
+      "source": "producthunt",
+      "title": "Tinkerfont",
+      "url": "https://www.producthunt.com/products/tinkerfont",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-30",
+      "source": "producthunt",
+      "title": "Clade",
+      "url": "https://www.producthunt.com/products/cleo-4",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-30",
+      "source": "producthunt",
+      "title": "Dayflow",
+      "url": "https://www.producthunt.com/products/dayflow-4",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-06-30",
+      "source": "producthunt",
+      "title": "Cursor for iOS",
+      "url": "https://www.producthunt.com/products/cursor",
       "score": 0,
       "comments": 0,
       "subreddit": null,

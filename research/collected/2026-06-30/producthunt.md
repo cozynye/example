@@ -64,3 +64,19 @@
 - **URL**: https://www.producthunt.com/products/bilt-me
 - **Source**: producthunt
 
+## Tinkerfont
+- **URL**: https://www.producthunt.com/products/tinkerfont
+- **Source**: producthunt
+
+## Clade
+- **URL**: https://www.producthunt.com/products/cleo-4
+- **Source**: producthunt
+
+## Dayflow
+- **URL**: https://www.producthunt.com/products/dayflow-4
+- **Source**: producthunt
+
+## Cursor for iOS
+- **URL**: https://www.producthunt.com/products/cursor
+- **Source**: producthunt
+

@@ -1827,7 +1827,23 @@
     "https://www.producthunt.com/products/bilt-me": {
       "date": "2026-06-30",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/tinkerfont": {
+      "date": "2026-06-30",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/cleo-4": {
+      "date": "2026-06-30",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/dayflow-4": {
+      "date": "2026-06-30",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/cursor": {
+      "date": "2026-06-30",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-06-30T09:54:03.837Z"
+  "lastRun": "2026-06-30T14:20:19.016Z"
 }
