@@ -1843,7 +1843,19 @@
     "https://www.producthunt.com/products/cursor": {
       "date": "2026-06-30",
       "source": "producthunt"
+    },
+    "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/": {
+      "date": "2026-07-01",
+      "source": "hackernews"
+    },
+    "https://www.w3.org/DesignIssues/MatrixURIs.html": {
+      "date": "2026-07-01",
+      "source": "hackernews"
+    },
+    "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026": {
+      "date": "2026-07-01",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-06-30T14:20:19.016Z"
+  "lastRun": "2026-07-01T03:28:32.921Z"
 }

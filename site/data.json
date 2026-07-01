@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-06-30T14:20:29.013Z",
+  "buildTime": "2026-07-01T03:28:42.875Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W27.md",
     "title": "2026-W27 주간 로그",
-    "content": "# 2026-W27 주간 로그\n\n\n## 자동 수집 (2026-06-29 PM 8:15:37)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 11 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-06-30 PM 6:54:03)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-30 PM 11:20:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n"
+    "content": "# 2026-W27 주간 로그\n\n\n## 자동 수집 (2026-06-29 PM 8:15:37)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 11 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-06-30 PM 6:54:03)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-30 PM 11:20:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-07-01 PM 12:28:32)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **3** |\n\n"
   },
   "collected": [
     {
@@ -1101,6 +1101,16 @@
       "url": "https://dervis.de/physical/",
       "score": 383,
       "comments": 250,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-01",
+      "source": "hackernews",
+      "title": "Supreme Court upholds broad conception of birthright citizenship",
+      "url": "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026",
+      "score": 178,
+      "comments": 468,
       "subreddit": null,
       "description": ""
     },
@@ -1115,12 +1125,32 @@
       "description": ""
     },
     {
+      "date": "2026-07-01",
+      "source": "hackernews",
+      "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+      "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
+      "score": 91,
+      "comments": 18,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-06-25",
       "source": "hackernews",
       "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
       "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
       "score": 69,
       "comments": 26,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-01",
+      "source": "hackernews",
+      "title": "Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",
+      "url": "https://www.w3.org/DesignIssues/MatrixURIs.html",
+      "score": 52,
+      "comments": 29,
       "subreddit": null,
       "description": ""
     },
@@ -1141,26 +1171,6 @@
       "url": "https://www.startupsbr.com/sao-paulo",
       "score": 42,
       "comments": 20,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "hackernews",
-      "title": "Why eval startups fail (2025)",
-      "url": "https://thomasliao.com/eval-startups",
-      "score": 19,
-      "comments": 14,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "hackernews",
-      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
-      "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
-      "score": 18,
-      "comments": 15,
       "subreddit": null,
       "description": ""
     },
@@ -1979,156 +1989,6 @@
       "source": "producthunt",
       "title": "Papermark Agents",
       "url": "https://www.producthunt.com/products/papermark-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "Conduit",
-      "url": "https://www.producthunt.com/products/conduit-12",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "HotkeyClash",
-      "url": "https://www.producthunt.com/products/hotkeyclash",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "Tencent EdgeOne Makers",
-      "url": "https://www.producthunt.com/products/tencent-edgeone-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "Mindstone Rebel",
-      "url": "https://www.producthunt.com/products/mindstone-rebel",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "StaleMate PR",
-      "url": "https://www.producthunt.com/products/stalemate-pr",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "Ruby",
-      "url": "https://www.producthunt.com/products/ruby-7",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "Crewdle AI",
-      "url": "https://www.producthunt.com/products/crewdle",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "Swimio",
-      "url": "https://www.producthunt.com/products/swimio",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "React UI Kit V7",
-      "url": "https://www.producthunt.com/products/production-ready-ui-kits-by-cometchat",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "Stripe.Directory",
-      "url": "https://www.producthunt.com/products/stripe",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "Propane",
-      "url": "https://www.producthunt.com/products/propane",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "Customer Relationship Agents by Clarify",
-      "url": "https://www.producthunt.com/products/clarify-6",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "Nimt",
-      "url": "https://www.producthunt.com/products/nimt-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "Buy by Agentcard",
-      "url": "https://www.producthunt.com/products/agent-card",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-06-24",
-      "source": "producthunt",
-      "title": "FUTO Swipe",
-      "url": "https://www.producthunt.com/products/futo-swipe",
       "score": 0,
       "comments": 0,
       "subreddit": null,
