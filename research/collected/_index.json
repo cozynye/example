@@ -1915,7 +1915,39 @@
     "https://www.producthunt.com/products/stigg": {
       "date": "2026-07-01",
       "source": "producthunt"
+    },
+    "https://news.ycombinator.com/item?id=48746752": {
+      "date": "2026-07-01",
+      "source": "hackernews"
+    },
+    "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch": {
+      "date": "2026-07-01",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/airtop": {
+      "date": "2026-07-01",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/loot-6": {
+      "date": "2026-07-01",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/lighttwist": {
+      "date": "2026-07-01",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/modelence-app-builder": {
+      "date": "2026-07-01",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/ciaro-pro": {
+      "date": "2026-07-01",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/oasis-ring": {
+      "date": "2026-07-01",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-01T10:02:42.268Z"
+  "lastRun": "2026-07-01T14:37:23.119Z"
 }

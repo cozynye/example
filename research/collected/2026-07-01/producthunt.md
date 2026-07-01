@@ -64,3 +64,27 @@
 - **URL**: https://www.producthunt.com/products/stigg
 - **Source**: producthunt
 
+## Mark by Airtop
+- **URL**: https://www.producthunt.com/products/airtop
+- **Source**: producthunt
+
+## Loot
+- **URL**: https://www.producthunt.com/products/loot-6
+- **Source**: producthunt
+
+## LightTwist
+- **URL**: https://www.producthunt.com/products/lighttwist
+- **Source**: producthunt
+
+## Modelence Mobile Builder
+- **URL**: https://www.producthunt.com/products/modelence-app-builder
+- **Source**: producthunt
+
+## Ciaro Pro
+- **URL**: https://www.producthunt.com/products/ciaro-pro
+- **Source**: producthunt
+
+## OASIS 1 Ring
+- **URL**: https://www.producthunt.com/products/oasis-ring
+- **Source**: producthunt
+

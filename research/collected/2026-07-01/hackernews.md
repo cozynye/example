@@ -19,3 +19,13 @@
 - **Score**: 178 | **Comments**: 468
 - **Source**: hackernews
 
+## Launch HN: Parsewise (YC P25) – Reason Across Documents with an API
+- **URL**: https://news.ycombinator.com/item?id=48746752
+- **Score**: 10 | **Comments**: 2
+- **Source**: hackernews
+
+## Pine64 launch $50 smart speaker for Home Assistant tinkerers
+- **URL**: https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch
+- **Score**: 99 | **Comments**: 43
+- **Source**: hackernews
+

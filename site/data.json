@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-07-01T10:02:52.261Z",
+  "buildTime": "2026-07-01T14:37:32.999Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W27.md",
     "title": "2026-W27 주간 로그",
-    "content": "# 2026-W27 주간 로그\n\n\n## 자동 수집 (2026-06-29 PM 8:15:37)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 11 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-06-30 PM 6:54:03)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-30 PM 11:20:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-07-01 PM 12:28:32)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **3** |\n\n\n## 자동 수집 (2026-07-01 PM 7:02:42)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n"
+    "content": "# 2026-W27 주간 로그\n\n\n## 자동 수집 (2026-06-29 PM 8:15:37)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 11 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-06-30 PM 6:54:03)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-06-30 PM 11:20:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-07-01 PM 12:28:32)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **3** |\n\n\n## 자동 수집 (2026-07-01 PM 7:02:42)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-07-01 PM 11:37:23)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **8** |\n\n"
   },
   "collected": [
     {
@@ -1121,6 +1121,16 @@
       "url": "https://blog.cloudflare.com/oauth-for-all/",
       "score": 159,
       "comments": 72,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-01",
+      "source": "hackernews",
+      "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+      "url": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
+      "score": 99,
+      "comments": 43,
       "subreddit": null,
       "description": ""
     },
@@ -1171,6 +1181,16 @@
       "url": "https://www.startupsbr.com/sao-paulo",
       "score": 42,
       "comments": 20,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-01",
+      "source": "hackernews",
+      "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+      "url": "https://news.ycombinator.com/item?id=48746752",
+      "score": 10,
+      "comments": 2,
       "subreddit": null,
       "description": ""
     },
@@ -1339,6 +1359,66 @@
       "source": "producthunt",
       "title": "AI Usage, Under Control",
       "url": "https://www.producthunt.com/products/stigg",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-01",
+      "source": "producthunt",
+      "title": "Mark by Airtop",
+      "url": "https://www.producthunt.com/products/airtop",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-01",
+      "source": "producthunt",
+      "title": "Loot",
+      "url": "https://www.producthunt.com/products/loot-6",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-01",
+      "source": "producthunt",
+      "title": "LightTwist",
+      "url": "https://www.producthunt.com/products/lighttwist",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-01",
+      "source": "producthunt",
+      "title": "Modelence Mobile Builder",
+      "url": "https://www.producthunt.com/products/modelence-app-builder",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-01",
+      "source": "producthunt",
+      "title": "Ciaro Pro",
+      "url": "https://www.producthunt.com/products/ciaro-pro",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-01",
+      "source": "producthunt",
+      "title": "OASIS 1 Ring",
+      "url": "https://www.producthunt.com/products/oasis-ring",
       "score": 0,
       "comments": 0,
       "subreddit": null,
