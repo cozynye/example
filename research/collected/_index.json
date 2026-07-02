@@ -1947,7 +1947,27 @@
     "https://www.producthunt.com/products/oasis-ring": {
       "date": "2026-07-01",
       "source": "producthunt"
+    },
+    "https://www.weaverobotics.com/isaac-1": {
+      "date": "2026-07-02",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/adam-cad-copilot": {
+      "date": "2026-07-02",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20": {
+      "date": "2026-07-02",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/acti-2": {
+      "date": "2026-07-02",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/runinfra": {
+      "date": "2026-07-02",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-01T14:37:23.119Z"
+  "lastRun": "2026-07-02T02:53:38.936Z"
 }
