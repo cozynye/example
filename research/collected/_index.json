@@ -2071,7 +2071,11 @@
     "https://www.producthunt.com/products/archify": {
       "date": "2026-07-03",
       "source": "producthunt"
+    },
+    "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point": {
+      "date": "2026-07-03",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-07-03T09:29:48.232Z"
+  "lastRun": "2026-07-03T14:05:47.976Z"
 }

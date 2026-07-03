@@ -9,3 +9,8 @@
 - **Score**: 102 | **Comments**: 62
 - **Source**: hackernews
 
+## Amazon has enough satellites to launch its Starlink competitor
+- **URL**: https://www.theverge.com/science/960563/amazon-leo-service-tipping-point
+- **Score**: 19 | **Comments**: 5
+- **Source**: hackernews
+
