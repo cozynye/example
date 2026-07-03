@@ -2043,7 +2043,35 @@
     "https://manufact.com": {
       "date": "2026-07-03",
       "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/vox-5": {
+      "date": "2026-07-03",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/osloq": {
+      "date": "2026-07-03",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows": {
+      "date": "2026-07-03",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list": {
+      "date": "2026-07-03",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/glaze-4": {
+      "date": "2026-07-03",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/loops": {
+      "date": "2026-07-03",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/archify": {
+      "date": "2026-07-03",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-03T02:36:51.968Z"
+  "lastRun": "2026-07-03T09:29:48.232Z"
 }
