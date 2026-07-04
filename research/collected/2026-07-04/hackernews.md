@@ -9,3 +9,8 @@
 - **Score**: 5
 - **Source**: hackernews
 
+## Ship traces journey Spanish Armada sailors made in 1588
+- **URL**: https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/
+- **Score**: 15 | **Comments**: 8
+- **Source**: hackernews
+
