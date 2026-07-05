@@ -28,3 +28,11 @@
 - **URL**: https://www.producthunt.com/products/workbuddy-2
 - **Source**: producthunt
 
+## Pennen
+- **URL**: https://www.producthunt.com/products/pennen
+- **Source**: producthunt
+
+## Toku Reader
+- **URL**: https://www.producthunt.com/products/toku-reader
+- **Source**: producthunt
+
