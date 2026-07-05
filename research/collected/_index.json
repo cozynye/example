@@ -2107,7 +2107,11 @@
     "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/": {
       "date": "2026-07-04",
       "source": "hackernews"
+    },
+    "https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/": {
+      "date": "2026-07-05",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-07-04T13:27:17.691Z"
+  "lastRun": "2026-07-05T02:44:12.405Z"
 }
