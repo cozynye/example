@@ -19,3 +19,8 @@
 - **Score**: 108 | **Comments**: 28
 - **Source**: hackernews
 
+## Building relationships with customers through support didn't turn out as hoped
+- **URL**: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support
+- **Score**: 149 | **Comments**: 95
+- **Source**: hackernews
+
