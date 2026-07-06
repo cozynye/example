@@ -24,3 +24,8 @@
 - **Score**: 149 | **Comments**: 95
 - **Source**: hackernews
 
+## NASA launches robot to save Swift telescope falling to Earth
+- **URL**: https://www.bbc.com/news/articles/c0ry4xx7rk8o
+- **Score**: 18 | **Comments**: 6
+- **Source**: hackernews
+
