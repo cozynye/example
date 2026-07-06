@@ -2151,7 +2151,19 @@
     "https://www.producthunt.com/products/toku-reader": {
       "date": "2026-07-05",
       "source": "producthunt"
+    },
+    "https://popcar.bearblog.dev/its-about-ownership/": {
+      "date": "2026-07-06",
+      "source": "hackernews"
+    },
+    "https://fortune.com/2026/07/02/egg-price-fixing-crisis-cover-cash-and-eggs/": {
+      "date": "2026-07-06",
+      "source": "hackernews"
+    },
+    "https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas": {
+      "date": "2026-07-06",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-07-05T13:40:35.406Z"
+  "lastRun": "2026-07-06T02:49:55.745Z"
 }
