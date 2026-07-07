@@ -19,3 +19,8 @@
 - **Score**: 50 | **Comments**: 35
 - **Source**: hackernews
 
+## Reinforcement Learning with Metacognitive Feedback Elicits Uncertainty in LLMs
+- **URL**: https://arxiv.org/abs/2606.32032
+- **Score**: 6 | **Comments**: 1
+- **Source**: hackernews
+
