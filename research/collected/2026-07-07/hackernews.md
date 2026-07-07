@@ -14,3 +14,8 @@
 - **Score**: 115 | **Comments**: 113
 - **Source**: hackernews
 
+## YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood
+- **URL**: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media
+- **Score**: 50 | **Comments**: 35
+- **Source**: hackernews
+
