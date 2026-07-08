@@ -9,3 +9,8 @@
 - **Score**: 64 | **Comments**: 41
 - **Source**: hackernews
 
+## GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday
+- **URL**: https://twitter.com/OpenAI/status/2074704958419792299
+- **Score**: 174 | **Comments**: 117
+- **Source**: hackernews
+
