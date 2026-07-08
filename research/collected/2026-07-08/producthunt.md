@@ -60,3 +60,15 @@
 - **URL**: https://www.producthunt.com/products/notion-agents-ios-app
 - **Source**: producthunt
 
+## Jamboree
+- **URL**: https://www.producthunt.com/products/jamboree
+- **Source**: producthunt
+
+## Bono AI
+- **URL**: https://www.producthunt.com/products/bono-ai
+- **Source**: producthunt
+
+## Eodly
+- **URL**: https://www.producthunt.com/products/eodly
+- **Source**: producthunt
+
