@@ -2479,7 +2479,15 @@
     "https://www.producthunt.com/products/tryscarlett": {
       "date": "2026-07-10",
       "source": "producthunt"
+    },
+    "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/": {
+      "date": "2026-07-11",
+      "source": "hackernews"
+    },
+    "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban": {
+      "date": "2026-07-11",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-07-10T14:27:30.116Z"
+  "lastRun": "2026-07-11T02:15:02.638Z"
 }
