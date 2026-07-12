@@ -2511,7 +2511,11 @@
     "https://www.producthunt.com/products/soundpipe": {
       "date": "2026-07-11",
       "source": "producthunt"
+    },
+    "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey": {
+      "date": "2026-07-12",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-07-11T13:19:52.725Z"
+  "lastRun": "2026-07-12T02:25:06.488Z"
 }
