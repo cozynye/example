@@ -2515,7 +2515,27 @@
     "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey": {
       "date": "2026-07-12",
       "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/fetchsandbox": {
+      "date": "2026-07-12",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/justvibe": {
+      "date": "2026-07-12",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/servicebeard": {
+      "date": "2026-07-12",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/miora-2": {
+      "date": "2026-07-12",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/second-brain-cloudflare": {
+      "date": "2026-07-12",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-12T02:25:06.488Z"
+  "lastRun": "2026-07-12T08:26:53.427Z"
 }
