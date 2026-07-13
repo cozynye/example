@@ -2535,7 +2535,23 @@
     "https://www.producthunt.com/products/second-brain-cloudflare": {
       "date": "2026-07-12",
       "source": "producthunt"
+    },
+    "https://kode.diy": {
+      "date": "2026-07-13",
+      "source": "hackernews"
+    },
+    "https://www.larp.website/": {
+      "date": "2026-07-13",
+      "source": "hackernews"
+    },
+    "https://arxiv.org/abs/2607.06377": {
+      "date": "2026-07-13",
+      "source": "hackernews"
+    },
+    "https://aydinnyunus.github.io/2026/07/12/modheader-data-exfiltration-stanfordstudies/": {
+      "date": "2026-07-13",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-07-12T13:20:18.972Z"
+  "lastRun": "2026-07-13T02:26:42.920Z"
 }
