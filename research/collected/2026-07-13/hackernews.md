@@ -24,3 +24,8 @@
 - **Score**: 7 | **Comments**: 1
 - **Source**: hackernews
 
+## First look at Quest, the final ship of Antarctic explorer Shackleton
+- **URL**: https://www.cbc.ca/news/canada/quest-shipwreck-expedition-images-9.7262229
+- **Score**: 33 | **Comments**: 3
+- **Source**: hackernews
+
