@@ -2667,7 +2667,27 @@
     "https://www.producthunt.com/products/altersend": {
       "date": "2026-07-14",
       "source": "producthunt"
+    },
+    "https://github.com/rejourneyco/rejourney": {
+      "date": "2026-07-14",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/clawteams": {
+      "date": "2026-07-14",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/animos-app": {
+      "date": "2026-07-14",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/sales-studio": {
+      "date": "2026-07-14",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/breva": {
+      "date": "2026-07-14",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-14T08:19:54.957Z"
+  "lastRun": "2026-07-14T13:44:36.114Z"
 }

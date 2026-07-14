@@ -9,3 +9,8 @@
 - **Score**: 319 | **Comments**: 140
 - **Source**: hackernews
 
+## Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps
+- **URL**: https://github.com/rejourneyco/rejourney
+- **Score**: 15
+- **Source**: hackernews
+

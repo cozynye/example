@@ -64,3 +64,19 @@
 - **URL**: https://www.producthunt.com/products/altersend
 - **Source**: producthunt
 
+## ClawTeams
+- **URL**: https://www.producthunt.com/products/clawteams
+- **Source**: producthunt
+
+## Animos App
+- **URL**: https://www.producthunt.com/products/animos-app
+- **Source**: producthunt
+
+## Sales Studio
+- **URL**: https://www.producthunt.com/products/sales-studio
+- **Source**: producthunt
+
+## Breva
+- **URL**: https://www.producthunt.com/products/breva
+- **Source**: producthunt
+
