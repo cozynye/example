@@ -2755,7 +2755,31 @@
     "https://www.producthunt.com/products/velo-4": {
       "date": "2026-07-15",
       "source": "producthunt"
+    },
+    "https://briancallahan.net/blog/20260713.html": {
+      "date": "2026-07-15",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/tiptap": {
+      "date": "2026-07-15",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/codenearby": {
+      "date": "2026-07-15",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/v2fun": {
+      "date": "2026-07-15",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/yagni": {
+      "date": "2026-07-15",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/mentalhappy": {
+      "date": "2026-07-15",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-15T08:25:48.282Z"
+  "lastRun": "2026-07-15T13:44:08.975Z"
 }

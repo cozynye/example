@@ -64,3 +64,23 @@
 - **URL**: https://www.producthunt.com/products/velo-4
 - **Source**: producthunt
 
+## Tiptap AI Toolkit
+- **URL**: https://www.producthunt.com/products/tiptap
+- **Source**: producthunt
+
+## CodeNearby 2.0
+- **URL**: https://www.producthunt.com/products/codenearby
+- **Source**: producthunt
+
+## V2Fun
+- **URL**: https://www.producthunt.com/products/v2fun
+- **Source**: producthunt
+
+## YAGNI
+- **URL**: https://www.producthunt.com/products/yagni
+- **Source**: producthunt
+
+## MentalHappy 3.0
+- **URL**: https://www.producthunt.com/products/mentalhappy
+- **Source**: producthunt
+
