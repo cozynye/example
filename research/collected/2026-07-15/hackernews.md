@@ -9,3 +9,8 @@
 - **Score**: 46 | **Comments**: 33
 - **Source**: hackernews
 
+## The bread paradox: why convenience always wins, and why SaaS isn't doomed
+- **URL**: https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience
+- **Score**: 62 | **Comments**: 53
+- **Source**: hackernews
+
