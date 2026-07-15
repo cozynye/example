@@ -2687,7 +2687,15 @@
     "https://www.producthunt.com/products/breva": {
       "date": "2026-07-14",
       "source": "producthunt"
+    },
+    "https://agnost.ai": {
+      "date": "2026-07-15",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/sourclip": {
+      "date": "2026-07-15",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-14T13:44:36.114Z"
+  "lastRun": "2026-07-15T02:04:05.951Z"
 }

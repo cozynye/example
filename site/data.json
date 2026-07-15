@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-07-14T13:44:46.108Z",
+  "buildTime": "2026-07-15T02:04:15.945Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W29.md",
     "title": "2026-W29 주간 로그",
-    "content": "# 2026-W29 주간 로그\n\n\n## 자동 수집 (2026-07-13 AM 11:26:42)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 4 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-07-13 PM 6:39:48)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 12 |\n| **합계** | **13** |\n\n\n## 자동 수집 (2026-07-14 AM 11:06:20)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-07-14 PM 5:19:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-07-14 PM 10:44:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **5** |\n\n"
+    "content": "# 2026-W29 주간 로그\n\n\n## 자동 수집 (2026-07-13 AM 11:26:42)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 4 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-07-13 PM 6:39:48)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 12 |\n| **합계** | **13** |\n\n\n## 자동 수집 (2026-07-14 AM 11:06:20)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-07-14 PM 5:19:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-07-14 PM 10:44:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **5** |\n\n\n## 자동 수집 (2026-07-15 AM 11:04:05)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n"
   },
   "collected": [
     {
@@ -1121,16 +1121,6 @@
       "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
       "score": 263,
       "comments": 89,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "hackernews",
-      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
-      "score": 174,
-      "comments": 117,
       "subreddit": null,
       "description": ""
     },
@@ -1175,12 +1165,12 @@
       "description": ""
     },
     {
-      "date": "2026-07-08",
+      "date": "2026-07-15",
       "source": "hackernews",
-      "title": "Camera with transparent display launches for the equivalent of $29",
-      "url": "https://www.notebookcheck.net/Camera-with-transparent-display-launches-for-the-equivalent-of-29.1334495.0.html",
-      "score": 64,
-      "comments": 41,
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "score": 46,
+      "comments": 33,
       "subreddit": null,
       "description": ""
     },
@@ -1231,6 +1221,16 @@
       "url": "https://aydinnyunus.github.io/2026/07/12/modheader-data-exfiltration-stanfordstudies/",
       "score": 7,
       "comments": 1,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-15",
+      "source": "producthunt",
+      "title": "Sourclip",
+      "url": "https://www.producthunt.com/products/sourclip",
+      "score": 0,
+      "comments": 0,
       "subreddit": null,
       "description": ""
     },
@@ -1929,176 +1929,6 @@
       "source": "producthunt",
       "title": "GPT-Live",
       "url": "https://www.producthunt.com/products/openai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "agents-cli",
-      "url": "https://www.producthunt.com/products/agents-cli",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "Orus",
-      "url": "https://www.producthunt.com/products/farao",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "LemonLime",
-      "url": "https://www.producthunt.com/products/lemonlime",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "Willow Frontier Pro",
-      "url": "https://www.producthunt.com/products/willow-voice",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "IvyForms",
-      "url": "https://www.producthunt.com/products/ivyforms",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "PopTask for Apple",
-      "url": "https://www.producthunt.com/products/poptask",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "Orbit for Mac",
-      "url": "https://www.producthunt.com/products/orbit-for-mac",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "ExploreYC",
-      "url": "https://www.producthunt.com/products/yc-company-explorer",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "Universal-3.5 Pro",
-      "url": "https://www.producthunt.com/products/assemblyai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "NanoKVM-Go",
-      "url": "https://www.producthunt.com/products/nanokvm-go",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "On-Device Field Extraction by Verify",
-      "url": "https://www.producthunt.com/products/veryfi",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "Link Preview API",
-      "url": "https://www.producthunt.com/products/link-preview-api",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "Knowledge Atlas by Fini",
-      "url": "https://www.producthunt.com/products/fini-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "Notion Agents iOS app",
-      "url": "https://www.producthunt.com/products/notion-agents-ios-app",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "Jamboree",
-      "url": "https://www.producthunt.com/products/jamboree",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "Bono AI",
-      "url": "https://www.producthunt.com/products/bono-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-08",
-      "source": "producthunt",
-      "title": "Eodly",
-      "url": "https://www.producthunt.com/products/eodly",
       "score": 0,
       "comments": 0,
       "subreddit": null,
