@@ -14,3 +14,8 @@
 - **Score**: 30 | **Comments**: 7
 - **Source**: hackernews
 
+## British Steel taken into public ownership to protect 'vital' UK supply
+- **URL**: https://www.bbc.com/news/articles/c5y680w62wno
+- **Score**: 74 | **Comments**: 100
+- **Source**: hackernews
+

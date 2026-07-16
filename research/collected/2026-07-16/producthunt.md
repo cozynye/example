@@ -68,3 +68,39 @@
 - **URL**: https://www.producthunt.com/products/ventorah-browser-cfd
 - **Source**: producthunt
 
+## ChikitAI
+- **URL**: https://www.producthunt.com/products/chikitai
+- **Source**: producthunt
+
+## The Eureka Database
+- **URL**: https://www.producthunt.com/products/the-eureka-database
+- **Source**: producthunt
+
+## DevSwat
+- **URL**: https://www.producthunt.com/products/resonantgenesis
+- **Source**: producthunt
+
+## Manta AI
+- **URL**: https://www.producthunt.com/products/manta-ai
+- **Source**: producthunt
+
+## Verse
+- **URL**: https://www.producthunt.com/products/verse-6
+- **Source**: producthunt
+
+## Graft AI
+- **URL**: https://www.producthunt.com/products/graft-ai
+- **Source**: producthunt
+
+## BrickSolvr
+- **URL**: https://www.producthunt.com/products/bricksolvr
+- **Source**: producthunt
+
+## In Parallel MCP
+- **URL**: https://www.producthunt.com/products/in-parallel
+- **Source**: producthunt
+
+## Node Health
+- **URL**: https://www.producthunt.com/products/node-health
+- **Source**: producthunt
+
