@@ -2779,7 +2779,23 @@
     "https://www.producthunt.com/products/mentalhappy": {
       "date": "2026-07-15",
       "source": "producthunt"
+    },
+    "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf": {
+      "date": "2026-07-16",
+      "source": "hackernews"
+    },
+    "https://coasty.ai/docs": {
+      "date": "2026-07-16",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/recordmeeting": {
+      "date": "2026-07-16",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/withmantle": {
+      "date": "2026-07-16",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-15T13:44:08.975Z"
+  "lastRun": "2026-07-16T02:13:01.042Z"
 }
