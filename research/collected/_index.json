@@ -2891,7 +2891,35 @@
     "https://www.producthunt.com/products/node-health": {
       "date": "2026-07-16",
       "source": "producthunt"
+    },
+    "https://github.com/alxndrTL/little-book-rl/": {
+      "date": "2026-07-17",
+      "source": "hackernews"
+    },
+    "https://solod.dev": {
+      "date": "2026-07-17",
+      "source": "hackernews"
+    },
+    "https://blog.lyc8503.net/en/post/llm-classifier/": {
+      "date": "2026-07-17",
+      "source": "hackernews"
+    },
+    "https://news.ycombinator.com/item?id=48937020": {
+      "date": "2026-07-17",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/nuvio-2": {
+      "date": "2026-07-17",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/cloud-halo": {
+      "date": "2026-07-17",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/zro": {
+      "date": "2026-07-17",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-16T13:51:21.798Z"
+  "lastRun": "2026-07-17T02:21:23.197Z"
 }
