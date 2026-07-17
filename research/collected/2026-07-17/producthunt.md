@@ -16,3 +16,35 @@
 - **URL**: https://www.producthunt.com/products/zro
 - **Source**: producthunt
 
+## PixyCAD
+- **URL**: https://www.producthunt.com/products/pixycad-3d-solid-modelling
+- **Source**: producthunt
+
+## Scribble Party
+- **URL**: https://www.producthunt.com/products/scribble-party
+- **Source**: producthunt
+
+## Timely
+- **URL**: https://www.producthunt.com/products/timely-9
+- **Source**: producthunt
+
+## Pebbles Ai
+- **URL**: https://www.producthunt.com/products/pebbles-ai
+- **Source**: producthunt
+
+## Aye
+- **URL**: https://www.producthunt.com/products/aye-browser
+- **Source**: producthunt
+
+## Unabyss for Claude
+- **URL**: https://www.producthunt.com/products/unabyss
+- **Source**: producthunt
+
+## Yapper Leaderboard
+- **URL**: https://www.producthunt.com/products/yapper-leaderboard
+- **Source**: producthunt
+
+## Pocket Screen
+- **URL**: https://www.producthunt.com/products/toybird-labs
+- **Source**: producthunt
+
