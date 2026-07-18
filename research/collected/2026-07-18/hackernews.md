@@ -9,3 +9,8 @@
 - **Score**: 166 | **Comments**: 40
 - **Source**: hackernews
 
+## Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld
+- **URL**: https://pocketjs.dev/blog/shipping-openstrike/
+- **Score**: 37 | **Comments**: 13
+- **Source**: hackernews
+
