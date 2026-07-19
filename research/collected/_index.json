@@ -2999,7 +2999,11 @@
     "https://www.producthunt.com/products/clark-agent": {
       "date": "2026-07-18",
       "source": "producthunt"
+    },
+    "https://www.neatnik.net/hardcore-indieweb": {
+      "date": "2026-07-19",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-07-18T13:16:02.410Z"
+  "lastRun": "2026-07-19T02:22:19.777Z"
 }
