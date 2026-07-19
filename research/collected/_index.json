@@ -3027,7 +3027,15 @@
     "https://www.producthunt.com/products/kobbe": {
       "date": "2026-07-19",
       "source": "producthunt"
+    },
+    "https://twitter.com/Alibaba_Qwen/status/2078759124914098291": {
+      "date": "2026-07-19",
+      "source": "hackernews"
+    },
+    "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/": {
+      "date": "2026-07-19",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-07-19T08:28:18.590Z"
+  "lastRun": "2026-07-19T13:18:17.214Z"
 }

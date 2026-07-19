@@ -9,3 +9,13 @@
 - **Score**: 86 | **Comments**: 66
 - **Source**: hackernews
 
+## Qwen3.8 is launching and going open-weight soon
+- **URL**: https://twitter.com/Alibaba_Qwen/status/2078759124914098291
+- **Score**: 283 | **Comments**: 145
+- **Source**: hackernews
+
+## I joined the IndieWeb, here's what I learned
+- **URL**: https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/
+- **Score**: 8 | **Comments**: 4
+- **Source**: hackernews
+
