@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-07-20T09:27:53.216Z",
+  "buildTime": "2026-07-20T14:06:41.214Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W30.md",
     "title": "2026-W30 주간 로그",
-    "content": "# 2026-W30 주간 로그\n\n\n## 자동 수집 (2026-07-20 AM 11:38:10)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-07-20 PM 6:27:43)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n"
+    "content": "# 2026-W30 주간 로그\n\n\n## 자동 수집 (2026-07-20 AM 11:38:10)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-07-20 PM 6:27:43)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-07-20 PM 11:06:31)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n"
   },
   "collected": [
     {
@@ -1409,6 +1409,46 @@
       "source": "producthunt",
       "title": "Loova Ads Studio",
       "url": "https://www.producthunt.com/products/loova-agents",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-20",
+      "source": "producthunt",
+      "title": "Kogvio",
+      "url": "https://www.producthunt.com/products/kogvio",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-20",
+      "source": "producthunt",
+      "title": "Deck",
+      "url": "https://www.producthunt.com/products/deck-9",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-20",
+      "source": "producthunt",
+      "title": "Inkling",
+      "url": "https://www.producthunt.com/products/tinker-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-20",
+      "source": "producthunt",
+      "title": "Rex",
+      "url": "https://www.producthunt.com/products/rex-7",
       "score": 0,
       "comments": 0,
       "subreddit": null,

@@ -60,3 +60,19 @@
 - **URL**: https://www.producthunt.com/products/loova-agents
 - **Source**: producthunt
 
+## Kogvio
+- **URL**: https://www.producthunt.com/products/kogvio
+- **Source**: producthunt
+
+## Deck
+- **URL**: https://www.producthunt.com/products/deck-9
+- **Source**: producthunt
+
+## Inkling
+- **URL**: https://www.producthunt.com/products/tinker-2
+- **Source**: producthunt
+
+## Rex
+- **URL**: https://www.producthunt.com/products/rex-7
+- **Source**: producthunt
+
