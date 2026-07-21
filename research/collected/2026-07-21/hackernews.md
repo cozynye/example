@@ -9,3 +9,13 @@
 - **Score**: 60 | **Comments**: 75
 - **Source**: hackernews
 
+## New US homeownership measure puts people first
+- **URL**: https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first
+- **Score**: 103 | **Comments**: 100
+- **Source**: hackernews
+
+## Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects
+- **URL**: https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/
+- **Score**: 52 | **Comments**: 21
+- **Source**: hackernews
+
