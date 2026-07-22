@@ -14,3 +14,8 @@
 - **Score**: 52 | **Comments**: 6
 - **Source**: hackernews
 
+## OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack
+- **URL**: https://www.bbc.com/news/articles/c3ek3gvdnj3o
+- **Score**: 61 | **Comments**: 67
+- **Source**: hackernews
+

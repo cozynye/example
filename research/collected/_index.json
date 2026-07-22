@@ -3283,7 +3283,23 @@
     "https://www.producthunt.com/products/ultrapod": {
       "date": "2026-07-22",
       "source": "producthunt"
+    },
+    "https://www.bbc.com/news/articles/c3ek3gvdnj3o": {
+      "date": "2026-07-22",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/remote-openclaw-2": {
+      "date": "2026-07-22",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/redential": {
+      "date": "2026-07-22",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/box-4": {
+      "date": "2026-07-22",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-22T08:38:14.116Z"
+  "lastRun": "2026-07-22T13:54:35.911Z"
 }
