@@ -9,3 +9,8 @@
 - **Score**: 247 | **Comments**: 220
 - **Source**: hackernews
 
+## Intel Starts Shipping High-NA EUV Silicon
+- **URL**: https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv
+- **Score**: 52 | **Comments**: 6
+- **Source**: hackernews
+
