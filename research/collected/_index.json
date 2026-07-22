@@ -3211,7 +3211,23 @@
     "https://www.producthunt.com/products/piecekeeper": {
       "date": "2026-07-21",
       "source": "producthunt"
+    },
+    "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git": {
+      "date": "2026-07-22",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/manifest-363": {
+      "date": "2026-07-22",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/openchatcut": {
+      "date": "2026-07-22",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/bud-voice-canvas": {
+      "date": "2026-07-22",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-21T13:50:47.130Z"
+  "lastRun": "2026-07-22T02:14:12.308Z"
 }
