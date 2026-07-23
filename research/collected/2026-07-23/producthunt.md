@@ -64,3 +64,47 @@
 - **URL**: https://www.producthunt.com/products/basement-browser
 - **Source**: producthunt
 
+## AgentLoop
+- **URL**: https://www.producthunt.com/products/agentloop-2
+- **Source**: producthunt
+
+## canitbebuilt
+- **URL**: https://www.producthunt.com/products/canitbebuilt
+- **Source**: producthunt
+
+## AVE
+- **URL**: https://www.producthunt.com/products/ave-ai-video-editor
+- **Source**: producthunt
+
+## OpenCode Superapp
+- **URL**: https://www.producthunt.com/products/opencode-superapp
+- **Source**: producthunt
+
+## PodcastorAI
+- **URL**: https://www.producthunt.com/products/podcastorai
+- **Source**: producthunt
+
+## PenguinHarness
+- **URL**: https://www.producthunt.com/products/penguinharness
+- **Source**: producthunt
+
+## Rechroma
+- **URL**: https://www.producthunt.com/products/rechroma
+- **Source**: producthunt
+
+## Quaso
+- **URL**: https://www.producthunt.com/products/notte
+- **Source**: producthunt
+
+## AskCodi
+- **URL**: https://www.producthunt.com/products/askcodi
+- **Source**: producthunt
+
+## Moxie Docs: Knowledgebases
+- **URL**: https://www.producthunt.com/products/moxie-docs
+- **Source**: producthunt
+
+## Mufal
+- **URL**: https://www.producthunt.com/products/mufal
+- **Source**: producthunt
+
