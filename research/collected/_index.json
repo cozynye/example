@@ -3299,7 +3299,15 @@
     "https://www.producthunt.com/products/box-4": {
       "date": "2026-07-22",
       "source": "producthunt"
+    },
+    "https://hatchet.run/blog/postgres-survival-guide": {
+      "date": "2026-07-23",
+      "source": "hackernews"
+    },
+    "https://unlayer.com": {
+      "date": "2026-07-23",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-07-22T13:54:35.911Z"
+  "lastRun": "2026-07-23T02:25:02.827Z"
 }
