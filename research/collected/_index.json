@@ -3499,7 +3499,15 @@
     "https://www.producthunt.com/products/mnemcore": {
       "date": "2026-07-24",
       "source": "producthunt"
+    },
+    "https://hhh.hn/hanwha-github-token/": {
+      "date": "2026-07-24",
+      "source": "hackernews"
+    },
+    "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/": {
+      "date": "2026-07-24",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-07-24T08:35:53.067Z"
+  "lastRun": "2026-07-24T13:45:56.939Z"
 }

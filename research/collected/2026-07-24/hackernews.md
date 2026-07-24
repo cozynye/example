@@ -24,3 +24,13 @@
 - **Score**: 10 | **Comments**: 1
 - **Source**: hackernews
 
+## My security camera shipped a GitHub admin token in its login page
+- **URL**: https://hhh.hn/hanwha-github-token/
+- **Score**: 29 | **Comments**: 7
+- **Source**: hackernews
+
+## India's first privately-developed rocket reaches orbit on dramatic debut launch
+- **URL**: https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/
+- **Score**: 33 | **Comments**: 5
+- **Source**: hackernews
+
