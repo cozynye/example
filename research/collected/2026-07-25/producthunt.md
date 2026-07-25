@@ -56,3 +56,7 @@
 - **URL**: https://www.producthunt.com/products/seller-by-facebook
 - **Source**: producthunt
 
+## Velane
+- **URL**: https://www.producthunt.com/products/velane
+- **Source**: producthunt
+
