@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-07-25T13:26:57.872Z",
+  "buildTime": "2026-07-26T02:27:05.414Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1115,16 +1115,6 @@
       "description": ""
     },
     {
-      "date": "2026-07-19",
-      "source": "hackernews",
-      "title": "Qwen3.8 is launching and going open-weight soon",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 283,
-      "comments": 145,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-07-22",
       "source": "hackernews",
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
@@ -1181,16 +1171,6 @@
       "url": "https://www.spacex.com/launches/starship-flight-13",
       "score": 98,
       "comments": 114,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-19",
-      "source": "hackernews",
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
-      "score": 86,
-      "comments": 66,
       "subreddit": null,
       "description": ""
     },
@@ -1291,16 +1271,6 @@
       "url": "https://www.lrb.co.uk/the-paper/v48/n13/jonathan-coe/where-was-the-drum-kit",
       "score": 10,
       "comments": 1,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-19",
-      "source": "hackernews",
-      "title": "I joined the IndieWeb, here's what I learned",
-      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-      "score": 8,
-      "comments": 4,
       "subreddit": null,
       "description": ""
     },
@@ -2469,66 +2439,6 @@
       "source": "producthunt",
       "title": "Rex",
       "url": "https://www.producthunt.com/products/rex-7",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-19",
-      "source": "producthunt",
-      "title": "Detourmap",
-      "url": "https://www.producthunt.com/products/detourmap",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-19",
-      "source": "producthunt",
-      "title": "BaseRT - Apple M5 Optimized",
-      "url": "https://www.producthunt.com/products/basert",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-19",
-      "source": "producthunt",
-      "title": "OpenSEO",
-      "url": "https://www.producthunt.com/products/openseo",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-19",
-      "source": "producthunt",
-      "title": "Rewisp — an ambient memory for your Mac",
-      "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-19",
-      "source": "producthunt",
-      "title": "Spycost",
-      "url": "https://www.producthunt.com/products/spycost",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-19",
-      "source": "producthunt",
-      "title": "Kobbe",
-      "url": "https://www.producthunt.com/products/kobbe",
       "score": 0,
       "comments": 0,
       "subreddit": null,
