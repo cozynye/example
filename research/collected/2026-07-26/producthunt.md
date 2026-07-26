@@ -60,3 +60,7 @@
 - **URL**: https://www.producthunt.com/products/appufo-localise-apps-with-ai
 - **Source**: producthunt
 
+## Aymo AI
+- **URL**: https://www.producthunt.com/products/aymo-ai
+- **Source**: producthunt
+
