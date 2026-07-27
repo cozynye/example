@@ -3635,7 +3635,15 @@
     "https://www.producthunt.com/products/aymo-ai": {
       "date": "2026-07-26",
       "source": "producthunt"
+    },
+    "https://www.imperialviolet.org/2026/07/26/zstd-lean.html": {
+      "date": "2026-07-27",
+      "source": "hackernews"
+    },
+    "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/": {
+      "date": "2026-07-27",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-07-26T13:22:54.318Z"
+  "lastRun": "2026-07-27T02:34:27.594Z"
 }
