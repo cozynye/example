@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-07-27T02:34:37.485Z",
+  "buildTime": "2026-07-27T10:02:56.095Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W31.md",
     "title": "2026-W31 주간 로그",
-    "content": "# 2026-W31 주간 로그\n\n\n## 자동 수집 (2026-07-27 AM 11:34:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n"
+    "content": "# 2026-W31 주간 로그\n\n\n## 자동 수집 (2026-07-27 AM 11:34:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-07-27 PM 7:02:46)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **17** |\n\n"
   },
   "collected": [
     {
@@ -1275,12 +1275,182 @@
       "description": ""
     },
     {
+      "date": "2026-07-27",
+      "source": "hackernews",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "score": 15,
+      "comments": 2,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-07-24",
       "source": "hackernews",
       "title": "Hitchcock and Herrmann: The Friendship and Film Scores That Changed Cinema",
       "url": "https://www.lrb.co.uk/the-paper/v48/n13/jonathan-coe/where-was-the-drum-kit",
       "score": 10,
       "comments": 1,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "hackernews",
+      "title": "Chinese chipmaker shares surge 470%",
+      "url": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+      "score": 7,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "hackernews",
+      "title": "The Indie Hacker Economy Is a Pyramid Scheme",
+      "url": "https://medium.com/westenberg/the-indie-hacker-economy-is-a-pyramid-scheme-d06cb5789648",
+      "score": 7,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "Repaint Socials",
+      "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "Notate",
+      "url": "https://www.producthunt.com/products/notate-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "Illume Labs",
+      "url": "https://www.producthunt.com/products/illume-labs",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "Rivault",
+      "url": "https://www.producthunt.com/products/rivault",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "Cynative Security Research Agent",
+      "url": "https://www.producthunt.com/products/cynative-deep-infra-research",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "superfile",
+      "url": "https://www.producthunt.com/products/superfile",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "Estera",
+      "url": "https://www.producthunt.com/products/estera",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "Tackly",
+      "url": "https://www.producthunt.com/products/tackly",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "HeyZoku",
+      "url": "https://www.producthunt.com/products/heyzoku",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "Audos Summer Camp",
+      "url": "https://www.producthunt.com/products/socap",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "Robynn AI - Self Improving Websites",
+      "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "Comms",
+      "url": "https://www.producthunt.com/products/comms-ai-agents-inside-imessage",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "Adomate",
+      "url": "https://www.producthunt.com/products/adomate",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-27",
+      "source": "producthunt",
+      "title": "Tunio",
+      "url": "https://www.producthunt.com/products/tunio",
+      "score": 0,
+      "comments": 0,
       "subreddit": null,
       "description": ""
     },
