@@ -29,3 +29,8 @@
 - **Score**: 15 | **Comments**: 2
 - **Source**: hackernews
 
+## First Robotic Satellite Servicer Launched
+- **URL**: https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/
+- **Score**: 15 | **Comments**: 3
+- **Source**: hackernews
+
