@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-07-27T14:35:02.149Z",
+  "buildTime": "2026-07-28T02:09:31.662Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W31.md",
     "title": "2026-W31 주간 로그",
-    "content": "# 2026-W31 주간 로그\n\n\n## 자동 수집 (2026-07-27 AM 11:34:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-07-27 PM 7:02:46)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **17** |\n\n\n## 자동 수집 (2026-07-27 PM 11:34:52)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **6** |\n\n"
+    "content": "# 2026-W31 주간 로그\n\n\n## 자동 수집 (2026-07-27 AM 11:34:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-07-27 PM 7:02:46)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **17** |\n\n\n## 자동 수집 (2026-07-27 PM 11:34:52)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-07-28 AM 11:09:21)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **4** |\n\n"
   },
   "collected": [
     {
@@ -1145,16 +1145,6 @@
       "description": ""
     },
     {
-      "date": "2026-07-21",
-      "source": "hackernews",
-      "title": "New US homeownership measure puts people first",
-      "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
-      "score": 103,
-      "comments": 100,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-07-25",
       "source": "hackernews",
       "title": "I got into YC Startup School by hacking it",
@@ -1195,6 +1185,16 @@
       "description": ""
     },
     {
+      "date": "2026-07-28",
+      "source": "hackernews",
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "url": "https://www.rise-reforming.com",
+      "score": 60,
+      "comments": 22,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-07-24",
       "source": "hackernews",
       "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
@@ -1205,32 +1205,12 @@
       "description": ""
     },
     {
-      "date": "2026-07-21",
-      "source": "hackernews",
-      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-      "url": "https://news.ycombinator.com/item?id=48981136",
-      "score": 60,
-      "comments": 75,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-07-22",
       "source": "hackernews",
       "title": "Intel Starts Shipping High-NA EUV Silicon",
       "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
       "score": 52,
       "comments": 6,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "hackernews",
-      "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
-      "url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
-      "score": 52,
-      "comments": 21,
       "subreddit": null,
       "description": ""
     },
@@ -1320,6 +1300,36 @@
       "title": "The Indie Hacker Economy Is a Pyramid Scheme",
       "url": "https://medium.com/westenberg/the-indie-hacker-economy-is-a-pyramid-scheme-d06cb5789648",
       "score": 7,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "hackernews",
+      "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
+      "url": "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/",
+      "score": 4,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "FindDiskKiller",
+      "url": "https://www.producthunt.com/products/finddiskkiller",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "Rescript",
+      "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
@@ -2429,226 +2439,6 @@
       "source": "producthunt",
       "title": "box",
       "url": "https://www.producthunt.com/products/box-4",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "CaptureKit",
-      "url": "https://www.producthunt.com/products/capturekit-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "BlockscopeChat",
-      "url": "https://www.producthunt.com/products/blockscopechat",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "Topolines",
-      "url": "https://www.producthunt.com/products/topolines",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "CartAI",
-      "url": "https://www.producthunt.com/products/cartai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "MeetIsland",
-      "url": "https://www.producthunt.com/products/meetisland",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "ProtoFlow",
-      "url": "https://www.producthunt.com/products/protoflow-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "ArachStudio",
-      "url": "https://www.producthunt.com/products/arachstudio",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "DualStream",
-      "url": "https://www.producthunt.com/products/dualstream",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "Diffsmith",
-      "url": "https://www.producthunt.com/products/diffsmith-code-review-studio",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "Phantomstory",
-      "url": "https://www.producthunt.com/products/phantomstory",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "Rerun",
-      "url": "https://www.producthunt.com/products/rerun-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "Routine AI",
-      "url": "https://www.producthunt.com/products/routine",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "Tidy",
-      "url": "https://www.producthunt.com/products/tidy-5",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "Jockey by TwelveLabs",
-      "url": "https://www.producthunt.com/products/twelvelabs",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "RegionMirror",
-      "url": "https://www.producthunt.com/products/regionmirror",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "Universal Dictation on Stream",
-      "url": "https://www.producthunt.com/products/stream-stream-ring-by-sandbar",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "ditto.site",
-      "url": "https://www.producthunt.com/products/ditto-site",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "Skim",
-      "url": "https://www.producthunt.com/products/skim-5",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "tterm",
-      "url": "https://www.producthunt.com/products/tterm",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "Lev8",
-      "url": "https://www.producthunt.com/products/lev8",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "Bolna Agent Studio",
-      "url": "https://www.producthunt.com/products/bolna-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-21",
-      "source": "producthunt",
-      "title": "PieceKeeper",
-      "url": "https://www.producthunt.com/products/piecekeeper",
       "score": 0,
       "comments": 0,
       "subreddit": null,

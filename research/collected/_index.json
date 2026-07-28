@@ -3735,7 +3735,23 @@
     "https://www.producthunt.com/products/grok": {
       "date": "2026-07-27",
       "source": "producthunt"
+    },
+    "https://www.rise-reforming.com": {
+      "date": "2026-07-28",
+      "source": "hackernews"
+    },
+    "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/": {
+      "date": "2026-07-28",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/finddiskkiller": {
+      "date": "2026-07-28",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text": {
+      "date": "2026-07-28",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-27T14:34:52.324Z"
+  "lastRun": "2026-07-28T02:09:21.702Z"
 }
