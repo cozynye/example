@@ -68,3 +68,27 @@
 - **URL**: https://www.producthunt.com/products/cardzen
 - **Source**: producthunt
 
+## Phantom
+- **URL**: https://www.producthunt.com/products/phantom-6
+- **Source**: producthunt
+
+## Ycode AI Agents
+- **URL**: https://www.producthunt.com/products/ycode
+- **Source**: producthunt
+
+## Superunit
+- **URL**: https://www.producthunt.com/products/superunit
+- **Source**: producthunt
+
+## RecipeBook by Shofo
+- **URL**: https://www.producthunt.com/products/recipebook-by-shofo
+- **Source**: producthunt
+
+## Snapr
+- **URL**: https://www.producthunt.com/products/snapr-3
+- **Source**: producthunt
+
+## Tag Your Photos
+- **URL**: https://www.producthunt.com/products/tag-your-photos
+- **Source**: producthunt
+
