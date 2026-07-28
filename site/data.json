@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-07-28T02:09:31.662Z",
+  "buildTime": "2026-07-28T08:45:42.274Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W31.md",
     "title": "2026-W31 주간 로그",
-    "content": "# 2026-W31 주간 로그\n\n\n## 자동 수집 (2026-07-27 AM 11:34:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-07-27 PM 7:02:46)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **17** |\n\n\n## 자동 수집 (2026-07-27 PM 11:34:52)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-07-28 AM 11:09:21)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **4** |\n\n"
+    "content": "# 2026-W31 주간 로그\n\n\n## 자동 수집 (2026-07-27 AM 11:34:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-07-27 PM 7:02:46)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **17** |\n\n\n## 자동 수집 (2026-07-27 PM 11:34:52)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-07-28 AM 11:09:21)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-07-28 PM 5:45:32)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n"
   },
   "collected": [
     {
@@ -1329,6 +1329,146 @@
       "source": "producthunt",
       "title": "Rescript",
       "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "Hardbook",
+      "url": "https://www.producthunt.com/products/hardbook",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "Conduit",
+      "url": "https://www.producthunt.com/products/conduit-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "Liminal",
+      "url": "https://www.producthunt.com/products/liminal-4",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "qsa.sh",
+      "url": "https://www.producthunt.com/products/qsa-sh-quick-security-audit",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "Cekura",
+      "url": "https://www.producthunt.com/products/vocera",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "Prefactor",
+      "url": "https://www.producthunt.com/products/prefactor",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "Growth Opt Playbook",
+      "url": "https://www.producthunt.com/products/growth-opt-playbook",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "TinyBridge",
+      "url": "https://www.producthunt.com/products/tinybridge",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "ZenithBar",
+      "url": "https://www.producthunt.com/products/zenithbar",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "SUB/WAVE",
+      "url": "https://www.producthunt.com/products/sub-wave",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "MCP-Billing",
+      "url": "https://www.producthunt.com/products/mcp-billing",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "FlowTask 2.0",
+      "url": "https://www.producthunt.com/products/flowtask",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "ChatBeacon AIX",
+      "url": "https://www.producthunt.com/products/chatbeacon-2-0-live-chat",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-28",
+      "source": "producthunt",
+      "title": "Cardzen",
+      "url": "https://www.producthunt.com/products/cardzen",
       "score": 0,
       "comments": 0,
       "subreddit": null,
