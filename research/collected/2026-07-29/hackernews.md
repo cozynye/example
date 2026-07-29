@@ -14,3 +14,8 @@
 - **Score**: 6 | **Comments**: 3
 - **Source**: hackernews
 
+## Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem
+- **URL**: https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/
+- **Score**: 4
+- **Source**: hackernews
+
