@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-07-28T14:07:23.027Z",
+  "buildTime": "2026-07-29T02:12:51.393Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W31.md",
     "title": "2026-W31 주간 로그",
-    "content": "# 2026-W31 주간 로그\n\n\n## 자동 수집 (2026-07-27 AM 11:34:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-07-27 PM 7:02:46)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **17** |\n\n\n## 자동 수집 (2026-07-27 PM 11:34:52)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-07-28 AM 11:09:21)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-07-28 PM 5:45:32)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-07-28 PM 11:07:13)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n"
+    "content": "# 2026-W31 주간 로그\n\n\n## 자동 수집 (2026-07-27 AM 11:34:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-07-27 PM 7:02:46)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **17** |\n\n\n## 자동 수집 (2026-07-27 PM 11:34:52)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-07-28 AM 11:09:21)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-07-28 PM 5:45:32)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-07-28 PM 11:07:13)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-07-29 AM 11:12:41)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **5** |\n\n"
   },
   "collected": [
     {
@@ -1121,16 +1121,6 @@
       "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
       "score": 272,
       "comments": 233,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "hackernews",
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "score": 247,
-      "comments": 220,
       "subreddit": null,
       "description": ""
     },
@@ -1175,16 +1165,6 @@
       "description": ""
     },
     {
-      "date": "2026-07-22",
-      "source": "hackernews",
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
-      "score": 61,
-      "comments": 67,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-07-28",
       "source": "hackernews",
       "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
@@ -1201,16 +1181,6 @@
       "url": "https://news.ycombinator.com/item?id=49024620",
       "score": 60,
       "comments": 49,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "hackernews",
-      "title": "Intel Starts Shipping High-NA EUV Silicon",
-      "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
-      "score": 52,
-      "comments": 6,
       "subreddit": null,
       "description": ""
     },
@@ -1285,6 +1255,16 @@
       "description": ""
     },
     {
+      "date": "2026-07-29",
+      "source": "hackernews",
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai/",
+      "score": 9,
+      "comments": 4,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-07-27",
       "source": "hackernews",
       "title": "Chinese chipmaker shares surge 470%",
@@ -1305,11 +1285,51 @@
       "description": ""
     },
     {
+      "date": "2026-07-29",
+      "source": "hackernews",
+      "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+      "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+      "score": 6,
+      "comments": 3,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-07-28",
       "source": "hackernews",
       "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
       "url": "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/",
       "score": 4,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-29",
+      "source": "producthunt",
+      "title": "Space-Bin",
+      "url": "https://www.producthunt.com/products/space-bin",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-29",
+      "source": "producthunt",
+      "title": "Cercle",
+      "url": "https://www.producthunt.com/products/cercle",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-07-29",
+      "source": "producthunt",
+      "title": "Leaping AI",
+      "url": "https://www.producthunt.com/products/leaping-ai",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
@@ -2449,196 +2469,6 @@
       "source": "producthunt",
       "title": "Mufal",
       "url": "https://www.producthunt.com/products/mufal",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "Manifest",
-      "url": "https://www.producthunt.com/products/manifest-363",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "OpenChatCut",
-      "url": "https://www.producthunt.com/products/openchatcut",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "BUD",
-      "url": "https://www.producthunt.com/products/bud-voice-canvas",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "Kastra",
-      "url": "https://www.producthunt.com/products/kastra",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "Arkor",
-      "url": "https://www.producthunt.com/products/arkor",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "Lattics",
-      "url": "https://www.producthunt.com/products/lattics-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "MonoCloud for Startups",
-      "url": "https://www.producthunt.com/products/monocloud-for-startups-free-for-1-year",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "Gemini 3.6 Flash Family",
-      "url": "https://www.producthunt.com/products/gemini-3-6-flash-family",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "Trovio For Brands",
-      "url": "https://www.producthunt.com/products/trovio-brand-dashboard",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "Migma AI",
-      "url": "https://www.producthunt.com/products/migma-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "ACME.BOT",
-      "url": "https://www.producthunt.com/products/acme-bot",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "Grindoro",
-      "url": "https://www.producthunt.com/products/grindoro",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "Light Flip",
-      "url": "https://www.producthunt.com/products/light-phone",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "AGINE Academy",
-      "url": "https://www.producthunt.com/products/agine-academy",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "Overflight",
-      "url": "https://www.producthunt.com/products/overflight-sky-radar",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "UltraPod",
-      "url": "https://www.producthunt.com/products/ultrapod",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "Remote OpenClaw",
-      "url": "https://www.producthunt.com/products/remote-openclaw-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "Redential",
-      "url": "https://www.producthunt.com/products/redential",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-22",
-      "source": "producthunt",
-      "title": "box",
-      "url": "https://www.producthunt.com/products/box-4",
       "score": 0,
       "comments": 0,
       "subreddit": null,

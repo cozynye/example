@@ -3831,7 +3831,27 @@
     "https://www.producthunt.com/products/tag-your-photos": {
       "date": "2026-07-28",
       "source": "producthunt"
+    },
+    "https://learnvector.ai/": {
+      "date": "2026-07-29",
+      "source": "hackernews"
+    },
+    "https://andreadimatteo.com/md-to-html-compiler.html": {
+      "date": "2026-07-29",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/space-bin": {
+      "date": "2026-07-29",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/cercle": {
+      "date": "2026-07-29",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/leaping-ai": {
+      "date": "2026-07-29",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-28T14:07:13.025Z"
+  "lastRun": "2026-07-29T02:12:41.379Z"
 }
