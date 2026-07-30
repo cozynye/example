@@ -3915,7 +3915,15 @@
     "https://www.producthunt.com/products/epilude": {
       "date": "2026-07-29",
       "source": "producthunt"
+    },
+    "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research": {
+      "date": "2026-07-30",
+      "source": "hackernews"
+    },
+    "https://usetokenless.com/": {
+      "date": "2026-07-30",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-07-29T14:10:28.822Z"
+  "lastRun": "2026-07-30T02:01:32.306Z"
 }
