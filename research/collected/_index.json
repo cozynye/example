@@ -3983,7 +3983,27 @@
     "https://www.producthunt.com/products/sorinai": {
       "date": "2026-07-30",
       "source": "producthunt"
+    },
+    "https://prized.dev": {
+      "date": "2026-07-30",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/ai-search-console": {
+      "date": "2026-07-30",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/expert-chase-deleted-1107920": {
+      "date": "2026-07-30",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/premation": {
+      "date": "2026-07-30",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/virre": {
+      "date": "2026-07-30",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-30T08:39:16.330Z"
+  "lastRun": "2026-07-30T14:02:19.553Z"
 }

@@ -14,3 +14,8 @@
 - **Score**: 53 | **Comments**: 44
 - **Source**: hackernews
 
+## Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools
+- **URL**: https://prized.dev
+- **Score**: 5
+- **Source**: hackernews
+
