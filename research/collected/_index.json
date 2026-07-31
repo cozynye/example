@@ -4003,7 +4003,19 @@
     "https://www.producthunt.com/products/virre": {
       "date": "2026-07-30",
       "source": "producthunt"
+    },
+    "https://www.ctgt.ai/research/distillation-censorship-transfer": {
+      "date": "2026-07-31",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/docktor": {
+      "date": "2026-07-31",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/caimera-2": {
+      "date": "2026-07-31",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-07-30T14:02:19.553Z"
+  "lastRun": "2026-07-31T02:27:46.584Z"
 }
