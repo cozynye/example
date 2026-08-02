@@ -44,3 +44,7 @@
 - **URL**: https://www.producthunt.com/products/termexo
 - **Source**: producthunt
 
+## TimeOS 2.0
+- **URL**: https://www.producthunt.com/products/timeos-ultimate-task-manager-for-pro
+- **Source**: producthunt
+
