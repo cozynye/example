@@ -60,3 +60,15 @@
 - **URL**: https://www.producthunt.com/products/snapdown-2
 - **Source**: producthunt
 
+## CoachAI
+- **URL**: https://www.producthunt.com/products/coachai-fitness-coach
+- **Source**: producthunt
+
+## claudemon
+- **URL**: https://www.producthunt.com/products/claudemon
+- **Source**: producthunt
+
+## Hand Wave
+- **URL**: https://www.producthunt.com/products/hand-wave
+- **Source**: producthunt
+

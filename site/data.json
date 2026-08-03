@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-08-03T09:58:28.950Z",
+  "buildTime": "2026-08-03T14:39:29.206Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W32.md",
     "title": "2026-W32 주간 로그",
-    "content": "# 2026-W32 주간 로그\n\n\n## 자동 수집 (2026-08-03 PM 6:58:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n"
+    "content": "# 2026-W32 주간 로그\n\n\n## 자동 수집 (2026-08-03 PM 6:58:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-08-03 PM 11:39:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **4** |\n\n"
   },
   "collected": [
     {
@@ -1141,6 +1141,16 @@
       "url": "https://learnvector.ai/",
       "score": 9,
       "comments": 4,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-03",
+      "source": "hackernews",
+      "title": "SpaceX wins $1.6B Space Force contract for 18 Falcon 9 launches",
+      "url": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/",
+      "score": 7,
+      "comments": 2,
       "subreddit": null,
       "description": ""
     },
@@ -1319,6 +1329,36 @@
       "source": "producthunt",
       "title": "Snapdown",
       "url": "https://www.producthunt.com/products/snapdown-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-03",
+      "source": "producthunt",
+      "title": "CoachAI",
+      "url": "https://www.producthunt.com/products/coachai-fitness-coach",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-03",
+      "source": "producthunt",
+      "title": "claudemon",
+      "url": "https://www.producthunt.com/products/claudemon",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-03",
+      "source": "producthunt",
+      "title": "Hand Wave",
+      "url": "https://www.producthunt.com/products/hand-wave",
       "score": 0,
       "comments": 0,
       "subreddit": null,
