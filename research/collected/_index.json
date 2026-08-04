@@ -4227,7 +4227,19 @@
     "https://www.producthunt.com/products/hand-wave": {
       "date": "2026-08-03",
       "source": "producthunt"
+    },
+    "https://hoplite.sh": {
+      "date": "2026-08-04",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/plethora-3": {
+      "date": "2026-08-04",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/inventory": {
+      "date": "2026-08-04",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-08-03T14:39:19.314Z"
+  "lastRun": "2026-08-04T02:07:57.422Z"
 }
