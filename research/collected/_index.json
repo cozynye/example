@@ -4299,7 +4299,27 @@
     "https://www.producthunt.com/products/screen-awesome-record-annotate": {
       "date": "2026-08-04",
       "source": "producthunt"
+    },
+    "https://learning-rust.github.io": {
+      "date": "2026-08-04",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/speakoflow": {
+      "date": "2026-08-04",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/growthbook": {
+      "date": "2026-08-04",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/artdeck": {
+      "date": "2026-08-04",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/tixio-io": {
+      "date": "2026-08-04",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-08-04T08:48:25.265Z"
+  "lastRun": "2026-08-04T14:11:40.979Z"
 }

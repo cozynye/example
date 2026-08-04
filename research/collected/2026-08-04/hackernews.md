@@ -9,3 +9,8 @@
 - **Score**: 58 | **Comments**: 51
 - **Source**: hackernews
 
+## Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone
+- **URL**: https://learning-rust.github.io
+- **Score**: 18 | **Comments**: 1
+- **Source**: hackernews
+
