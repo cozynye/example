@@ -4319,7 +4319,19 @@
     "https://www.producthunt.com/products/tixio-io": {
       "date": "2026-08-04",
       "source": "producthunt"
+    },
+    "https://twitter.com/gwern/status/2084739205071343837": {
+      "date": "2026-08-05",
+      "source": "hackernews"
+    },
+    "https://edotenv.com/": {
+      "date": "2026-08-05",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/dashi-metrics": {
+      "date": "2026-08-05",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-08-04T14:11:40.979Z"
+  "lastRun": "2026-08-05T02:07:06.083Z"
 }

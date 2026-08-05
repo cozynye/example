@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-08-04T14:11:50.930Z",
+  "buildTime": "2026-08-05T02:07:16.069Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W32.md",
     "title": "2026-W32 주간 로그",
-    "content": "# 2026-W32 주간 로그\n\n\n## 자동 수집 (2026-08-03 PM 6:58:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-08-03 PM 11:39:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-08-04 AM 11:07:57)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **3** |\n\n\n## 자동 수집 (2026-08-04 PM 5:48:25)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-08-04 PM 11:11:40)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **5** |\n\n"
+    "content": "# 2026-W32 주간 로그\n\n\n## 자동 수집 (2026-08-03 PM 6:58:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-08-03 PM 11:39:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-08-04 AM 11:07:57)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **3** |\n\n\n## 자동 수집 (2026-08-04 PM 5:48:25)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-08-04 PM 11:11:40)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **5** |\n\n\n## 자동 수집 (2026-08-05 AM 11:07:06)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **3** |\n\n"
   },
   "collected": [
     {
@@ -1101,6 +1101,16 @@
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
       "score": 212,
       "comments": 117,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-05",
+      "source": "hackernews",
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "score": 177,
+      "comments": 86,
       "subreddit": null,
       "description": ""
     },
@@ -1135,22 +1145,22 @@
       "description": ""
     },
     {
+      "date": "2026-08-05",
+      "source": "hackernews",
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "url": "https://edotenv.com/",
+      "score": 31,
+      "comments": 24,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-08-04",
       "source": "hackernews",
       "title": "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
       "url": "https://learning-rust.github.io",
       "score": 18,
       "comments": 1,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "hackernews",
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "url": "https://learnvector.ai/",
-      "score": 9,
-      "comments": 4,
       "subreddit": null,
       "description": ""
     },
@@ -1165,16 +1175,6 @@
       "description": ""
     },
     {
-      "date": "2026-07-29",
-      "source": "hackernews",
-      "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
-      "url": "https://andreadimatteo.com/md-to-html-compiler.html",
-      "score": 6,
-      "comments": 3,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-07-30",
       "source": "hackernews",
       "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
@@ -1185,11 +1185,11 @@
       "description": ""
     },
     {
-      "date": "2026-07-29",
-      "source": "hackernews",
-      "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
-      "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
-      "score": 4,
+      "date": "2026-08-05",
+      "source": "producthunt",
+      "title": "Dashi Metrics",
+      "url": "https://www.producthunt.com/products/dashi-metrics",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
@@ -2129,186 +2129,6 @@
       "source": "producthunt",
       "title": "Virre",
       "url": "https://www.producthunt.com/products/virre",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "Space-Bin",
-      "url": "https://www.producthunt.com/products/space-bin",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "Cercle",
-      "url": "https://www.producthunt.com/products/cercle",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "Leaping AI",
-      "url": "https://www.producthunt.com/products/leaping-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "Prelint",
-      "url": "https://www.producthunt.com/products/prelint",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "Totem",
-      "url": "https://www.producthunt.com/products/totem-5",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "Vela",
-      "url": "https://www.producthunt.com/products/vela-4",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "MemoryCustodian",
-      "url": "https://www.producthunt.com/products/memorycustodian",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "ClinicFrame",
-      "url": "https://www.producthunt.com/products/clinic-scribe-clinicframe",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "/mission for Claude Code",
-      "url": "https://www.producthunt.com/products/spine-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "BlackFlare",
-      "url": "https://www.producthunt.com/products/blackflare",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "SceneNote",
-      "url": "https://www.producthunt.com/products/scenenote-free-video-feedback-tool",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "Task Monki",
-      "url": "https://www.producthunt.com/products/task-monki",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "SoundGate Guitar",
-      "url": "https://www.producthunt.com/products/soundgate-guitar-app",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "Denovo",
-      "url": "https://www.producthunt.com/products/denovo-business-manager",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "AgentQuartz",
-      "url": "https://www.producthunt.com/products/agentquartz",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "Bo AI",
-      "url": "https://www.producthunt.com/products/bo-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "JusTTY",
-      "url": "https://www.producthunt.com/products/justty",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-07-29",
-      "source": "producthunt",
-      "title": "Epilude",
-      "url": "https://www.producthunt.com/products/epilude",
       "score": 0,
       "comments": 0,
       "subreddit": null,
