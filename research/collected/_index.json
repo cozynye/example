@@ -4387,7 +4387,15 @@
     "https://www.producthunt.com/products/hansel-2": {
       "date": "2026-08-05",
       "source": "producthunt"
+    },
+    "https://hannahilea.com/blog/birduino/": {
+      "date": "2026-08-05",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/capacity": {
+      "date": "2026-08-05",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-08-05T08:45:59.262Z"
+  "lastRun": "2026-08-05T14:09:07.506Z"
 }

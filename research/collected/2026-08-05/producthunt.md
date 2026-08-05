@@ -64,3 +64,7 @@
 - **URL**: https://www.producthunt.com/products/hansel-2
 - **Source**: producthunt
 
+## Capacity Desktop
+- **URL**: https://www.producthunt.com/products/capacity
+- **Source**: producthunt
+

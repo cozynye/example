@@ -14,3 +14,8 @@
 - **Score**: 31 | **Comments**: 24
 - **Source**: hackernews
 
+## Birduino: A card-triggered audio player for [learning] the birds
+- **URL**: https://hannahilea.com/blog/birduino/
+- **Score**: 29 | **Comments**: 5
+- **Source**: hackernews
+
