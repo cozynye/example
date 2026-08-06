@@ -56,3 +56,15 @@
 - **URL**: https://www.producthunt.com/products/annotate-8
 - **Source**: producthunt
 
+## Aveiro
+- **URL**: https://www.producthunt.com/products/aveiro
+- **Source**: producthunt
+
+## Shieldstral
+- **URL**: https://www.producthunt.com/products/mistral-7b
+- **Source**: producthunt
+
+## Chute
+- **URL**: https://www.producthunt.com/products/chute-better-airdrop
+- **Source**: producthunt
+
