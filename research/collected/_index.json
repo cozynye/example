@@ -4395,7 +4395,11 @@
     "https://www.producthunt.com/products/capacity": {
       "date": "2026-08-05",
       "source": "producthunt"
+    },
+    "https://www.hyperprobe.co": {
+      "date": "2026-08-06",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-08-05T14:09:07.506Z"
+  "lastRun": "2026-08-06T02:11:01.706Z"
 }
