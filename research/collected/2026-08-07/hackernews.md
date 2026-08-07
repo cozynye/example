@@ -14,3 +14,8 @@
 - **Score**: 134 | **Comments**: 100
 - **Source**: hackernews
 
+## Learning to fly FPV drones with AI flight coach
+- **URL**: https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai
+- **Score**: 11 | **Comments**: 7
+- **Source**: hackernews
+
