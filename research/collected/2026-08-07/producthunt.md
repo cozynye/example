@@ -60,3 +60,15 @@
 - **URL**: https://www.producthunt.com/products/alconost-localization
 - **Source**: producthunt
 
+## BAP Studio
+- **URL**: https://www.producthunt.com/products/bap-studio
+- **Source**: producthunt
+
+## BrowserOS neo
+- **URL**: https://www.producthunt.com/products/browseros_ai
+- **Source**: producthunt
+
+## Merge
+- **URL**: https://www.producthunt.com/products/merge-5
+- **Source**: producthunt
+
