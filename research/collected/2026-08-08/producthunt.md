@@ -12,3 +12,15 @@
 - **URL**: https://www.producthunt.com/products/agentone-desktop
 - **Source**: producthunt
 
+## Hexis
+- **URL**: https://www.producthunt.com/products/bevel-4
+- **Source**: producthunt
+
+## AstraPixels
+- **URL**: https://www.producthunt.com/products/astrapixels
+- **Source**: producthunt
+
+## The GTM Co-Founder
+- **URL**: https://www.producthunt.com/products/the-gtm-co-founder
+- **Source**: producthunt
+
