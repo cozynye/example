@@ -4619,7 +4619,15 @@
     "https://www.producthunt.com/products/prompt-golf": {
       "date": "2026-08-09",
       "source": "producthunt"
+    },
+    "https://www.bbc.com/news/articles/c4g64152v71o": {
+      "date": "2026-08-09",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/solouno": {
+      "date": "2026-08-09",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-08-09T07:05:40.431Z"
+  "lastRun": "2026-08-09T12:50:31.614Z"
 }

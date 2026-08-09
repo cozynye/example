@@ -56,3 +56,7 @@
 - **URL**: https://www.producthunt.com/products/prompt-golf
 - **Source**: producthunt
 
+## SoloUno
+- **URL**: https://www.producthunt.com/products/solouno
+- **Source**: producthunt
+
