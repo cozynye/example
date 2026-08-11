@@ -68,3 +68,19 @@
 - **URL**: https://www.producthunt.com/products/gitar
 - **Source**: producthunt
 
+## Gotcha
+- **URL**: https://www.producthunt.com/products/gotcha-5
+- **Source**: producthunt
+
+## Switchy for Mac
+- **URL**: https://www.producthunt.com/products/switchy-for-mac
+- **Source**: producthunt
+
+## AdmitRaven
+- **URL**: https://www.producthunt.com/products/admitraven
+- **Source**: producthunt
+
+## ScreenMark
+- **URL**: https://www.producthunt.com/products/screenmark-annotation-draw
+- **Source**: producthunt
+
