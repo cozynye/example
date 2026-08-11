@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-08-10T13:08:15.460Z",
+  "buildTime": "2026-08-11T01:21:26.757Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W33.md",
     "title": "2026-W33 주간 로그",
-    "content": "# 2026-W33 주간 로그\n\n\n## 자동 수집 (2026-08-10 PM 4:53:13)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n"
+    "content": "# 2026-W33 주간 로그\n\n\n## 자동 수집 (2026-08-10 PM 4:53:13)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-08-11 AM 10:21:16)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n"
   },
   "collected": [
     {
@@ -1135,12 +1135,12 @@
       "description": ""
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-08-11",
       "source": "hackernews",
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "url": "https://hoplite.sh",
-      "score": 58,
-      "comments": 51,
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com",
+      "score": 63,
+      "comments": 39,
       "subreddit": null,
       "description": ""
     },
@@ -1185,22 +1185,22 @@
       "description": ""
     },
     {
-      "date": "2026-08-04",
-      "source": "hackernews",
-      "title": "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
-      "url": "https://learning-rust.github.io",
-      "score": 18,
-      "comments": 1,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-08-07",
       "source": "hackernews",
       "title": "Learning to fly FPV drones with AI flight coach",
       "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
       "score": 11,
       "comments": 7,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-11",
+      "source": "producthunt",
+      "title": "Good Assistant 2",
+      "url": "https://www.producthunt.com/products/good-assistant",
+      "score": 0,
+      "comments": 0,
       "subreddit": null,
       "description": ""
     },
@@ -1979,216 +1979,6 @@
       "source": "producthunt",
       "title": "Capacity Desktop",
       "url": "https://www.producthunt.com/products/capacity",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Plethora",
-      "url": "https://www.producthunt.com/products/plethora-3",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Inventory",
-      "url": "https://www.producthunt.com/products/inventory",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Atlaso",
-      "url": "https://www.producthunt.com/products/atlaso",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Stynar",
-      "url": "https://www.producthunt.com/products/stynar",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Finyuus",
-      "url": "https://www.producthunt.com/products/finyuus",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "VIDEO AI ME",
-      "url": "https://www.producthunt.com/products/video-ai-me",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "AirProof AI",
-      "url": "https://www.producthunt.com/products/airproof-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Wondering",
-      "url": "https://www.producthunt.com/products/wondering-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "FileFlippers",
-      "url": "https://www.producthunt.com/products/fileflippers",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Driven",
-      "url": "https://www.producthunt.com/products/driven-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Snipplet",
-      "url": "https://www.producthunt.com/products/snipplet",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Domo",
-      "url": "https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Vibe Buddy",
-      "url": "https://www.producthunt.com/products/vibe-buddy",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Crodo AI",
-      "url": "https://www.producthunt.com/products/crodo-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Hey Noah",
-      "url": "https://www.producthunt.com/products/hey-noah",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Karve",
-      "url": "https://www.producthunt.com/products/karve",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Screen Awesome",
-      "url": "https://www.producthunt.com/products/screen-awesome-record-annotate",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "SpeakoFlow",
-      "url": "https://www.producthunt.com/products/speakoflow",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "GrowthBook 5.0",
-      "url": "https://www.producthunt.com/products/growthbook",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "ArtDeck",
-      "url": "https://www.producthunt.com/products/artdeck",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-04",
-      "source": "producthunt",
-      "title": "Tixio 3.0",
-      "url": "https://www.producthunt.com/products/tixio-io",
       "score": 0,
       "comments": 0,
       "subreddit": null,

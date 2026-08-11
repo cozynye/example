@@ -4667,7 +4667,15 @@
     "https://www.producthunt.com/products/paritok": {
       "date": "2026-08-10",
       "source": "producthunt"
+    },
+    "https://www.stoaexchange.com": {
+      "date": "2026-08-11",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/good-assistant": {
+      "date": "2026-08-11",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-08-10T13:08:05.546Z"
+  "lastRun": "2026-08-11T01:21:16.747Z"
 }
