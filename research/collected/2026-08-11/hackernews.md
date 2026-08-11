@@ -9,3 +9,8 @@
 - **Score**: 63 | **Comments**: 39
 - **Source**: hackernews
 
+## Learning more about Claude's mathematical capabilities
+- **URL**: https://www.anthropic.com/research/riemann-zeta
+- **Score**: 180 | **Comments**: 122
+- **Source**: hackernews
+
