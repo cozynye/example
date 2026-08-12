@@ -4823,7 +4823,23 @@
     "https://www.producthunt.com/products/linforge": {
       "date": "2026-08-12",
       "source": "producthunt"
+    },
+    "https://discoveredmaterials.com/research/": {
+      "date": "2026-08-12",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/argos": {
+      "date": "2026-08-12",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/swipe-9": {
+      "date": "2026-08-12",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/unsloth": {
+      "date": "2026-08-12",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-08-12T07:41:40.476Z"
+  "lastRun": "2026-08-12T13:09:12.997Z"
 }

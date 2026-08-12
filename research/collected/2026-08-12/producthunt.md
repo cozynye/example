@@ -64,3 +64,15 @@
 - **URL**: https://www.producthunt.com/products/linforge
 - **Source**: producthunt
 
+## Media Sharing
+- **URL**: https://www.producthunt.com/products/argos
+- **Source**: producthunt
+
+## Swipe
+- **URL**: https://www.producthunt.com/products/swipe-9
+- **Source**: producthunt
+
+## Unsloth Desktop
+- **URL**: https://www.producthunt.com/products/unsloth
+- **Source**: producthunt
+

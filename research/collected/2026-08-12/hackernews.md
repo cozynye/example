@@ -14,3 +14,8 @@
 - **Score**: 39 | **Comments**: 15
 - **Source**: hackernews
 
+## Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials
+- **URL**: https://discoveredmaterials.com/research/
+- **Score**: 31 | **Comments**: 8
+- **Source**: hackernews
+
