@@ -64,3 +64,27 @@
 - **URL**: https://www.producthunt.com/products/mem-2-0
 - **Source**: producthunt
 
+## Nuphos
+- **URL**: https://www.producthunt.com/products/nuphos
+- **Source**: producthunt
+
+## Pickle Browser
+- **URL**: https://www.producthunt.com/products/pickle-browser
+- **Source**: producthunt
+
+## WebBrain
+- **URL**: https://www.producthunt.com/products/webbrain
+- **Source**: producthunt
+
+## Caveman
+- **URL**: https://www.producthunt.com/products/caveman
+- **Source**: producthunt
+
+## Qencode MCP
+- **URL**: https://www.producthunt.com/products/qencode
+- **Source**: producthunt
+
+## Coarena by Coasty
+- **URL**: https://www.producthunt.com/products/coarena-by-coasty
+- **Source**: producthunt
+
