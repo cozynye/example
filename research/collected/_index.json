@@ -4839,7 +4839,23 @@
     "https://www.producthunt.com/products/unsloth": {
       "date": "2026-08-12",
       "source": "producthunt"
+    },
+    "https://www.ballet.dev/": {
+      "date": "2026-08-13",
+      "source": "hackernews"
+    },
+    "https://adapt.com/blog/build-wide-ship-narrow": {
+      "date": "2026-08-13",
+      "source": "hackernews"
+    },
+    "https://gwern.net/doc/psychology/spaced-repetition/1973-standing.pdf": {
+      "date": "2026-08-13",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/beardrive": {
+      "date": "2026-08-13",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-08-12T13:09:12.997Z"
+  "lastRun": "2026-08-13T01:40:34.954Z"
 }
