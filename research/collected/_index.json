@@ -5055,7 +5055,19 @@
     "https://www.producthunt.com/products/filerouter": {
       "date": "2026-08-15",
       "source": "producthunt"
+    },
+    "https://lapcatsoftware.com/articles/2026/8/3.html": {
+      "date": "2026-08-16",
+      "source": "hackernews"
+    },
+    "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/": {
+      "date": "2026-08-16",
+      "source": "hackernews"
+    },
+    "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/": {
+      "date": "2026-08-16",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-08-15T12:36:47.869Z"
+  "lastRun": "2026-08-16T01:04:02.247Z"
 }
