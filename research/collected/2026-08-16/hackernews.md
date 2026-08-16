@@ -19,3 +19,8 @@
 - **Score**: 139 | **Comments**: 85
 - **Source**: hackernews
 
+## Guiding Ships with Moire Patterns
+- **URL**: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/
+- **Score**: 30 | **Comments**: 7
+- **Source**: hackernews
+
