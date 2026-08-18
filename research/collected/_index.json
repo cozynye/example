@@ -5155,7 +5155,15 @@
     "https://www.producthunt.com/products/tinyfish-2": {
       "date": "2026-08-17",
       "source": "producthunt"
+    },
+    "https://speko.ai/": {
+      "date": "2026-08-18",
+      "source": "hackernews"
+    },
+    "https://turbopuffer.com/blog/control-plane": {
+      "date": "2026-08-18",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-08-17T12:43:02.326Z"
+  "lastRun": "2026-08-18T00:59:51.344Z"
 }

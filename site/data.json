@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-08-17T12:43:02.365Z",
+  "buildTime": "2026-08-18T00:59:51.385Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W34.md",
     "title": "2026-W34 주간 로그",
-    "content": "# 2026-W34 주간 로그\n\n\n## 자동 수집 (2026-08-17 PM 4:07:01)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 12 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-08-17 PM 9:43:02)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **4** |\n\n"
+    "content": "# 2026-W34 주간 로그\n\n\n## 자동 수집 (2026-08-17 PM 4:07:01)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 12 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-08-17 PM 9:43:02)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-08-18 AM 9:59:51)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n"
   },
   "collected": [
     {
@@ -1101,16 +1101,6 @@
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "score": 264,
       "comments": 169,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "hackernews",
-      "title": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "score": 180,
-      "comments": 122,
       "subreddit": null,
       "description": ""
     },
@@ -1125,6 +1115,16 @@
       "description": ""
     },
     {
+      "date": "2026-08-18",
+      "source": "hackernews",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "score": 89,
+      "comments": 51,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-08-14",
       "source": "hackernews",
       "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
@@ -1135,12 +1135,12 @@
       "description": ""
     },
     {
-      "date": "2026-08-11",
+      "date": "2026-08-18",
       "source": "hackernews",
-      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-      "url": "https://www.stoaexchange.com",
-      "score": 63,
-      "comments": 39,
+      "title": "How to ship a database every day",
+      "url": "https://turbopuffer.com/blog/control-plane",
+      "score": 65,
+      "comments": 8,
       "subreddit": null,
       "description": ""
     },
@@ -2109,206 +2109,6 @@
       "source": "producthunt",
       "title": "Unsloth Desktop",
       "url": "https://www.producthunt.com/products/unsloth",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Good Assistant 2",
-      "url": "https://www.producthunt.com/products/good-assistant",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Octomind Cloud + Hub",
-      "url": "https://www.producthunt.com/products/octomind-plug-n-play-ai-agents",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Vizard Agent",
-      "url": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "agent-manager",
-      "url": "https://www.producthunt.com/products/agent-manager",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Cerenovus",
-      "url": "https://www.producthunt.com/products/cerenovus",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Equitybee Benchmark",
-      "url": "https://www.producthunt.com/products/equitybee",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "BetterClaw",
-      "url": "https://www.producthunt.com/products/betterclaw",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "AMP by CanyonTechs AI",
-      "url": "https://www.producthunt.com/products/amp-by-canyontechs-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Continuum",
-      "url": "https://www.producthunt.com/products/continuum-2027",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Bullet",
-      "url": "https://www.producthunt.com/products/bullet-6",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Xirp",
-      "url": "https://www.producthunt.com/products/spotify",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Tines 3B",
-      "url": "https://www.producthunt.com/products/tines",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "bb",
-      "url": "https://www.producthunt.com/products/bb",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Lexi",
-      "url": "https://www.producthunt.com/products/lexi-5",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Product Analytics for Agents and Users",
-      "url": "https://www.producthunt.com/products/kubit",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Gitar",
-      "url": "https://www.producthunt.com/products/gitar",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Gotcha",
-      "url": "https://www.producthunt.com/products/gotcha-5",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "Switchy for Mac",
-      "url": "https://www.producthunt.com/products/switchy-for-mac",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "AdmitRaven",
-      "url": "https://www.producthunt.com/products/admitraven",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-11",
-      "source": "producthunt",
-      "title": "ScreenMark",
-      "url": "https://www.producthunt.com/products/screenmark-annotation-draw",
       "score": 0,
       "comments": 0,
       "subreddit": null,
