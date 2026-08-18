@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-08-18T06:54:07.271Z",
+  "buildTime": "2026-08-18T12:45:43.544Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W34.md",
     "title": "2026-W34 주간 로그",
-    "content": "# 2026-W34 주간 로그\n\n\n## 자동 수집 (2026-08-17 PM 4:07:01)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 12 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-08-17 PM 9:43:02)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-08-18 AM 9:59:51)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-08-18 PM 3:53:57)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n"
+    "content": "# 2026-W34 주간 로그\n\n\n## 자동 수집 (2026-08-17 PM 4:07:01)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 12 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-08-17 PM 9:43:02)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-08-18 AM 9:59:51)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-08-18 PM 3:53:57)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-08-18 PM 9:45:43)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n"
   },
   "collected": [
     {
@@ -1240,6 +1240,146 @@
       "title": "Learning 10000 pictures (1973) [pdf]",
       "url": "https://gwern.net/doc/psychology/spaced-repetition/1973-standing.pdf",
       "score": 6,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Taku AI",
+      "url": "https://www.producthunt.com/products/taku-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Reckon",
+      "url": "https://www.producthunt.com/products/reckon",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Gauge",
+      "url": "https://www.producthunt.com/products/gauge",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Dates by Agenda Hero",
+      "url": "https://www.producthunt.com/products/dates-by-agenda-hero",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Meterless.ai",
+      "url": "https://www.producthunt.com/products/meterless-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Shepherd Terminal",
+      "url": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Atlas by WorkOS",
+      "url": "https://www.producthunt.com/products/workos",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "CrewTower",
+      "url": "https://www.producthunt.com/products/crew-tower",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Tiny Funnel",
+      "url": "https://www.producthunt.com/products/tiny-funnel",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Deepmark",
+      "url": "https://www.producthunt.com/products/deepmark",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Whisperstream",
+      "url": "https://www.producthunt.com/products/whisperstream",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Transept AI",
+      "url": "https://www.producthunt.com/products/transept-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Clara AI SDR",
+      "url": "https://www.producthunt.com/products/clara-ai-sdr",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "producthunt",
+      "title": "Skim Recap",
+      "url": "https://www.producthunt.com/products/skim-recap",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
