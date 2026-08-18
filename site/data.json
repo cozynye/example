@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-08-18T00:59:51.385Z",
+  "buildTime": "2026-08-18T06:54:07.271Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W34.md",
     "title": "2026-W34 주간 로그",
-    "content": "# 2026-W34 주간 로그\n\n\n## 자동 수집 (2026-08-17 PM 4:07:01)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 12 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-08-17 PM 9:43:02)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-08-18 AM 9:59:51)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n"
+    "content": "# 2026-W34 주간 로그\n\n\n## 자동 수집 (2026-08-17 PM 4:07:01)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 12 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-08-17 PM 9:43:02)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-08-18 AM 9:59:51)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-08-18 PM 3:53:57)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n"
   },
   "collected": [
     {
@@ -1141,6 +1141,16 @@
       "url": "https://turbopuffer.com/blog/control-plane",
       "score": 65,
       "comments": 8,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-18",
+      "source": "hackernews",
+      "title": "My friends all hate AI; I just joined an AI startup",
+      "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+      "score": 40,
+      "comments": 119,
       "subreddit": null,
       "description": ""
     },
