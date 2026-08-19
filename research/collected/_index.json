@@ -5223,7 +5223,39 @@
     "https://www.producthunt.com/products/skim-recap": {
       "date": "2026-08-18",
       "source": "producthunt"
+    },
+    "https://github.com/pg83/solo": {
+      "date": "2026-08-19",
+      "source": "hackernews"
+    },
+    "https://cursor.com/changelog/origin-code-hosting": {
+      "date": "2026-08-19",
+      "source": "hackernews"
+    },
+    "https://machine0.io": {
+      "date": "2026-08-19",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/open-brain": {
+      "date": "2026-08-19",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/hubble-11": {
+      "date": "2026-08-19",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/salem-robotics": {
+      "date": "2026-08-19",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/airbuddy-2": {
+      "date": "2026-08-19",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/insight-ai": {
+      "date": "2026-08-19",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-08-18T12:45:43.506Z"
+  "lastRun": "2026-08-19T01:00:03.275Z"
 }
