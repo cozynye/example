@@ -24,3 +24,15 @@
 - **URL**: https://www.producthunt.com/products/insight-ai
 - **Source**: producthunt
 
+## ElevenLabs MCP in Claude
+- **URL**: https://www.producthunt.com/products/elevenlabs-mcp-2
+- **Source**: producthunt
+
+## Finch
+- **URL**: https://www.producthunt.com/products/finch-6
+- **Source**: producthunt
+
+## Clipwing Autopilot
+- **URL**: https://www.producthunt.com/products/clipwing
+- **Source**: producthunt
+
