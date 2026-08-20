@@ -16,3 +16,15 @@
 - **URL**: https://www.producthunt.com/products/astute-2
 - **Source**: producthunt
 
+## Antibot
+- **URL**: https://www.producthunt.com/products/antibot
+- **Source**: producthunt
+
+## Fairphone Gen 6+
+- **URL**: https://www.producthunt.com/products/fairphone
+- **Source**: producthunt
+
+## Zyntax IDE
+- **URL**: https://www.producthunt.com/products/zyntax-coding-ide-for-android
+- **Source**: producthunt
+
