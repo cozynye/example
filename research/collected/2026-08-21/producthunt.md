@@ -28,3 +28,63 @@
 - **URL**: https://www.producthunt.com/products/checksum-ai
 - **Source**: producthunt
 
+## Wizstar
+- **URL**: https://www.producthunt.com/products/wizstar
+- **Source**: producthunt
+
+## Supernova
+- **URL**: https://www.producthunt.com/products/supernova-ai
+- **Source**: producthunt
+
+## Mindcase
+- **URL**: https://www.producthunt.com/products/mindcase
+- **Source**: producthunt
+
+## Router by Ramp
+- **URL**: https://www.producthunt.com/products/ramp-router
+- **Source**: producthunt
+
+## Dockhand
+- **URL**: https://www.producthunt.com/products/dockhand
+- **Source**: producthunt
+
+## Epho
+- **URL**: https://www.producthunt.com/products/epho-claude-code-in-the-cloud
+- **Source**: producthunt
+
+## Flunkey
+- **URL**: https://www.producthunt.com/products/flunkey
+- **Source**: producthunt
+
+## Local
+- **URL**: https://www.producthunt.com/products/local-7
+- **Source**: producthunt
+
+## OneCLI
+- **URL**: https://www.producthunt.com/products/onecli
+- **Source**: producthunt
+
+## Project SKY
+- **URL**: https://www.producthunt.com/products/project-sky
+- **Source**: producthunt
+
+## PixelRead AI OCR
+- **URL**: https://www.producthunt.com/products/pixelread-ai-ocr
+- **Source**: producthunt
+
+## Outlook Google Calendar Sync for Mac
+- **URL**: https://www.producthunt.com/products/outlook-google-calendar-sync-for-mac
+- **Source**: producthunt
+
+## ShogunAI
+- **URL**: https://www.producthunt.com/products/shogunai
+- **Source**: producthunt
+
+## Actx0
+- **URL**: https://www.producthunt.com/products/actx0
+- **Source**: producthunt
+
+## Plow Latch
+- **URL**: https://www.producthunt.com/products/plow-latch
+- **Source**: producthunt
+
