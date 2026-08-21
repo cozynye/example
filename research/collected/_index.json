@@ -5439,7 +5439,11 @@
     "https://www.producthunt.com/products/checksum-ai": {
       "date": "2026-08-21",
       "source": "producthunt"
+    },
+    "https://github.com/runvendo/vendo": {
+      "date": "2026-08-21",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-08-21T01:03:46.120Z"
+  "lastRun": "2026-08-21T06:56:58.763Z"
 }
