@@ -14,3 +14,8 @@
 - **Score**: 38 | **Comments**: 1
 - **Source**: hackernews
 
+## Initial focus for our partnership with Motorola is a regular non-folding device
+- **URL**: https://grapheneos.social/@GrapheneOS/117136278553665985
+- **Score**: 95 | **Comments**: 30
+- **Source**: hackernews
+

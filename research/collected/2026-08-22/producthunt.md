@@ -12,3 +12,11 @@
 - **URL**: https://www.producthunt.com/products/lynqo-your-local-nas-server
 - **Source**: producthunt
 
+## fx (by Vercel)
+- **URL**: https://www.producthunt.com/products/fx-by-vercel
+- **Source**: producthunt
+
+## Surfdeck
+- **URL**: https://www.producthunt.com/products/surfdeck
+- **Source**: producthunt
+
