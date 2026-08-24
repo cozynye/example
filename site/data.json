@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-08-24T01:02:55.638Z",
+  "buildTime": "2026-08-24T07:10:26.485Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W35.md",
     "title": "2026-W35 주간 로그",
-    "content": "# 2026-W35 주간 로그\n\n\n## 자동 수집 (2026-08-24 AM 10:02:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n"
+    "content": "# 2026-W35 주간 로그\n\n\n## 자동 수집 (2026-08-24 AM 10:02:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-08-24 PM 4:10:16)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n"
   },
   "collected": [
     {
@@ -1250,6 +1250,146 @@
       "title": "US Military newspaper editor voices censorship fears after being fired",
       "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
       "score": 4,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "IFAH",
+      "url": "https://www.producthunt.com/products/ifah-a-new-experience-of-sound",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "Destiny Rings",
+      "url": "https://www.producthunt.com/products/destiny-rings",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "Navigara",
+      "url": "https://www.producthunt.com/products/navigara",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "Contrive",
+      "url": "https://www.producthunt.com/products/contrive",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "Phoenix",
+      "url": "https://www.producthunt.com/products/phoenix-10",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "Offloop",
+      "url": "https://www.producthunt.com/products/offloop",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "Wavepocket ▶︎•၊||၊||။၊|။",
+      "url": "https://www.producthunt.com/products/wavepocket-free-ios-app",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "Lucid Train",
+      "url": "https://www.producthunt.com/products/lucid-train",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "Cortex by SKYNETLAB",
+      "url": "https://www.producthunt.com/products/cortex-by-skynetlab",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "Localdock",
+      "url": "https://www.producthunt.com/products/localdock",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "Trama",
+      "url": "https://www.producthunt.com/products/trama-mac-automation-in-plain-language",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "Dropstone",
+      "url": "https://www.producthunt.com/products/dropstone-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "Bumply",
+      "url": "https://www.producthunt.com/products/bumply",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-08-24",
+      "source": "producthunt",
+      "title": "PaymentKit",
+      "url": "https://www.producthunt.com/products/paymentkit",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
