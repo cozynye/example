@@ -14,3 +14,8 @@
 - **Score**: 160 | **Comments**: 62
 - **Source**: hackernews
 
+## A For-Profit Hospital Slashed Costs. Then a Patient Froze to Death on Its Roof
+- **URL**: https://www.motherjones.com/politics/2026/07/american-healthcare-systems-michael-sarian-for-profit-private-equity-adolphus-death/
+- **Score**: 15
+- **Source**: hackernews
+

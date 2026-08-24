@@ -60,3 +60,11 @@
 - **URL**: https://www.producthunt.com/products/paymentkit
 - **Source**: producthunt
 
+## Treebar
+- **URL**: https://www.producthunt.com/products/treebar-where-is-codex
+- **Source**: producthunt
+
+## WorldMap.lol
+- **URL**: https://www.producthunt.com/products/worldmap-lol
+- **Source**: producthunt
+
