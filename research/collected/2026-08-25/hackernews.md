@@ -14,3 +14,8 @@
 - **Score**: 14 | **Comments**: 16
 - **Source**: hackernews
 
+## Thomson Reuters Launches Its Own Frontier Model
+- **URL**: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model
+- **Score**: 84 | **Comments**: 30
+- **Source**: hackernews
+
