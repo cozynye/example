@@ -5775,7 +5775,31 @@
     "https://www.producthunt.com/products/chatgpt-ad-library": {
       "date": "2026-08-25",
       "source": "producthunt"
+    },
+    "https://fdeploy.com/": {
+      "date": "2026-08-26",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/hacktron": {
+      "date": "2026-08-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/nimbia": {
+      "date": "2026-08-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/memoria-5": {
+      "date": "2026-08-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/coolplugz": {
+      "date": "2026-08-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/keymap": {
+      "date": "2026-08-26",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-08-25T12:47:06.008Z"
+  "lastRun": "2026-08-26T01:03:49.514Z"
 }
