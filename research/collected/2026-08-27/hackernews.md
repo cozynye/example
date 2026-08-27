@@ -14,3 +14,18 @@
 - **Score**: 50 | **Comments**: 19
 - **Source**: hackernews
 
+## Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots
+- **URL**: https://news.ycombinator.com/item?id=49466715
+- **Score**: 21 | **Comments**: 14
+- **Source**: hackernews
+
+## Launching Route 53 Files
+- **URL**: https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html
+- **Score**: 48 | **Comments**: 18
+- **Source**: hackernews
+
+## MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training
+- **URL**: https://aiandeducation.mit.edu/report/
+- **Score**: 68 | **Comments**: 45
+- **Source**: hackernews
+
