@@ -29,3 +29,8 @@
 - **Score**: 68 | **Comments**: 45
 - **Source**: hackernews
 
+## M5Stack Launches PaperMono
+- **URL**: https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects
+- **Score**: 71 | **Comments**: 24
+- **Source**: hackernews
+
