@@ -60,3 +60,19 @@
 - **URL**: https://www.producthunt.com/products/crowdvolt
 - **Source**: producthunt
 
+## Caddi
+- **URL**: https://www.producthunt.com/products/caddi-3
+- **Source**: producthunt
+
+## Gemini Omni 1.1 Flash
+- **URL**: https://www.producthunt.com/products/gemini-omni-1-1-flash
+- **Source**: producthunt
+
+## Almanac
+- **URL**: https://www.producthunt.com/products/almanac-5
+- **Source**: producthunt
+
+## Spline V2
+- **URL**: https://www.producthunt.com/products/spline
+- **Source**: producthunt
+

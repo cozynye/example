@@ -6023,7 +6023,35 @@
     "https://www.producthunt.com/products/crowdvolt": {
       "date": "2026-08-28",
       "source": "producthunt"
+    },
+    "https://subsmith.app": {
+      "date": "2026-08-28",
+      "source": "hackernews"
+    },
+    "https://www.ft.com/content/6f3ada65-c56c-499c-8eb6-008fac58949d": {
+      "date": "2026-08-28",
+      "source": "hackernews"
+    },
+    "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/": {
+      "date": "2026-08-28",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/caddi-3": {
+      "date": "2026-08-28",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/gemini-omni-1-1-flash": {
+      "date": "2026-08-28",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/almanac-5": {
+      "date": "2026-08-28",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/spline": {
+      "date": "2026-08-28",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-08-28T08:50:49.723Z"
+  "lastRun": "2026-08-28T18:28:53.368Z"
 }

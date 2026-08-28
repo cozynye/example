@@ -14,3 +14,18 @@
 - **Score**: 36 | **Comments**: 20
 - **Source**: hackernews
 
+## Show HN: SubSmith – Turn your own videos into language-learning material
+- **URL**: https://subsmith.app
+- **Score**: 59 | **Comments**: 44
+- **Source**: hackernews
+
+## Corporate profits hit highest share since WWII, as worker payouts wilt
+- **URL**: https://www.ft.com/content/6f3ada65-c56c-499c-8eb6-008fac58949d
+- **Score**: 25 | **Comments**: 1
+- **Source**: hackernews
+
+## I used AWS cognito for a startup. I wouldn't do it again
+- **URL**: https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/
+- **Score**: 145 | **Comments**: 110
+- **Source**: hackernews
+
