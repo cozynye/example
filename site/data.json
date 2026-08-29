@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-08-28T21:46:04.458Z",
+  "buildTime": "2026-08-29T05:27:12.434Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1155,16 +1155,6 @@
       "description": ""
     },
     {
-      "date": "2026-08-22",
-      "source": "hackernews",
-      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-      "score": 95,
-      "comments": 30,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-08-25",
       "source": "hackernews",
       "title": "Thomson Reuters Launches Its Own Frontier Model",
@@ -1195,16 +1185,6 @@
       "description": ""
     },
     {
-      "date": "2026-08-22",
-      "source": "hackernews",
-      "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
-      "url": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
-      "score": 64,
-      "comments": 32,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-08-28",
       "source": "hackernews",
       "title": "Show HN: SubSmith – Turn your own videos into language-learning material",
@@ -1231,16 +1211,6 @@
       "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
       "score": 48,
       "comments": 18,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "hackernews",
-      "title": "Pentagon dismisses Stars and Stripes leadership after opposition to interference",
-      "url": "https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70",
-      "score": 38,
-      "comments": 1,
       "subreddit": null,
       "description": ""
     },
@@ -2309,156 +2279,6 @@
       "source": "producthunt",
       "title": "Construct Computer",
       "url": "https://www.producthunt.com/products/construct-computer",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "Antigravity IDE Extensions",
-      "url": "https://www.producthunt.com/products/google-antigravity",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "Lynqo",
-      "url": "https://www.producthunt.com/products/lynqo-your-local-nas-server",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "fx (by Vercel)",
-      "url": "https://www.producthunt.com/products/fx-by-vercel",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "Surfdeck",
-      "url": "https://www.producthunt.com/products/surfdeck",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "Pawvis",
-      "url": "https://www.producthunt.com/products/pawvis",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "Pocket by Meta",
-      "url": "https://www.producthunt.com/products/pocket-by-meta",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "SubtitleGenerator",
-      "url": "https://www.producthunt.com/products/subtitlegenerator",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "Open Analytics",
-      "url": "https://www.producthunt.com/products/open-analytics-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "Agents Never Sleep",
-      "url": "https://www.producthunt.com/products/agents-never-sleep",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "VeloFiler",
-      "url": "https://www.producthunt.com/products/velofiler",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "Zero",
-      "url": "https://www.producthunt.com/products/zero-15",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "Maccess",
-      "url": "https://www.producthunt.com/products/maccess",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "Toplify",
-      "url": "https://www.producthunt.com/products/toplify",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "KerasFormers",
-      "url": "https://www.producthunt.com/products/kerasformers",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-22",
-      "source": "producthunt",
-      "title": "Port Radar for macOS",
-      "url": "https://www.producthunt.com/products/port-radar-for-macos",
       "score": 0,
       "comments": 0,
       "subreddit": null,
