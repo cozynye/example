@@ -14,3 +14,8 @@
 - **Score**: 338 | **Comments**: 56
 - **Source**: hackernews
 
+## California lawmakers unanimously pass Linux exemption from age-verification law
+- **URL**: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt
+- **Score**: 343 | **Comments**: 153
+- **Source**: hackernews
+
