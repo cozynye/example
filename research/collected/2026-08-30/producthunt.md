@@ -68,3 +68,11 @@
 - **URL**: https://www.producthunt.com/products/skud-drag-send-track-in-seconds
 - **Source**: producthunt
 
+## Maritime
+- **URL**: https://www.producthunt.com/products/maritime
+- **Source**: producthunt
+
+## RIP MY BUILD
+- **URL**: https://www.producthunt.com/products/rip-my-build
+- **Source**: producthunt
+
