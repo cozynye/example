@@ -14,3 +14,13 @@
 - **Score**: 7 | **Comments**: 3
 - **Source**: hackernews
 
+## Launch HN: Almanac (YC S26) – AI that knows your company
+- **URL**: https://usealmanac.com/
+- **Score**: 23 | **Comments**: 30
+- **Source**: hackernews
+
+## Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines
+- **URL**: https://github.com/Hebbian-Robotics/hflow
+- **Score**: 26 | **Comments**: 9
+- **Source**: hackernews
+

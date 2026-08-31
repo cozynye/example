@@ -6255,7 +6255,15 @@
     "https://www.producthunt.com/products/particle-5": {
       "date": "2026-08-31",
       "source": "producthunt"
+    },
+    "https://usealmanac.com/": {
+      "date": "2026-08-31",
+      "source": "hackernews"
+    },
+    "https://github.com/Hebbian-Robotics/hflow": {
+      "date": "2026-08-31",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-08-31T13:21:41.995Z"
+  "lastRun": "2026-08-31T18:51:54.012Z"
 }
