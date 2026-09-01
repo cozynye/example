@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-01T03:22:08.554Z",
+  "buildTime": "2026-09-01T11:28:52.178Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W36.md",
     "title": "2026-W36 주간 로그",
-    "content": "# 2026-W36 주간 로그\n\n\n## 자동 수집 (2026-08-31 PM 12:20:21)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **3** |\n\n\n## 자동 수집 (2026-08-31 PM 10:21:41)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 12 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-08-31 AM 3:51:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-01 PM 12:21:58)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n"
+    "content": "# 2026-W36 주간 로그\n\n\n## 자동 수집 (2026-08-31 PM 12:20:21)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **3** |\n\n\n## 자동 수집 (2026-08-31 PM 10:21:41)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 12 |\n| **합계** | **12** |\n\n\n## 자동 수집 (2026-08-31 AM 3:51:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-01 PM 12:21:58)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-01 PM 8:28:42)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **13** |\n\n"
   },
   "collected": [
     {
@@ -1291,6 +1291,136 @@
       "url": "https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html",
       "score": 5,
       "comments": 1,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "Kilo Code for JetBrains",
+      "url": "https://www.producthunt.com/products/kilocode",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "Cosmic Agent Plugins",
+      "url": "https://www.producthunt.com/products/cosmic",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "Happy Shrimp",
+      "url": "https://www.producthunt.com/products/happy-shrimp",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "Gauth AI Course",
+      "url": "https://www.producthunt.com/products/gauth-ai-course",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "Impractical",
+      "url": "https://www.producthunt.com/products/impractical",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "HONOR Robot Phone",
+      "url": "https://www.producthunt.com/products/honor-robot-phone",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "Sider Code",
+      "url": "https://www.producthunt.com/products/sider-code-customize-any-website",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "Notchling",
+      "url": "https://www.producthunt.com/products/notchling-lives-in-your-notch",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "EAS Observe",
+      "url": "https://www.producthunt.com/products/expo",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "Superset Mobile",
+      "url": "https://www.producthunt.com/products/superset-5",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "WaseiGo",
+      "url": "https://www.producthunt.com/products/waseigo",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "ChannelOS",
+      "url": "https://www.producthunt.com/products/channelos",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-01",
+      "source": "producthunt",
+      "title": "Naseem",
+      "url": "https://www.producthunt.com/products/naseem-2",
+      "score": 0,
+      "comments": 0,
       "subreddit": null,
       "description": ""
     },
