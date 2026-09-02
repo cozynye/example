@@ -6335,7 +6335,31 @@
     "https://www.producthunt.com/products/folio-e0a9e0fb-8ef8-4fcf-a558-fa5fdd41a3ba": {
       "date": "2026-09-01",
       "source": "producthunt"
+    },
+    "https://www.norirobotics.com/": {
+      "date": "2026-09-02",
+      "source": "hackernews"
+    },
+    "https://hnmatchmaker.com/": {
+      "date": "2026-09-02",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/keiki": {
+      "date": "2026-09-02",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/arc-24-multitrack-groovebox-fro-ios": {
+      "date": "2026-09-02",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/nodeterm-terminal-manager": {
+      "date": "2026-09-02",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/computable-gpu-index-cgi": {
+      "date": "2026-09-02",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-01T16:09:56.232Z"
+  "lastRun": "2026-09-02T02:40:04.063Z"
 }
