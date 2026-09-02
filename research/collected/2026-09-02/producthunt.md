@@ -80,3 +80,31 @@
 - **URL**: https://www.producthunt.com/products/loqua
 - **Source**: producthunt
 
+## HydraDB OSS
+- **URL**: https://www.producthunt.com/products/hydradb-oss
+- **Source**: producthunt
+
+## Porte
+- **URL**: https://www.producthunt.com/products/porte
+- **Source**: producthunt
+
+## Dynamic Edge
+- **URL**: https://www.producthunt.com/products/dynamic-edge
+- **Source**: producthunt
+
+## GhostReply
+- **URL**: https://www.producthunt.com/products/ghostreply-2
+- **Source**: producthunt
+
+## Touchy
+- **URL**: https://www.producthunt.com/products/touchy-3
+- **Source**: producthunt
+
+## Claude Fable 5.1
+- **URL**: https://www.producthunt.com/products/claude-fable-5-1
+- **Source**: producthunt
+
+## Userlens
+- **URL**: https://www.producthunt.com/products/userlens
+- **Source**: producthunt
+
