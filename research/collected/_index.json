@@ -6447,7 +6447,19 @@
     "https://www.producthunt.com/products/userlens": {
       "date": "2026-09-02",
       "source": "producthunt"
+    },
+    "https://news.ycombinator.com/item?id=49543530": {
+      "date": "2026-09-03",
+      "source": "hackernews"
+    },
+    "https://lwn.net/Articles/1090585/": {
+      "date": "2026-09-03",
+      "source": "hackernews"
+    },
+    "https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty/": {
+      "date": "2026-09-03",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-09-02T16:05:00.607Z"
+  "lastRun": "2026-09-03T02:45:43.778Z"
 }
