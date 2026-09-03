@@ -19,3 +19,8 @@
 - **Score**: 28 | **Comments**: 1
 - **Source**: hackernews
 
+## Sony makes bold claim about game ownership
+- **URL**: https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/
+- **Score**: 4
+- **Source**: hackernews
+
