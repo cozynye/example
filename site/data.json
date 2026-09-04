@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-03T15:54:37.184Z",
+  "buildTime": "2026-09-04T02:43:26.913Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1135,32 +1135,12 @@
       "description": ""
     },
     {
-      "date": "2026-08-28",
-      "source": "hackernews",
-      "title": "I used AWS cognito for a startup. I wouldn't do it again",
-      "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
-      "score": 145,
-      "comments": 110,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-09-02",
       "source": "hackernews",
       "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
       "url": "https://www.norirobotics.com/",
       "score": 115,
       "comments": 40,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "hackernews",
-      "title": "Doctors are finally learning to manage antidepressant withdrawal",
-      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
-      "score": 110,
-      "comments": 102,
       "subreddit": null,
       "description": ""
     },
@@ -1175,32 +1155,12 @@
       "description": ""
     },
     {
-      "date": "2026-08-28",
-      "source": "hackernews",
-      "title": "Show HN: SubSmith – Turn your own videos into language-learning material",
-      "url": "https://subsmith.app",
-      "score": 59,
-      "comments": 44,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-09-02",
       "source": "hackernews",
       "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
       "url": "https://hnmatchmaker.com/",
       "score": 45,
       "comments": 26,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "hackernews",
-      "title": "Bootstrappable Builds: How and Why",
-      "url": "https://lwn.net/Articles/1088279/",
-      "score": 36,
-      "comments": 20,
       "subreddit": null,
       "description": ""
     },
@@ -1231,16 +1191,6 @@
       "url": "https://github.com/Hebbian-Robotics/hflow",
       "score": 26,
       "comments": 9,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "hackernews",
-      "title": "Corporate profits hit highest share since WWII, as worker payouts wilt",
-      "url": "https://www.ft.com/content/6f3ada65-c56c-499c-8eb6-008fac58949d",
-      "score": 25,
-      "comments": 1,
       "subreddit": null,
       "description": ""
     },
@@ -2319,186 +2269,6 @@
       "source": "producthunt",
       "title": "Lubb",
       "url": "https://www.producthunt.com/products/lubb-heartbeat-for-sleep",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "SuperIntern",
-      "url": "https://www.producthunt.com/products/super-intern-4",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "CTRL Micro",
-      "url": "https://www.producthunt.com/products/ctrl-micro",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "PageIndex",
-      "url": "https://www.producthunt.com/products/pageindexai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "OpenTag",
-      "url": "https://www.producthunt.com/products/opentag",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "Microduck",
-      "url": "https://www.producthunt.com/products/hugging-face",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "NotchDrop",
-      "url": "https://www.producthunt.com/products/notchdrop",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "Fide Island",
-      "url": "https://www.producthunt.com/products/fide-island",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "SnakeRank",
-      "url": "https://www.producthunt.com/products/snakerank",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "AureaCam",
-      "url": "https://www.producthunt.com/products/aureacam-learn-photo-composition",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "Glisio",
-      "url": "https://www.producthunt.com/products/glisio",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "Revalvo",
-      "url": "https://www.producthunt.com/products/revalvo",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "screenpipe",
-      "url": "https://www.producthunt.com/products/screenpipe",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "Aramb",
-      "url": "https://www.producthunt.com/products/aramb",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "CrowdVolt",
-      "url": "https://www.producthunt.com/products/crowdvolt",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "Caddi",
-      "url": "https://www.producthunt.com/products/caddi-3",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "Gemini Omni 1.1 Flash",
-      "url": "https://www.producthunt.com/products/gemini-omni-1-1-flash",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "Almanac",
-      "url": "https://www.producthunt.com/products/almanac-5",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-08-28",
-      "source": "producthunt",
-      "title": "Spline V2",
-      "url": "https://www.producthunt.com/products/spline",
       "score": 0,
       "comments": 0,
       "subreddit": null,
