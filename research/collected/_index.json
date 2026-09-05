@@ -1,57 +1,5 @@
 {
   "urls": {
-    "https://news.ycombinator.com/item?id=48414869": {
-      "date": "2026-06-06",
-      "source": "hackernews"
-    },
-    "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341": {
-      "date": "2026-06-06",
-      "source": "hackernews"
-    },
-    "https://www.githubstatus.com/incidents/2nmfnbknhlnv": {
-      "date": "2026-06-06",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/recursi-self-improving-vibe-coding-env": {
-      "date": "2026-06-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/ifttt": {
-      "date": "2026-06-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/google": {
-      "date": "2026-06-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/navi-menu-builder": {
-      "date": "2026-06-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/mai-image-2-5": {
-      "date": "2026-06-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/manus-shopify-connector": {
-      "date": "2026-06-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/fox-issue-tracker-4": {
-      "date": "2026-06-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/qwertys": {
-      "date": "2026-06-06",
-      "source": "producthunt"
-    },
-    "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer": {
-      "date": "2026-06-06",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/treadmill-pro": {
-      "date": "2026-06-06",
-      "source": "producthunt"
-    },
     "https://www.producthunt.com/products/wave-16": {
       "date": "2026-06-07",
       "source": "producthunt"
@@ -6517,5 +6465,5 @@
       "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-04T15:52:18.254Z"
+  "lastRun": "2026-09-05T02:45:10.139Z"
 }
