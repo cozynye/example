@@ -1,29 +1,5 @@
 {
   "urls": {
-    "https://www.producthunt.com/products/wave-16": {
-      "date": "2026-06-07",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/google-labs": {
-      "date": "2026-06-07",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cabinlink": {
-      "date": "2026-06-07",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/smmall-cloud": {
-      "date": "2026-06-07",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/free-job-postings-api": {
-      "date": "2026-06-07",
-      "source": "producthunt"
-    },
-    "https://github.com/anthropics/claude-code/issues/65697": {
-      "date": "2026-06-07",
-      "source": "hackernews"
-    },
     "https://www.producthunt.com/products/the-virtual-os-museum": {
       "date": "2026-06-08",
       "source": "producthunt"
@@ -6515,7 +6491,11 @@
     "https://www.producthunt.com/products/dif-sh": {
       "date": "2026-09-05",
       "source": "producthunt"
+    },
+    "https://www.youtube.com/watch?v=Ss1DUqLjecc": {
+      "date": "2026-09-06",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-09-05T14:42:51.855Z"
+  "lastRun": "2026-09-06T02:43:06.574Z"
 }
