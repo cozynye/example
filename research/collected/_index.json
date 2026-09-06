@@ -6495,7 +6495,31 @@
     "https://www.youtube.com/watch?v=Ss1DUqLjecc": {
       "date": "2026-09-06",
       "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/google": {
+      "date": "2026-09-06",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/chatgpt-toolbox": {
+      "date": "2026-09-06",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/speakeasydev": {
+      "date": "2026-09-06",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/notify-domains": {
+      "date": "2026-09-06",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/fal-ai": {
+      "date": "2026-09-06",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/tadata": {
+      "date": "2026-09-06",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-06T02:43:06.574Z"
+  "lastRun": "2026-09-06T10:42:46.160Z"
 }
