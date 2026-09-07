@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-07T02:40:54.084Z",
+  "buildTime": "2026-09-07T12:11:37.690Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W37.md",
     "title": "2026-W37 주간 로그",
-    "content": "# 2026-W37 주간 로그\n\n\n## 자동 수집 (2026-09-07 AM 11:40:44)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n"
+    "content": "# 2026-W37 주간 로그\n\n\n## 자동 수집 (2026-09-07 AM 11:40:44)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-07 PM 9:11:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **9** |\n\n"
   },
   "collected": [
     {
@@ -1175,6 +1175,16 @@
       "description": ""
     },
     {
+      "date": "2026-09-07",
+      "source": "hackernews",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "score": 18,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-09-05",
       "source": "hackernews",
       "title": "Bugs happen: The easy way to compare solo PQ to ECC+PQ",
@@ -1200,6 +1210,86 @@
       "title": "Sony makes bold claim about game ownership",
       "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
       "score": 4,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-07",
+      "source": "producthunt",
+      "title": "Scriptly",
+      "url": "https://www.producthunt.com/products/sciptly",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-07",
+      "source": "producthunt",
+      "title": "Airuncode",
+      "url": "https://www.producthunt.com/products/airuncode",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-07",
+      "source": "producthunt",
+      "title": "Bloop",
+      "url": "https://www.producthunt.com/products/bloop-4",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-07",
+      "source": "producthunt",
+      "title": "Clipnote",
+      "url": "https://www.producthunt.com/products/clipnote-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-07",
+      "source": "producthunt",
+      "title": "Remind",
+      "url": "https://www.producthunt.com/products/remind-7",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-07",
+      "source": "producthunt",
+      "title": "Nina by Antalpha",
+      "url": "https://www.producthunt.com/products/antalpha",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-07",
+      "source": "producthunt",
+      "title": "Tucky",
+      "url": "https://www.producthunt.com/products/tucky",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-07",
+      "source": "producthunt",
+      "title": "Assist",
+      "url": "https://www.producthunt.com/products/assist-4",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
