@@ -1,49 +1,5 @@
 {
   "urls": {
-    "https://www.producthunt.com/products/the-virtual-os-museum": {
-      "date": "2026-06-08",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/tamadoggo": {
-      "date": "2026-06-08",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/vaani-2": {
-      "date": "2026-06-08",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/browserbase": {
-      "date": "2026-06-08",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/claude-artifact-player": {
-      "date": "2026-06-08",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/honen": {
-      "date": "2026-06-08",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/olo-1st-ai-style-companion-for-guys": {
-      "date": "2026-06-08",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/supaste": {
-      "date": "2026-06-08",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/ntsc-rs": {
-      "date": "2026-06-08",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/sigma-file-manager": {
-      "date": "2026-06-08",
-      "source": "producthunt"
-    },
-    "https://intunedhq.com": {
-      "date": "2026-06-08",
-      "source": "hackernews"
-    },
     "https://lowtechguys.com/musicdecoy/": {
       "date": "2026-06-09",
       "source": "hackernews"
@@ -6519,7 +6475,15 @@
     "https://www.producthunt.com/products/tadata": {
       "date": "2026-09-06",
       "source": "producthunt"
+    },
+    "https://anubis.techaro.lol/blog/2026/anubis-wasm/": {
+      "date": "2026-09-07",
+      "source": "hackernews"
+    },
+    "https://d2lang.com/blog/d2-non-profit/": {
+      "date": "2026-09-07",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-09-06T15:01:53.680Z"
+  "lastRun": "2026-09-07T02:40:44.075Z"
 }
