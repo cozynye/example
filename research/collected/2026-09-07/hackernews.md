@@ -19,3 +19,13 @@
 - **Score**: 18
 - **Source**: hackernews
 
+## Bill Gates tries to install MovieMaker
+- **URL**: https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker
+- **Score**: 72 | **Comments**: 40
+- **Source**: hackernews
+
+## If a Tesla Cybercab fleet were profitable, Tesla wouldn't sell you one
+- **URL**: https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/
+- **Score**: 47 | **Comments**: 37
+- **Source**: hackernews
+

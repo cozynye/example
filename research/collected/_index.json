@@ -6519,7 +6519,15 @@
     "https://www.producthunt.com/products/assist-4": {
       "date": "2026-09-07",
       "source": "producthunt"
+    },
+    "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker": {
+      "date": "2026-09-07",
+      "source": "hackernews"
+    },
+    "https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/": {
+      "date": "2026-09-07",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-09-07T12:11:27.753Z"
+  "lastRun": "2026-09-07T17:22:54.732Z"
 }
