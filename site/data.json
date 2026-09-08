@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-08T02:53:03.248Z",
+  "buildTime": "2026-09-08T11:01:31.511Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W37.md",
     "title": "2026-W37 주간 로그",
-    "content": "# 2026-W37 주간 로그\n\n\n## 자동 수집 (2026-09-07 AM 11:40:44)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-07 PM 9:11:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **9** |\n\n\n## 자동 수집 (2026-09-07 AM 2:22:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-08 AM 11:52:53)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n"
+    "content": "# 2026-W37 주간 로그\n\n\n## 자동 수집 (2026-09-07 AM 11:40:44)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-07 PM 9:11:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **9** |\n\n\n## 자동 수집 (2026-09-07 AM 2:22:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-08 AM 11:52:53)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-08 PM 8:01:21)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n"
   },
   "collected": [
     {
@@ -1230,6 +1230,146 @@
       "title": "Sony makes bold claim about game ownership",
       "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
       "score": 4,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "Lyrimuse",
+      "url": "https://www.producthunt.com/products/lyrimuse",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "Nametag",
+      "url": "https://www.producthunt.com/products/nametag-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "AppGacha",
+      "url": "https://www.producthunt.com/products/appgacha",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "TapCraft",
+      "url": "https://www.producthunt.com/products/tapcraft-launch-videos-for-mobile-devs",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "Jupitrr Cut",
+      "url": "https://www.producthunt.com/products/jupitrr",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "Switch",
+      "url": "https://www.producthunt.com/products/switch-11",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "Catenary",
+      "url": "https://www.producthunt.com/products/catenary",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "Dictantor",
+      "url": "https://www.producthunt.com/products/dictantor",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "Knockin'",
+      "url": "https://www.producthunt.com/products/knockin",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "Relaticle",
+      "url": "https://www.producthunt.com/products/relaticle",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "Trancy Air",
+      "url": "https://www.producthunt.com/products/trancy-air",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "OpenMarket",
+      "url": "https://www.producthunt.com/products/openmarket",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "bonds",
+      "url": "https://www.producthunt.com/products/bonds-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "producthunt",
+      "title": "SODAX SDK",
+      "url": "https://www.producthunt.com/products/sodax",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
