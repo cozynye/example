@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-07T17:23:04.631Z",
+  "buildTime": "2026-09-08T02:53:03.248Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W37.md",
     "title": "2026-W37 주간 로그",
-    "content": "# 2026-W37 주간 로그\n\n\n## 자동 수집 (2026-09-07 AM 11:40:44)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-07 PM 9:11:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **9** |\n\n\n## 자동 수집 (2026-09-07 AM 2:22:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n"
+    "content": "# 2026-W37 주간 로그\n\n\n## 자동 수집 (2026-09-07 AM 11:40:44)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-07 PM 9:11:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **9** |\n\n\n## 자동 수집 (2026-09-07 AM 2:22:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-08 AM 11:52:53)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n"
   },
   "collected": [
     {
@@ -1141,6 +1141,16 @@
       "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
       "score": 72,
       "comments": 40,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-08",
+      "source": "hackernews",
+      "title": "Replaceable but Employed: Automation and the Meaning of Work",
+      "url": "https://www.nber.org/papers/w35559",
+      "score": 61,
+      "comments": 57,
       "subreddit": null,
       "description": ""
     },
@@ -1211,16 +1221,6 @@
       "url": "https://blog.cr.yp.to/20260704-bugs.html",
       "score": 18,
       "comments": 7,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "hackernews",
-      "title": "California Lawmakers Pass Plug-In Solar Bill",
-      "url": "https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html",
-      "score": 5,
-      "comments": 1,
       "subreddit": null,
       "description": ""
     },
@@ -2039,176 +2039,6 @@
       "source": "producthunt",
       "title": "Userlens",
       "url": "https://www.producthunt.com/products/userlens",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "Kilo Code for JetBrains",
-      "url": "https://www.producthunt.com/products/kilocode",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "Cosmic Agent Plugins",
-      "url": "https://www.producthunt.com/products/cosmic",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "Happy Shrimp",
-      "url": "https://www.producthunt.com/products/happy-shrimp",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "Gauth AI Course",
-      "url": "https://www.producthunt.com/products/gauth-ai-course",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "Impractical",
-      "url": "https://www.producthunt.com/products/impractical",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "HONOR Robot Phone",
-      "url": "https://www.producthunt.com/products/honor-robot-phone",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "Sider Code",
-      "url": "https://www.producthunt.com/products/sider-code-customize-any-website",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "Notchling",
-      "url": "https://www.producthunt.com/products/notchling-lives-in-your-notch",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "EAS Observe",
-      "url": "https://www.producthunt.com/products/expo",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "Superset Mobile",
-      "url": "https://www.producthunt.com/products/superset-5",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "WaseiGo",
-      "url": "https://www.producthunt.com/products/waseigo",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "ChannelOS",
-      "url": "https://www.producthunt.com/products/channelos",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "Naseem",
-      "url": "https://www.producthunt.com/products/naseem-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "Creatium Coach",
-      "url": "https://www.producthunt.com/products/creatium",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "TrustedRouter",
-      "url": "https://www.producthunt.com/products/trustedrouter",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "Tovel AI",
-      "url": "https://www.producthunt.com/products/tovel-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-01",
-      "source": "producthunt",
-      "title": "Folio",
-      "url": "https://www.producthunt.com/products/folio-e0a9e0fb-8ef8-4fcf-a558-fa5fdd41a3ba",
       "score": 0,
       "comments": 0,
       "subreddit": null,
