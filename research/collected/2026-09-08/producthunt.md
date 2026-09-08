@@ -60,3 +60,15 @@
 - **URL**: https://www.producthunt.com/products/sodax
 - **Source**: producthunt
 
+## Widgo
+- **URL**: https://www.producthunt.com/products/paillor
+- **Source**: producthunt
+
+## Tables.so
+- **URL**: https://www.producthunt.com/products/tables-so
+- **Source**: producthunt
+
+## Coherence X6 for macOS
+- **URL**: https://www.producthunt.com/products/unite-for-macos
+- **Source**: producthunt
+
