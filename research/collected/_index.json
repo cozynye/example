@@ -6467,7 +6467,15 @@
     "https://www.producthunt.com/products/workid-ai": {
       "date": "2026-09-09",
       "source": "producthunt"
+    },
+    "https://news.ycombinator.com/item?id=49624603": {
+      "date": "2026-09-09",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/adscope-2": {
+      "date": "2026-09-09",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-09T11:06:37.903Z"
+  "lastRun": "2026-09-09T16:02:10.003Z"
 }

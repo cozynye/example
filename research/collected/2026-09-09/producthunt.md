@@ -60,3 +60,7 @@
 - **URL**: https://www.producthunt.com/products/workid-ai
 - **Source**: producthunt
 
+## AdScope
+- **URL**: https://www.producthunt.com/products/adscope-2
+- **Source**: producthunt
+

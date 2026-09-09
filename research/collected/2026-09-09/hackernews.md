@@ -14,3 +14,8 @@
 - **Score**: 12 | **Comments**: 27
 - **Source**: hackernews
 
+## DeepSeek launching v4.1 flash cheaper and more capable than v4 pro
+- **URL**: https://news.ycombinator.com/item?id=49624603
+- **Score**: 295 | **Comments**: 150
+- **Source**: hackernews
+
