@@ -9,3 +9,8 @@
 - **Score**: 11 | **Comments**: 7
 - **Source**: hackernews
 
+## Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine
+- **URL**: https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34
+- **Score**: 12 | **Comments**: 27
+- **Source**: hackernews
+

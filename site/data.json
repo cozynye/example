@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-09T02:53:00.255Z",
+  "buildTime": "2026-09-09T11:06:47.861Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W37.md",
     "title": "2026-W37 주간 로그",
-    "content": "# 2026-W37 주간 로그\n\n\n## 자동 수집 (2026-09-07 AM 11:40:44)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-07 PM 9:11:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **9** |\n\n\n## 자동 수집 (2026-09-07 AM 2:22:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-08 AM 11:52:53)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-08 PM 8:01:21)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-08 AM 1:07:26)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **3** |\n\n\n## 자동 수집 (2026-09-09 AM 11:52:50)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n"
+    "content": "# 2026-W37 주간 로그\n\n\n## 자동 수집 (2026-09-07 AM 11:40:44)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-07 PM 9:11:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **9** |\n\n\n## 자동 수집 (2026-09-07 AM 2:22:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-08 AM 11:52:53)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-08 PM 8:01:21)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-08 AM 1:07:26)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **3** |\n\n\n## 자동 수집 (2026-09-09 AM 11:52:50)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-09 PM 8:06:37)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **14** |\n\n"
   },
   "collected": [
     {
@@ -1207,6 +1207,16 @@
     {
       "date": "2026-09-09",
       "source": "hackernews",
+      "title": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine",
+      "url": "https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34",
+      "score": 12,
+      "comments": 27,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "hackernews",
       "title": "Space Force Uniform Is Inspired by Quasi-Satirical Film 'Starship Troopers'",
       "url": "https://deadline.com/2026/09/space-force-uniform-starship-troopers-1237070485/",
       "score": 11,
@@ -1229,6 +1239,136 @@
       "source": "producthunt",
       "title": "Pastea",
       "url": "https://www.producthunt.com/products/pastea",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "Mastra Factory",
+      "url": "https://www.producthunt.com/products/mastra",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "Frigade Assist API",
+      "url": "https://www.producthunt.com/products/frigade",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "Type.com",
+      "url": "https://www.producthunt.com/products/type-com",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "AlphaGenome Atlas",
+      "url": "https://www.producthunt.com/products/alphagenome-atlas",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "GoModel",
+      "url": "https://www.producthunt.com/products/gomodel",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "Muse",
+      "url": "https://www.producthunt.com/products/muse-22",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "DuckFightClub",
+      "url": "https://www.producthunt.com/products/duckfightclub",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "Diiverge",
+      "url": "https://www.producthunt.com/products/diiverge-co",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "Harden",
+      "url": "https://www.producthunt.com/products/agent-integrity-foundation-aif",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "Noodle Seed",
+      "url": "https://www.producthunt.com/products/noodle-seed",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "Ass Auction",
+      "url": "https://www.producthunt.com/products/ass-auction",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "49agents IDE",
+      "url": "https://www.producthunt.com/products/49agents-ide",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "WorkID.ai",
+      "url": "https://www.producthunt.com/products/workid-ai",
       "score": 0,
       "comments": 0,
       "subreddit": null,
