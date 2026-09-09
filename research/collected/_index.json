@@ -1,109 +1,5 @@
 {
   "urls": {
-    "https://aarushgupta.io/posts/kan-fpga/": {
-      "date": "2026-06-10",
-      "source": "hackernews"
-    },
-    "https://news.ycombinator.com/item?id=48463273": {
-      "date": "2026-06-10",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/reve-2-0": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/kimi-ai-assistant": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/signal-recorder-sr-7": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/boobar": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/screen-charm": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/backplanes": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/olo-robotics": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/veridive-discover-the-spoken-web": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/fort-3": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/iart-ai": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/hero-9": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/fluiddocs-html-deck-builder": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/typing-mind": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/layerproof-social-content-generation": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/incorruptible-by-eric-ries": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/monako-glass": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/seaticket": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/publora": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/gemini-3-5-live-translate": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://news.ycombinator.com/item?id=48477135": {
-      "date": "2026-06-10",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/timmy-tui": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/zingle-2": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/axol": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/napkin-math": {
-      "date": "2026-06-10",
-      "source": "producthunt"
-    },
     "https://github.com/anthropics/claude-code/issues/29045": {
       "date": "2026-06-11",
       "source": "hackernews"
@@ -6507,7 +6403,15 @@
     "https://www.producthunt.com/products/unite-for-macos": {
       "date": "2026-09-08",
       "source": "producthunt"
+    },
+    "https://deadline.com/2026/09/space-force-uniform-starship-troopers-1237070485/": {
+      "date": "2026-09-09",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/pastea": {
+      "date": "2026-09-09",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-08T16:07:26.280Z"
+  "lastRun": "2026-09-09T02:52:50.265Z"
 }

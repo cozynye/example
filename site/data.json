@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-08T16:07:36.249Z",
+  "buildTime": "2026-09-09T02:53:00.255Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W37.md",
     "title": "2026-W37 주간 로그",
-    "content": "# 2026-W37 주간 로그\n\n\n## 자동 수집 (2026-09-07 AM 11:40:44)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-07 PM 9:11:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **9** |\n\n\n## 자동 수집 (2026-09-07 AM 2:22:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-08 AM 11:52:53)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-08 PM 8:01:21)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-08 AM 1:07:26)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **3** |\n\n"
+    "content": "# 2026-W37 주간 로그\n\n\n## 자동 수집 (2026-09-07 AM 11:40:44)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-07 PM 9:11:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **9** |\n\n\n## 자동 수집 (2026-09-07 AM 2:22:54)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-08 AM 11:52:53)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-08 PM 8:01:21)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-08 AM 1:07:26)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **3** |\n\n\n## 자동 수집 (2026-09-09 AM 11:52:50)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **2** |\n\n"
   },
   "collected": [
     {
@@ -1111,16 +1111,6 @@
       "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
       "score": 156,
       "comments": 94,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "hackernews",
-      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-      "url": "https://www.norirobotics.com/",
-      "score": 115,
-      "comments": 40,
       "subreddit": null,
       "description": ""
     },
@@ -1161,16 +1151,6 @@
       "url": "https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/",
       "score": 47,
       "comments": 37,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "hackernews",
-      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-      "url": "https://hnmatchmaker.com/",
-      "score": 45,
-      "comments": 26,
       "subreddit": null,
       "description": ""
     },
@@ -1225,11 +1205,31 @@
       "description": ""
     },
     {
+      "date": "2026-09-09",
+      "source": "hackernews",
+      "title": "Space Force Uniform Is Inspired by Quasi-Satirical Film 'Starship Troopers'",
+      "url": "https://deadline.com/2026/09/space-force-uniform-starship-troopers-1237070485/",
+      "score": 11,
+      "comments": 7,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-09-03",
       "source": "hackernews",
       "title": "Sony makes bold claim about game ownership",
       "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
       "score": 4,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-09",
+      "source": "producthunt",
+      "title": "Pastea",
+      "url": "https://www.producthunt.com/products/pastea",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
@@ -1949,266 +1949,6 @@
       "source": "producthunt",
       "title": "Blume.codes",
       "url": "https://www.producthunt.com/products/blume-codes",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Keiki",
-      "url": "https://www.producthunt.com/products/keiki",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "ARC-24 Multitrack Groovebox for iOS",
-      "url": "https://www.producthunt.com/products/arc-24-multitrack-groovebox-fro-ios",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Nodeterm",
-      "url": "https://www.producthunt.com/products/nodeterm-terminal-manager",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Computable GPU Index (CGI)",
-      "url": "https://www.producthunt.com/products/computable-gpu-index-cgi",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Articos",
-      "url": "https://www.producthunt.com/products/articos",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Dial",
-      "url": "https://www.producthunt.com/products/dial-3",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Onset MCP",
-      "url": "https://www.producthunt.com/products/onset-io",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "CleanShot 5.0 with Studio Mode",
-      "url": "https://www.producthunt.com/products/cleanshot",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Doop",
-      "url": "https://www.producthunt.com/products/doop",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Browzer",
-      "url": "https://www.producthunt.com/products/browzer",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Stitch AI by Dynamic Mockups",
-      "url": "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Roadie",
-      "url": "https://www.producthunt.com/products/roadie-4",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "RoundOS",
-      "url": "https://www.producthunt.com/products/roundos-data-room",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "OpenClaw 2.0",
-      "url": "https://www.producthunt.com/products/openclaw-formerly-clawdbot",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "deepeye by deepidv",
-      "url": "https://www.producthunt.com/products/deepidv",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Parasocial",
-      "url": "https://www.producthunt.com/products/parasocial",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Monid",
-      "url": "https://www.producthunt.com/products/monid",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Dyson CameraJet",
-      "url": "https://www.producthunt.com/products/dyson-humidifier",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Loqua",
-      "url": "https://www.producthunt.com/products/loqua",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "HydraDB OSS",
-      "url": "https://www.producthunt.com/products/hydradb-oss",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Porte",
-      "url": "https://www.producthunt.com/products/porte",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Dynamic Edge",
-      "url": "https://www.producthunt.com/products/dynamic-edge",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "GhostReply",
-      "url": "https://www.producthunt.com/products/ghostreply-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Touchy",
-      "url": "https://www.producthunt.com/products/touchy-3",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Claude Fable 5.1",
-      "url": "https://www.producthunt.com/products/claude-fable-5-1",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-02",
-      "source": "producthunt",
-      "title": "Userlens",
-      "url": "https://www.producthunt.com/products/userlens",
       "score": 0,
       "comments": 0,
       "subreddit": null,
