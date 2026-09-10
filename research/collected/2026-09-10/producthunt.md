@@ -52,3 +52,15 @@
 - **URL**: https://www.producthunt.com/products/desert-ant-labs
 - **Source**: producthunt
 
+## AI Observability by OpenObserve
+- **URL**: https://www.producthunt.com/products/openobserve
+- **Source**: producthunt
+
+## Vibe Eyes
+- **URL**: https://www.producthunt.com/products/vibe-eyes
+- **Source**: producthunt
+
+## Speechmark
+- **URL**: https://www.producthunt.com/products/speechmark
+- **Source**: producthunt
+

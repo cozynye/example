@@ -9,3 +9,8 @@
 - **Score**: 18 | **Comments**: 9
 - **Source**: hackernews
 
+## Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls
+- **URL**: https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/
+- **Score**: 177 | **Comments**: 139
+- **Source**: hackernews
+
