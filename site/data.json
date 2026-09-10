@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-09T16:02:19.974Z",
+  "buildTime": "2026-09-10T02:54:00.073Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1095,16 +1095,6 @@
   },
   "collected": [
     {
-      "date": "2026-09-03",
-      "source": "hackernews",
-      "title": "A note on subscription prices from LWN",
-      "url": "https://lwn.net/Articles/1090585/",
-      "score": 682,
-      "comments": 133,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-09-09",
       "source": "hackernews",
       "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
@@ -1175,26 +1165,6 @@
       "description": ""
     },
     {
-      "date": "2026-09-03",
-      "source": "hackernews",
-      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "url": "https://news.ycombinator.com/item?id=49543530",
-      "score": 29,
-      "comments": 32,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "hackernews",
-      "title": "AI is stopping startups from completing puberty",
-      "url": "https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty/",
-      "score": 28,
-      "comments": 1,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-09-07",
       "source": "hackernews",
       "title": "Smartphone makers don't bother to comply with EU repairability requirements",
@@ -1231,16 +1201,6 @@
       "url": "https://deadline.com/2026/09/space-force-uniform-starship-troopers-1237070485/",
       "score": 11,
       "comments": 7,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "hackernews",
-      "title": "Sony makes bold claim about game ownership",
-      "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
-      "score": 4,
-      "comments": 0,
       "subreddit": null,
       "description": ""
     },
@@ -1959,156 +1919,6 @@
       "source": "producthunt",
       "title": "Snitch",
       "url": "https://www.producthunt.com/products/snitch-4",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "Readr",
-      "url": "https://www.producthunt.com/products/readr-3",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "Causal",
-      "url": "https://www.producthunt.com/products/causal-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "Nex",
-      "url": "https://www.producthunt.com/products/nex-4",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "Thaw",
-      "url": "https://www.producthunt.com/products/thaw-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "Tabbit AI",
-      "url": "https://www.producthunt.com/products/tabbitai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "Omi",
-      "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "Atlas by World Labs",
-      "url": "https://www.producthunt.com/products/atlas-by-world-labs",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "MagiCrew",
-      "url": "https://www.producthunt.com/products/magicrew",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "Tidy",
-      "url": "https://www.producthunt.com/products/tidy-6",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "ARBR",
-      "url": "https://www.producthunt.com/products/arbr",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "Grove",
-      "url": "https://www.producthunt.com/products/grove-8",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "Higgsfield Genjutsu",
-      "url": "https://www.producthunt.com/products/higgsfield",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "Fillo",
-      "url": "https://www.producthunt.com/products/fillo-native-forms-without-the-backend",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "CodeLook",
-      "url": "https://www.producthunt.com/products/codelook",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-03",
-      "source": "producthunt",
-      "title": "Blume.codes",
-      "url": "https://www.producthunt.com/products/blume-codes",
       "score": 0,
       "comments": 0,
       "subreddit": null,
