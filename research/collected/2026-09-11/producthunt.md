@@ -60,3 +60,15 @@
 - **URL**: https://www.producthunt.com/products/accordio
 - **Source**: producthunt
 
+## easyspecs.ai
+- **URL**: https://www.producthunt.com/products/easyspecs-ai
+- **Source**: producthunt
+
+## TIM PG
+- **URL**: https://www.producthunt.com/products/tim-pg
+- **Source**: producthunt
+
+## LiveGrid
+- **URL**: https://www.producthunt.com/products/livegrid-4
+- **Source**: producthunt
+

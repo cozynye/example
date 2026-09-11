@@ -9,3 +9,8 @@
 - **Score**: 361 | **Comments**: 152
 - **Source**: hackernews
 
+## Houthis 'take control' of key island in global shipping route
+- **URL**: https://www.bbc.com/news/live/cmd683p01eljt
+- **Score**: 228 | **Comments**: 274
+- **Source**: hackernews
+
