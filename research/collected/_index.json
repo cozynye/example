@@ -1,89 +1,5 @@
 {
   "urls": {
-    "https://www.producthunt.com/products/proxee": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cloudskill": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/nodey-n8n-in-your-pocket": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/medicyn": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/locin-ai": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/hypersleep": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/bob-s-cli": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/underpay": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/firma-dev": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/basedash": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/qursor": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cuebuddy": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/clutch-alarm": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/kosh-money": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/shellmate-2": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/insta-360": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/pond-5": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/keep-8": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt": {
-      "date": "2026-06-12",
-      "source": "producthunt"
-    },
     "https://bitboard.work/": {
       "date": "2026-06-13",
       "source": "hackernews"
@@ -6447,7 +6363,15 @@
     "https://www.producthunt.com/products/speechmark": {
       "date": "2026-09-10",
       "source": "producthunt"
+    },
+    "https://cognition.com/blog/swe-2": {
+      "date": "2026-09-11",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/gojo": {
+      "date": "2026-09-11",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-10T15:56:38.075Z"
+  "lastRun": "2026-09-11T02:48:16.120Z"
 }
