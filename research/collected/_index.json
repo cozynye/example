@@ -1,37 +1,5 @@
 {
   "urls": {
-    "https://bitboard.work/": {
-      "date": "2026-06-13",
-      "source": "hackernews"
-    },
-    "https://stackscope.dev/": {
-      "date": "2026-06-13",
-      "source": "hackernews"
-    },
-    "https://github.com/vrtnis/tycoon-learning-environment": {
-      "date": "2026-06-13",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/avatars-in-elevencreative": {
-      "date": "2026-06-13",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/extract-by-firecrawl": {
-      "date": "2026-06-13",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/nomnak": {
-      "date": "2026-06-13",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/vercel": {
-      "date": "2026-06-13",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cakewordai-snap-learn": {
-      "date": "2026-06-13",
-      "source": "producthunt"
-    },
     "https://www.producthunt.com/products/reverie-fm": {
       "date": "2026-06-14",
       "source": "producthunt"
@@ -6439,7 +6407,19 @@
     "https://www.producthunt.com/products/livegrid-4": {
       "date": "2026-09-11",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/chathop": {
+      "date": "2026-09-12",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/devin-voice": {
+      "date": "2026-09-12",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/glyph-immersive": {
+      "date": "2026-09-12",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-11T15:59:29.802Z"
+  "lastRun": "2026-09-12T02:56:38.830Z"
 }
