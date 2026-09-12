@@ -72,3 +72,11 @@
 - **URL**: https://www.producthunt.com/products/voxelwall
 - **Source**: producthunt
 
+## ABrush
+- **URL**: https://www.producthunt.com/products/abrush-ai-2
+- **Source**: producthunt
+
+## Pascal’s Pager
+- **URL**: https://www.producthunt.com/products/pascal-s-pager
+- **Source**: producthunt
+
