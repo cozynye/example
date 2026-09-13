@@ -1,45 +1,5 @@
 {
   "urls": {
-    "https://www.producthunt.com/products/reverie-fm": {
-      "date": "2026-06-14",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/slashy-3": {
-      "date": "2026-06-14",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/allergo-allergy-translation-cards": {
-      "date": "2026-06-14",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/permute": {
-      "date": "2026-06-14",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cloudback": {
-      "date": "2026-06-14",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/folio-ai": {
-      "date": "2026-06-14",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/memoriq": {
-      "date": "2026-06-14",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/taste-lab": {
-      "date": "2026-06-14",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/athenic-ai": {
-      "date": "2026-06-14",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/conan": {
-      "date": "2026-06-14",
-      "source": "producthunt"
-    },
     "https://www.producthunt.com/products/momentra-aesthetic-camera": {
       "date": "2026-06-15",
       "source": "producthunt"
@@ -6483,7 +6443,11 @@
     "https://www.producthunt.com/products/pascal-s-pager": {
       "date": "2026-09-12",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/stackness": {
+      "date": "2026-09-13",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-12T15:07:21.073Z"
+  "lastRun": "2026-09-13T02:55:57.833Z"
 }
