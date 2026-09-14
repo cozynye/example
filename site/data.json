@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-14T12:27:14.591Z",
+  "buildTime": "2026-09-14T17:49:48.155Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W38.md",
     "title": "2026-W38 주간 로그",
-    "content": "# 2026-W38 주간 로그\n\n\n## 자동 수집 (2026-09-14 PM 12:10:07)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-14 PM 9:27:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n"
+    "content": "# 2026-W38 주간 로그\n\n\n## 자동 수집 (2026-09-14 PM 12:10:07)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-14 PM 9:27:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-14 AM 2:49:38)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **6** |\n\n"
   },
   "collected": [
     {
@@ -1165,6 +1165,16 @@
       "description": ""
     },
     {
+      "date": "2026-09-14",
+      "source": "hackernews",
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "score": 24,
+      "comments": 5,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-09-10",
       "source": "hackernews",
       "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
@@ -1181,6 +1191,16 @@
       "url": "https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34",
       "score": 12,
       "comments": 27,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "hackernews",
+      "title": "One Gets Through – Missile Command, but you launch the missiles",
+      "url": "https://onegetsthrough.com/",
+      "score": 11,
+      "comments": 0,
       "subreddit": null,
       "description": ""
     },
@@ -1329,6 +1349,46 @@
       "source": "producthunt",
       "title": "Deplo",
       "url": "https://www.producthunt.com/products/deplo-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "Elva",
+      "url": "https://www.producthunt.com/products/elva",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "OVO",
+      "url": "https://www.producthunt.com/products/ovo",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "Marqly 6.0",
+      "url": "https://www.producthunt.com/products/marqly",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "Afterglow",
+      "url": "https://www.producthunt.com/products/afterglow-4",
       "score": 0,
       "comments": 0,
       "subreddit": null,

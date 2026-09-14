@@ -14,3 +14,13 @@
 - **Score**: 172 | **Comments**: 76
 - **Source**: hackernews
 
+## Why don't machine learning research agents overfit?
+- **URL**: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit
+- **Score**: 24 | **Comments**: 5
+- **Source**: hackernews
+
+## One Gets Through – Missile Command, but you launch the missiles
+- **URL**: https://onegetsthrough.com/
+- **Score**: 11
+- **Source**: hackernews
+

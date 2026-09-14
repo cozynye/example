@@ -60,3 +60,19 @@
 - **URL**: https://www.producthunt.com/products/deplo-2
 - **Source**: producthunt
 
+## Elva
+- **URL**: https://www.producthunt.com/products/elva
+- **Source**: producthunt
+
+## OVO
+- **URL**: https://www.producthunt.com/products/ovo
+- **Source**: producthunt
+
+## Marqly 6.0
+- **URL**: https://www.producthunt.com/products/marqly
+- **Source**: producthunt
+
+## Afterglow
+- **URL**: https://www.producthunt.com/products/afterglow-4
+- **Source**: producthunt
+
