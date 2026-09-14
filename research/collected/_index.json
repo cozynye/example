@@ -1,109 +1,5 @@
 {
   "urls": {
-    "https://www.producthunt.com/products/momentra-aesthetic-camera": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/pool-4": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/tinfoil-pigeons": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/kickbacks-ai": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/mimo-3": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/reignat": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/wobo-ai": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/emailflow-ai-b2b-lead-generation": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/notchcode": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/relay-20": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/synopsule": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/novu": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/colibotai": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/aevs-by-fetch-ai": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/verol": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/sulsaly": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/autoedit": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/capecho": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://news.ycombinator.com/item?id=48543908": {
-      "date": "2026-06-15",
-      "source": "hackernews"
-    },
-    "https://humaverify.com/blog/anatomy-of-a-55k-bot-attack": {
-      "date": "2026-06-15",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/agentbrush": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/idledev": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/ultramemory-remembers-everything": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/pandaprobe-cloud": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/notra-3": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/vexi": {
-      "date": "2026-06-15",
-      "source": "producthunt"
-    },
     "https://www.producthunt.com/products/fonda": {
       "date": "2026-06-16",
       "source": "producthunt"
@@ -6491,7 +6387,15 @@
     "https://www.producthunt.com/products/shiui-hinomaru-ink-ui-kit": {
       "date": "2026-09-13",
       "source": "producthunt"
+    },
+    "https://spaceships.treybastian.com/": {
+      "date": "2026-09-14",
+      "source": "hackernews"
+    },
+    "https://paulgraham.com/powerful.html": {
+      "date": "2026-09-14",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-09-13T15:43:31.017Z"
+  "lastRun": "2026-09-14T03:10:07.611Z"
 }
