@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-14T03:10:17.491Z",
+  "buildTime": "2026-09-14T12:27:14.591Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W38.md",
     "title": "2026-W38 주간 로그",
-    "content": "# 2026-W38 주간 로그\n\n\n## 자동 수집 (2026-09-14 PM 12:10:07)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n"
+    "content": "# 2026-W38 주간 로그\n\n\n## 자동 수집 (2026-09-14 PM 12:10:07)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-14 PM 9:27:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n"
   },
   "collected": [
     {
@@ -1191,6 +1191,146 @@
       "url": "https://deadline.com/2026/09/space-force-uniform-starship-troopers-1237070485/",
       "score": 11,
       "comments": 7,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "LLMagnet",
+      "url": "https://www.producthunt.com/products/llmagnet",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "Naoma AI Demo Agent V2",
+      "url": "https://www.producthunt.com/products/naoma",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "Oats",
+      "url": "https://www.producthunt.com/products/oats-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "Slashy Assistant",
+      "url": "https://www.producthunt.com/products/slashy-3",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "MemoryPet 2.0",
+      "url": "https://www.producthunt.com/products/memorypet",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "Web Search Agents by Nimble",
+      "url": "https://www.producthunt.com/products/nimbleway",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "Juggler",
+      "url": "https://www.producthunt.com/products/juggler",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "Hello Inbox",
+      "url": "https://www.producthunt.com/products/helloinbox",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "Aside",
+      "url": "https://www.producthunt.com/products/aside-6",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "AppZapper 3000",
+      "url": "https://www.producthunt.com/products/appzapper",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "Image to ASCII",
+      "url": "https://www.producthunt.com/products/image-to-ascii-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "OzBrain",
+      "url": "https://www.producthunt.com/products/ozbrain",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "appdesigns",
+      "url": "https://www.producthunt.com/products/appdesigns",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-14",
+      "source": "producthunt",
+      "title": "Deplo",
+      "url": "https://www.producthunt.com/products/deplo-2",
+      "score": 0,
+      "comments": 0,
       "subreddit": null,
       "description": ""
     },
