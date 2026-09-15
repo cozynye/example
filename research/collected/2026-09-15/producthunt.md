@@ -56,3 +56,27 @@
 - **URL**: https://www.producthunt.com/products/father-web-monitoring
 - **Source**: producthunt
 
+## Proofrr
+- **URL**: https://www.producthunt.com/products/proofrr
+- **Source**: producthunt
+
+## Portfolio Frame
+- **URL**: https://www.producthunt.com/products/portfolio-frame
+- **Source**: producthunt
+
+## tiun.
+- **URL**: https://www.producthunt.com/products/tiun-2
+- **Source**: producthunt
+
+## PortAura
+- **URL**: https://www.producthunt.com/products/portaura
+- **Source**: producthunt
+
+## Thoughts for Mac
+- **URL**: https://www.producthunt.com/products/thoughts-for-mac
+- **Source**: producthunt
+
+## Mac Duo
+- **URL**: https://www.producthunt.com/products/mac-duo
+- **Source**: producthunt
+
