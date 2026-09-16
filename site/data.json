@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-16T03:08:39.173Z",
+  "buildTime": "2026-09-16T11:17:37.718Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W38.md",
     "title": "2026-W38 주간 로그",
-    "content": "# 2026-W38 주간 로그\n\n\n## 자동 수집 (2026-09-14 PM 12:10:07)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-14 PM 9:27:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-14 AM 2:49:38)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-09-15 PM 8:31:11)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **13** |\n\n\n## 자동 수집 (2026-09-15 AM 1:25:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **8** |\n\n\n## 자동 수집 (2026-09-16 PM 12:08:29)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **5** |\n\n"
+    "content": "# 2026-W38 주간 로그\n\n\n## 자동 수집 (2026-09-14 PM 12:10:07)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-14 PM 9:27:04)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-14 AM 2:49:38)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-09-15 PM 8:31:11)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **13** |\n\n\n## 자동 수집 (2026-09-15 AM 1:25:36)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **8** |\n\n\n## 자동 수집 (2026-09-16 PM 12:08:29)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **5** |\n\n\n## 자동 수집 (2026-09-16 PM 8:17:27)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **15** |\n\n"
   },
   "collected": [
     {
@@ -1141,6 +1141,16 @@
       "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
       "score": 105,
       "comments": 72,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "hackernews",
+      "title": "Learning Programming in an Age of LLMs",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "score": 61,
+      "comments": 38,
       "subreddit": null,
       "description": ""
     },
@@ -1239,6 +1249,146 @@
       "source": "producthunt",
       "title": "Fifi",
       "url": "https://www.producthunt.com/products/fifi-wake-up-call-alarm-clock",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "Appwrite 2.0",
+      "url": "https://www.producthunt.com/products/appwrite",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "Weave Router 2.0",
+      "url": "https://www.producthunt.com/products/weave",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "Jottoo",
+      "url": "https://www.producthunt.com/products/jottoo",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "Convo",
+      "url": "https://www.producthunt.com/products/convo-7",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "Toki Coordination",
+      "url": "https://www.producthunt.com/products/toki-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "Project Feed",
+      "url": "https://www.producthunt.com/products/project-feed",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "CreatorHat",
+      "url": "https://www.producthunt.com/products/creatorhat",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "Thread",
+      "url": "https://www.producthunt.com/products/thread-ai-journal-memory",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "Expand Board for macOS",
+      "url": "https://www.producthunt.com/products/expand-board-for-macos",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "Twigg",
+      "url": "https://www.producthunt.com/products/twigg",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "PeakHour 6",
+      "url": "https://www.producthunt.com/products/peak-hour",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "CAT ME app",
+      "url": "https://www.producthunt.com/products/cat-me-app",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "PhraseVault",
+      "url": "https://www.producthunt.com/products/phrasevault",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-16",
+      "source": "producthunt",
+      "title": "Gemini 3.8 &amp; 3.8 Live Extended Thinking",
+      "url": "https://www.producthunt.com/products/gemini-3-8-3-8-live-extended-thinking",
       "score": 0,
       "comments": 0,
       "subreddit": null,

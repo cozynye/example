@@ -9,3 +9,8 @@
 - **Score**: 48
 - **Source**: hackernews
 
+## Learning Programming in an Age of LLMs
+- **URL**: https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/
+- **Score**: 61 | **Comments**: 38
+- **Source**: hackernews
+
