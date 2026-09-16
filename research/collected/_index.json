@@ -1,121 +1,5 @@
 {
   "urls": {
-    "https://www.producthunt.com/products/looquee": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/fluxmail": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/fonty-menu-bar": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/publia": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/1000yen-eats": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/human-in-the-love": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/subotiz": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/mindreader-v1": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://claude.com/blog/the-founders-playbook": {
-      "date": "2026-06-17",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/parano-ai": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/stickerwords": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/solongate": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/henji": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/framer": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/tapsign": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/locus-founder": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/notchspace-2": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/vitrine": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/daemons-by-charlie-labs": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/mirlo": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/quartz-3": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/deep-work-plan": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/infinite-the-growth-engineering-agent": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/memoire": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/dualora-dual-size-recorder": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/polygram-4": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/wolfram-mathematica": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/tyto": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/a-bit-differently": {
-      "date": "2026-06-17",
-      "source": "producthunt"
-    },
     "https://github.com/Adam-CAD/CADAM": {
       "date": "2026-06-18",
       "source": "hackernews"
@@ -6447,7 +6331,27 @@
     "https://www.producthunt.com/products/mac-duo": {
       "date": "2026-09-15",
       "source": "producthunt"
+    },
+    "https://mnoukhov.github.io/posts/ngu/": {
+      "date": "2026-09-16",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/tangerine-zero-click-file-converter": {
+      "date": "2026-09-16",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/is-team": {
+      "date": "2026-09-16",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/grimo-ai": {
+      "date": "2026-09-16",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/fifi-wake-up-call-alarm-clock": {
+      "date": "2026-09-16",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-15T16:25:36.372Z"
+  "lastRun": "2026-09-16T03:08:29.265Z"
 }
