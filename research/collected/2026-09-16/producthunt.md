@@ -76,3 +76,7 @@
 - **URL**: https://www.producthunt.com/products/gemini-3-8-3-8-live-extended-thinking
 - **Source**: producthunt
 
+## flat.social
+- **URL**: https://www.producthunt.com/products/flat-social
+- **Source**: producthunt
+
