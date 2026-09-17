@@ -64,3 +64,35 @@
 - **URL**: https://www.producthunt.com/products/qagent-2
 - **Source**: producthunt
 
+## AskDeck
+- **URL**: https://www.producthunt.com/products/askdeck
+- **Source**: producthunt
+
+## Bitrise Remote Dev Environments
+- **URL**: https://www.producthunt.com/products/bitrise
+- **Source**: producthunt
+
+## Blanc
+- **URL**: https://www.producthunt.com/products/blanc-3
+- **Source**: producthunt
+
+## MacSentinel
+- **URL**: https://www.producthunt.com/products/macsentinel
+- **Source**: producthunt
+
+## QuietHint®
+- **URL**: https://www.producthunt.com/products/quiethint
+- **Source**: producthunt
+
+## Pitchfire for Startups
+- **URL**: https://www.producthunt.com/products/pitchfire-for-startups
+- **Source**: producthunt
+
+## Portal
+- **URL**: https://www.producthunt.com/products/portal-14
+- **Source**: producthunt
+
+## Axiom
+- **URL**: https://www.producthunt.com/products/axiomhq
+- **Source**: producthunt
+

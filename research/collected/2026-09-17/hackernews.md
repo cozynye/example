@@ -14,3 +14,8 @@
 - **Score**: 17 | **Comments**: 6
 - **Source**: hackernews
 
+## Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA
+- **URL**: https://global.fujitsu/en-global/pr/news/2026/09/14-02
+- **Score**: 256 | **Comments**: 97
+- **Source**: hackernews
+
