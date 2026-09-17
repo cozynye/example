@@ -1,125 +1,5 @@
 {
   "urls": {
-    "https://github.com/Adam-CAD/CADAM": {
-      "date": "2026-06-18",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/wario-style": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/android": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/clawease": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cilantro": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/redactify": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/tapfree-for-android-2": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/audiencecue": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cliptop": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/the-city-mesh": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/tiles-map-your-adventures": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cadam": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/jesse-2": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/locofy-ai": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/adapt-3": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/genie-mentions": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/upstream-3": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/merlin-by-encord": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/voiceos": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/tabnxt": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/elvin": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/vela-7": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://tester.army": {
-      "date": "2026-06-18",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/tine-2": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/d-id": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/labs-ai-text-to-speech": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/otty": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/ploy-ai": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/deskarcade": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cashout-quit-sportsbooks": {
-      "date": "2026-06-18",
-      "source": "producthunt"
-    },
     "https://www.producthunt.com/products/refuse": {
       "date": "2026-06-19",
       "source": "producthunt"
@@ -6415,7 +6295,19 @@
     "https://www.producthunt.com/products/flat-social": {
       "date": "2026-09-16",
       "source": "producthunt"
+    },
+    "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/": {
+      "date": "2026-09-17",
+      "source": "hackernews"
+    },
+    "https://restarted.io/": {
+      "date": "2026-09-17",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/zeroclick": {
+      "date": "2026-09-17",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-16T16:16:39.690Z"
+  "lastRun": "2026-09-17T03:12:58.837Z"
 }
