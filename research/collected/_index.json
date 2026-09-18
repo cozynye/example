@@ -1,109 +1,5 @@
 {
   "urls": {
-    "https://www.producthunt.com/products/refuse": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/grayscale-for-safari": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/honestly": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/retool": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning": {
-      "date": "2026-06-19",
-      "source": "hackernews"
-    },
-    "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel": {
-      "date": "2026-06-19",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/narration-room": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/darkmoon": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/claude-redesigned": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/ask-ad-manager": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/upsolve-ai": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/portia-2": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/mutter-ai-dictation": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/unreal-engine": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/pitchbar": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/quackscreen": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/api-to-mcp": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/zernio": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/prism-28": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/midjourney": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/frontpage-sh-8-squares-forever-for-sale": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/meshpilot": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/screen-ruler": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/blazly-backlinker": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/just-f-ing-send-it": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/snap-deck-hq": {
-      "date": "2026-06-19",
-      "source": "producthunt"
-    },
     "https://www.producthunt.com/products/foglamp": {
       "date": "2026-06-20",
       "source": "producthunt"
@@ -6399,7 +6295,31 @@
     "https://www.producthunt.com/products/axiomhq": {
       "date": "2026-09-17",
       "source": "producthunt"
+    },
+    "https://news.ycombinator.com/item?id=49743049": {
+      "date": "2026-09-18",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/worldsplat": {
+      "date": "2026-09-18",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/compute-arena-local-ai-benchmarks": {
+      "date": "2026-09-18",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/zella": {
+      "date": "2026-09-18",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/s-roll": {
+      "date": "2026-09-18",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/navkey": {
+      "date": "2026-09-18",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-17T16:23:37.642Z"
+  "lastRun": "2026-09-18T02:59:32.076Z"
 }
