@@ -1,53 +1,5 @@
 {
   "urls": {
-    "https://www.producthunt.com/products/foglamp": {
-      "date": "2026-06-20",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/foyer-4": {
-      "date": "2026-06-20",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/jetbrains": {
-      "date": "2026-06-20",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/slack": {
-      "date": "2026-06-20",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/pixlie": {
-      "date": "2026-06-20",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/workclaw": {
-      "date": "2026-06-20",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/releasedock": {
-      "date": "2026-06-20",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/reframe-7": {
-      "date": "2026-06-20",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/pumadb": {
-      "date": "2026-06-20",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/are-you-in-the-weights": {
-      "date": "2026-06-20",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/gitsync-for-macos": {
-      "date": "2026-06-20",
-      "source": "producthunt"
-    },
-    "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones": {
-      "date": "2026-06-20",
-      "source": "hackernews"
-    },
     "https://startupwiki.tech/": {
       "date": "2026-06-21",
       "source": "hackernews"
@@ -6419,7 +6371,47 @@
     "https://www.producthunt.com/products/citizen404": {
       "date": "2026-09-18",
       "source": "producthunt"
+    },
+    "https://cactuscompute.com/needle": {
+      "date": "2026-09-19",
+      "source": "hackernews"
+    },
+    "https://support.apple.com/en-us/127848": {
+      "date": "2026-09-19",
+      "source": "hackernews"
+    },
+    "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899": {
+      "date": "2026-09-19",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/try-the-apartment": {
+      "date": "2026-09-19",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/mela-3": {
+      "date": "2026-09-19",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/aexgrid": {
+      "date": "2026-09-19",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/aina": {
+      "date": "2026-09-19",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/ai-class-by-kanary": {
+      "date": "2026-09-19",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/chinamarketing-ai-geo-workspace": {
+      "date": "2026-09-19",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/pc-anatomy": {
+      "date": "2026-09-19",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-18T15:57:13.401Z"
+  "lastRun": "2026-09-19T02:57:19.387Z"
 }
