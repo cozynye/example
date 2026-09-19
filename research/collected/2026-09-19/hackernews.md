@@ -24,3 +24,8 @@
 - **Score**: 10
 - **Source**: hackernews
 
+## Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy
+- **URL**: https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951
+- **Score**: 27 | **Comments**: 13
+- **Source**: hackernews
+
