@@ -19,3 +19,8 @@
 - **Score**: 283 | **Comments**: 89
 - **Source**: hackernews
 
+## Claude couldn't hack OpenAI. Then Anthropic shipped Opus 5
+- **URL**: https://thenewstack.io/claude-exploits-openai-forum/
+- **Score**: 10
+- **Source**: hackernews
+
