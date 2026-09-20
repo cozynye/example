@@ -1,45 +1,5 @@
 {
   "urls": {
-    "https://startupwiki.tech/": {
-      "date": "2026-06-21",
-      "source": "hackernews"
-    },
-    "https://vawaa.com/": {
-      "date": "2026-06-21",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/poolside": {
-      "date": "2026-06-21",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/oioi": {
-      "date": "2026-06-21",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/atomic-mail-agentic": {
-      "date": "2026-06-21",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/backgrind": {
-      "date": "2026-06-21",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/plansera-ai": {
-      "date": "2026-06-21",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/agent-37-38": {
-      "date": "2026-06-21",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/notchkin": {
-      "date": "2026-06-21",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/grok-by-spacexai-for-word": {
-      "date": "2026-06-21",
-      "source": "producthunt"
-    },
     "https://www.producthunt.com/products/airjelly": {
       "date": "2026-06-22",
       "source": "producthunt"
@@ -6475,7 +6435,15 @@
     "https://www.producthunt.com/products/nepo-network": {
       "date": "2026-09-19",
       "source": "producthunt"
+    },
+    "https://ooni.org/install": {
+      "date": "2026-09-20",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/guild-manager": {
+      "date": "2026-09-20",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-19T15:29:07.091Z"
+  "lastRun": "2026-09-20T03:10:43.882Z"
 }
