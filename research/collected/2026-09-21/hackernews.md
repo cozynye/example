@@ -14,3 +14,8 @@
 - **Score**: 161 | **Comments**: 29
 - **Source**: hackernews
 
+## Saudi Arabia's Ceer launches flagship electric vehicles
+- **URL**: https://www.agbi.com/manufacturing/2026/09/saudi-arabias-ceer-launches-flagship-electric-vehicles/
+- **Score**: 5
+- **Source**: hackernews
+
