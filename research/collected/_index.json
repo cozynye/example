@@ -1,73 +1,5 @@
 {
   "urls": {
-    "https://www.producthunt.com/products/airjelly": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/uwait": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/skybridge": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/selector-forge": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/readywhen": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/onbrand-2": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/haqq-mobile-app": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cloudflare": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/agentx": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/clawd-the-context-aware-browser-pet": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/mediaseg": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/md-html-reader": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/bg-app": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/alai": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/agentic-document-extraction": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
-    "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0": {
-      "date": "2026-06-22",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/algofly-ai": {
-      "date": "2026-06-22",
-      "source": "producthunt"
-    },
     "https://store.steampowered.com/news/group/45479024/view/685257114654870245": {
       "date": "2026-06-23",
       "source": "hackernews"
@@ -6497,5 +6429,5 @@
       "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-20T15:34:07.424Z"
+  "lastRun": "2026-09-21T03:06:58.743Z"
 }
