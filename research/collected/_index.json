@@ -1,89 +1,5 @@
 {
   "urls": {
-    "https://store.steampowered.com/news/group/45479024/view/685257114654870245": {
-      "date": "2026-06-23",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/latitude-4": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/sipcode": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cotypist": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/neuralagent": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/bluerails-discovery": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/buddy-ai-note": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/jotform": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/prepros-7": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/amnesia-2": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/rosply": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/bestdefense-io": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/thumbmagic-3": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/wildbirds": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/openart": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/logstitch": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/tregno": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/deckwise": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/steam-machine": {
-      "date": "2026-06-23",
-      "source": "producthunt"
-    },
     "https://www.producthunt.com/products/conduit-12": {
       "date": "2026-06-24",
       "source": "producthunt"
@@ -6515,7 +6431,11 @@
     "https://www.producthunt.com/products/sell-to-state": {
       "date": "2026-09-21",
       "source": "producthunt"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo": {
+      "date": "2026-09-22",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-09-21T17:56:29.076Z"
+  "lastRun": "2026-09-22T03:06:43.736Z"
 }
