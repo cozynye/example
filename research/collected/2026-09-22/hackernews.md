@@ -9,3 +9,8 @@
 - **Score**: 4
 - **Source**: hackernews
 
+## Engineering Memory: On learning to memorize first 100 digits of pi (2024)
+- **URL**: https://gregorygundersen.com/blog/2024/12/21/engineering-memory/
+- **Score**: 21 | **Comments**: 11
+- **Source**: hackernews
+
