@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-23T03:06:29.045Z",
+  "buildTime": "2026-09-23T11:16:43.408Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W39.md",
     "title": "2026-W39 주간 로그",
-    "content": "# 2026-W39 주간 로그\n\n\n## 자동 수집 (2026-09-21 PM 9:33:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-09-21 AM 2:56:29)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-09-22 PM 12:06:43)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-22 PM 8:21:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-22 AM 1:25:08)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-09-23 PM 12:06:29)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **9** |\n\n"
+    "content": "# 2026-W39 주간 로그\n\n\n## 자동 수집 (2026-09-21 PM 9:33:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-09-21 AM 2:56:29)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-09-22 PM 12:06:43)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-22 PM 8:21:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-22 AM 1:25:08)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-09-23 PM 12:06:29)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **9** |\n\n\n## 자동 수집 (2026-09-23 PM 8:16:43)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n"
   },
   "collected": [
     {
@@ -1329,6 +1329,146 @@
       "source": "producthunt",
       "title": "ReallyFree",
       "url": "https://www.producthunt.com/products/know-what-s-really-free-before-you-click",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "Pactto",
+      "url": "https://www.producthunt.com/products/pactto-replay",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "Naise AI",
+      "url": "https://www.producthunt.com/products/naise-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "CodeSpotlight",
+      "url": "https://www.producthunt.com/products/codespotlight",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "Solid",
+      "url": "https://www.producthunt.com/products/solid-3",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "RankControl",
+      "url": "https://www.producthunt.com/products/rankcontrol",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "Alexandria by Firecrawl",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "Speechka",
+      "url": "https://www.producthunt.com/products/speechka",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "Jev State",
+      "url": "https://www.producthunt.com/products/jev-state",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "GBrain",
+      "url": "https://www.producthunt.com/products/gbrain",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "AgentScore",
+      "url": "https://www.producthunt.com/products/latitude-4",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "Koreshield",
+      "url": "https://www.producthunt.com/products/koreshield",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "Linguo Translate",
+      "url": "https://www.producthunt.com/products/linguo-translate-for-macos",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "Lightmeter",
+      "url": "https://www.producthunt.com/products/lightmeter-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-23",
+      "source": "producthunt",
+      "title": "Dub Program Marketplace",
+      "url": "https://www.producthunt.com/products/dub",
       "score": 0,
       "comments": 0,
       "subreddit": null,
