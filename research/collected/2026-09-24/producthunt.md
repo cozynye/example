@@ -60,3 +60,15 @@
 - **URL**: https://www.producthunt.com/products/subscrrr
 - **Source**: producthunt
 
+## minimi 2.0
+- **URL**: https://www.producthunt.com/products/shram
+- **Source**: producthunt
+
+## IntellAgents.io
+- **URL**: https://www.producthunt.com/products/intellagents-io
+- **Source**: producthunt
+
+## Storytailor®
+- **URL**: https://www.producthunt.com/products/storytailor
+- **Source**: producthunt
+

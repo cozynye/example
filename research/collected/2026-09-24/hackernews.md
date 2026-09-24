@@ -14,3 +14,8 @@
 - **Score**: 92 | **Comments**: 15
 - **Source**: hackernews
 
+## Disney+ and Hulu raise prices by up to 13 percent after doubling profits
+- **URL**: https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/
+- **Score**: 99 | **Comments**: 108
+- **Source**: hackernews
+
