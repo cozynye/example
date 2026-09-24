@@ -1,113 +1,5 @@
 {
   "urls": {
-    "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf": {
-      "date": "2026-06-25",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/synter-media-ai": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://blog.cloudflare.com/oauth-for-all/": {
-      "date": "2026-06-25",
-      "source": "hackernews"
-    },
-    "https://github.com/wolfoo2931/linkedrecords/": {
-      "date": "2026-06-25",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/browserbash": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/zaro": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/clickup": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/tough-tongue-ai-2": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/browseract": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/sendtidings": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/postproxy": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/meetpoint-2": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/quickmaker": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/heron": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/dub-ninja": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/milestones-2": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/sidegent": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/samepage-signals": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/polygraph": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.startupsbr.com/sao-paulo": {
-      "date": "2026-06-25",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/nashra-turn-followers-into-clients": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/oxlo-ai": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/genspark-design": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/vtt-for-mac": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/blop-ai": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/signspell": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/papermark-2": {
-      "date": "2026-06-25",
-      "source": "producthunt"
-    },
     "https://www.producthunt.com/products/paybond": {
       "date": "2026-06-26",
       "source": "producthunt"
@@ -6559,7 +6451,15 @@
     "https://www.producthunt.com/products/tonebird": {
       "date": "2026-09-23",
       "source": "producthunt"
+    },
+    "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/": {
+      "date": "2026-09-24",
+      "source": "hackernews"
+    },
+    "https://blog.cloudflare.com/vary-support/": {
+      "date": "2026-09-24",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-09-23T16:15:02.074Z"
+  "lastRun": "2026-09-24T02:57:47.627Z"
 }
