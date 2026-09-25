@@ -64,3 +64,43 @@
 - **URL**: https://www.producthunt.com/products/hireotto
 - **Source**: producthunt
 
+## Wand
+- **URL**: https://www.producthunt.com/products/wand-6
+- **Source**: producthunt
+
+## Designeer
+- **URL**: https://www.producthunt.com/products/designeer
+- **Source**: producthunt
+
+## 10xJoy
+- **URL**: https://www.producthunt.com/products/10xjoy
+- **Source**: producthunt
+
+## Quiver GTM
+- **URL**: https://www.producthunt.com/products/quiver-gtm
+- **Source**: producthunt
+
+## Bleetz Network
+- **URL**: https://www.producthunt.com/products/bleetz-network
+- **Source**: producthunt
+
+## Kelam
+- **URL**: https://www.producthunt.com/products/kelam
+- **Source**: producthunt
+
+## Meta VR Glasses
+- **URL**: https://www.producthunt.com/products/meta-vr-glasses
+- **Source**: producthunt
+
+## NexusAXI
+- **URL**: https://www.producthunt.com/products/nexusaxi
+- **Source**: producthunt
+
+## AgreeGuard
+- **URL**: https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer
+- **Source**: producthunt
+
+## DEV·TV
+- **URL**: https://www.producthunt.com/products/dev-tv
+- **Source**: producthunt
+
