@@ -1,69 +1,5 @@
 {
   "urls": {
-    "https://www.producthunt.com/products/paybond": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/grass-claude-code-from-your-phone": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/animdock-motion-templates-in-the-browser": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/note-md": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/nanonets": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/gemini-spark": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/squidhub": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/modulex": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/aurora-21": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/agent-arena": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/dmv-department-of-machine-verification": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/sleek-analytics": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/beehiiv": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/lockin-mcp": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cewsco": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cubeone": {
-      "date": "2026-06-26",
-      "source": "producthunt"
-    },
     "https://www.producthunt.com/products/retromac": {
       "date": "2026-06-27",
       "source": "producthunt"
@@ -6531,7 +6467,11 @@
     "https://www.producthunt.com/products/storytailor": {
       "date": "2026-09-24",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/gemini-3-8-text-to-speech-models": {
+      "date": "2026-09-25",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-24T16:37:30.967Z"
+  "lastRun": "2026-09-25T03:14:31.350Z"
 }
