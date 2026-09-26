@@ -104,3 +104,7 @@
 - **URL**: https://www.producthunt.com/products/perfect-slice
 - **Source**: producthunt
 
+## Kapshot
+- **URL**: https://www.producthunt.com/products/kapshot
+- **Source**: producthunt
+
