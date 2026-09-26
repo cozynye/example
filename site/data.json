@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-25T16:42:52.342Z",
+  "buildTime": "2026-09-26T03:18:46.428Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,29 +1091,9 @@
   "latestLog": {
     "file": "logs/2026-W39.md",
     "title": "2026-W39 주간 로그",
-    "content": "# 2026-W39 주간 로그\n\n\n## 자동 수집 (2026-09-21 PM 9:33:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-09-21 AM 2:56:29)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-09-22 PM 12:06:43)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-22 PM 8:21:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-22 AM 1:25:08)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-09-23 PM 12:06:29)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **9** |\n\n\n## 자동 수집 (2026-09-23 PM 8:16:43)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-23 AM 1:15:02)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-24 AM 11:57:47)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-24 PM 8:30:41)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-24 AM 1:37:31)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-09-25 PM 12:14:31)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-25 PM 8:37:01)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-25 AM 1:42:52)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n"
+    "content": "# 2026-W39 주간 로그\n\n\n## 자동 수집 (2026-09-21 PM 9:33:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-09-21 AM 2:56:29)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 5 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-09-22 PM 12:06:43)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-22 PM 8:21:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-22 AM 1:25:08)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-09-23 PM 12:06:29)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **9** |\n\n\n## 자동 수집 (2026-09-23 PM 8:16:43)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-23 AM 1:15:02)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-24 AM 11:57:47)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **2** |\n\n\n## 자동 수집 (2026-09-24 PM 8:30:41)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-24 AM 1:37:31)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 3 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-09-25 PM 12:14:31)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 1 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-25 PM 8:37:01)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-25 AM 1:42:52)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 10 |\n| **합계** | **10** |\n\n\n## 자동 수집 (2026-09-26 PM 12:18:46)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 11 |\n| **합계** | **11** |\n\n"
   },
   "collected": [
-    {
-      "date": "2026-09-19",
-      "source": "hackernews",
-      "title": "Korea raises data breach fines to 10% of revenue",
-      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-      "score": 283,
-      "comments": 89,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "hackernews",
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
-      "score": 169,
-      "comments": 78,
-      "subreddit": null,
-      "description": ""
-    },
     {
       "date": "2026-09-21",
       "source": "hackernews",
@@ -1195,16 +1175,6 @@
       "description": ""
     },
     {
-      "date": "2026-09-19",
-      "source": "hackernews",
-      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
-      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
-      "score": 27,
-      "comments": 13,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-09-22",
       "source": "hackernews",
       "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
@@ -1215,32 +1185,12 @@
       "description": ""
     },
     {
-      "date": "2026-09-19",
-      "source": "hackernews",
-      "title": "Prepare your iPhone 18 Pro Max to ship",
-      "url": "https://support.apple.com/en-us/127848",
-      "score": 18,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-09-23",
       "source": "hackernews",
       "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
       "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
       "score": 13,
       "comments": 6,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "hackernews",
-      "title": "Claude couldn't hack OpenAI. Then Anthropic shipped Opus 5",
-      "url": "https://thenewstack.io/claude-exploits-openai-forum/",
-      "score": 10,
-      "comments": 0,
       "subreddit": null,
       "description": ""
     },
@@ -1260,6 +1210,116 @@
       "title": "Smart Ring Maker Oura, Backers Seek $2.2B in US IPO",
       "url": "https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo",
       "score": 4,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-26",
+      "source": "producthunt",
+      "title": "Polyglot",
+      "url": "https://www.producthunt.com/products/polyglot-5",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-26",
+      "source": "producthunt",
+      "title": "Jango",
+      "url": "https://www.producthunt.com/products/jango",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-26",
+      "source": "producthunt",
+      "title": "Pair2FA",
+      "url": "https://www.producthunt.com/products/pair2fa",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-26",
+      "source": "producthunt",
+      "title": "Kliva",
+      "url": "https://www.producthunt.com/products/kliva",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-26",
+      "source": "producthunt",
+      "title": "Split",
+      "url": "https://www.producthunt.com/products/split-9",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-26",
+      "source": "producthunt",
+      "title": "FinalFrame",
+      "url": "https://www.producthunt.com/products/finalframe",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-26",
+      "source": "producthunt",
+      "title": "Donna",
+      "url": "https://www.producthunt.com/products/donna-4",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-26",
+      "source": "producthunt",
+      "title": "Kairn",
+      "url": "https://www.producthunt.com/products/kairn-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-26",
+      "source": "producthunt",
+      "title": "Markly",
+      "url": "https://www.producthunt.com/products/markly-3",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-26",
+      "source": "producthunt",
+      "title": "OmniNotch",
+      "url": "https://www.producthunt.com/products/omninotch",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-26",
+      "source": "producthunt",
+      "title": "Relium",
+      "url": "https://www.producthunt.com/products/relium",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
@@ -2449,216 +2509,6 @@
       "source": "producthunt",
       "title": "The 101 Plays Itself",
       "url": "https://www.producthunt.com/products/the-101-plays-itself",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Try The Apartment",
-      "url": "https://www.producthunt.com/products/try-the-apartment",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Mela",
-      "url": "https://www.producthunt.com/products/mela-3",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "AEXGrid",
-      "url": "https://www.producthunt.com/products/aexgrid",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "AINA",
-      "url": "https://www.producthunt.com/products/aina",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "AI Class by Kanary",
-      "url": "https://www.producthunt.com/products/ai-class-by-kanary",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "ChinaMarketing.AI GEO Workspace",
-      "url": "https://www.producthunt.com/products/chinamarketing-ai-geo-workspace",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "PC Anatomy",
-      "url": "https://www.producthunt.com/products/pc-anatomy",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Mantra Timer",
-      "url": "https://www.producthunt.com/products/transcendence",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Mise",
-      "url": "https://www.producthunt.com/products/robot-recipes",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Doneit 3.2",
-      "url": "https://www.producthunt.com/products/doneit",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Bolt Forge",
-      "url": "https://www.producthunt.com/products/bolt-new",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "BiBimba",
-      "url": "https://www.producthunt.com/products/bibimba",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Basedash Models",
-      "url": "https://www.producthunt.com/products/basedash",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Ruby UTCP",
-      "url": "https://www.producthunt.com/products/utcp",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Squirrel",
-      "url": "https://www.producthunt.com/products/squirrel-screen-time-savings",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Punch",
-      "url": "https://www.producthunt.com/products/punch-4",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "VoiceCap",
-      "url": "https://www.producthunt.com/products/voicecap",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Lumiko",
-      "url": "https://www.producthunt.com/products/lumiko",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Lull",
-      "url": "https://www.producthunt.com/products/lull-3",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Maaa",
-      "url": "https://www.producthunt.com/products/maaa",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-19",
-      "source": "producthunt",
-      "title": "Nepotism Network",
-      "url": "https://www.producthunt.com/products/nepo-network",
       "score": 0,
       "comments": 0,
       "subreddit": null,

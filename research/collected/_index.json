@@ -1,33 +1,5 @@
 {
   "urls": {
-    "https://www.producthunt.com/products/retromac": {
-      "date": "2026-06-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/cloud-world-model": {
-      "date": "2026-06-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/nada-2": {
-      "date": "2026-06-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/supra-player": {
-      "date": "2026-06-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/epilogue-book-writing-app": {
-      "date": "2026-06-27",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/qapilot": {
-      "date": "2026-06-27",
-      "source": "producthunt"
-    },
-    "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/": {
-      "date": "2026-06-27",
-      "source": "hackernews"
-    },
     "https://dervis.de/physical/": {
       "date": "2026-06-28",
       "source": "hackernews"
@@ -6567,7 +6539,51 @@
     "https://www.producthunt.com/products/dev-tv": {
       "date": "2026-09-25",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/polyglot-5": {
+      "date": "2026-09-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/jango": {
+      "date": "2026-09-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/pair2fa": {
+      "date": "2026-09-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/kliva": {
+      "date": "2026-09-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/split-9": {
+      "date": "2026-09-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/finalframe": {
+      "date": "2026-09-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/donna-4": {
+      "date": "2026-09-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/kairn-2": {
+      "date": "2026-09-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/markly-3": {
+      "date": "2026-09-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/omninotch": {
+      "date": "2026-09-26",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/relium": {
+      "date": "2026-09-26",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-25T16:42:52.294Z"
+  "lastRun": "2026-09-26T03:18:46.387Z"
 }
