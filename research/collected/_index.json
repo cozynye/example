@@ -1,29 +1,5 @@
 {
   "urls": {
-    "https://dervis.de/physical/": {
-      "date": "2026-06-28",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/persona-12": {
-      "date": "2026-06-28",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/discode-ai": {
-      "date": "2026-06-28",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/getcompress": {
-      "date": "2026-06-28",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/lyto": {
-      "date": "2026-06-28",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/dotient": {
-      "date": "2026-06-28",
-      "source": "producthunt"
-    },
     "https://thomasdullien.github.io/guides/entrepreneurship/": {
       "date": "2026-06-29",
       "source": "hackernews"
@@ -6643,7 +6619,19 @@
     "https://www.producthunt.com/products/kapshot": {
       "date": "2026-09-26",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/midipad": {
+      "date": "2026-09-27",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/evvery": {
+      "date": "2026-09-27",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/tellwe": {
+      "date": "2026-09-27",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-26T15:55:40.403Z"
+  "lastRun": "2026-09-27T03:26:38.965Z"
 }
