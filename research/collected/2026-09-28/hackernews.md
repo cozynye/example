@@ -9,3 +9,8 @@
 - **Score**: 5 | **Comments**: 2
 - **Source**: hackernews
 
+## SpaceX's Starship launching to orbit for first time ever today
+- **URL**: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live
+- **Score**: 190 | **Comments**: 102
+- **Source**: hackernews
+
