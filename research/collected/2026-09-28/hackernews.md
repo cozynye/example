@@ -14,3 +14,13 @@
 - **Score**: 190 | **Comments**: 102
 - **Source**: hackernews
 
+## Launch HN: Vespper (YC F24) – SOTA Docx MCP
+- **URL**: https://www.vespper.com/blog/launching-vespper-docx-mcp
+- **Score**: 15 | **Comments**: 2
+- **Source**: hackernews
+
+## I made a visual workspace for AI Automations
+- **URL**: https://www.biom.dev/
+- **Score**: 11 | **Comments**: 9
+- **Source**: hackernews
+

@@ -56,3 +56,27 @@
 - **URL**: https://www.producthunt.com/products/sayble
 - **Source**: producthunt
 
+## PIP
+- **URL**: https://www.producthunt.com/products/pip-9
+- **Source**: producthunt
+
+## Lattice
+- **URL**: https://www.producthunt.com/products/lattice-11
+- **Source**: producthunt
+
+## Harness Router
+- **URL**: https://www.producthunt.com/products/harness-103
+- **Source**: producthunt
+
+## vantage.ai
+- **URL**: https://www.producthunt.com/products/vantage-ai-2
+- **Source**: producthunt
+
+## Zerg Router
+- **URL**: https://www.producthunt.com/products/zerg-router
+- **Source**: producthunt
+
+## MuM
+- **URL**: https://www.producthunt.com/products/mum-multi-project-markdown
+- **Source**: producthunt
+
