@@ -1,53 +1,5 @@
 {
   "urls": {
-    "https://thomasdullien.github.io/guides/entrepreneurship/": {
-      "date": "2026-06-29",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/cline-4": {
-      "date": "2026-06-29",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool": {
-      "date": "2026-06-29",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/receiptor-ai": {
-      "date": "2026-06-29",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/spira-ai": {
-      "date": "2026-06-29",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/upstream-ftp": {
-      "date": "2026-06-29",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/intelli": {
-      "date": "2026-06-29",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/outpaint-com-ad-reframe": {
-      "date": "2026-06-29",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/sami-automate-pace-scale-your-ads": {
-      "date": "2026-06-29",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/crest-3": {
-      "date": "2026-06-29",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/readhere-2": {
-      "date": "2026-06-29",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/pmb-local-first-memory-for-ai": {
-      "date": "2026-06-29",
-      "source": "producthunt"
-    },
     "https://www.producthunt.com/products/justwrite": {
       "date": "2026-06-30",
       "source": "producthunt"
@@ -6655,7 +6607,11 @@
     "https://www.producthunt.com/products/kiwidesk": {
       "date": "2026-09-27",
       "source": "producthunt"
+    },
+    "https://twitter.com/josevalim/status/2103751481757216781": {
+      "date": "2026-09-28",
+      "source": "hackernews"
     }
   },
-  "lastRun": "2026-09-27T16:31:44.185Z"
+  "lastRun": "2026-09-28T03:24:11.712Z"
 }
