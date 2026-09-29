@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-28T19:20:07.368Z",
+  "buildTime": "2026-09-29T04:00:22.966Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W40.md",
     "title": "2026-W40 주간 로그",
-    "content": "# 2026-W40 주간 로그\n\n\n## 자동 수집 (2026-09-28 PM 12:24:11)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-28 PM 10:32:59)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-28 AM 4:20:07)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **8** |\n\n"
+    "content": "# 2026-W40 주간 로그\n\n\n## 자동 수집 (2026-09-28 PM 12:24:11)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-28 PM 10:32:59)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-28 AM 4:20:07)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **8** |\n\n\n## 자동 수집 (2026-09-29 PM 1:00:22)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n"
   },
   "collected": [
     {
@@ -1165,16 +1165,6 @@
       "description": ""
     },
     {
-      "date": "2026-09-22",
-      "source": "hackernews",
-      "title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
-      "url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
-      "score": 21,
-      "comments": 11,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-09-28",
       "source": "hackernews",
       "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
@@ -1205,22 +1195,22 @@
       "description": ""
     },
     {
+      "date": "2026-09-29",
+      "source": "hackernews",
+      "title": "Profit Margins of the Largest Companies",
+      "url": "https://www.visualcapitalist.com/ranked-how-profitable-are-the-worlds-largest-companies/",
+      "score": 9,
+      "comments": 2,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-09-28",
       "source": "hackernews",
       "title": "You are a 1000x maker, and you can't think of how to make your stack 10x better?",
       "url": "https://twitter.com/josevalim/status/2103751481757216781",
       "score": 5,
       "comments": 2,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "hackernews",
-      "title": "Smart Ring Maker Oura, Backers Seek $2.2B in US IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo",
-      "score": 4,
-      "comments": 0,
       "subreddit": null,
       "description": ""
     },
@@ -2379,236 +2369,6 @@
       "source": "producthunt",
       "title": "ToneBird",
       "url": "https://www.producthunt.com/products/tonebird",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Xem",
-      "url": "https://www.producthunt.com/products/xem",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "PixelCrew",
-      "url": "https://www.producthunt.com/products/pixelcrew",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Clueso MCP",
-      "url": "https://www.producthunt.com/products/clueso",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "gg-friggin-ez",
-      "url": "https://www.producthunt.com/products/gg-friggin-ez",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Hola AI",
-      "url": "https://www.producthunt.com/products/hola-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Pulsetic RUM",
-      "url": "https://www.producthunt.com/products/pulsetic",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Grok 4.7",
-      "url": "https://www.producthunt.com/products/grok-4-7-8",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "WZRD",
-      "url": "https://www.producthunt.com/products/wzrd",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "VideoFlow Studio",
-      "url": "https://www.producthunt.com/products/videoflow-studio",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Fulvid",
-      "url": "https://www.producthunt.com/products/fulvid",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "QuietGlass",
-      "url": "https://www.producthunt.com/products/quietglass",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Plane Agents",
-      "url": "https://www.producthunt.com/products/planehq",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "MiMo-V2.6",
-      "url": "https://www.producthunt.com/products/mimo-3",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Contextberg",
-      "url": "https://www.producthunt.com/products/contextberg",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "FeedsBar",
-      "url": "https://www.producthunt.com/products/feedsbar",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "OneStream Live 2.0",
-      "url": "https://www.producthunt.com/products/onestream",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Prowler Cloud",
-      "url": "https://www.producthunt.com/products/prowler",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Edyt",
-      "url": "https://www.producthunt.com/products/edyt",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Brev",
-      "url": "https://www.producthunt.com/products/brev-io",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Jev Wrapped",
-      "url": "https://www.producthunt.com/products/jev-wrapped",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Robot Voice Bridge",
-      "url": "https://www.producthunt.com/products/robot-voice-bridge",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Googlebook",
-      "url": "https://www.producthunt.com/products/googlebook-4",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-22",
-      "source": "producthunt",
-      "title": "Reeno",
-      "url": "https://www.producthunt.com/products/reeno",
       "score": 0,
       "comments": 0,
       "subreddit": null,
