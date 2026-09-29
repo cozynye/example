@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-09-29T12:34:22.534Z",
+  "buildTime": "2026-09-29T17:45:59.640Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W40.md",
     "title": "2026-W40 주간 로그",
-    "content": "# 2026-W40 주간 로그\n\n\n## 자동 수집 (2026-09-28 PM 12:24:11)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-28 PM 10:32:59)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-28 AM 4:20:07)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **8** |\n\n\n## 자동 수집 (2026-09-29 PM 1:00:22)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-29 PM 9:34:22)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n"
+    "content": "# 2026-W40 주간 로그\n\n\n## 자동 수집 (2026-09-28 PM 12:24:11)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-28 PM 10:32:59)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 13 |\n| **합계** | **14** |\n\n\n## 자동 수집 (2026-09-28 AM 4:20:07)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 2 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **8** |\n\n\n## 자동 수집 (2026-09-29 PM 1:00:22)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 0 |\n| **합계** | **1** |\n\n\n## 자동 수집 (2026-09-29 PM 9:34:22)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-09-29 AM 2:45:59)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 7 |\n| **합계** | **7** |\n\n"
   },
   "collected": [
     {
@@ -1369,6 +1369,76 @@
       "source": "producthunt",
       "title": "Flotnote",
       "url": "https://www.producthunt.com/products/flotnote",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-29",
+      "source": "producthunt",
+      "title": "Would you pay?",
+      "url": "https://www.producthunt.com/products/would-you-pay",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-29",
+      "source": "producthunt",
+      "title": "Iris",
+      "url": "https://www.producthunt.com/products/ihermes",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-29",
+      "source": "producthunt",
+      "title": "Szept",
+      "url": "https://www.producthunt.com/products/szept",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-29",
+      "source": "producthunt",
+      "title": "Paste 7",
+      "url": "https://www.producthunt.com/products/paste",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-29",
+      "source": "producthunt",
+      "title": "Clink",
+      "url": "https://www.producthunt.com/products/clink-custom-keyboards",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-29",
+      "source": "producthunt",
+      "title": "Timeless Code",
+      "url": "https://www.producthunt.com/products/timeos",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-09-29",
+      "source": "producthunt",
+      "title": "GroupShelf",
+      "url": "https://www.producthunt.com/products/groupshelf",
       "score": 0,
       "comments": 0,
       "subreddit": null,
