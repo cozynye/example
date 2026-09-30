@@ -1,109 +1,5 @@
 {
   "urls": {
-    "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/": {
-      "date": "2026-07-01",
-      "source": "hackernews"
-    },
-    "https://www.w3.org/DesignIssues/MatrixURIs.html": {
-      "date": "2026-07-01",
-      "source": "hackernews"
-    },
-    "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026": {
-      "date": "2026-07-01",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/mito-health": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/aruki-japanese-walking": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/sequence": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/bamboo-ai-markdown-notes": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/saldor": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/dump-4": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/gemini-omni-flash": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/livinity": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/fuser": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/claude": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/claude-for-desktop": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/humalike-2": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/clusy": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/wins-2": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/stigg": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://news.ycombinator.com/item?id=48746752": {
-      "date": "2026-07-01",
-      "source": "hackernews"
-    },
-    "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch": {
-      "date": "2026-07-01",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/airtop": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/loot-6": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/lighttwist": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/modelence-app-builder": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/ciaro-pro": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/oasis-ring": {
-      "date": "2026-07-01",
-      "source": "producthunt"
-    },
     "https://www.weaverobotics.com/isaac-1": {
       "date": "2026-07-02",
       "source": "hackernews"
@@ -6719,7 +6615,31 @@
     "https://www.producthunt.com/products/groupshelf": {
       "date": "2026-09-29",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/semos-ai-manager-agents": {
+      "date": "2026-09-30",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/ifixai": {
+      "date": "2026-09-30",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/supertake": {
+      "date": "2026-09-30",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/curie-4": {
+      "date": "2026-09-30",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/hopscotch-7": {
+      "date": "2026-09-30",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/engine-room-media": {
+      "date": "2026-09-30",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-09-29T17:45:59.593Z"
+  "lastRun": "2026-09-30T03:47:53.037Z"
 }
