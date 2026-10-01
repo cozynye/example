@@ -68,3 +68,35 @@
 - **URL**: https://www.producthunt.com/products/twin-2
 - **Source**: producthunt
 
+## Polylane
+- **URL**: https://www.producthunt.com/products/polylane
+- **Source**: producthunt
+
+## Semitexa
+- **URL**: https://www.producthunt.com/products/semitexa
+- **Source**: producthunt
+
+## Omnia Agent
+- **URL**: https://www.producthunt.com/products/omnia-2
+- **Source**: producthunt
+
+## Phare C1®
+- **URL**: https://www.producthunt.com/products/phare-c1
+- **Source**: producthunt
+
+## Typestream
+- **URL**: https://www.producthunt.com/products/typestream
+- **Source**: producthunt
+
+## Rate.fm
+- **URL**: https://www.producthunt.com/products/rate-fm
+- **Source**: producthunt
+
+## NotchMind
+- **URL**: https://www.producthunt.com/products/notchmind
+- **Source**: producthunt
+
+## Vorker
+- **URL**: https://www.producthunt.com/products/vorker-ai
+- **Source**: producthunt
+
