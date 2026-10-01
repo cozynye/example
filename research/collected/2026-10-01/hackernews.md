@@ -9,3 +9,8 @@
 - **Score**: 56 | **Comments**: 20
 - **Source**: hackernews
 
+## Adding Floating-Point Decimals for Fun and Profit
+- **URL**: https://blog.vero.site/post/float
+- **Score**: 18 | **Comments**: 6
+- **Source**: hackernews
+
