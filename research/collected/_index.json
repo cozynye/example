@@ -1,41 +1,5 @@
 {
   "urls": {
-    "https://manufact.com": {
-      "date": "2026-07-03",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/vox-5": {
-      "date": "2026-07-03",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/osloq": {
-      "date": "2026-07-03",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows": {
-      "date": "2026-07-03",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list": {
-      "date": "2026-07-03",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/glaze-4": {
-      "date": "2026-07-03",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/loops": {
-      "date": "2026-07-03",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/archify": {
-      "date": "2026-07-03",
-      "source": "producthunt"
-    },
-    "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point": {
-      "date": "2026-07-03",
-      "source": "hackernews"
-    },
     "https://github.com/rochus-keller/BUSY/": {
       "date": "2026-07-04",
       "source": "hackernews"
@@ -6751,7 +6715,27 @@
     "https://www.producthunt.com/products/vorker-ai": {
       "date": "2026-10-01",
       "source": "producthunt"
+    },
+    "https://github.com/LiterateDrivenDevelopment/kcc": {
+      "date": "2026-10-02",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/scape-3": {
+      "date": "2026-10-02",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/kholo": {
+      "date": "2026-10-02",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/formalini": {
+      "date": "2026-10-02",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/starlie": {
+      "date": "2026-10-02",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-10-01T18:07:28.792Z"
+  "lastRun": "2026-10-02T03:52:08.537Z"
 }
