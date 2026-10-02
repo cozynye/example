@@ -76,3 +76,23 @@
 - **URL**: https://www.producthunt.com/products/teachoo-2
 - **Source**: producthunt
 
+## Syllaby AI Avatar 2.0
+- **URL**: https://www.producthunt.com/products/syllaby-ai-avatar-2-0
+- **Source**: producthunt
+
+## Mintlify Desktop
+- **URL**: https://www.producthunt.com/products/mintlify
+- **Source**: producthunt
+
+## Open Inspector
+- **URL**: https://www.producthunt.com/products/open-inspector
+- **Source**: producthunt
+
+## Clef
+- **URL**: https://www.producthunt.com/products/cloudflare-clef
+- **Source**: producthunt
+
+## Lloyal
+- **URL**: https://www.producthunt.com/products/lloyal
+- **Source**: producthunt
+
