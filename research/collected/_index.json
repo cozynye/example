@@ -1,37 +1,5 @@
 {
   "urls": {
-    "https://github.com/rochus-keller/BUSY/": {
-      "date": "2026-07-04",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/checklistfox": {
-      "date": "2026-07-04",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/centryai": {
-      "date": "2026-07-04",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/phonedeck": {
-      "date": "2026-07-04",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/vida-5": {
-      "date": "2026-07-04",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/mentic": {
-      "date": "2026-07-04",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/termi-protocol": {
-      "date": "2026-07-04",
-      "source": "producthunt"
-    },
-    "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/": {
-      "date": "2026-07-04",
-      "source": "hackernews"
-    },
     "https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/": {
       "date": "2026-07-05",
       "source": "hackernews"
@@ -6811,7 +6779,39 @@
     "https://www.producthunt.com/products/lloyal": {
       "date": "2026-10-02",
       "source": "producthunt"
+    },
+    "https://blog.sshh.io/p/the-harness-is-the-company": {
+      "date": "2026-10-03",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/earlyn": {
+      "date": "2026-10-03",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/finbar-2": {
+      "date": "2026-10-03",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/communicate": {
+      "date": "2026-10-03",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/audryo": {
+      "date": "2026-10-03",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/slash-editor": {
+      "date": "2026-10-03",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/sayonic": {
+      "date": "2026-10-03",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/never-boring-ai": {
+      "date": "2026-10-03",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-10-02T17:34:01.281Z"
+  "lastRun": "2026-10-03T03:37:00.177Z"
 }
