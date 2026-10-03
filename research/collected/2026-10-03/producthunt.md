@@ -92,3 +92,31 @@
 - **URL**: https://www.producthunt.com/products/agent-activity
 - **Source**: producthunt
 
+## Yubi
+- **URL**: https://www.producthunt.com/products/yubi-2
+- **Source**: producthunt
+
+## MacCam
+- **URL**: https://www.producthunt.com/products/maccam
+- **Source**: producthunt
+
+## Prefer
+- **URL**: https://www.producthunt.com/products/prefer-2
+- **Source**: producthunt
+
+## FeelMyMac
+- **URL**: https://www.producthunt.com/products/feelmymac
+- **Source**: producthunt
+
+## Cubicle
+- **URL**: https://www.producthunt.com/products/cubicle-2
+- **Source**: producthunt
+
+## FoundrRadio
+- **URL**: https://www.producthunt.com/products/foundrradio
+- **Source**: producthunt
+
+## Notchware
+- **URL**: https://www.producthunt.com/products/notchware
+- **Source**: producthunt
+
