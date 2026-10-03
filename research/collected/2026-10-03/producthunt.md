@@ -32,3 +32,63 @@
 - **URL**: https://www.producthunt.com/products/never-boring-ai
 - **Source**: producthunt
 
+## OTPfill
+- **URL**: https://www.producthunt.com/products/otpfill
+- **Source**: producthunt
+
+## Sapien
+- **URL**: https://www.producthunt.com/products/sapien-4
+- **Source**: producthunt
+
+## Deskcord.chat
+- **URL**: https://www.producthunt.com/products/deskcord-chat
+- **Source**: producthunt
+
+## Thanor AI
+- **URL**: https://www.producthunt.com/products/thanor-ai
+- **Source**: producthunt
+
+## Singularity
+- **URL**: https://www.producthunt.com/products/singularity-2
+- **Source**: producthunt
+
+## SCMD
+- **URL**: https://www.producthunt.com/products/scmd
+- **Source**: producthunt
+
+## miso.com
+- **URL**: https://www.producthunt.com/products/miso-com
+- **Source**: producthunt
+
+## WattMate
+- **URL**: https://www.producthunt.com/products/wattmate
+- **Source**: producthunt
+
+## Kindle 2026
+- **URL**: https://www.producthunt.com/products/kindle-2026
+- **Source**: producthunt
+
+## Kilo
+- **URL**: https://www.producthunt.com/products/kilo
+- **Source**: producthunt
+
+## bmux
+- **URL**: https://www.producthunt.com/products/bmux
+- **Source**: producthunt
+
+## una mano
+- **URL**: https://www.producthunt.com/products/una-mano
+- **Source**: producthunt
+
+## Crowny!
+- **URL**: https://www.producthunt.com/products/crowny-2
+- **Source**: producthunt
+
+## eu/jev
+- **URL**: https://www.producthunt.com/products/bevel-software
+- **Source**: producthunt
+
+## Agent Activity
+- **URL**: https://www.producthunt.com/products/agent-activity
+- **Source**: producthunt
+
