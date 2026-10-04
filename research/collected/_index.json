@@ -1,49 +1,5 @@
 {
   "urls": {
-    "https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/": {
-      "date": "2026-07-05",
-      "source": "hackernews"
-    },
-    "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/": {
-      "date": "2026-07-05",
-      "source": "hackernews"
-    },
-    "https://extelligence.substack.com/p/i-accidentally-started-a-small-business": {
-      "date": "2026-07-05",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/circlechat": {
-      "date": "2026-07-05",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/mentiondrop": {
-      "date": "2026-07-05",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/docsalot-2": {
-      "date": "2026-07-05",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/endl": {
-      "date": "2026-07-05",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/trycase": {
-      "date": "2026-07-05",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/workbuddy-2": {
-      "date": "2026-07-05",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/pennen": {
-      "date": "2026-07-05",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/toku-reader": {
-      "date": "2026-07-05",
-      "source": "producthunt"
-    },
     "https://popcar.bearblog.dev/its-about-ownership/": {
       "date": "2026-07-06",
       "source": "hackernews"
@@ -6899,7 +6855,23 @@
     "https://www.producthunt.com/products/notchware": {
       "date": "2026-10-03",
       "source": "producthunt"
+    },
+    "https://notoriousbfg.com/hole-punch/": {
+      "date": "2026-10-04",
+      "source": "hackernews"
+    },
+    "https://twitter.com/robertvaradan/status/2106061989122334778": {
+      "date": "2026-10-04",
+      "source": "hackernews"
+    },
+    "https://www.producthunt.com/products/reassign": {
+      "date": "2026-10-04",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/zoowork": {
+      "date": "2026-10-04",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-10-03T15:49:45.566Z"
+  "lastRun": "2026-10-04T04:06:38.997Z"
 }
