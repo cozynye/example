@@ -68,3 +68,27 @@
 - **URL**: https://www.producthunt.com/products/jogak
 - **Source**: producthunt
 
+## Angebotsmeister
+- **URL**: https://www.producthunt.com/products/angebotsmeister
+- **Source**: producthunt
+
+## DocsAlot MCP Connector
+- **URL**: https://www.producthunt.com/products/docsalot-2
+- **Source**: producthunt
+
+## Capybara Court
+- **URL**: https://www.producthunt.com/products/capybara-court
+- **Source**: producthunt
+
+## Smooth Recorder
+- **URL**: https://www.producthunt.com/products/smooth-recorder
+- **Source**: producthunt
+
+## Blenny
+- **URL**: https://www.producthunt.com/products/blenny
+- **Source**: producthunt
+
+## opensend.cc
+- **URL**: https://www.producthunt.com/products/opensend-cc
+- **Source**: producthunt
+
