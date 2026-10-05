@@ -1,69 +1,5 @@
 {
   "urls": {
-    "https://popcar.bearblog.dev/its-about-ownership/": {
-      "date": "2026-07-06",
-      "source": "hackernews"
-    },
-    "https://fortune.com/2026/07/02/egg-price-fixing-crisis-cover-cash-and-eggs/": {
-      "date": "2026-07-06",
-      "source": "hackernews"
-    },
-    "https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas": {
-      "date": "2026-07-06",
-      "source": "hackernews"
-    },
-    "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support": {
-      "date": "2026-07-06",
-      "source": "hackernews"
-    },
-    "https://www.producthunt.com/products/cadence-13": {
-      "date": "2026-07-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/mozaik-4": {
-      "date": "2026-07-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/nixmac": {
-      "date": "2026-07-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/stanley-studio": {
-      "date": "2026-07-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/edgee": {
-      "date": "2026-07-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/anysearch": {
-      "date": "2026-07-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/sunrise-5": {
-      "date": "2026-07-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/typeahead": {
-      "date": "2026-07-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/codemote-remote-control-for-any-ai": {
-      "date": "2026-07-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/airkaren": {
-      "date": "2026-07-06",
-      "source": "producthunt"
-    },
-    "https://www.producthunt.com/products/octolens-ai": {
-      "date": "2026-07-06",
-      "source": "producthunt"
-    },
-    "https://www.bbc.com/news/articles/c0ry4xx7rk8o": {
-      "date": "2026-07-06",
-      "source": "hackernews"
-    },
     "https://news.ycombinator.com/item?id=48806976": {
       "date": "2026-07-07",
       "source": "hackernews"
@@ -6951,7 +6887,23 @@
     "https://www.producthunt.com/products/opensend-cc": {
       "date": "2026-10-04",
       "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/octri": {
+      "date": "2026-10-05",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/flexchords": {
+      "date": "2026-10-05",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/eat-train-feel": {
+      "date": "2026-10-05",
+      "source": "producthunt"
+    },
+    "https://www.producthunt.com/products/tinyfolder": {
+      "date": "2026-10-05",
+      "source": "producthunt"
     }
   },
-  "lastRun": "2026-10-04T16:32:06.971Z"
+  "lastRun": "2026-10-05T03:51:19.737Z"
 }
