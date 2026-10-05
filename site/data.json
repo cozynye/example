@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-10-05T03:51:19.776Z",
+  "buildTime": "2026-10-05T14:16:45.208Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W41.md",
     "title": "2026-W41 주간 로그",
-    "content": "# 2026-W41 주간 로그\n\n\n## 자동 수집 (2026-10-05 PM 12:51:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n"
+    "content": "# 2026-W41 주간 로그\n\n\n## 자동 수집 (2026-10-05 PM 12:51:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-10-05 PM 11:16:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n"
   },
   "collected": [
     {
@@ -1121,6 +1121,16 @@
       "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
       "score": 56,
       "comments": 20,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "hackernews",
+      "title": "First Implantable Cochlear Implant Launches",
+      "url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
+      "score": 38,
+      "comments": 34,
       "subreddit": null,
       "description": ""
     },
@@ -1219,6 +1229,156 @@
       "source": "producthunt",
       "title": "TinyFolder",
       "url": "https://www.producthunt.com/products/tinyfolder",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Jarq",
+      "url": "https://www.producthunt.com/products/jarq",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Reviu",
+      "url": "https://www.producthunt.com/products/reviu",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Invofox Self Serve",
+      "url": "https://www.producthunt.com/products/invofox",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Marv",
+      "url": "https://www.producthunt.com/products/marv-3",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Unscary AI",
+      "url": "https://www.producthunt.com/products/unscary-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Bentomux",
+      "url": "https://www.producthunt.com/products/bentomux",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Web Search API",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Reason",
+      "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "devpit",
+      "url": "https://www.producthunt.com/products/devpit",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Netra",
+      "url": "https://www.producthunt.com/products/netra",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "crosswalk",
+      "url": "https://www.producthunt.com/products/crosswalk",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Oogwai Beacon",
+      "url": "https://www.producthunt.com/products/oogwai-beacon",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Pilot5 Legal",
+      "url": "https://www.producthunt.com/products/pilot5-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "CirclePanel",
+      "url": "https://www.producthunt.com/products/circle-panel",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "iLand",
+      "url": "https://www.producthunt.com/products/iland",
       "score": 0,
       "comments": 0,
       "subreddit": null,
