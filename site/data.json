@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-10-05T14:16:45.208Z",
+  "buildTime": "2026-10-05T20:17:34.404Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W41.md",
     "title": "2026-W41 주간 로그",
-    "content": "# 2026-W41 주간 로그\n\n\n## 자동 수집 (2026-10-05 PM 12:51:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-10-05 PM 11:16:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n"
+    "content": "# 2026-W41 주간 로그\n\n\n## 자동 수집 (2026-10-05 PM 12:51:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-10-05 PM 11:16:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-10-05 AM 5:17:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n"
   },
   "collected": [
     {
@@ -1379,6 +1379,66 @@
       "source": "producthunt",
       "title": "iLand",
       "url": "https://www.producthunt.com/products/iland",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "DailyHelm",
+      "url": "https://www.producthunt.com/products/dailyhelm",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Opengeni",
+      "url": "https://www.producthunt.com/products/opengeni",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "FastRouter.ai",
+      "url": "https://www.producthunt.com/products/fastrouter-ai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "HyperFrames Studio (Desktop)",
+      "url": "https://www.producthunt.com/products/heygen",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Xtracticle",
+      "url": "https://www.producthunt.com/products/xtracticle",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-05",
+      "source": "producthunt",
+      "title": "Dots UI",
+      "url": "https://www.producthunt.com/products/dots-ui",
       "score": 0,
       "comments": 0,
       "subreddit": null,

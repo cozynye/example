@@ -80,3 +80,27 @@
 - **URL**: https://www.producthunt.com/products/iland
 - **Source**: producthunt
 
+## DailyHelm
+- **URL**: https://www.producthunt.com/products/dailyhelm
+- **Source**: producthunt
+
+## Opengeni
+- **URL**: https://www.producthunt.com/products/opengeni
+- **Source**: producthunt
+
+## FastRouter.ai
+- **URL**: https://www.producthunt.com/products/fastrouter-ai
+- **Source**: producthunt
+
+## HyperFrames Studio (Desktop)
+- **URL**: https://www.producthunt.com/products/heygen
+- **Source**: producthunt
+
+## Xtracticle
+- **URL**: https://www.producthunt.com/products/xtracticle
+- **Source**: producthunt
+
+## Dots UI
+- **URL**: https://www.producthunt.com/products/dots-ui
+- **Source**: producthunt
+
