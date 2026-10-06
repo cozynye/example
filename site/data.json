@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-10-05T20:17:34.404Z",
+  "buildTime": "2026-10-06T04:39:20.811Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W41.md",
     "title": "2026-W41 주간 로그",
-    "content": "# 2026-W41 주간 로그\n\n\n## 자동 수집 (2026-10-05 PM 12:51:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-10-05 PM 11:16:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-10-05 AM 5:17:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n"
+    "content": "# 2026-W41 주간 로그\n\n\n## 자동 수집 (2026-10-05 PM 12:51:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-10-05 PM 11:16:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-10-05 AM 5:17:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-10-06 PM 1:39:20)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **5** |\n\n"
   },
   "collected": [
     {
@@ -1105,12 +1105,32 @@
       "description": ""
     },
     {
+      "date": "2026-10-06",
+      "source": "hackernews",
+      "title": "Example.com just launched the biggest redesign in decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "score": 128,
+      "comments": 76,
+      "subreddit": null,
+      "description": ""
+    },
+    {
       "date": "2026-10-03",
       "source": "hackernews",
       "title": "Every SaaS business will become a harness around a model",
       "url": "https://blog.sshh.io/p/the-harness-is-the-company",
       "score": 114,
       "comments": 84,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "hackernews",
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "score": 100,
+      "comments": 41,
       "subreddit": null,
       "description": ""
     },
@@ -1135,12 +1155,12 @@
       "description": ""
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-10-06",
       "source": "hackernews",
-      "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
-      "url": "https://www.startup-nights.ch/event/",
-      "score": 28,
-      "comments": 11,
+      "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
+      "url": "https://almostimplemented.github.io/jazz-pianist-style/",
+      "score": 37,
+      "comments": 7,
       "subreddit": null,
       "description": ""
     },
@@ -1165,16 +1185,6 @@
       "description": ""
     },
     {
-      "date": "2026-09-29",
-      "source": "hackernews",
-      "title": "Profit Margins of the Largest Companies",
-      "url": "https://www.visualcapitalist.com/ranked-how-profitable-are-the-worlds-largest-companies/",
-      "score": 9,
-      "comments": 2,
-      "subreddit": null,
-      "description": ""
-    },
-    {
       "date": "2026-10-04",
       "source": "hackernews",
       "title": "AI can clone your indie game, but not its soul",
@@ -1190,6 +1200,26 @@
       "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
       "url": "https://github.com/magnitudedev/magnitude",
       "score": 3,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "Reactive Resume v6",
+      "url": "https://www.producthunt.com/products/reactive-resume",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "SpeechShield",
+      "url": "https://www.producthunt.com/products/speechshield",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
@@ -2719,226 +2749,6 @@
       "source": "producthunt",
       "title": "Evlat",
       "url": "https://www.producthunt.com/products/evlat",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "ShipHappens:",
-      "url": "https://www.producthunt.com/products/ship-happens-automate-asc-localization",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Declutr",
-      "url": "https://www.producthunt.com/products/declutr",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "ColdIQ x Slack",
-      "url": "https://www.producthunt.com/products/coldiq-x-slack",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "LUCI Desktop",
-      "url": "https://www.producthunt.com/products/luci-desktop",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Jotform Sign for ChatGPT and Claude",
-      "url": "https://www.producthunt.com/products/jotform",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Enter Space 7",
-      "url": "https://www.producthunt.com/products/enter-space",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "GhostDeck",
-      "url": "https://www.producthunt.com/products/ghostdeck-retro-music-player",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Timeful",
-      "url": "https://www.producthunt.com/products/timeful",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Codex Remote",
-      "url": "https://www.producthunt.com/products/codex-remote",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "FFFFinder",
-      "url": "https://www.producthunt.com/products/ffffinder",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "ZenABM - Create LinkedIn Ads with AI",
-      "url": "https://www.producthunt.com/products/zena-by-zenabm-linkedin-ads-ai-chatbot",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "ooon.ai",
-      "url": "https://www.producthunt.com/products/ooon-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Arsaze",
-      "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Gladys Assistant 5",
-      "url": "https://www.producthunt.com/products/gladys-assistant",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Flotnote",
-      "url": "https://www.producthunt.com/products/flotnote",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Would you pay?",
-      "url": "https://www.producthunt.com/products/would-you-pay",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Iris",
-      "url": "https://www.producthunt.com/products/ihermes",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Szept",
-      "url": "https://www.producthunt.com/products/szept",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Paste 7",
-      "url": "https://www.producthunt.com/products/paste",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Clink",
-      "url": "https://www.producthunt.com/products/clink-custom-keyboards",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "Timeless Code",
-      "url": "https://www.producthunt.com/products/timeos",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-29",
-      "source": "producthunt",
-      "title": "GroupShelf",
-      "url": "https://www.producthunt.com/products/groupshelf",
       "score": 0,
       "comments": 0,
       "subreddit": null,
