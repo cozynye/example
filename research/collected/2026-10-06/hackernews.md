@@ -19,3 +19,8 @@
 - **Score**: 37 | **Comments**: 7
 - **Source**: hackernews
 
+## Using A.I. and machine learning to decode communication of sperm whales
+- **URL**: https://blue-continuum.com/the-man-who-listens-to-whales
+- **Score**: 50 | **Comments**: 31
+- **Source**: hackernews
+

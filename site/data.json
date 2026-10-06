@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-10-06T04:39:20.811Z",
+  "buildTime": "2026-10-06T13:09:53.397Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W41.md",
     "title": "2026-W41 주간 로그",
-    "content": "# 2026-W41 주간 로그\n\n\n## 자동 수집 (2026-10-05 PM 12:51:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-10-05 PM 11:16:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-10-05 AM 5:17:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-10-06 PM 1:39:20)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **5** |\n\n"
+    "content": "# 2026-W41 주간 로그\n\n\n## 자동 수집 (2026-10-05 PM 12:51:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-10-05 PM 11:16:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-10-05 AM 5:17:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-10-06 PM 1:39:20)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **5** |\n\n\n## 자동 수집 (2026-10-06 PM 10:09:53)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **15** |\n\n"
   },
   "collected": [
     {
@@ -1141,6 +1141,16 @@
       "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
       "score": 56,
       "comments": 20,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "hackernews",
+      "title": "Using A.I. and machine learning to decode communication of sperm whales",
+      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
+      "score": 50,
+      "comments": 31,
       "subreddit": null,
       "description": ""
     },
@@ -1219,6 +1229,146 @@
       "source": "producthunt",
       "title": "SpeechShield",
       "url": "https://www.producthunt.com/products/speechshield",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "Rill Browser",
+      "url": "https://www.producthunt.com/products/rill-3",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "iphone-use",
+      "url": "https://www.producthunt.com/products/iphone-use",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "Incredible",
+      "url": "https://www.producthunt.com/products/incredible",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "Extrovert",
+      "url": "https://www.producthunt.com/products/extrovert",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "GeckIt",
+      "url": "https://www.producthunt.com/products/geckit",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "Patchcord",
+      "url": "https://www.producthunt.com/products/patchcord-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "Notch Radio",
+      "url": "https://www.producthunt.com/products/notch-radio",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "Appto",
+      "url": "https://www.producthunt.com/products/appto",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "EasyCut",
+      "url": "https://www.producthunt.com/products/easycut-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "Review",
+      "url": "https://www.producthunt.com/products/review-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "Scumble",
+      "url": "https://www.producthunt.com/products/scumble",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "Ari Helper 7",
+      "url": "https://www.producthunt.com/products/ari-helper",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "StayCharted",
+      "url": "https://www.producthunt.com/products/staycharted",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-06",
+      "source": "producthunt",
+      "title": "Brnch",
+      "url": "https://www.producthunt.com/products/brnch",
       "score": 0,
       "comments": 0,
       "subreddit": null,
