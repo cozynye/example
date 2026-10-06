@@ -68,3 +68,35 @@
 - **URL**: https://www.producthunt.com/products/brnch
 - **Source**: producthunt
 
+## Ghostifier
+- **URL**: https://www.producthunt.com/products/ghostifier
+- **Source**: producthunt
+
+## AUDR by Chargebee
+- **URL**: https://www.producthunt.com/products/chargebee
+- **Source**: producthunt
+
+## Chunk
+- **URL**: https://www.producthunt.com/products/chunk-2
+- **Source**: producthunt
+
+## Customer Service AI for Etsy
+- **URL**: https://www.producthunt.com/products/customer-service-ai-for-etsy
+- **Source**: producthunt
+
+## ruOS
+- **URL**: https://www.producthunt.com/products/ruos
+- **Source**: producthunt
+
+## MeetNote
+- **URL**: https://www.producthunt.com/products/meetnote-3
+- **Source**: producthunt
+
+## Haptiker
+- **URL**: https://www.producthunt.com/products/haptiker
+- **Source**: producthunt
+
+## The Sentient World
+- **URL**: https://www.producthunt.com/products/the-sentient-world
+- **Source**: producthunt
+
