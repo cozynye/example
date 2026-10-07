@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-10-06T18:00:46.647Z",
+  "buildTime": "2026-10-07T04:05:13.564Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W41.md",
     "title": "2026-W41 주간 로그",
-    "content": "# 2026-W41 주간 로그\n\n\n## 자동 수집 (2026-10-05 PM 12:51:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-10-05 PM 11:16:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-10-05 AM 5:17:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-10-06 PM 1:39:20)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **5** |\n\n\n## 자동 수집 (2026-10-06 PM 10:09:53)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-10-06 AM 3:00:46)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **8** |\n\n"
+    "content": "# 2026-W41 주간 로그\n\n\n## 자동 수집 (2026-10-05 PM 12:51:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-10-05 PM 11:16:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-10-05 AM 5:17:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-10-06 PM 1:39:20)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **5** |\n\n\n## 자동 수집 (2026-10-06 PM 10:09:53)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-10-06 AM 3:00:46)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **8** |\n\n\n## 자동 수집 (2026-10-07 PM 1:05:13)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n"
   },
   "collected": [
     {
@@ -1205,11 +1205,61 @@
       "description": ""
     },
     {
-      "date": "2026-09-30",
-      "source": "hackernews",
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "score": 3,
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "OpenBot",
+      "url": "https://www.producthunt.com/products/openbot-3",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Fuse AI",
+      "url": "https://www.producthunt.com/products/fuseai",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Banger",
+      "url": "https://www.producthunt.com/products/banger-mail",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "NoteWorthy",
+      "url": "https://www.producthunt.com/products/noteworthy",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Coddy",
+      "url": "https://www.producthunt.com/products/coddy",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Doco",
+      "url": "https://www.producthunt.com/products/doco-4",
+      "score": 0,
       "comments": 0,
       "subreddit": null,
       "description": ""
@@ -2679,306 +2729,6 @@
       "source": "producthunt",
       "title": "Vorker",
       "url": "https://www.producthunt.com/products/vorker-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Semos.ai Manager Agents",
-      "url": "https://www.producthunt.com/products/semos-ai-manager-agents",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "iFixAi",
-      "url": "https://www.producthunt.com/products/ifixai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Supertake",
-      "url": "https://www.producthunt.com/products/supertake",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Curie",
-      "url": "https://www.producthunt.com/products/curie-4",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Hopscotch AI",
-      "url": "https://www.producthunt.com/products/hopscotch-7",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Engine Room Media",
-      "url": "https://www.producthunt.com/products/engine-room-media",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "GitBot",
-      "url": "https://www.producthunt.com/products/gitbot-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "RxFilmStudio",
-      "url": "https://www.producthunt.com/products/rxfilmstudio",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Pexo",
-      "url": "https://www.producthunt.com/products/pexo-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "NotchDodo",
-      "url": "https://www.producthunt.com/products/notchdodo",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "CrawlRaven MCP",
-      "url": "https://www.producthunt.com/products/crawlraven-mcp",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "OpenShip",
-      "url": "https://www.producthunt.com/products/openship-2",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Speek",
-      "url": "https://www.producthunt.com/products/speek-3",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "getcta.store",
-      "url": "https://www.producthunt.com/products/getcta-store",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Voice Memo",
-      "url": "https://www.producthunt.com/products/voice-memo",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "WebinarFlow",
-      "url": "https://www.producthunt.com/products/webinarflow",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Upsolve Data Models",
-      "url": "https://www.producthunt.com/products/upsolve-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Flocker Agent Profiles",
-      "url": "https://www.producthunt.com/products/flocker-agent-profiles",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Ship It: Idle Dev Tycoon",
-      "url": "https://www.producthunt.com/products/ship-it-idle-dev-tycoon",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Squint",
-      "url": "https://www.producthunt.com/products/squint",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Bevell",
-      "url": "https://www.producthunt.com/products/bevell",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Overpath",
-      "url": "https://www.producthunt.com/products/overpath-ai",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Agent Identity",
-      "url": "https://www.producthunt.com/products/agent-identity",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "jambuild",
-      "url": "https://www.producthunt.com/products/jambuild",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Ace from Automat Workforce",
-      "url": "https://www.producthunt.com/products/ace-from-automat-workforce",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Bruto",
-      "url": "https://www.producthunt.com/products/bruto",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "m’kay",
-      "url": "https://www.producthunt.com/products/m-kay",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "CoIsland",
-      "url": "https://www.producthunt.com/products/coisland",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Autonomyware",
-      "url": "https://www.producthunt.com/products/autonomyware",
-      "score": 0,
-      "comments": 0,
-      "subreddit": null,
-      "description": ""
-    },
-    {
-      "date": "2026-09-30",
-      "source": "producthunt",
-      "title": "Evlat",
-      "url": "https://www.producthunt.com/products/evlat",
       "score": 0,
       "comments": 0,
       "subreddit": null,
