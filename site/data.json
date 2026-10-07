@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-10-07T04:05:13.564Z",
+  "buildTime": "2026-10-07T13:05:30.507Z",
   "ideas": [
     {
       "file": "ideas/industry-website-service.md",
@@ -1091,7 +1091,7 @@
   "latestLog": {
     "file": "logs/2026-W41.md",
     "title": "2026-W41 주간 로그",
-    "content": "# 2026-W41 주간 로그\n\n\n## 자동 수집 (2026-10-05 PM 12:51:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-10-05 PM 11:16:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-10-05 AM 5:17:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-10-06 PM 1:39:20)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **5** |\n\n\n## 자동 수집 (2026-10-06 PM 10:09:53)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-10-06 AM 3:00:46)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **8** |\n\n\n## 자동 수집 (2026-10-07 PM 1:05:13)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n"
+    "content": "# 2026-W41 주간 로그\n\n\n## 자동 수집 (2026-10-05 PM 12:51:19)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 4 |\n| **합계** | **4** |\n\n\n## 자동 수집 (2026-10-05 PM 11:16:45)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 15 |\n| **합계** | **16** |\n\n\n## 자동 수집 (2026-10-05 AM 5:17:34)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-10-06 PM 1:39:20)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 3 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 2 |\n| **합계** | **5** |\n\n\n## 자동 수집 (2026-10-06 PM 10:09:53)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 14 |\n| **합계** | **15** |\n\n\n## 자동 수집 (2026-10-06 AM 3:00:46)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 8 |\n| **합계** | **8** |\n\n\n## 자동 수집 (2026-10-07 PM 1:05:13)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 0 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 6 |\n| **합계** | **6** |\n\n\n## 자동 수집 (2026-10-07 PM 10:05:30)\n\n| 소스 | 새 항목 |\n|------|--------|\n| hackernews | 1 |\n| reddit | 0 |\n| indiehackers | 0 |\n| producthunt | 12 |\n| **합계** | **13** |\n\n"
   },
   "collected": [
     {
@@ -1101,6 +1101,16 @@
       "url": "https://notoriousbfg.com/hole-punch/",
       "score": 253,
       "comments": 62,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "hackernews",
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "score": 128,
+      "comments": 60,
       "subreddit": null,
       "description": ""
     },
@@ -1259,6 +1269,126 @@
       "source": "producthunt",
       "title": "Doco",
       "url": "https://www.producthunt.com/products/doco-4",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Ana by Vertice",
+      "url": "https://www.producthunt.com/products/ana-by-vertice",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Databench by Alkera",
+      "url": "https://www.producthunt.com/products/alkera",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Velozity",
+      "url": "https://www.producthunt.com/products/velozity-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Figma Agent",
+      "url": "https://www.producthunt.com/products/figma",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Aura by Neural",
+      "url": "https://www.producthunt.com/products/aura-by-neural",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Introducing Video Editor in Manus 2.0",
+      "url": "https://www.producthunt.com/products/manus",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "DevAlly AI Agent",
+      "url": "https://www.producthunt.com/products/devally",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Ownfeed",
+      "url": "https://www.producthunt.com/products/ownfeed",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Temp Mail",
+      "url": "https://www.producthunt.com/products/temp-mail-370",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Knuff App",
+      "url": "https://www.producthunt.com/products/knuff-app",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Wabi",
+      "url": "https://www.producthunt.com/products/wabi-2",
+      "score": 0,
+      "comments": 0,
+      "subreddit": null,
+      "description": ""
+    },
+    {
+      "date": "2026-10-07",
+      "source": "producthunt",
+      "title": "Kitbar",
+      "url": "https://www.producthunt.com/products/kitbar",
       "score": 0,
       "comments": 0,
       "subreddit": null,
