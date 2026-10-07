@@ -76,3 +76,39 @@
 - **URL**: https://www.producthunt.com/products/kitbar
 - **Source**: producthunt
 
+## IrisGo for Solopreneurs
+- **URL**: https://www.producthunt.com/products/irisgo-public-beta
+- **Source**: producthunt
+
+## Rool
+- **URL**: https://www.producthunt.com/products/rool
+- **Source**: producthunt
+
+## Vanoor
+- **URL**: https://www.producthunt.com/products/vanoor-running-pacer-map
+- **Source**: producthunt
+
+## Rhem Labs
+- **URL**: https://www.producthunt.com/products/rhem-labs
+- **Source**: producthunt
+
+## Supademo AI Demo Agent
+- **URL**: https://www.producthunt.com/products/supademo
+- **Source**: producthunt
+
+## Flowo
+- **URL**: https://www.producthunt.com/products/flowo-2
+- **Source**: producthunt
+
+## Lofi Desk 2.0
+- **URL**: https://www.producthunt.com/products/lofi-desk-focus-relax-beats
+- **Source**: producthunt
+
+## Plugins Radar
+- **URL**: https://www.producthunt.com/products/plugins-radar
+- **Source**: producthunt
+
+## Zavi
+- **URL**: https://www.producthunt.com/products/zavi
+- **Source**: producthunt
+
