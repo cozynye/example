@@ -8,11 +8,11 @@ on:
         description: '추가 키워드 (쉼표 구분, 선택)'
         required: false
 
-  # 하루 3회 자동 실행
-  schedule:
-    - cron: '0 0 * * *'   # UTC 00:00 = KST 09:00 (아침)
-    - cron: '0 6 * * *'   # UTC 06:00 = KST 15:00 (오후)
-    - cron: '0 12 * * *'  # UTC 12:00 = KST 21:00 (저녁)
+  # 자동 실행 비활성화
+  # schedule:
+  #   - cron: '0 0 * * *'   # UTC 00:00 = KST 09:00 (아침)
+  #   - cron: '0 6 * * *'   # UTC 06:00 = KST 15:00 (오후)
+  #   - cron: '0 12 * * *'  # UTC 12:00 = KST 21:00 (저녁)
 
 permissions:
   contents: write
